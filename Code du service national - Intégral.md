@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1978-10-22
+Version Consolidée au 1979-01-19
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -5776,6 +5776,38 @@ _Cite_:
   - Code du service national - art. R110 (M)
 
 
+###### Article R115
+
+Les allocations prévues aux articles R. 111 à R. 114 sont attribuées sur proposition d'une commission par le ministre chargé
+des armées ou par l'autorité régionale qu'il habilite à cet effet par arr^eté.
+
+Elles sont versées par la caisse nationale militaire de sécurité sociale dans les écritures de laquelle est créé, à cet
+effet, un compte particulier alimenté par une subvention de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-183 1972-03-06
+
+_Modifié par_:
+
+  - Décret n°79-47 1979-01-10 art. 1 JORF 19 janvier 1979
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+  - Code du service national - art. R121 (M)
+
+_Cite_:
+
+  - Code du service national R111 à R114
+
+
 ###### Article R119
 
 L'allocation en capital prévue à l'article R. 114 est égale à quatre-vingt-dix fois la solde journalière de base.
@@ -5801,6 +5833,49 @@ _Cite_:
 _Abrogé par_:
 
   - Décret n°89-926 1989-02-15 art. 1 JORF 27 septembre 1989
+
+
+###### Article R121
+
+La commission prévue à l'article R. 115 est composée ainsi qu'il suit :
+
+Un représentant du ministre chargé des armées ;
+
+Un médecin des armées en fonctions à la caisse nationale militaire de la sécurité sociale ;
+
+Un médecin des armées ;
+
+Un intendant militaire ou un commissaire de la marine ou un commissaire de l'air ;
+
+Un représentant du service de l'action sociale des armées.
+
+L'officier le plus ancien en grade préside la commission ; sa voix est prépondérante en cas de partage des voix.
+
+Les membres de la commission et leurs suppléants sont désignés par le ministre chargé des armées.
+
+Le contr^oleur financier ou son représentant peut participer aux séances avec voix consultative.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-183 1972-03-06
+
+_Modifié par_:
+
+  - Décret n°79-47 1979-01-10 art. 2 JORF 19 janvier 1979
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. R115 (M)
 
 
 ###### Article R122
