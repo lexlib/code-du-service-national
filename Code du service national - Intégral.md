@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1974-09-04
+Version Consolidée au 1975-09-02
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -87,10 +87,10 @@ Version Consolidée au 1974-09-04
           - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#84)
           - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#85)
           - [PARAGRAPHE 4 : Permissions. (art. R212 à R217)](#86)
-          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R219)](#87)
+          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#87)
           - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#88)
           - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#89)
-        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224)](#90)
+        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#90)
         - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#91)
     - [TITRE IV : Service féminin. (art. R*235 à R*238)](#92)
 # Partie législative<a id=1></a>
@@ -4341,6 +4341,46 @@ _Cite_:
   - Code du service national - art. R78 (Ab)
 
 
+###### Article R83
+
+Les jeunes gens visés à l'article R. 78 [*objecteurs de conscience*] ne doivent participer à aucune activite ou réunion à
+caractère politique ou syndical [*interdiction*].
+
+Ils doivent [*obligation*] obtenir l'autorisation du ministre [*de l'agriculture*] [*autorité compétente*] lorsqu'ils
+désirent évoquer publiquement des questions politiques ou mettant en cause une puissance étrangère ou une organisation
+internationale.
+
+Toutefois, et sous-réserve des inéligibilités prévues par la loi, ces jeunes gens peuvent être candidats à toute fonction
+publique élective. En ce cas, les dispositions figurant aux deux premiers alinéas du présent article ne leur sont pas
+opposables et l'interdiction d'adhésion à un parti politique est suspendue pour la durée de la campagne électorale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-805 1972-08-17 art. 7
+
+_Abrogé par_:
+
+  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. R78 (Ab)
+
+_Modifié par_:
+
+  - Décret n°75-807 1975-08-29 art. 1 JORF 2 septembre 1975
+
+
 ###### Article R84
 
 Toute réclamation collective ou manifestation collective, toute cessation concertée du travail sont interdites.
@@ -7200,6 +7240,34 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
+###### Article R220
+
+En cas d'hospitalisation hors de France, l'indemnité forfaitaire est ramenée à 25 p. 100 de son montant dans le département,
+le territoire ou l'Etat de séjour.
+
+En cas d'hospitalisation en métropole, cette indemnité est égale à 15 p. 100 du taux de base minimum.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-210 1967-03-10 art. 22
+  - Décret n°67-209 1967-03-10 art. 22
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+  - Code du service national - art. R227 (V)
+
+_Modifié par_:
+
+  - Décret n°75-807 1975-08-29 art. 2 JORF 2 septembre 1975
+
+
 ##### PARAGRAPHE 6 : Inaptitude physique.<a id=88></a>
 
 ###### Article R221
@@ -7304,6 +7372,32 @@ _Cité par_:
 _Cite_:
 
   - Code du service national - art. R206 (M)
+
+
+###### Article R225
+
+Lorsqu'ils sont en France en instance de départ, les intéressés reçoivent une indemnité forfaitaire égale à 50 p. 100 du taux
+de base minimum. Lorsqu'ils sont en permission normale ou en permission de convalescence en tant que rapatriés sanitaires,
+soit dans un Etat étranger, soit en métropole, ils reçoivent une indemnité forfaitaire égale à 15 p. 100 du taux de base
+minimum.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-209 1967-03-10 art. 11
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Modifié par_:
+
+  - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
 
 
 #### SECTION III : Dispositions particulières au service de la coopération.<a id=91></a>
