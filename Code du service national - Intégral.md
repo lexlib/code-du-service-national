@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1982-12-31
+Version Consolidée au 1983-03-27
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -48,8 +48,8 @@ Version Consolidée au 1982-12-31
       - [CHAPITRE I : Dispositions générales (art. R*1 à R22)](#45)
         - [SECTION I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#46)
           - [PARAGRAPHE 1 : Appel avancé. (art. R*1 à R4)](#47)
-          - [PARAGRAPHE 2 : Report d'incorporation. (art. R*9-1 à R9)](#48)
-          - [PARAGRAPHE 3 : Dispositions communes. (art. R*12)](#49)
+          - [PARAGRAPHE 2 : Report d'incorporation. (art. R*8-2 à R9)](#48)
+          - [PARAGRAPHE 3 : Dispositions communes. (art. R*11 à R*12)](#49)
         - [SECTION II : Composition et appel du contingent. (art. R*16 à R22)](#50)
     - [TITRE II : Dispositions communes aux différentes formes du service national (art. R*29 à R*109)](#51)
       - [CHAPITRE I : Recensement  - sélection (art. R*29 à R*50)](#52)
@@ -3247,6 +3247,25 @@ _Cite_:
 
 ##### PARAGRAPHE 2 : Report d'incorporation.<a id=48></a>
 
+###### Article R*8-2
+
+Le report supplémentaire prévu au premier alinéa de l'article L. 5 bis et ses prolongations éventuelles ainsi que le report
+spécial prévu à l'article L. 10 sont accordés par le ministre chargé des armées qui peut, par arr^eté, déléguer son pouvoir
+de décision aux commandants de régions militaires, aux directeurs régionaux du service national ou aux commandants de bureau
+du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L10 (M)
+  - Code du service national - art. L5 bis (M)
+
+
 ###### Article R*9-1
 
 Les cycles de formation professionnelle pouvant faire bénéficier du report supplémentaire d'incorporation prévu à l'article
@@ -3397,6 +3416,34 @@ _Cite_:
 
 
 ##### PARAGRAPHE 3 : Dispositions communes.<a id=49></a>
+
+###### Article R*11
+
+Les jeunes gens visés aux articles R.[* 1 et R.*] 10 sont appelés au service actif à la date qu'ils ont demandée. Toutefois,
+si la composition et le fractionnement du contingent le nécessitent, leur appel ainsi que celui des jeunes gens dont le
+report arrive à échéance peuvent ^etre décalés à la fraction de contingent suivante en ce qui concerne les jeunes gens visés
+à l'article R.[* 1 et à l'une des trois fractions suivantes pour ceux visés à l'article R.*] 10, s'ils ont atteint l'^age de
+vingt ans. Pour une m^eme fraction de contingent, ce décalage est effectué en fonction des dates de dép^ot des demandes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°70-1343 1970-12-23 art. 2
+  - Décret n°70-1345 1970-12-23 art. 6
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national R10, R1
+
 
 ###### Article R*12
 
