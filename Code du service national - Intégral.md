@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1989-04-07
+Version Consolidée au 1989-09-27
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -7160,9 +7160,44 @@ _Cite_:
   - Code du service national R111 à R114
 
 
-###### Article R119
+###### Article R117
 
-L'allocation en capital prévue à l'article R. 114 est égale à quatre-vingt-dix fois la solde journalière de base.
+L'allocation d'invalidité visée au 2° de l'article R. 112 est égale au montant minimum de la pension d'invalidité prévue aux
+articles L. 341-1 et L. 341-5 du code de la sécurité sociale.
+
+Pour des invalides qui, étant incapables d'exercer une activité, sont en outre dans l'obligation d'avoir recours à
+l'assistance d'une tierce personne pour effectuer les actes de la vie ordinaire, cette allocation est augmentée du montant
+minimum fixé pour la majoration pour aide d'une tierce personne du régime général de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-183 1972-03-06
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. R112 (M)
+  - Code de la sécurité sociale. - art. L341-1 (V)
+  - Code de la sécurité sociale. - art. L341-5 (V)
+
+_Modifié par_:
+
+  - Décret n°89-926 1989-02-15 art. 1 JORF 27 septembre 1989
+
+
+###### Article R118
+
+L'allocation en capital visée à l'article R. 114 est égale à quatre-vingt-dix fois la solde journalière du caporal engagé,
+échelle de solde n° 2, percevant une solde forfaitaire, augmentée du montant forfaitaire des avantages en nature.
 
 **Liens relatifs à cet article**
 
@@ -7182,7 +7217,7 @@ _Cite_:
 
   - Code du service national - art. R114 (M)
 
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°89-926 1989-02-15 art. 1 JORF 27 septembre 1989
 
