@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1995-05-04
+Version Consolidée au 1995-08-12
 ## Contenu: 
   - [Partie législative (art. L1 à L159)](#1)
     - [LIVRE Ier (art. L1 à L115)](#2)
@@ -103,53 +103,42 @@ Version Consolidée au 1995-05-04
         - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#100)
         - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#101)
         - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#102)
-      - [CHAPITRE II bis : Service dans la police nationale (art. R*201-3 à R*201-20)](#103)
-        - [PARAGRAPHE 1 : Dispositions générales. (art. R*201-3)](#104)
-        - [PARAGRAPHE 1 : Affectation. (art. R*201-1 à R*201-2)](#105)
-        - [PARAGRAPHE 2 : Missions. (art. R*201-4)](#106)
-        - [PARAGRAPHE 3 : Hiérarchie - Avancement. (art. R*201-5)](#107)
-        - [PARAGRAPHE 4 : Permissions. (art. R*201-6 à R*201-8)](#108)
-        - [PARAGRAPHE 5 : Récompenses. (art. R*201-9)](#109)
-        - [PARAGRAPHE 6 : Indemnités - Hébergement et alimentation. (art. R*201-10 à R*201-11)](#110)
-        - [PARAGRAPHE 7 : Tenue. (art. R*201-12)](#111)
-        - [PARAGRAPHE 8 : Transports. (art. R*201-13)](#112)
-        - [PARAGRAPHE 9 : Soins. (art. R*201-14)](#113)
-        - [PARAGRAPHE 10 : Inaptitude physique. (art. R*201-15)](#114)
-        - [PARAGRAPHE 11 : Libération du service actif. (art. R*201-16 à R*201-18)](#115)
-        - [PARAGRAPHE 12 : Dispositions diverses. (art. R*201-19 à R*201-20)](#116)
-      - [CHAPITRE II TER : Service de sécurité civile (art. R*201-21 à R*201-49)](#117)
-        - [SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#118)
-          - [PARAGRAPHE 1 : Affectation. (art. R*201-21 à R*201-25)](#119)
-          - [PARAGRAPHE 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#120)
-          - [PARAGRAPHE 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#121)
-          - [PARAGRAPHE 4. (art. R*201-34 à R*201-35)](#122)
-        - [SECTION II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#123)
-          - [PARAGRAPHE 1 : Affectation. (art. R*201-36 à R*201-40)](#124)
-          - [PARAGRAPHE 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#125)
-          - [PARAGRAPHE 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#126)
-          - [PARAGRAPHE 4. (art. R*201-48 à R*201-49)](#127)
-      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#128)
-        - [SECTION I : Dispositions communes (art. R202 à R223)](#129)
-          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#130)
-          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#131)
-          - [PARAGRAPHE 3 : Discipline. (art. R210)](#132)
-          - [PARAGRAPHE 4 : Permissions. (art. R211 à R217)](#133)
-          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#134)
-          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#135)
-          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#136)
-        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#137)
-        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#138)
-      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#139)
-        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#140)
-        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#141)
-        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#142)
-        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#143)
-        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#144)
-        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#145)
-    - [TITRE IV : Service féminin. (art. R*228 à R*233-1)](#146)
-    - [TITRE V : Dispositions communes aux formes civiles du service national (art. R*234)](#147)
-  - [Annexes (art. ANNEXE I à ANNEXE II)](#148)
-    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#149)
+      - [CHAPITRE II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#103)
+        - [SECTION I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#104)
+        - [SECTION II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#105)
+      - [CHAPITRE II TER : Service de sécurité civile (art. R*201-21 à R*201-49)](#106)
+        - [SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#107)
+          - [PARAGRAPHE 1 : Affectation. (art. R*201-21 à R*201-25)](#108)
+          - [PARAGRAPHE 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#109)
+          - [PARAGRAPHE 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#110)
+          - [PARAGRAPHE 4. (art. R*201-34 à R*201-35)](#111)
+        - [SECTION II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#112)
+          - [PARAGRAPHE 1 : Affectation. (art. R*201-36 à R*201-40)](#113)
+          - [PARAGRAPHE 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#114)
+          - [PARAGRAPHE 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#115)
+          - [PARAGRAPHE 4. (art. R*201-48 à R*201-49)](#116)
+      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#117)
+        - [SECTION I : Dispositions communes (art. R202 à R223)](#118)
+          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#119)
+          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#120)
+          - [PARAGRAPHE 3 : Discipline. (art. R210)](#121)
+          - [PARAGRAPHE 4 : Permissions. (art. R211 à R217)](#122)
+          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#123)
+          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#124)
+          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#125)
+        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#126)
+        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#127)
+      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#128)
+        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#129)
+        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#130)
+        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#131)
+        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#132)
+        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#133)
+        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#134)
+    - [TITRE IV : Service féminin. (art. R*228 à R*233-1)](#135)
+    - [TITRE V : Dispositions communes aux formes civiles du service national (art. R*234)](#136)
+  - [Annexes (art. ANNEXE I à ANNEXE II)](#137)
+    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#138)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -12113,27 +12102,7 @@ _Cite_:
 
 ### CHAPITRE II bis : Service dans la police nationale<a id=103></a>
 
-#### PARAGRAPHE 1 : Dispositions générales.<a id=104></a>
-
-###### Article R*201-3
-
-Les appelés dont la candidature a été retenue par le ministre de l'intérieur effectuent un stage de formation spécialisé
-permettant leur emploi. Les modalités de cette formation sont définies par le ministre. Elle comporte notamment une
-information sur le sens du service national qu'ils effectuent et l'acquisition des notions indispensables sur la défense, la
-sécurité et les devoirs civiques de tout citoyen.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-
-#### PARAGRAPHE 1 : Affectation.<a id=105></a>
+#### SECTION I : Service actif dans la police nationale.<a id=104></a>
 
 ###### Article R*201-1
 
@@ -12145,7 +12114,7 @@ de policiers auxiliaires.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
@@ -12172,7 +12141,7 @@ contrôles de l'administration.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
@@ -12183,7 +12152,23 @@ _Cite_:
   - Code du service national - art. L6 (M)
 
 
-#### PARAGRAPHE 2 : Missions.<a id=106></a>
+###### Article R*201-3
+
+Les appelés dont la candidature a été retenue par le ministre de l'intérieur effectuent un stage de formation spécialisé
+permettant leur emploi. Les modalités de cette formation sont définies par le ministre. Elle comporte notamment une
+information sur le sens du service national qu'ils effectuent et l'acquisition des notions indispensables sur la défense, la
+sécurité et les devoirs civiques de tout citoyen.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
 
 ###### Article R*201-4
 
@@ -12204,14 +12189,12 @@ troupe.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 3 : Hiérarchie - Avancement.<a id=107></a>
 
 ###### Article R*201-5
 
@@ -12246,14 +12229,12 @@ de service actif dans son grade.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 4 : Permissions.<a id=108></a>
 
 ###### Article R*201-6
 
@@ -12269,7 +12250,7 @@ la limite de dix jours.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
@@ -12289,7 +12270,7 @@ ont une durée au plus égale à trente jours et sont renouvelables. Elles ne vi
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
@@ -12308,14 +12289,12 @@ leurs parents en qualité d'aide familial agricole.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 5 : Récompenses.<a id=109></a>
 
 ###### Article R*201-9
 
@@ -12337,14 +12316,12 @@ de leur attribution.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 6 : Indemnités - Hébergement et alimentation.<a id=110></a>
 
 ###### Article R*201-10
 
@@ -12359,7 +12336,7 @@ arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
@@ -12379,14 +12356,12 @@ transports liés au service.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 7 : Tenue.<a id=111></a>
 
 ###### Article R*201-12
 
@@ -12400,14 +12375,12 @@ Cette tenue réglementaire est fournie et entretenue à titre gratuit.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 8 : Transports.<a id=112></a>
 
 ###### Article R*201-13
 
@@ -12418,14 +12391,12 @@ des appelés au service militaire.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 9 : Soins.<a id=113></a>
 
 ###### Article R*201-14
 
@@ -12443,14 +12414,12 @@ en résultant sont à la charge du ministre de l'intérieur.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 10 : Inaptitude physique.<a id=114></a>
 
 ###### Article R*201-15
 
@@ -12461,7 +12430,7 @@ prévue à l'article L. 61 sont fixées par une instruction du ministre chargé 
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
@@ -12471,8 +12440,6 @@ _Cite_:
 
   - Code du service national - art. L61 (M)
 
-
-#### PARAGRAPHE 11 : Libération du service actif.<a id=115></a>
 
 ###### Article R*201-16
 
@@ -12484,7 +12451,7 @@ actif par le ministre de l'intérieur.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
@@ -12496,11 +12463,19 @@ _Codifié par_:
 Le décompte des services accomplis par les policiers auxiliaires est arrêté par le ministre de l'intérieur et enregistré sur
 les pièces matricules. Ces pièces sont adressées au bureau ou centre du service national dont ils relèvent.
 
+Pour les policiers auxiliaires de la disponibilité et de la réserve titulaires d'une affectation de réserve dans la police
+nationale, ces pièces sont adressées au secrétariat général pour l'administration de la police dans le ressort duquel ils
+sont domiciliés.
+
+A l'expiration de l'affectation de ces policiers auxiliaires dans la réserve de la police nationale, ces pièces, après mise à
+jour, sont adressées au bureau du service national.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
+  - Décret n°95-908 du 7 août 1995 - art. 2 () JORF 12 août 1995
 
 _Codifié par_:
 
@@ -12519,14 +12494,12 @@ les emplois tenus, leur durée et les qualifications professionnelles acquises.
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
-
-#### PARAGRAPHE 12 : Dispositions diverses.<a id=116></a>
 
 ###### Article R*201-19
 
@@ -12537,9 +12510,9 @@ répondent ni à leur ordre d'appel au service actif ni à leur ordre de route �
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
@@ -12561,20 +12534,167 @@ inspections compétentes du ministère de l'intérieur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 54 () JORF 3 décembre 1992
+  - Décret n°95-908 du 7 août 1995 - art. 1 () JORF 12 août 1995
 
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
 
 
-### CHAPITRE II TER : Service de sécurité civile<a id=117></a>
+#### SECTION II : Disponibilité et réserve dans la police nationale.<a id=105></a>
 
-#### SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=118></a>
+###### Article R*201-20-1
 
-##### PARAGRAPHE 1 : Affectation.<a id=119></a>
+Les policiers auxiliaires de la disponibilité et de la réserve titulaires d'une affectation de réserve dans la police
+nationale, lorsqu'ils sont rappelés en application des articles L. 94-10 et L. 94-13, participent à l'accomplissement des
+missions de défense civile confiées au ministre de l'intérieur par l'article 17 de l'ordonnance n° 59-147 du 7 janvier 1959
+et par l'article 1er du décret n° 65-28 du 13 janvier 1965 relatif à l'organisation de la défense civile.
+
+Ces policiers auxiliaires peuvent être également convoqués en application de l'article L. 94-14 pur des périodes d'exercice
+afin d'acquérir ou compléter une formation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°59-147 du 7 janvier 1959 - art. 17 (Ab)
+  - Décret n°65-28 du 13 janvier 1965 - art. 1 (Ab)
+  - Code du service national - art. L94-10 (M)
+  - Code du service national - art. L94-13 (M)
+  - Code du service national - art. L94-14 (M)
+
+_Créé par_:
+
+  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-20-2
+
+Le ministre de l'intérieur arrête les modalités de participation des policiers auxiliaires rappelés aux missions définies à
+l'article R.* 201-20-1, notamment à celles de sécurité générale, de protection des populations, de circulation routière de
+défense, de surveillance et de fermeture des frontières, de protection des points sensibles et de sécurité des bâtiments
+publics.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national R201-20-1
+
+
+###### Article R*201-20-3
+
+Les préfets responsables des secrétariats généraux pour l'administration de la police assurent la gestion et l'administration
+des policiers auxiliaires disponibles et réservistes titulaires d'une affectation de réserve dans la police nationale.
+
+Les policiers auxiliaires de la disponibilité et de la réserve titulaires d'une affectation de réserve dans la police
+nationale sont tenus de signaler leurs changements de lieu de résidence aux services du secrétariat général pour
+l'administration de la police dans le ressort duquel ils sont domiciliés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-20-4
+
+L'entraînement et l'instruction des policiers auxiliaires de la disponibilité et de la réserve titulaires d'une affectation
+de réserve dans la police nationale sont assurés par la police nationale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-20-5
+
+Le ministre de l'intérieur fixe chaque année le nombre et la durée des engagements spéciaux qui peuvent être souscrits en
+application des dispositions de l'article L. 94-14.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L94-14 (M)
+
+
+###### Article R*201-20-6
+
+La solde et les indemnités dues aux policiers auxiliaires titulaires d'un engagement spécial, ainsi qu'aux disponibles et
+réservistes rappelés ou convoqués pour des périodes d'exercice, sont identiques à celles perçues par les personnels
+militaires de grade équivalent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°95-908 du 7 août 1995 - art. 3 () JORF 12 août 1995
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-20-7
+
+Les dispositions des articles R.* 201-5, R.* 201-9, R.* 201-11, R.* 201-12, R.* 201-14, R.* 201-15, R.* 201-17, R.* 201-19 et
+R.* 201-20 sont applicables aux policiers auxiliaires disponibles et réservistes titulaires d'une affectation de réserve dans
+la police nationale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°95-908 1995-08-07 art. 7 JORF 12 août 1995
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
+
+
+### CHAPITRE II TER : Service de sécurité civile<a id=106></a>
+
+#### SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=107></a>
+
+##### PARAGRAPHE 1 : Affectation.<a id=108></a>
 
 ###### Article R*201-21
 
@@ -12694,7 +12814,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 2 : Missions - Obligations.<a id=120></a>
+##### PARAGRAPHE 2 : Missions - Obligations.<a id=109></a>
 
 ###### Article R*201-26
 
@@ -12736,7 +12856,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 3 : Hiérarchie - Avancement.<a id=121></a>
+##### PARAGRAPHE 3 : Hiérarchie - Avancement.<a id=110></a>
 
 ###### Article R*201-28
 
@@ -12852,7 +12972,7 @@ _Cite_:
   - Code du service national R201-29 à R201-31
 
 
-##### PARAGRAPHE 4.<a id=122></a>
+##### PARAGRAPHE 4.<a id=111></a>
 
 ###### Article R*201-34
 
@@ -12897,9 +13017,9 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-#### SECTION II : Service de sécurité civile en qualité de forestier auxiliaire<a id=123></a>
+#### SECTION II : Service de sécurité civile en qualité de forestier auxiliaire<a id=112></a>
 
-##### PARAGRAPHE 1 : Affectation.<a id=124></a>
+##### PARAGRAPHE 1 : Affectation.<a id=113></a>
 
 ###### Article R*201-36
 
@@ -13001,7 +13121,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 2 : Missions - Obligations.<a id=125></a>
+##### PARAGRAPHE 2 : Missions - Obligations.<a id=114></a>
 
 ###### Article R*201-41
 
@@ -13045,7 +13165,7 @@ _Cite_:
   - Code du service national R201-37
 
 
-##### PARAGRAPHE 3 : Hiérarchie - Avancement.<a id=126></a>
+##### PARAGRAPHE 3 : Hiérarchie - Avancement.<a id=115></a>
 
 ###### Article R*201-43
 
@@ -13147,7 +13267,7 @@ _Cite_:
   - Code du service national R201-44 à R201-46
 
 
-##### PARAGRAPHE 4.<a id=127></a>
+##### PARAGRAPHE 4.<a id=116></a>
 
 ###### Article R*201-48
 
@@ -13192,11 +13312,11 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=128></a>
+### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=117></a>
 
-#### SECTION I : Dispositions communes<a id=129></a>
+#### SECTION I : Dispositions communes<a id=118></a>
 
-##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=130></a>
+##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=119></a>
 
 ###### Article R202
 
@@ -13308,7 +13428,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Indemnités.<a id=131></a>
+##### PARAGRAPHE 2 : Indemnités.<a id=120></a>
 
 ###### Article R206
 
@@ -13461,7 +13581,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Discipline.<a id=132></a>
+##### PARAGRAPHE 3 : Discipline.<a id=121></a>
 
 ###### Article R210
 
@@ -13499,7 +13619,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Permissions.<a id=133></a>
+##### PARAGRAPHE 4 : Permissions.<a id=122></a>
 
 ###### Article R211
 
@@ -13682,7 +13802,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Soins médicaux.<a id=134></a>
+##### PARAGRAPHE 5 : Soins médicaux.<a id=123></a>
 
 ###### Article R218
 
@@ -13768,7 +13888,7 @@ _Cité par_:
   - Code du service national - art. R227 (V)
 
 
-##### PARAGRAPHE 6 : Inaptitude physique.<a id=135></a>
+##### PARAGRAPHE 6 : Inaptitude physique.<a id=124></a>
 
 ###### Article R221
 
@@ -13795,7 +13915,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### PARAGRAPHE 7 : Libération du service actif.<a id=136></a>
+##### PARAGRAPHE 7 : Libération du service actif.<a id=125></a>
 
 ###### Article R222
 
@@ -13856,7 +13976,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=137></a>
+#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=126></a>
 
 ###### Article R224
 
@@ -13908,7 +14028,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION III : Dispositions particulières au service de la coopération.<a id=138></a>
+#### SECTION III : Dispositions particulières au service de la coopération.<a id=127></a>
 
 ###### Article R226
 
@@ -13982,7 +14102,7 @@ _Cite_:
   - Code du service national - art. R220 (M)
 
 
-### CHAPITRE IV : Service des objecteurs de conscience.<a id=139></a>
+### CHAPITRE IV : Service des objecteurs de conscience.<a id=128></a>
 
 ###### Article R227-1
 
@@ -14007,7 +14127,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-#### PARAGRAPHE 1 : Rattachement et affectation.<a id=140></a>
+#### PARAGRAPHE 1 : Rattachement et affectation.<a id=129></a>
 
 ###### Article R227-2
 
@@ -14038,7 +14158,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-#### PARAGRAPHE 2 : Devoirs et obligations.<a id=141></a>
+#### PARAGRAPHE 2 : Devoirs et obligations.<a id=130></a>
 
 ###### Article R227-3
 
@@ -14065,7 +14185,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 3 : Discipline.<a id=142></a>
+#### PARAGRAPHE 3 : Discipline.<a id=131></a>
 
 ###### Article R227-4
 
@@ -14164,7 +14284,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 4 : Permissions.<a id=143></a>
+#### PARAGRAPHE 4 : Permissions.<a id=132></a>
 
 ###### Article R227-10
 
@@ -14262,7 +14382,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 5 : Habilitation des organismes.<a id=144></a>
+#### PARAGRAPHE 5 : Habilitation des organismes.<a id=133></a>
 
 ###### Article R227-15
 
@@ -14348,7 +14468,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=145></a>
+#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=134></a>
 
 ###### Article R227-19
 
@@ -14400,7 +14520,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-## TITRE IV : Service féminin.<a id=146></a>
+## TITRE IV : Service féminin.<a id=135></a>
 
 ###### Article R*228
 
@@ -14639,7 +14759,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R531-1 (M)
 
 
-## TITRE V : Dispositions communes aux formes civiles du service national<a id=147></a>
+## TITRE V : Dispositions communes aux formes civiles du service national<a id=136></a>
 
 ###### Article R*234
 
@@ -14672,7 +14792,7 @@ _Cite_:
   - Code du service national R110 à R114, R116 à R118, R120
 
 
-# Annexes<a id=148></a>
+# Annexes<a id=137></a>
 
 ###### Article ANNEXE I
 
@@ -14963,7 +15083,7 @@ _Cite_:
   - Code du service national R*1, R*5, R*6, R*7, R*8, R*10, R*11, R*12, R*15, R*16, R*17, R*18, R*23, R*24, R*25, R*26, R*27, R*28, R*29, R*30, R*31, R*32, R*33, R*34, R*35, R*36, R*37, R*38, R*39, R*40, R*41, R*42, R*43, R*43-1, R*43-2, R*43-3, R*44, R*
 
 
-## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=149></a>
+## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=138></a>
 
 ###### Article ANNEXE II
 
