@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1984-04-01
+Version Consolidée au 1984-05-13
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -73,7 +73,7 @@ Version Consolidée au 1984-04-01
         - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#70)
           - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#71)
           - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R141 à R144)](#72)
-          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R147 à R148)](#73)
+          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R145 à R148)](#73)
       - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#74)
         - [SECTION I : Affectation de défense (art. R*149 à R*166)](#75)
           - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#76)
@@ -6462,6 +6462,32 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
+###### Article R143
+
+Les jeunes gens accomplissant le service militaire actif qui, avant leur appel sous les drapeaux, ont acquis l'un des titres
+requis pour exercer en qualité de médecin, de vétérinaire, de pharmacien ou de chirurgien-dentiste sont, s'ils remplissent
+les conditions d'aptitude au service national, admis d'office au cycle de formation des élèves officiers de réserve du
+service de santé.
+
+Ce cycle comprend une période de formation initiale en école d'une durée maximale de deux mois et une période d'application
+qui ne peut ^etre inférieure à quatre mois.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°71-820 1971-09-28 art. 2 à art. 6 et art. 11
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+  - Code du service national - art. R145 (V)
+
+
 ###### Article R144
 
 Les modalités d'application des dispositions des articles R. 140 à R. 143, et notamment les programmes des cycles de
@@ -6488,6 +6514,67 @@ _Cite_:
 
 
 ##### PARAGRAPHE 3 : Nomination dans les cadres.<a id=73></a>
+
+###### Article R145
+
+Sont nommés au grade d'aspirant les élèves officiers de réserve qui ont subi avec succès l'examen sanctionnant le cycle de
+formation prévu à l'article R. 140 ou celui prévu à l'article R. 143.
+
+Ces élèves choisissent leur affectation compte tenu des emplois disponibles dans les corps, armes ou services et en fonction
+de leur rang de classement à l'examen sanctionnant le cycle de formation prévu à l'article R. 140 ou à la fin de la période
+de formation initiale prévue à l'article R. 143.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°71-820 1971-09-28 art. 7 à art. 11
+
+_Cité par_:
+
+  - Décret n°73-1004 du 22 octobre 1973 - art. 5 (Ab)
+  - Code du service national - art. ANNEXE I (V)
+  - Décret n°72-806 du 31 août 1972 - art. 3 (V)
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. R140 (M)
+  - Code du service national - art. R143 (M)
+
+_Modifié par_:
+
+  - Décret n°74-760 1974-08-30 art. 5 JORF 4 septembre 1974
+
+
+###### Article R146
+
+Les aspirants sont nommés sous-lieutenants de réserve, ou à un grade correspondant à la fin de la durée légale du service
+national, s'ils réunissent les conditions d'ancienneté dans le grade d'aspirant fixées par le statut des officiers de
+réserve. Dans le cas contraire, ils sont nommés sous-lieutenants de réserve, ou à un grade correspondant, lorsqu'ils
+réunissent ces conditions d'ancienneté.
+
+Toutefois, le ministre chargé de la défense nationale peut, sur proposition du chef de corps ou de service, surseoir à cette
+nomination compte tenu de la manière de servir de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°71-820 1971-09-28 art. 7 à art. 10
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+  - Décret n°72-806 du 31 août 1972 - art. 3 (V)
+
 
 ###### Article R147
 
