@@ -1,126 +1,130 @@
 # Code du service national  
-Version Consolidée au 1991-09-01
+Version Consolidée au 1992-01-07
 ## Contenu: 
-  - [Partie législative (art. L4 à L159)](#1)
-    - [LIVRE Ier (art. L4 à L115)](#2)
-      - [TITRE I : Définition et principes du service national (art. L4 à L8)](#3)
-        - [Chapitre I : Dispositions générales. (art. L4 à L8)](#4)
-      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L15 à L65)](#5)
+  - [Partie législative (art. L1 à L159)](#1)
+    - [LIVRE Ier (art. L1 à L115)](#2)
+      - [TITRE I : Définition et principes du service national (art. L1 à L8)](#3)
+        - [Chapitre I : Dispositions générales. (art. L1 à L8)](#4)
+      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L15 à L66)](#5)
         - [Chapitre Ier : Recensement, sélection (art. L15 à L28)](#6)
           - [Section I : Recensement. (art. L15 à L22)](#7)
-          - [Section II : Sélection. (art. L24 à L28)](#8)
+          - [Section II : Sélection. (art. L23 à L28)](#8)
         - [Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. L29 à L60)](#9)
           - [Section I : Exemptions. (art. L29 à L30)](#10)
-          - [Section II : Dispenses. (art. L32 à L40)](#11)
-          - [Section IV : Condamnés. (art. L52 à L60)](#12)
+          - [Section II : Dispenses. (art. L31 à L40)](#11)
+          - [Section IV : Condamnés. (art. L51 à L60)](#12)
         - [Chapitre III : Réforme pour inaptitude physique. (art. L61)](#13)
-        - [Chapitre IV : Droits résultant de l'accomplissement du service national actif. (art. L62 bis à L65)](#14)
+        - [Chapitre IV : Droits résultant de l'accomplissement du service national actif. (art. L62 à L66)](#14)
       - [TITRE III : Dispositions particulières aux différentes formes du service national (art. L67 à L115)](#15)
-        - [Chapitre I : Service militaire (art. L67 à L83)](#16)
+        - [Chapitre I : Service militaire (art. L67 à L85)](#16)
           - [Section I : Définition. (art. L67 à L69)](#17)
           - [Section II : Service militaire actif. (art. L70 à L77)](#18)
           - [Section III : Recrutement des cadres de réserve du service militaire. (art. L78 à L79)](#19)
-          - [Section IV : Disponibilité et réserve du service militaire. (art. L80 à L83)](#20)
-        - [Chapitre II : Service de défense. (art. L91 à L92)](#21)
-        - [Chapitre II bis : Service dans la police nationale (art. L94-2 à L94-14)](#22)
-          - [Section I : Disposition générales. (art. L94-2)](#23)
+          - [Section IV : Disponibilité et réserve du service militaire. (art. L80 à L85)](#20)
+        - [Chapitre II : Service de défense. (art. L86 à L94)](#21)
+        - [Chapitre II bis : Service dans la police nationale (art. L94-1 à L94-15)](#22)
+          - [Section I : Disposition générales. (art. L94-1 à L94-2)](#23)
           - [Section II : Droits et obligations. (art. L94-3 à L94-10)](#24)
-          - [Section III : Disponibilité et réserve dans la police nationale. (art. L94-11 à L94-14)](#25)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. L95 à L115)](#26)
-          - [Section I : Définitions. (art. L95)](#27)
-          - [Section II : Dispositions communes (art. L97 à L108)](#28)
-            - [Paragraphe 1 : Dispositions générales. (art. L97 à L101)](#29)
-            - [Paragraphe 2 : Droits et obligations. (art. L102 à L108)](#30)
-          - [Section IV : Dispositions particulières au service de la coopération. (art. L113 à L115)](#31)
-    - [LIVRE II (art. L11 à L159)](#32)
-      - [TITRE Ier : Définition et principes du service national (art. L11 à L14)](#33)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L11 à L14)](#34)
-      - [TITRE III : Dispositions particulières aux différentes formes du service national (art. L116-6)](#35)
-        - [Chapitre IV : Service des objecteurs de conscience. (art. L116-6)](#36)
-      - [TITRE IV : Dispositions pénales et disciplinaires (art. L118 à L159)](#37)
-        - [Chapitre Ier : Dispositions générales (art. L118 à L136)](#38)
-          - [Section I : Dispositions pénales (art. L118 à L134)](#39)
-            - [Paragraphe 1er : Fraudes. (art. L118 à L121)](#40)
-            - [Paragraphe 2 : Insoumission. (art. L122 à L131)](#41)
-            - [Paragraphe 3 : Provocation. (art. L132)](#42)
-            - [Paragraphe 4 : Infractions aux obligations dans la réserve. (art. L133 à L134)](#43)
-          - [Section II : Dispositions disciplinaires et administratives. (art. L135 à L136)](#44)
-        - [Chapitre II : Dispositions particulières au service militaire. (art. L137)](#45)
-        - [Chapitre III : Dispositions particulières au service de défense. (art. L139 à L149)](#46)
-        - [Chapitre III bis : Dispositions particulières au service dans la police nationale. (art. L149-1 à L149-10)](#47)
-        - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L151 à L159)](#48)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R*234)](#49)
-    - [TITRE I : Définition et principes du service national (art. R*1 à R*27)](#50)
-      - [CHAPITRE I : Dispositions générales (art. R*1 à R22)](#51)
-        - [SECTION I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#52)
-          - [PARAGRAPHE 1 : Appel avancé. (art. R*1 à R4)](#53)
-          - [PARAGRAPHE 2 : Report d'incorporation. (art. R*5 à R9)](#54)
-          - [PARAGRAPHE 3 : Dispositions communes. (art. R*11 à R*12)](#55)
-        - [SECTION II : Composition et appel du contingent. (art. R*15 à R22)](#56)
-      - [CHAPITRE II : Dispositions particulières a certains emplois du service national. (art. R*23 à R*27)](#57)
-    - [TITRE II : Dispositions communes aux différentes formes du service national (art. R*28 à R*109)](#58)
-      - [CHAPITRE I : Recensement  - sélection (art. R*28 à R*50)](#59)
-        - [SECTION I : Recensement. (art. R*28 à R*39)](#60)
-        - [SECTION II : Sélection. (art. R*40 à R*50)](#61)
-      - [CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. R*55 à R*100-1)](#62)
-        - [SECTION I : Dispenses (art. R*55 à R77)](#63)
-          - [PARAGRAPHE 1 : Soutiens de famille. (art. R*55 à R*68)](#64)
-          - [PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#65)
-          - [PARAGRAPHE 3 : Résidence à l'étranger. (art. R*69 à R77)](#66)
-        - [SECTION III : Condamnés. (art. R*98 à R*100-1)](#67)
-      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R101 à R104)](#68)
-      - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#69)
-    - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#70)
-      - [CHAPITRE I : Service militaire (art. R110 à R148)](#71)
-        - [SECTION I : Service militaire actif (art. R110 à R*132)](#72)
-          - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#73)
-          - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R123 à R126)](#74)
-          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#75)
-        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#76)
-          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#77)
-          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#78)
-          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R145 à R148)](#79)
-      - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#80)
-        - [SECTION I : Affectation de défense (art. R*149 à R*166)](#81)
-          - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#82)
-          - [PARAGRAPHE 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#83)
-          - [PARAGRAPHE 3 : Affectation collective de défense. (art. R*163 à R*166)](#84)
-        - [SECTION II : Statut de défense. (art. R*167 à R*185)](#85)
-          - [PARAGRAPHE 1 : Régime administratif et social. (art. R*168 à R*174)](#86)
-          - [PARAGRAPHE 2 : Régime disciplinaire. (art. R*175 à R*178)](#87)
-          - [PARAGRAPHE 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#88)
-        - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#89)
-        - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#90)
-        - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#91)
-      - [CHAPITRE II bis : Service dans la police nationale (art. R*201-1 à R*201-18)](#92)
-        - [PARAGRAPHE 1 : Dispositions générales. (art. R*201-1 à R*201-7)](#93)
-        - [PARAGRAPHE 2 : Permissions. (art. R*201-8 à R*201-11)](#94)
-        - [PARAGRAPHE 3 : Discipline. (art. R*201-12)](#95)
-        - [PARAGRAPHE 4 : Soins. (art. R*201-13)](#96)
-        - [PARAGRAPHE 5 : Inaptitude. (art. R*201-14 à R*201-15)](#97)
-        - [PARAGRAPHE 6 : Solde et indemnités. (art. R*201-16)](#98)
-        - [PARAGRAPHE 7 : Libération du service actif. (art. R*201-17 à R*201-18)](#99)
-      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#100)
-        - [SECTION I : Dispositions communes (art. R202 à R223)](#101)
-          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#102)
-          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#103)
-          - [PARAGRAPHE 3 : Discipline. (art. R210)](#104)
-          - [PARAGRAPHE 4 : Permissions. (art. R211 à R217)](#105)
-          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#106)
-          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#107)
-          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#108)
-        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#109)
-        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#110)
-      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#111)
-        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#112)
-        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#113)
-        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#114)
-        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#115)
-        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#116)
-        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#117)
-    - [TITRE IV : Service féminin. (art. R*228 à R*233)](#118)
-    - [TITRE V : Dispositions communes aux formes civiles du service national (art. R*234)](#119)
-  - [Annexes (art. ANNEXE II)](#120)
+          - [Section III : Disponibilité et réserve dans la police nationale. (art. L94-11 à L94-15)](#25)
+        - [Chapitre II ter : Service de sécurité civile. (art. L94-16 à L94-20)](#26)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. L95 à L115)](#27)
+          - [Section I : Définitions. (art. L95 à L96)](#28)
+          - [Section II : Dispositions communes (art. L97 à L111)](#29)
+            - [Paragraphe 1 : Dispositions générales. (art. L97 à L101)](#30)
+            - [Paragraphe 2 : Droits et obligations. (art. L102 à L108)](#31)
+            - [Paragraphe 3 : Dispositions diverses. (art. L109 à L111)](#32)
+          - [Section III : Dispositions particulières au service de l'aide technique. (art. L112)](#33)
+          - [Section IV : Dispositions particulières au service de la coopération. (art. L113 à L115)](#34)
+    - [LIVRE II (art. L5 bis à L159)](#35)
+      - [TITRE Ier : Définition et principes du service national (art. L5 bis à L14)](#36)
+        - [Chapitre Ier : Dispositions générales. (art. L5 bis)](#37)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L12 à L13)](#38)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L9 à L14)](#39)
+      - [TITRE IV : Dispositions pénales et disciplinaires (art. L117 à L159)](#40)
+        - [Chapitre Ier : Dispositions générales (art. L117 à L136)](#41)
+          - [Section I : Dispositions pénales (art. L117 à L134)](#42)
+            - [Paragraphe 1er : Fraudes. (art. L117 à L121)](#43)
+            - [Paragraphe 2 : Insoumission. (art. L122 à L131)](#44)
+            - [Paragraphe 3 : Provocation. (art. L132)](#45)
+            - [Paragraphe 4 : Infractions aux obligations dans la réserve. (art. L133 à L134)](#46)
+          - [Section II : Dispositions disciplinaires et administratives. (art. L135 à L136)](#47)
+        - [Chapitre II : Dispositions particulières au service militaire. (art. L137)](#48)
+        - [Chapitre III : Dispositions particulières au service de défense. (art. L138 à L149)](#49)
+        - [Chapitre III bis : Dispositions particulières au service dans la police nationale. (art. L149-1 à L149-10)](#50)
+        - [Chapitre III ter : Dispositions particulières au service de sécurité civile. (art. L149-11)](#51)
+        - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L150 à L159)](#52)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R*234)](#53)
+    - [TITRE I : Définition et principes du service national (art. R*1 à R*27)](#54)
+      - [CHAPITRE I : Dispositions générales (art. R*1 à R22)](#55)
+        - [SECTION I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#56)
+          - [PARAGRAPHE 1 : Appel avancé. (art. R*1 à R4)](#57)
+          - [PARAGRAPHE 2 : Report d'incorporation. (art. R*5 à R9)](#58)
+          - [PARAGRAPHE 3 : Dispositions communes. (art. R*11 à R*12)](#59)
+        - [SECTION II : Composition et appel du contingent. (art. R*15 à R22)](#60)
+      - [CHAPITRE II : Dispositions particulières a certains emplois du service national. (art. R*23 à R*27)](#61)
+    - [TITRE II : Dispositions communes aux différentes formes du service national (art. R*28 à R*109)](#62)
+      - [CHAPITRE I : Recensement  - sélection (art. R*28 à R*50)](#63)
+        - [SECTION I : Recensement. (art. R*28 à R*39)](#64)
+        - [SECTION II : Sélection. (art. R*40 à R*50)](#65)
+      - [CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. R*55 à R*100-1)](#66)
+        - [SECTION I : Dispenses (art. R*55 à R77)](#67)
+          - [PARAGRAPHE 1 : Soutiens de famille. (art. R*55 à R*68)](#68)
+          - [PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#69)
+          - [PARAGRAPHE 3 : Résidence à l'étranger. (art. R*69 à R77)](#70)
+        - [SECTION III : Condamnés. (art. R*98 à R*100-1)](#71)
+      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R101 à R104)](#72)
+      - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#73)
+    - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#74)
+      - [CHAPITRE I : Service militaire (art. R110 à R148)](#75)
+        - [SECTION I : Service militaire actif (art. R110 à R*132)](#76)
+          - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#77)
+          - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R123 à R126)](#78)
+          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#79)
+        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#80)
+          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#81)
+          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#82)
+          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R145 à R148)](#83)
+      - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#84)
+        - [SECTION I : Affectation de défense (art. R*149 à R*166)](#85)
+          - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#86)
+          - [PARAGRAPHE 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#87)
+          - [PARAGRAPHE 3 : Affectation collective de défense. (art. R*163 à R*166)](#88)
+        - [SECTION II : Statut de défense. (art. R*167 à R*185)](#89)
+          - [PARAGRAPHE 1 : Régime administratif et social. (art. R*168 à R*174)](#90)
+          - [PARAGRAPHE 2 : Régime disciplinaire. (art. R*175 à R*178)](#91)
+          - [PARAGRAPHE 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#92)
+        - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#93)
+        - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#94)
+        - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#95)
+      - [CHAPITRE II bis : Service dans la police nationale (art. R*201-1 à R*201-18)](#96)
+        - [PARAGRAPHE 1 : Dispositions générales. (art. R*201-1 à R*201-7)](#97)
+        - [PARAGRAPHE 2 : Permissions. (art. R*201-8 à R*201-11)](#98)
+        - [PARAGRAPHE 3 : Discipline. (art. R*201-12)](#99)
+        - [PARAGRAPHE 4 : Soins. (art. R*201-13)](#100)
+        - [PARAGRAPHE 5 : Inaptitude. (art. R*201-14 à R*201-15)](#101)
+        - [PARAGRAPHE 6 : Solde et indemnités. (art. R*201-16)](#102)
+        - [PARAGRAPHE 7 : Libération du service actif. (art. R*201-17 à R*201-18)](#103)
+      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#104)
+        - [SECTION I : Dispositions communes (art. R202 à R223)](#105)
+          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#106)
+          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#107)
+          - [PARAGRAPHE 3 : Discipline. (art. R210)](#108)
+          - [PARAGRAPHE 4 : Permissions. (art. R211 à R217)](#109)
+          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#110)
+          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#111)
+          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#112)
+        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#113)
+        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#114)
+      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#115)
+        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#116)
+        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#117)
+        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#118)
+        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#119)
+        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#120)
+        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#121)
+    - [TITRE IV : Service féminin. (art. R*228 à R*233)](#122)
+    - [TITRE V : Dispositions communes aux formes civiles du service national (art. R*234)](#123)
+  - [Annexes (art. ANNEXE II)](#124)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -128,6 +132,153 @@ Version Consolidée au 1991-09-01
 ### TITRE I : Définition et principes du service national<a id=3></a>
 
 #### Chapitre I : Dispositions générales.<a id=4></a>
+
+###### Article L1
+
+Le service national est universel.
+
+Il revêt :
+
+- une forme militaire destinée à répondre aux besoins des armées :
+
+le service militaire ;
+
+- des formes civiles destinées à répondre aux autres besoins de la défense ainsi qu'aux impératifs de solidarité :
+
+- le service de défense ;
+
+- le service dans la police nationale ;
+
+- le service de sécurité civile ;
+
+- le service de l'aide technique ;
+
+- le service de la coopération ;
+
+- le service des objecteurs de conscience.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°65-550 1965-07-09 art. 2
+  - Loi n°70-596 1970-07-09 art. 1 al. 1
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°85-835 du 7 août 1985 - art. 5 () JORF 8 aôut 1985 en vigueur le 1er janvier 1986
+  - Loi n°92-9 du 4 janvier 1992 - art. 2 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 3 janvier 1989 - art. 6 (V)
+  - Arrêté du 6 octobre 1995 - art. 4 (M)
+  - Code des pensions militaires d'invalidité et de... - art. L111-1 (VD)
+  - Code du service national - art. L5 (V)
+
+
+###### Article L2
+
+Le service national comprend des obligations d'activité et des obligations de réserve.
+
+Les obligations d'activité du service national comportent :
+
+a) Un service actif légal dont la durée est :
+
+- de dix mois pour le service militaire, le service dans la police nationale et le service de sécurité civile ;
+
+- de seize mois pour les services de l'aide technique et de la coopération ;
+
+- de vingt mois pour le service des objecteurs de conscience.
+
+Toutefois, cette durée est de douze mois pour les jeunes gens qui ont obtenu le bénéfice des dispositions de l'article L. 9
+au titre du service militaire et pour ceux qui, ayant obtenu le bénéfice des dispositions de l'article L. 10, effectuent un
+service autre que ceux de l'aide technique, de la coopération ou des objecteurs de conscience.
+
+b) Des périodes d'exercice qui peuvent être effectuées au titre d'une forme de service national autre que celle dans laquelle
+a été accompli le service actif ; la durée totale de ces périodes ne peut excéder six mois et chacune d'elles ne peut
+dépasser un mois.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°61-294 du 31 mars 1961 - art. 8 (Ab)
+  - Décret n°2001-763 du 28 août 2001 - art. 2 (V)
+  - Code du service national - art. L110 (V)
+  - Code du service national - art. L111 (V)
+  - Code du service national - art. L12 (Ab)
+  - Code du service national - art. L84 (V)
+  - Code du service national - art. L94-14 (V)
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 2 (Ab)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°83-605 1983-07-08 JORF 9 juillet 1983) M(Loi 92-9 1992-01-04 art. 3 JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L10 (M)
+  - Code du service national - art. L9 (M)
+
+
+###### Article L3
+
+Tous les citoyens français de sexe masculin doivent le service national de dix-huit à cinquante ans. Ils en accomplissent les
+obligations d'activité s'ils possèdent l'aptitude nécessaire et médicalement constatée. Des dispenses des obligations du
+service national actif peuvent être accordées dans les cas prévus aux articles L. 31 à L. 40.
+
+Les Françaises volontaires ont accès aux différentes formes du service national dans les limites et conditions fixées par
+décret en Conseil d'Etat.
+
+Les étrangers sans nationalité et ceux qui bénéficient du droit d'asile sont assujettis au service national.
+
+Les étrangères sans nationalité et celles qui bénéficient du droit d'asile peuvent se porter volontaires pour accéder aux
+différentes formes du service national dans les limites et conditions fixées par décret en Conseil d'Etat.
+
+Toutefois, dans les organismes soumis à l'affectation collective de défense, le service de défense s'étend aux Français et
+aux étrangers mentionnés au troisième alinéa ci-dessus, âgés de plus de cinquante ans, ainsi qu'aux Françaises et aux
+étrangères sans nationalité ou bénéficiant du droit d'asile, âgées de plus de dix-huit ans.
+
+Les obligations qui découlent de l'alinéa précédent s'appliquent nonobstant toutes dispositions conventionnelles ou
+statutaires relatives à la cessation de l'activité professionnelle ; elles cessent à l'âge de soixante-cinq ans.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 59-147 1959-01-07 art. 42
+  - Loi n°65-550 1965-07-09 art. 1
+  - Loi n°1928-03-31 art. 2 al. 1 et art. 3 al. 1 et al. 2
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 4 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Code du service national - art. L87 (Ab)
+  - Code du service national - art. R*151 (M)
+
+_Cite_:
+
+  - Code du service national L31 à L40
+
 
 ###### Article L4
 
@@ -143,6 +294,59 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+
+###### Article L5
+
+Les jeunes gens peuvent être appelés, dans les conditions prévues à l'article L. 7 à accomplir leurs obligations du service
+national actif à partir de l'âge de dix-huit ans.
+
+Ils ont le droit :
+
+1° Soit de demander à être appelés au service actif dès le 1er octobre de l'année au cours de laquelle ils atteignent l'âge
+de dix-huit ans, sauf, tant qu'ils ne sont pas majeurs, opposition de leur représentant légal manifestée dans les conditions
+de délai fixées par décret ;
+
+2° Soit de reporter la date de leur incorporation jusqu'à l'âge de vingt-deux ans ou, sur leur demande, au plus tard,
+jusqu'au 31 décembre de l'année civile au cours de laquelle ils atteignent cet âge. Ils peuvent renoncer avant terme au
+bénéfice de ce report. La demande qu'ils présentent à cet effet peut être limitée à une des formes du service national
+prévues à l'article L. 1.
+
+Ils présentent leur demande sous leur seule signature. Toutefois, la satisfaction des demandes de jeunes gens désireux de
+devancer l'appel, et qui ne possèdent pas à la date de leur demande l'aptitude physique requise, peut être différée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°78-753 du 17 juillet 1978 - art. 14 (M) JORF 18 juillet 1978
+  - Loi n°92-9 du 4 janvier 1992 - art. 5 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 1 décembre 1992 - art. 1 (V)
+  - Code du service national - art. L14 (V)
+  - Code du service national - art. L5 bis (V)
+  - Code du service national - art. L5 bis A (V)
+  - Code du service national - art. R*1 (V)
+  - Code du service national - art. R*32 (Ab)
+  - Code du service national - art. R*41 (M)
+  - Code du service national - art. R*42 (V)
+  - Code du service national - art. R*5 (V)
+  - Code du service national - art. R*73 (V)
+  - Code du service national - art. R*8-1 (V)
+  - Code du service national - art. R*8-2 (V)
+  - Code du service national - art. R14 (V)
+  - Code du service national - art. R9 (V)
+
+_Cite_:
+
+  - Code du service national - art. L1 (M)
+  - Code du service national - art. L7 (M)
 
 
 ###### Article L5 quater
@@ -178,6 +382,70 @@ _Cité par_:
 
   - Code du service national - art. R*73 (V)
   - Code du service national - art. R*8-1 (V)
+
+
+###### Article L6
+
+Dans la répartition des assujettis entre les différentes formes de service national, les besoins des armées sont satisfaits
+en priorité.
+
+Les modalités d'affectation des jeunes gens aux différentes formes du service national sont fixées par décret en Conseil
+d'Etat.
+
+Compte tenu des besoins des armées, le Gouvernement arrête chaque année le nombre, la qualification ou le niveau d'aptitude
+des jeunes gens incorporables au cours de l'année dans la police nationale, le service de sécurité civile, le service de
+l'aide technique et le service de la coopération, ainsi que le nombre des jeunes gens qui, au cours de ladite année, peuvent
+être admis au bénéfice des dispositions de l'article L. 9.
+
+Les jeunes gens qui le demandent sont affectés au service militaire.
+
+L'affectation individuelle des jeunes gens qui doivent être appelés au service militaire est déterminée en fonction des
+besoins et en tenant compte des aptitudes, de la qualification et de la situation de famille des intéressés.
+
+Les jeunes gens mariés avec enfants ou veufs avec enfants ou classés soutien de famille sont affectés par priorité dans les
+formations les plus rapprochées de leur domicile.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°65-550 1965-07-09 art. 3 al. 1 et art. 13 al. 1, al. 2 et al. 3
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°87-512 1987-07-10 art. 1 JORF 11 juillet 1987) M(Loi 92-9 1992-01-04 art. 7 JORF 7 janvier 1992
+
+_Cite_:
+
+  - Loi n°87-512 du 10 juillet 1987 - art. 1, v. init.
+  - Code du service national - art. L9 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°91-255 du 7 mars 1991
+  - TXT_SOURCE: Décret n°91-255 du 7 mars 1991 - art. 1 (V)
+  - TXT_SOURCE: Décret n°91-255 du 7 mars 1991 - art. 2 (V)
+  - TXT_SOURCE: Décret n°91-255 du 7 mars 1991 - art. 3 (V)
+  - TXT_SOURCE: Décret n°91-1303 du 23 décembre 1991
+  - TXT_SOURCE: Décret n°91-1303 du 23 décembre 1991 - art. 1 (V)
+  - TXT_SOURCE: Décret n°91-1303 du 23 décembre 1991 - art. 2 (V)
+  - TXT_SOURCE: Décret n°91-1303 du 23 décembre 1991 - art. 3 (V)
+  - TXT_SOURCE: Décret n°96-111 du 12 février 1996
+  - TXT_SOURCE: Décret n°96-111 du 12 février 1996 - art. 1 (V)
+  - TXT_SOURCE: Décret n°96-111 du 12 février 1996 - art. 2 (V)
+  - TXT_SOURCE: Décret n°96-111 du 12 février 1996 - art. 3 (V)
+
+_Cité par_:
+
+  - Code du service national - art. L71 (V)
+  - Code du service national - art. R*201-2 (V)
+  - Code du service national - art. R*201-22 (VD)
+  - Code du service national - art. R*201-37 (V)
+  - Code du service national - art. R15-1 (V)
 
 
 ###### Article L7
@@ -444,6 +712,44 @@ _Cite_:
 
 ##### Section II : Sélection.<a id=8></a>
 
+###### Article L23
+
+Les jeunes gens assujettis au service national sont soumis à un examen médical et, en vue de leur affectation, à des épreuves
+psychotechniques. La participation à ces opérations, dont la durée ne dépasse pas trois jours, sauf nécessité
+d'hospitalisation pour mise en observation, constitue une obligation du service national. Les intéressés sont considérés,
+pour la durée de ces opérations, comme militaires en activité de service, dans les conditions et limites fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°65-550 1965-07-09 art. 7
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Cité par_:
+
+  - Décret n°78-194 du 24 février 1978 - art. 3 (Ab)
+  - Décret n°78-194 du 24 février 1978 - art. 4 (Ab)
+  - Décret n°78-194 du 24 février 1978 - art. 8 (Ab)
+  - Arrêté du 11 avril 1990 - art. 1 (V)
+  - Code du service national - art. L117 (V)
+  - Code du service national - art. L119 (V)
+  - Code du service national - art. L25 (V)
+  - Code du service national - art. R*40 (V)
+  - Code du service national - art. R*43-3 (V)
+  - Code du service national - art. R*49 (V)
+  - Code du service national - art. R*49-1 (V)
+  - Code du service national - art. R3 (V)
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 12 () JORF 7 janvier 1992
+
+
 ###### Article L24
 
 A la suite des opérations prévues à l'article précédent, les jeunes gens font l'objet, selon leur aptitude physique, d'une
@@ -465,6 +771,73 @@ _Cité par_:
   - Code du service national - art. L25 (V)
   - Code du service national - art. R*44 (V)
   - Code du service national - art. R104 (V)
+
+
+###### Article L25
+
+La répartition des jeunes gens, selon leur aptitude, dans les catégories prévues par l'article L. 24 est faite par une
+commission locale d'aptitude composée de deux médecins des armées, dont l'un assure les fonctions de président, et du
+commandant du bureau de recrutement ou de son représentant.
+
+Les jeunes gens soumis aux opérations visées à l'article L. 23 sont informés par le commandant du bureau de recrutement ou
+par son représentant des conditions dans lesquelles ils peuvent contester les décisions de la commission locale d'aptitude.
+
+En cas de contestation sur les propositions de répartition prévues à l'article L. 24, la commission entend les jeunes gens
+intéressés. Après avoir entendu, le cas échéant, leur représentant légal et le maire de leur commune ou son délégué, elle
+peut renvoyer les intéressés devant la commission de réforme, prévue à l'article L. 61, qui statue.
+
+Les jeunes gens qui n'auraient pas répondu à la convocation qui leur a été adressée en vue des opérations visées à l'article
+L. 23 sont considérés d'office comme aptes au service. Ils sont, lors de leur appel au service actif, convoqués devant une
+commission de réforme.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 1970-07-09 art. 20 al. 1 et al. 2 et art. 22
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 13 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Code du service national - art. L119 (V)
+  - Code du service national - art. R101 (V)
+
+_Cite_:
+
+  - Code du service national - art. L23 (M)
+  - Code du service national - art. L24 (M)
+  - Code du service national - art. L61 (M)
+
+
+###### Article L26
+
+L'ajournement n'est prononcé qu'une seule fois et pour une durée maximale de six mois. Le second examen des ajournés est
+effectué par la commission locale d'aptitude qui reçoit alors une composition différente de celle qui a décidé l'ajournement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 21 (Ab)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 14 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Code du service national - art. L119 (V)
 
 
 ###### Article L27
@@ -559,6 +932,52 @@ _Cite_:
 
 
 ##### Section II : Dispenses.<a id=11></a>
+
+###### Article L31
+
+Sont dispensés des obligations du service national actif :
+
+1° Les pupilles de la nation ;
+
+2° Les jeunes gens dont le père, la mère, un frère ou une soeur :
+
+a) A été déclaré " Mort pour la France " ou, s'il était de nationalité étrangère ou apatride, a fait l'objet d'une
+attestation du ministre des anciens combattants et victimes de guerre selon laquelle il est décédé dans des circonstances
+telles que cette mention lui aurait été accordée s'il avait été de nationalité française ;
+
+b) Est décédé, étant militaire en activité, ou mobilisé, ou requis, ou servant au titre de l'une des formes du service
+national, des suites d'un accident survenu, d'une blessure reçue, ou d'une maladie contractée dans l'exécution, sur ordre, de
+missions, services ou tâches comportant des risques particuliers ou au cours de manoeuvres ou d'exercices préparant au
+combat ;
+
+c) Est décédé, alors qu'il servait au titre de l'une des formes du service national ou qu'il était mobilisé ou requis, des
+suites d'un accident survenu, d'une blessure reçue ou d'une maladie contractée dans l'accomplissement d'un service effectif.
+
+d) Est décédé des suites d'un accident survenu, d'une blessure reçue ou d'une maladie contractée au cours d'une action dont
+l'accomplissement, sur ordre de l'autorité publique ou dans l'intérêt de la sécurité ou de l'ordre publics, comportait en
+lui-même des risques particuliers.
+
+Il est statué sur les demandes de dispense par une décision du préfet du département du lieu de recensement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°78-753 du 17 juillet 1978 - art. 15 (V) JORF 18 juillet 1978
+  - Loi n°92-9 du 4 janvier 1992 - art. 15 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Code du service national - art. L33 (V)
+  - Code du service national - art. L34 (V)
+  - Code du service national - art. L35 (V)
+  - Code du service national - art. L39 (V)
+  - Code du service national - art. R*32 (Ab)
+
 
 ###### Article L32
 
@@ -903,6 +1322,47 @@ _Codifié par_:
 
 ##### Section IV : Condamnés.<a id=12></a>
 
+###### Article L51
+
+La situation des jeunes gens âgés de moins de vingt-neuf ans ou de moins de trente-quatre ans s'ils relèvent des dispositions
+du quatrième alinéa de l'article L. 7 qui, n'ayant pas accompli la totalité des obligations du service national actif et n'en
+ayant été ni exemptés ni dispensés, ont été condamnés définitivement pour crime et délit à une ou plusieurs peines
+d'emprisonnement sans sursis ou de réclusion, dont la durée totale est égale ou supérieure à un an est soumise à une
+commission juridictionnelle. Celle-ci décide que les intéressés seront tenus d'accomplir le service national actif :
+
+Soit au titre de l'une des formes du titre III ;
+
+Soit suivant des modalités particulières comportant des obligations destinées à assurer leur reclassement social.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Cité par_:
+
+  - Arrêté du 21 octobre 1991 - art. 1 (V)
+  - Arrêté du 21 octobre 1991 - art. 3 (V)
+  - Arrêté du 21 octobre 1991 - art. 4 (V)
+  - Code de procédure pénale - art. D574 (VD)
+  - Code du service national - art. L52 (V)
+  - Code du service national - art. L54 (V)
+  - Code du service national - art. L55 (V)
+  - Code du service national - art. L56 (V)
+  - Code du service national - art. L58 (V)
+  - Code du service national - art. L60 (V)
+  - Code du service national - art. R*98 (V)
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 16 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L7 (M)
+
+
 ###### Article L52
 
 La commission juridictionnelle visée à l'article précédent est composée comme suit :
@@ -1161,6 +1621,46 @@ _Anciens textes_:
 
 #### Chapitre IV : Droits résultant de l'accomplissement du service national actif.<a id=14></a>
 
+###### Article L62
+
+L'aide sociale aux familles des jeunes gens qui accomplissent le service national actif fait l'objet des dispositions de
+l'article 156 du code de la famille et de l'aide sociale.
+
+Nonobstant les dispositions régissant les régimes de couverture sociale qui leur sont propres, les jeunes gens accomplissant
+les obligations du service national, victimes de dommages corporels subis dans le service ou à l'occasion du service,
+peuvent, ainsi que leurs ayants droit, obtenir de l'Etat, lorsque sa responsabilité est engagée, une réparation
+complémentaire destinée à assurer l'indemnisation intégrale du dommage subi, calculée selon les règles du droit commun.
+
+L'alinéa précédent est applicable aux jeunes gens convoqués aux opérations de sélection et à ceux qui participent aux
+activités de préparation militaire ; lorsque la préparation militaire est organisée par une société agréée, la réparation
+complémentaire n'est due par l'Etat que si la responsabilité de cette société est engagée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°76-617 du 9 juillet 1976 - art. 25 () JORF 10 juillet 1976
+  - Loi n°92-9 du 4 janvier 1992 - art. 17 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 16 décembre 1993 - art. 18 (V)
+  - Loi n°95-73 du 21 janvier 1995 - art. 20 (Ab)
+  - Code du service national - art. L85 (V)
+  - Code du service national - art. L93 (Ab)
+  - Code du service national - art. L94-15 (V)
+  - Code du service national - art. R*184 (Ab)
+  - Code du service national - art. R*46 (V)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 156 (Ab)
+
+
 ###### Article L62 bis
 
 La réglementation des conditions d'admission ou de poursuite des études dans les établissements d'enseignement et, en
@@ -1327,6 +1827,52 @@ _Cité par_:
   - Code du service national - art. L72 (V)
   - Code du service national - art. L72-1 (Ab)
   - Code du service national - art. L94-9 (V)
+
+
+###### Article L66
+
+Les jeunes gens ayant effectivement accompli le service militaire actif, le service dans la police nationale ou le service de
+sécurité civile, bénéficient, dans les conditions fixées par décret en Conseil d'Etat, d'une réserve d'emplois pour l'accès
+aux emplois publics énumérés ci-après :
+
+- gardiens de la paix de la police nationale ;
+
+- agents de police municipaux ;
+
+- sapeurs-pompiers professionnels des corps communaux ;
+
+- surveillants d'établissements pénitentiaires ;
+
+- préposés et matelots de l'administration des douanes ;
+
+- agents techniques forestiers de l'Office national des forêts.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 7
+  - Loi n°65-550 1965-07-09 art. 44
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 18 () JORF 7 janvier 1992
+
+_Abrogé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V)
+  - CODE DES COMMUNES. - art. L353-2 (Ab)
+  - Code du service national - art. L72 (M)
+  - Code du service national - art. L72-1 (Ab)
+  - Code du service national - art. L94-9 (M)
 
 
 ### TITRE III : Dispositions particulières aux différentes formes du service national<a id=15></a>
@@ -1499,10 +2045,10 @@ _Cite_:
   - Code du service national L73 à L75
 
 
-###### Article L72-1
+###### Article L72
 
-Les jeunes gens peuvent demander à prolonger leur service militaire actif au-delà de la durée légale pour une période de
-quatre à douze mois.
+Les jeunes gens peuvent demander à prolonger leur service militaire actif au-delà de la durée légale pour une période de deux
+à quatorze mois.
 
 Cette demande, formulée dès avant l'appel sous les drapeaux ou, au plus tard, avant la fin du service actif, est soumise à
 l'agrément de l'autorité militaire. Elle est renouvelable une fois sans que la durée totale des services puisse excéder
@@ -1513,7 +2059,8 @@ acceptation, ce délai ne courant qu'à partir de l'incorporation. En cas de mod
 familiale, l'intéressé peut demander au ministre chargé des armées la résiliation de son acte de volontariat.
 
 Nonobstant toute disposition contraire, les volontaires gardent la qualité d'appelé pendant le temps où ils se trouvent sous
-les drapeaux.
+les drapeaux. Ils bénéficient notamment de la présomption d'imputabilité prévue à l'article L. 3 du code des pensions
+militaires d'invalidité et des victimes de la guerre.
 
 La période de volontariat entre dans le calcul des pensions de vieillesse. Elle donne droit aux avantages prévus au deuxième
 alinéa de l'article L. 63 et à l'article L. 64, ainsi qu'à une priorité dans l'application des articles L. 65 et L. 66.
@@ -1523,28 +2070,27 @@ lesquelles un pécule leur est attribué en fin de service.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Décret n°61-294 du 31 mars 1961 - art. 8 (Ab)
+  - Loi n°71-424 du 10 juin 1971 - art. 3 (Ab)
+  - Arrêté du 6 janvier 2009 (Ab)
+  - Arrêté du 9 mars 2010 (Ab)
+  - Arrêté du 10 mars 2010 (V)
+  - Code du service national - art. R*132 (V)
+  - Code du service national - art. R123 (Ab)
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 12 (Ab)
+
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Décret n°83-884 du 28 septembre 1983 - art. 1 (V)
-  - TXT_SOURCE: Décret n°83-884 du 28 septembre 1983 - art. 2 (V)
-  - TXT_SOURCE: Décret n°83-884 du 28 septembre 1983 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 9 mars 1987
-  - TXT_SOURCE: Arrêté du 9 mars 1987 - art. 1 (M)
-  - TXT_SOURCE: Arrêté du 9 mars 1987 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 9 mars 1987 - art. 3 (V)
-
-_Cité par_:
-
-  - Ordonnance n°86-836 du 16 juillet 1986 - art. 4 (V)
-  - Code du service national - art. L94-9 (V)
-
-_Abrogé par_:
-
-  - Loi n°92-9 du 4 janvier 1992 - art. 19 () JORF 7 janvier 1992
+  - Loi n°92-9 1992-01-04 art. 3 et 19 JORF 7 janvier 1992
 
 _Cite_:
 
@@ -1552,6 +2098,7 @@ _Cite_:
   - Code du service national - art. L64 (M)
   - Code du service national - art. L65 (M)
   - Code du service national - art. L66 (Ab)
+  - Code des pensions militaires d'invalidité et des v - art. L3 (M)
 
 
 ###### Article L73
@@ -1779,6 +2326,56 @@ _Codifié par_:
   - Loi n°71-424 1971-06-10
 
 
+###### Article L82
+
+Les hommes et les femmes de la disponibilité ou de la réserve peuvent recevoir une affectation dans les diverses formations
+des armées ou aux emplois prévus à l'article L. 83.
+
+Ils sont tenus de rejoindre leur formation ou leur poste en cas de mobilisation générale ou partielle, ordonnée par décret,
+en cas de rappel par ordre individuel et en cas de convocation pour les périodes d'exercice.
+
+Il peut être procédé au rappel des disponibles et réservistes d'une manière distincte et indépendante par armée, arme,
+service, unité ou partie du territoire. Le rappel peut intervenir par contingent ou classe d'âge ou par catégorie ou sous-
+catégorie de forces ou par spécialité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 20 () JORF 7 janvier 1992
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 1 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 10 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 11 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 12 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 13 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 2 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 4 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 5 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 6 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 7 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 8 (V)
+  - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 9 (V)
+
+_Cité par_:
+
+  - Code du service national - art. L83 (V)
+  - Code du service national - art. L85 (V)
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 48 al. 1, al. 2 et al. 4
+  - Loi n°1932-12-13 art. 70
+  - Loi n°1935-04-11 art. 10
+
+
 ###### Article L83
 
 Des affectations particulières sont données, dans la disponibilité et la réserve, à certains personnels désignés,
@@ -1821,55 +2418,65 @@ _Cité par_:
   - Code du service national - art. L82 (V)
 
 
-#### Chapitre II : Service de défense.<a id=21></a>
+###### Article L84
 
-###### Article L91
+Les hommes et les femmes appartenant à la disponibilité et à la réserve sont assujettis à prendre part à des périodes
+d'exercice dont le nombre et la durée sont fixés dans le cadre de l'article L. 2 par le ministre chargé de la défense
+nationale. Ils peuvent également souscrire un engagement spécial d'entraînement volontaire dans la réserve et effectuer des
+périodes volontaires.
 
-Le service actif de défense est accompli dans les corps de défense lorsque ceux-ci sont constitués de façon permanente. La
-mise sur pied, l'instruction, l'encadrement et la mission des corps de défense sont déterminés par décret en Conseil d'Etat.
+Les convocations pour les périodes d'exercices seront fixées en tenant compte, dans toute la mesure du possible, des intérêts
+régionaux et locaux, notamment des époques de travaux agricoles.
 
-Les dispositions des articles L. 76 et L. 77 sont applicables au service actif de défense.
+Les militaires de la disponibilité et de la réserve convoqués à une période d'exercice ne peuvent obtenir aucun ajournement,
+sauf en cas de force majeure dûment justifié.
+
+Dans le cas où les circonstances l'exigeraient, le Gouvernement est autorisé à conserver provisoirement sous les drapeaux,
+au-delà de la période réglementaire, les hommes et les femmes appelés à un titre quelconque pour accomplir une période
+d'exercice. Il en rend compte immédiatement au Parlement s'il est en session et, dès sa réunion, s'il est hors session.
+
+Lorsqu'un salarié convoqué pour une période obligatoire fait connaître à son employeur son désir de bénéficier, durant cette
+période, des congés payés, il ne pourra être fait obstacle à ce désir.
+
+Indépendamment des périodes d'exercice obligatoires et volontaires, les officiers et les sous-officiers de réserve ou
+assimilés peuvent être appelés à fréquenter des écoles de perfectionnement les préparant à leurs fonctions de mobilisation.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 59-147 1959-01-07 art. 36
-  - Loi n°65-550 1965-07-09 art. 33 al. 2 et al. 3
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Abrogé par_:
+_Cité par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 19 () JORF 7 janvier 1992
+  - Décret n°78-194 du 24 février 1978 - art. 3 (Ab)
+  - Décret n°78-194 du 24 février 1978 - art. 8 (Ab)
+  - Code du service national - art. L85 (V)
+  - Code du service national - art. L93 (Ab)
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 21 () JORF 7 janvier 1992
 
 _Cite_:
 
-  - Code du service national - art. L76 (M)
-  - Code du service national - art. L77 (M)
-
-_Cité par_:
-
-  - Code du service national - art. L89 (Ab)
-  - Code du service national - art. R*15 (M)
-  - Code du service national - art. R*150 (Ab)
-  - Code du service national - art. R*170 (M)
-  - Code du service national - art. R*179 (M)
-
-
-###### Article L92
-
-Les jeunes gens peuvent faire acte de volontariat pour un service actif de défense d'une durée supérieure à celle du service
-actif obligatoire. A l'issue de ce service actif, ils bénéficient des avantages accordés par les statuts particuliers aux
-personnels qui ont servi en qualité d'engagé militaire.
-
-**Liens relatifs à cet article**
+  - Code du service national - art. L2 (M)
 
 _Anciens textes_:
 
-  - Loi n°65-550 1965-07-09 art. 34
+  - Loi n°1928-03-31 art. 49 al. 1, al. 2, al. 8, al. 9, al. 11, al. 12, art. 49 bis et art. 51
+  - Loi n°1932-12-13 art. 69
+
+
+###### Article L85
+
+Les hommes et les femmes de la disponibilité et les hommes et les femmes de la réserve appelés en cas de mobilisation,
+rappelés ou convoqués par application des articles L. 82 et L. 84, sont considérés sous tous les rapports comme des
+militaires du service actif et soumis, dès lors, à toutes les obligations imposées par les lois et règlements.
+
+Les dispositions du second alinéa de l'article L. 62 leur sont applicables.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
@@ -1877,16 +2484,276 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°72-662 du 13 juillet 1972 - art. 110 () JORF 14 juillet 1972
+  - Loi n°92-9 du 4 janvier 1992 - art. 22 () JORF 7 janvier 1992
 
-_Abrogé par_:
+_Cite_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 19 () JORF 7 janvier 1992
+  - Code du service national - art. L62 (M)
+  - Code du service national - art. L82 (M)
+  - Code du service national - art. L84 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R103 (V)
+  - Code du service national - art. R104 (V)
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 53
+  - Loi n°1932-12-13 art. 78 al. 1
+
+
+#### Chapitre II : Service de défense.<a id=21></a>
+
+###### Article L86
+
+Le service de défense est destiné à satisfaire les besoins de la défense et notamment de la protection des populations
+civiles en personnel non militaire. Il ne comprend qu'une réserve constituée par les personnels soumis aux obligations de
+défense dont la liste figure à l'article L. 87.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 59-147 1959-01-07 art. 33 al. 1
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983) M(Loi 92-9 1992-01-04 art. 23 et 24 JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L87 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R*149 (M)
+
+
+###### Article L87
+
+Sont soumis aux obligations du service de défense :
+
+1° Les volontaires non assujettis aux obligations du service national ;
+
+2° Les hommes libérés des obligations du service militaire ;
+
+3° Les hommes qui, étant encore soumis aux obligations du service militaire, n'ont pas d'affectation militaire ;
+
+4° Les policiers auxiliaires qui, encore soumis aux obligations de la réserve de la police nationale, n'ont pas d'affectation
+de réserve dans la police nationale ;
+
+5° Les policiers auxiliaires libérés des obligations de réserve du service dans la police nationale ;
+
+6° Les jeunes gens libérés des obligations du service de sécurité civile ;
+
+7° Les jeunes gens libérés des obligations des services de l'aide technique ou de la coopération qui ne sont pas versés dans
+la réserve du service militaire ;
+
+8° Les hommes et les femmes mentionnés aux deux derniers alinéas de l'article L. 3 ;
+
+9° Les objecteurs de conscience qui n'ont pas d'affectation au titre de l'article L. 116-5.
+
+Les jeunes gens recensés et non encore appelés au service national actif peuvent faire l'objet d'une affectation de défense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L116-5 (M)
+  - Code du service national - art. L3 (M)
+
+_Cité par_:
+
+  - Code du service national - art. L86 (Ab)
+  - Code du service national - art. R*149 (Ab)
+
+
+###### Article L88
+
+Les assujettis au service de défense, lorsqu'ils accomplissent le service de défense et dans les cas visés à l'article L. 94,
+sont régis par un statut de défense. Ce statut est également applicable aux volontaires.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 59-147 1959-01-07 art. 37
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L94 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R*167 (Ab)
+
+
+###### Article L89
+
+Les assujettis au service de défense appartenant aux corps de défense permanents ont droit au bénéfice des dispositions du
+livre Ier du code des pensions militaires d'invalidité et des victimes de guerre pour les blessures reçues et les maladies
+contractées ou aggravées du fait ou à l'occasion de l'accomplissement du service de défense.
+
+Les dispositions du code mentionné ci-dessus sont applicables aux veuves, orphelins et ascendants des intéressés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 59-147 1959-01-07 art. 40 al. 1 et al. 3
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Cité par_:
+
+  - Décret n°78-194 du 24 février 1978 - art. 3 (Ab)
+  - Code du service national - art. L116-4 (V)
+  - Code du service national - art. R*151 (Ab)
+  - Code du service national - art. R*179 (Ab)
+  - Code du service national - art. R*184 (Ab)
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L91 (Ab)
+
+
+###### Article L90
+
+Les modalités d'application des dispositions concernant l'emploi des personnes dans le service de défense sont déterminées
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 59-147 1959-01-07 art. 41 bis
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+
+
+###### Article L93
+
+Les hommes et les femmes soumis aux obligations du service de défense peuvent recevoir une affectation de défense selon les
+modalités fixées par décret en Conseil d'Etat.
+
+Ceux d'entre eux qui ont une affectation individuelle de défense sont soumis aux dispositions de l'article L. 84.
+
+Les dispositions du deuxième alinéa de l'article L. 62 leur sont applicables.
+
+Les ministres responsables fixent le nombre et la durée des périodes d'exercice.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°65-550 1965-07-09 art. 33 al. 4 et al. 5
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L62 (M)
+  - Code du service national - art. L84 (M)
+
+
+###### Article L94
+
+Dans les cas prévus aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, les assujettis au service de défense
+peuvent être appelés à leur emploi de défense à titre individuel ou collectif, pour servir au lieu et dans les conditions qui
+leur sont assignés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
+  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
+
+_Anciens textes_:
+
+  - Ordonnance 59-147 1959-01-07 art. 35
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Code du service national - art. L139 (Ab)
+  - Code du service national - art. L146 (Ab)
+  - Code du service national - art. L22 (V)
+  - Code du service national - art. L88 (Ab)
+  - Code du service national - art. R*165 (Ab)
+  - Code du service national - art. R*167 (Ab)
+  - Code du service national - art. R*170 (Ab)
 
 
 #### Chapitre II bis : Service dans la police nationale<a id=22></a>
 
 ##### Section I : Disposition générales.<a id=23></a>
+
+###### Article L94-1
+
+Le service dans la police nationale comporte le service actif, la disponibilité et la réserve. Il s'étend jusqu'à l'âge de
+cinquante ans dont cinq ans dans le service actif et la disponibilité et le reliquat dans la réserve.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 28 () JORF 7 janvier 1992
+
 
 ###### Article L94-2
 
@@ -1976,6 +2843,29 @@ _Créé par_:
   - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
 
 
+###### Article L94-7
+
+En cas d'infirmités contractées ou aggravées, par le fait ou à l'occasion du service qu'ils accomplissent au titre du présent
+chapitre, les policiers auxiliaires bénéficient, ainsi que leurs ayants droit en cas de décès, des dispositions du livre Ier
+du code des pensions militaires d'invalidité et des victimes de guerre, à l'exclusion de tout autre régime législatif ou
+statutaire de pensions d'invalidité ou de rentes d'incapacité permanente. La pension est liquidée sur la base du taux prévu
+pour le soldat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987) M(Loi 92-9 1992-01-04 art. 2 JORF 7 janvier 1992
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 29 () JORF 7 janvier 1992
+
+
 ###### Article L94-8
 
 L'aide sociale ainsi que les prestations de sécurité sociale qui peuvent être accordées aux familles dont les soutiens
@@ -1994,6 +2884,53 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+
+
+###### Article L94-9
+
+Les policiers auxiliaires peuvent demander à prolonger leur service actif dans la police nationale au-delà de la durée légale
+pour une période de deux à quatorze mois.
+
+Cette demande, formulée dès avant l'appel au service actif ou, au plus tard, avant la fin de ce service, est soumise à
+l'agrément du ministre de l'intérieur. Elle est renouvelable une fois sans que la durée totale des services puisse excéder
+vingt-quatre mois.
+
+La demande peut être retirée tant quelle n'a pas été acceptée par le ministre de l'intérieur ainsi que dans le mois qui suit
+cette acceptation, ce délai ne courant qu'à partir de l'incorporation. En cas de modification de sa situation personnelle ou
+familiale, l'intéressé peut demander au ministre de l'intérieur la résiliation de son acte de volontariat.
+
+Nonobstant toute disposition contraire, les volontaires gardent la qualité d'appelé pendant le temps où ils servent au-delà
+de la durée légale. Ils bénéficient de la présomption d'imputabilité prévue à l'article L. 3 du code des pensions militaires
+d'invalidité et des victimes de la guerre.
+
+La période de volontariat entre dans le calcul des pensions de vieillesse. Elle donne droit aux avantages prévus au deuxième
+alinéa de l'article L. 63 et à l'article L. 64 ainsi qu'à une priorité dans l'application des articles L. 65 et L. 66.
+
+La rémunération des appelés dont la demande de volontariat est acceptée et les conditions dans lesquelles un pécule leur est
+attribué en fin de service sont fixées par le décret prévu au dernier alinéa de l'article L. 72.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°61-294 du 31 mars 1961 - art. 8 (Ab)
+  - Code du service national - art. R*201-6 (V)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987) M(Loi 92-9 1992-01-04 art. 30 JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L63 (M)
+  - Code du service national - art. L64 (M)
+  - Code du service national - art. L65 (M)
+  - Code du service national - art. L66 (Ab)
+  - Code du service national - art. L72-1 (Ab)
 
 
 ###### Article L94-10
@@ -2125,9 +3062,139 @@ _Cité par_:
   - Code du service national - art. R*201-20-5 (V)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=26></a>
+###### Article L94-15
 
-##### Section I : Définitions.<a id=27></a>
+Les policiers auxiliaires de la disponibilité et ceux de la réserve, appelés en cas de mobilisation, rappelés ou convoqués
+par application des articles L. 94-13 et L. 94-14, sont considérés sous tous les rapports comme des policiers auxiliaires du
+service actif et soumis, dès lors, à toutes les obligations imposées par les lois et règlements.
+
+Les dispositions du second alinéa de l'article L. 62 leur sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987) M(Loi 92-9 1992-01-04 art. 31 JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L62 (M)
+  - Code du service national - art. L94-13 (M)
+  - Code du service national - art. L94-14 (M)
+
+
+#### Chapitre II ter : Service de sécurité civile.<a id=26></a>
+
+###### Article L94-16
+
+Le service de sécurité civile est placé sous l'autorité du ministre de l'intérieur. Il s'accomplit principalement dans les
+services d'incendie et de secours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 32 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Code du service national - art. L94-20 (V)
+
+
+###### Article L94-17
+
+Les jeunes gens peuvent, sur leur demande, être admis à accomplir le service de sécurité civile en qualité de sapeurs-
+pompiers auxiliaires. Leur nombre ne peut dépasser 10 p. 100 de l'effectif des sapeurs-pompiers professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 32 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Décret n°99-1039 du 10 décembre 1999 - art. 63 (M)
+
+
+###### Article L94-18
+
+Les dispositions des articles L. 94-3 à L. 94-10 sont applicables aux jeunes gens qui effectuent le service de sécurité
+civile.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°61-294 du 31 mars 1961 - art. 8 (Ab)
+  - Décret n°2001-763 du 28 août 2001 - art. 1 (V)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 32 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national L94-3 à L94-10
+
+
+###### Article L94-19
+
+Le service de sécurité civile ne comprend ni disponibilité ni réserve. A l'issue du service actif, les jeunes gens qui ont
+accompli un service de sécurité civile sont versés dans la réserve du service de défense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 32 () JORF 7 janvier 1992
+
+
+###### Article L94-20
+
+Nonobstant les dispositions de l'article L. 94-16, le service de sécurité civile peut être accompli, selon les modalités
+fixées par décret en Conseil d'Etat, par des jeunes gens n'ayant pas la qualité de sapeur-pompier auxiliaire, dans des
+organismes concourant directement à la protection des populations et relevant d'un ministre autre que le ministre de
+l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 32 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L94-16 (M)
+
+
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=27></a>
+
+##### Section I : Définitions.<a id=28></a>
 
 ###### Article L95
 
@@ -2145,9 +3212,30 @@ _Codifié par_:
   - Loi n°71-424 1971-06-10
 
 
-##### Section II : Dispositions communes<a id=28></a>
+###### Article L96
 
-##### Paragraphe 1 : Dispositions générales.<a id=29></a>
+Le service de la coopération fait participer les jeunes Français au développement de pays étrangers. Ceux-ci peuvent être
+affectés dans des entreprises françaises concourant au développement de ces pays.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°65-550 1965-07-09 art. 37
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
+  - Loi n°92-9 du 4 janvier 1992 - art. 33 () JORF 7 janvier 1992
+
+
+##### Section II : Dispositions communes<a id=29></a>
+
+##### Paragraphe 1 : Dispositions générales.<a id=30></a>
 
 ###### Article L97
 
@@ -2172,6 +3260,31 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+
+###### Article L98
+
+Les jeunes gens qui, ayant été admis à accomplir le service de l'aide technique ou le service de la coopération, n'ont pas
+répondu à la convocation du ministre responsable sont soumis aux obligations du service militaire actif pour une durée égale
+à la durée du service dans l'aide technique ou la coopération.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°65-550 1965-07-09 art. 39
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 34 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Code du service national - art. R204 (V)
 
 
 ###### Article L99
@@ -2236,7 +3349,7 @@ _Cite_:
   - Code du service national L150 à L159
 
 
-##### Paragraphe 2 : Droits et obligations.<a id=30></a>
+##### Paragraphe 2 : Droits et obligations.<a id=31></a>
 
 ###### Article L102
 
@@ -2379,7 +3492,130 @@ _Codifié par_:
   - Loi n°71-424 1971-06-10
 
 
-##### Section IV : Dispositions particulières au service de la coopération.<a id=31></a>
+##### Paragraphe 3 : Dispositions diverses.<a id=32></a>
+
+###### Article L109
+
+En cas de faute exclusive de toute faute personnelle, la responsabilité pécuniaire de l'Etat français, ou, le cas échéant
+celle de l'Etat de séjour, est substituée à celle des jeunes gens affectés au service de l'aide technique ou au service de la
+coopération.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-479 1966-07-06 art. 23
+  - Loi n°66-483 1966-07-06 art. 22
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 35 () JORF 7 janvier 1992
+
+
+###### Article L110
+
+En cas d'inaptitude physique médicalement constatée pendant leur service, les jeunes gens affectés au service de l'aide
+technique ou au service de la coopération sont présentés devant la commission de réforme compétente prévue à l'article L. 61
+qui statue sur leur aptitude au service national.
+
+Le jeune homme est mis à la disposition du ministre chargé des armées en vue de terminer, le cas échéant, la durée du service
+militaire s'il est reconnu apte à ce service, cette durée étant, selon le cas, celle fixée au quatrième ou au septième alinéa
+de l'article L. 2.
+
+La jeune femme est libérée de son volontariat sauf si, ayant l'aptitude requise, elle demande à achever son volontariat au
+service militaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-479 1966-07-06 art. 24
+  - Loi n°66-483 1966-07-06 art. 23
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 36 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L2 (M)
+  - Code du service national - art. L61 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R221 (V)
+
+
+###### Article L111
+
+En cas de suppression d'emploi ou si des circonstances autres que celles qui sont prévues à l'article L. 150 conduisent le
+ministre responsable à mettre fin, dans l'intérêt du service, à l'affectation de certains jeunes gens, ceux-ci, s'ils ne
+peuvent recevoir de nouvelle affectation au service de l'aide technique ou au service de la coopération, sont mis à la
+disposition du ministre chargé des armées en vue de terminer, le cas échéant, la durée du service militaire, cette durée
+étant, selon le cas, celle fixée au quatrième ou au septième alinéa de l'article L. 2. Toutefois, les jeunes femmes sont
+libérées de leur volontariat, sauf si, ayant l'aptitude requise, elles demandent à achever leur volontariat au service
+militaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-479 1966-07-06 art. 25
+  - Loi n°66-483 1966-07-06 art. 24
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 37 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L150 (M)
+  - Code du service national - art. L2 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R*232 (V)
+
+
+##### Section III : Dispositions particulières au service de l'aide technique.<a id=33></a>
+
+###### Article L112
+
+En prononçant l'affectation, le ministre des départements et territoires d'outre-mer indique, en cas de besoin, les autorités
+locales dont le jeune homme ou la jeune femme relèvera dans l'accomplissement de sa mission.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-483 1966-07-06 art. 1
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 38 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+
+
+##### Section IV : Dispositions particulières au service de la coopération.<a id=34></a>
 
 ###### Article L113
 
@@ -2430,11 +3666,246 @@ _Codifié par_:
   - Loi n°71-424 1971-06-10
 
 
-## LIVRE II<a id=32></a>
+## LIVRE II<a id=35></a>
 
-### TITRE Ier : Définition et principes du service national<a id=33></a>
+### TITRE Ier : Définition et principes du service national<a id=36></a>
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=34></a>
+#### Chapitre Ier : Dispositions générales.<a id=37></a>
+
+###### Article L5 bis
+
+Un report supplémentaire d'incorporation de deux années scolaires ou universitaires est accordé, sur leur demande, aux jeunes
+gens visés au 2° de l'article L. 5 qui justifient de la poursuite d'études ou de formation professionnelle dans des
+conditions fixées par décret.
+
+Ces demandes de report doivent être déposées par les intéressés au bureau du service national dont ils relèvent, avant le 1er
+octobre de l'année civile au cours de laquelle ils atteignent l'âge de vingt-deux ans.
+
+La durée de ce report supplémentaire est portée à trois années pour les jeunes gens titulaires d'un brevet de préparation
+militaire et à quatre années pour les jeunes gens titulaires d'un brevet de préparation militaire supérieure. Ces jeunes gens
+doivent avoir obtenu les brevets correspondants avant le 1er octobre de l'année civile au cours de laquelle ils atteignent
+l'âge de vingt-quatre ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°82-541 1982-06-29 art. 1 JORF 30 juin 1982
+  - Loi n°89-18 du 13 janvier 1989 - art. 77 () JORF 14 janvier 1989
+  - Loi n°92-9 du 4 janvier 1992 - art. 6 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Code du service national - art. L117 (V)
+  - Code du service national - art. L14 (V)
+  - Code du service national - art. L5 bis A (V)
+  - Code du service national - art. L9 (V)
+  - Code du service national - art. R*73 (V)
+  - Code du service national - art. R*8 (V)
+  - Code du service national - art. R*8-2 (V)
+  - Code du service national - art. R*9-1 (M)
+  - Code du service national - art. R*9-3 (V)
+  - Code du service national - art. R*9-4 (V)
+  - Code du service national - art. R136 (V)
+  - Code du service national - art. R9 (V)
+
+_Cite_:
+
+  - Code du service national - art. L5 (M)
+
+
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=38></a>
+
+###### Article L12
+
+La durée du service actif des jeunes gens qui ont obtenu le bénéfice des dispositions de l'article L. 9 reste celle prévue
+par l'article L. 2 pour la forme de service national à laquelle ils ont postulé :
+
+1° Au cas où, après l'âge de vingt-quatre ans, ils ne poursuivent par les études correspondant à la demande visée au premier
+alinéa de l'article L. 9 ou renoncent au bénéfice des dispositions dudit article ;
+
+2° Au cas où, au moment de leur incorporation, ayant poursuivi leurs études au-delà de vingt-quatre ans, ils ont abandonné le
+cycle d'études correspondant à leur demande, ou n'ont pas obtenu la qualification requise, ou encore refusent l'emploi ou
+l'affectation obtenus.
+
+Toutefois, au cas où ils ne peuvent être affectés à un emploi correspondant à leur qualification, la durée de leur service
+actif est celle qui est fixée pour la forme de service qu'ils effectuent dans les conditions prévues à l'article L. 2.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 7 (Ab)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°73-625 1973-07-10 art. 8 JORF 11 juillet 1973
+  - Loi n°82-541 1982-06-29 art. 3 JORF 30 juin 1982
+  - Loi n°92-9 du 4 janvier 1992 - art. 10 () JORF 7 janvier 1992
+
+_Abrogé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V)
+  - Code du service national - art. L150 (V)
+  - Code du service national - art. R*16 (M)
+  - Code du service national - art. R222 (V)
+
+_Cite_:
+
+  - Code du service national - art. L2 (M)
+  - Code du service national - art. L9 (M)
+
+
+###### Article L13
+
+Les jeunes gens qui sont autorisés à accomplir le service actif au-delà du 31 décembre de l'année civile au cours de laquelle
+ils ont atteint l'âge de vingt-quatre ans renoncent de ce fait au bénéfice des dispenses prévues à l'article L. 32 sauf cas
+d'une exceptionnelle gravité. Le ministre chargé de la défense nationale décide de l'attribution de la dispense.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 9 (Ab)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°73-625 1973-07-10 art. 9 JORF 11 juillet 1973
+  - Loi n°92-9 du 4 janvier 1992 - art. 11 () JORF 7 janvier 1992
+
+_Abrogé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V)
+
+_Cite_:
+
+  - Code du service national - art. L32 (M)
+
+
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=39></a>
+
+###### Article L9
+
+Les jeunes gens qui en font la demande peuvent être appelés soit pour occuper, pendant le temps de leur service militaire
+actif, un emploi dans les organismes d'études, de recherche ou d'enseignement dépendant du ministre de la défense, soit pour
+tenir un emploi au titre du service de l'aide technique ou du service de la coopération.
+
+La définition desdits emplois ainsi que les qualifications professionnelles requises des candidats sont fixées par décret en
+Conseil d'Etat.
+
+Les candidatures sont agréées par les ministres intéressés dans la limite des emplois à pourvoir.
+
+Un report d'incorporation peut être accordé, sur leur demande, aux jeunes gens qui justifient de la poursuite d'études en vue
+de l'obtention de diplômes correspondant aux emplois prévus ci-dessus ; la décision d'agrément des candidatures est prise,
+dans ce cas, par les ministres intéressés après avis d'une commission présidée par un conseiller d'Etat. Le report vient à
+échéance au plus tard le 31 décembre de l'année civile au cours de laquelle les jeunes gens atteignent l'âge de vingt-cinq
+ans.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 4, v. init.
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°73-625 1973-07-10 art. 6 JORF 11 juillet 1973
+  - Loi n°92-9 du 4 janvier 1992 - art. 8 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Décret n°91-255 du 7 mars 1991 - art. 3 (V)
+  - Arrêté du 16 décembre 1993 - art. 13 (V)
+  - Code du service national - art. L11 (M)
+  - Code du service national - art. L117 (M)
+  - Code du service national - art. L12 (Ab)
+  - Code du service national - art. L14 (V)
+  - Code du service national - art. L2 (V)
+  - Code du service national - art. L20 (M)
+  - Code du service national - art. L6 (M)
+  - Code du service national - art. R*23 (V)
+  - Code du service national - art. R*24 (M)
+  - Code du service national - art. R*25 (V)
+  - Code du service national - art. R*26 (V)
+  - Code du service national - art. R*73 (M)
+  - Code du service national - art. R*8-3 (Ab)
+  - Code du service national - art. R14 (V)
+  - Code du service national - art. R15-1 (M)
+
+
+###### Article L10
+
+Les jeunes gens qui justifient de la poursuite d'un cycle d'études en vue de l'obtention de l'un des titres requis pour
+l'exercice de la profession de médecin, de pharmacien, de vétérinaire ou de chirurgien-dentiste peuvent, sur leur demande,
+bénéficier d'un report spécial d'incorporation.
+
+Ce report d'incorporation vient à échéance au plus tard le 31 décembre de l'année civile au cours de laquelle ils atteignent
+l'âge de vingt-sept ans.
+
+Les jeunes gens mentionnés au présent article qui, au moment de leur incorporation, sont titulaires du titre requis sont
+affectés, dans la limite des emplois budgétaires disponibles, en qualité de médecin, vétérinaire, pharmacien ou de
+chirurgien-dentiste à l'une des formes du service national actif.
+
+Au moment de leur incorporation, ces jeunes gens sont tenus de présenter à l'autorité responsable de leur incorporation les
+diplômes et documents justifiant les qualifications dont ils sont titulaires et de fournir toutes informations relatives aux
+enseignements dont ils ont bénéficié et à la nature et au niveau de la formation qu'ils ont acquise.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 5 (Ab)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°73-625 1973-07-10 art. 7 JORF 11 juillet 1973
+  - Loi n°82-541 1982-06-29 art. 2 JORF 30 juin 1982
+  - Loi n°92-9 du 4 janvier 1992 - art. 9 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 1 décembre 1992 - art. 1 (V)
+  - Décret n°93-54 du 15 janvier 1993 - art. ANNEXE V (V)
+  - Décret n°94-23 du 11 janvier 1994 - art. annexe (V)
+  - Code du service national - art. L11 (V)
+  - Code du service national - art. L117 (V)
+  - Code du service national - art. L14 (V)
+  - Code du service national - art. L2 (V)
+  - Code du service national - art. L20 (V)
+  - Code du service national - art. L30 (Ab)
+  - Code du service national - art. L7 (V)
+  - Code du service national - art. R*73 (V)
+  - Code du service national - art. R*8-2 (V)
+  - Code du service national - art. R14 (V)
+
 
 ###### Article L11
 
@@ -2489,13 +3960,29 @@ _Codifié par_:
   - Loi n°71-424 1971-06-10
 
 
-### TITRE III : Dispositions particulières aux différentes formes du service national<a id=35></a>
+### TITRE IV : Dispositions pénales et disciplinaires<a id=40></a>
 
-#### Chapitre IV : Service des objecteurs de conscience.<a id=36></a>
+#### Chapitre Ier : Dispositions générales<a id=41></a>
 
-###### Article L116-6
+##### Section I : Dispositions pénales<a id=42></a>
 
-La durée du service actif des jeunes gens visés au présent chapitre est de vingt-quatre mois.
+##### Paragraphe 1er : Fraudes.<a id=43></a>
+
+###### Article L117
+
+Sont punies d'un emprisonnement d'un mois à un an toutes fraudes ou manoeuvres par suite desquelles un jeune homme a été omis
+sur les listes de recensement.
+
+Sont punis de la même peine :
+
+1° Les jeunes gens qui se rendent coupables d'un refus concerté de participer aux opérations prévues à l'article L. 23 ;
+
+2° Les jeunes gens qui, par fraude ou manoeuvres, se font dispenser, exempter ou réformer d'une manière définitive ou
+obtiennent ou tentent d'obtenir l'application des articles L. 5 bis, L. 9 et L. 10, sans préjudice de peines plus graves en
+cas de faux.
+
+Les jeunes gens exemptés sont considérés d'office comme aptes au service national dès qu'il est reconnu que leur exemption a
+été frauduleusement obtenue.
 
 **Liens relatifs à cet article**
 
@@ -2503,22 +3990,23 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983) A(Loi 92-9 1992-01-04 art. 3 JORF 7 janvier 1992
+  - Loi n°92-9 du 4 janvier 1992 - art. 40 () JORF 7 janvier 1992
 
-_Abrogé par_:
+_Cite_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 3
+  - Code du service national - art. L10 (M)
+  - Code du service national - art. L23 (M)
+  - Code du service national - art. L5 bis (M)
+  - Code du service national - art. L9 (M)
 
+_Anciens textes_:
 
-### TITRE IV : Dispositions pénales et disciplinaires<a id=37></a>
+  - Loi n°1928-03-31 art. 86
+  - Loi n°1932-12-13 art. 95
+  - Ordonnance 60-257 1960-03-25 art. 6
 
-#### Chapitre Ier : Dispositions générales<a id=38></a>
-
-##### Section I : Dispositions pénales<a id=39></a>
-
-##### Paragraphe 1er : Fraudes.<a id=40></a>
 
 ###### Article L118
 
@@ -2643,7 +4131,7 @@ _Codifié par_:
   - Loi n°71-424 1971-06-10
 
 
-##### Paragraphe 2 : Insoumission.<a id=41></a>
+##### Paragraphe 2 : Insoumission.<a id=44></a>
 
 ###### Article L122
 
@@ -2951,7 +4439,7 @@ _Cite_:
   - Code du service national - art. L130 (M)
 
 
-##### Paragraphe 3 : Provocation.<a id=42></a>
+##### Paragraphe 3 : Provocation.<a id=45></a>
 
 ###### Article L132
 
@@ -2985,7 +4473,7 @@ _Abrogé par_:
   - Loi n°92-1336 du 16 décembre 1992 - art. 233 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
-##### Paragraphe 4 : Infractions aux obligations dans la réserve.<a id=43></a>
+##### Paragraphe 4 : Infractions aux obligations dans la réserve.<a id=46></a>
 
 ###### Article L133
 
@@ -3045,7 +4533,7 @@ _Cite_:
   - Code du service national - art. L133 (M)
 
 
-##### Section II : Dispositions disciplinaires et administratives.<a id=44></a>
+##### Section II : Dispositions disciplinaires et administratives.<a id=47></a>
 
 ###### Article L135
 
@@ -3117,7 +4605,7 @@ _Cite_:
   - Code du service national - art. L126 (M)
 
 
-#### Chapitre II : Dispositions particulières au service militaire.<a id=45></a>
+#### Chapitre II : Dispositions particulières au service militaire.<a id=48></a>
 
 ###### Article L137
 
@@ -3161,7 +4649,36 @@ _Modifié par_:
   - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
 
 
-#### Chapitre III : Dispositions particulières au service de défense.<a id=46></a>
+#### Chapitre III : Dispositions particulières au service de défense.<a id=49></a>
+
+###### Article L138
+
+Les dispositions de l'article L. 149-1 s'appliquent aux assujettis au service de défense. En outre, ceux qui sont affectés à
+une administration ou à une entreprise sont assujettis à la discipline propre de cette administration ou de cette entreprise.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 59-147 1959-01-07 art. 38
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 41 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national - art. L149-1 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R*167 (Ab)
+  - Code du service national - art. R78 (Ab)
+
 
 ###### Article L139
 
@@ -3465,7 +4982,7 @@ _Cite_:
   - Code de justice militaire - art. 448 (Ab)
 
 
-#### Chapitre III bis : Dispositions particulières au service dans la police nationale.<a id=47></a>
+#### Chapitre III bis : Dispositions particulières au service dans la police nationale.<a id=50></a>
 
 ###### Article L149-1
 
@@ -3746,7 +5263,66 @@ _Cite_:
   - Code de justice militaire - art. 94 (Ab)
 
 
-#### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.<a id=48></a>
+#### Chapitre III ter : Dispositions particulières au service de sécurité civile.<a id=51></a>
+
+###### Article L149-11
+
+Les dispositions des articles L. 149-1 à L. 149-10 s'appliquent aux jeunes gens qui effectuent le service de sécurité civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 42 () JORF 7 janvier 1992
+
+_Cite_:
+
+  - Code du service national L149-1 à L149-10
+
+
+#### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.<a id=52></a>
+
+###### Article L150
+
+Les jeunes gens affectés au service de l'aide technique ou au service de la coopération peuvent faire l'objet d'une mesure de
+rappel en métropole avant l'expiration de la durée de leur service actif.
+
+Ce rappel est motivé soit par l'inadaptation du jeune homme à l'emploi qu'il occupe, soit par la demande de rapatriement
+présentée par écrit par l'intéressé, soit par l'impossibilité de le maintenir sur place quand il a fait l'objet d'une
+sanction prévue par l'article L. 151 ci-dessous.
+
+Le volontaire ainsi rappelé en métropole est tenu d'achever, dans une formation militaire ou autre, les seize mois de service
+actif prévus par l'article L. 12 pour le service de l'aide technique ou le service de la coopération.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-479 1966-07-06 art. 13
+  - Loi n°66-483 1966-07-06 art. 12
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°92-9 du 4 janvier 1992 - art. 43 () JORF 7 janvier 1992
+
+_Cité par_:
+
+  - Code du service national - art. L111 (V)
+  - Code du service national - art. R*232 (V)
+
+_Cite_:
+
+  - Code du service national - art. L12 (Ab)
+  - Code du service national - art. L151 (M)
+
 
 ###### Article L151
 
@@ -3999,15 +5575,15 @@ _Cite_:
   - Code de justice militaire - art. 465 (M)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=49></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=53></a>
 
-## TITRE I : Définition et principes du service national<a id=50></a>
+## TITRE I : Définition et principes du service national<a id=54></a>
 
-### CHAPITRE I : Dispositions générales<a id=51></a>
+### CHAPITRE I : Dispositions générales<a id=55></a>
 
-#### SECTION I : Appel avancé et report d'incorporation<a id=52></a>
+#### SECTION I : Appel avancé et report d'incorporation<a id=56></a>
 
-##### PARAGRAPHE 1 : Appel avancé.<a id=53></a>
+##### PARAGRAPHE 1 : Appel avancé.<a id=57></a>
 
 ###### Article R*1
 
@@ -4106,7 +5682,7 @@ _Cite_:
   - Code du service national - art. R2 (M)
 
 
-##### PARAGRAPHE 2 : Report d'incorporation.<a id=54></a>
+##### PARAGRAPHE 2 : Report d'incorporation.<a id=58></a>
 
 ###### Article R*5
 
@@ -4481,7 +6057,7 @@ _Cite_:
   - Code du service national - art. L5 bis (M)
 
 
-##### PARAGRAPHE 3 : Dispositions communes.<a id=55></a>
+##### PARAGRAPHE 3 : Dispositions communes.<a id=59></a>
 
 ###### Article R*11
 
@@ -4537,7 +6113,7 @@ _Cite_:
   - Code du service national R7, R10
 
 
-#### SECTION II : Composition et appel du contingent.<a id=56></a>
+#### SECTION II : Composition et appel du contingent.<a id=60></a>
 
 ###### Article R*15
 
@@ -4978,7 +6554,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Dispositions particulières a certains emplois du service national.<a id=57></a>
+### CHAPITRE II : Dispositions particulières a certains emplois du service national.<a id=61></a>
 
 ###### Article R*23
 
@@ -5187,11 +6763,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-## TITRE II : Dispositions communes aux différentes formes du service national<a id=58></a>
+## TITRE II : Dispositions communes aux différentes formes du service national<a id=62></a>
 
-### CHAPITRE I : Recensement  - sélection<a id=59></a>
+### CHAPITRE I : Recensement  - sélection<a id=63></a>
 
-#### SECTION I : Recensement.<a id=60></a>
+#### SECTION I : Recensement.<a id=64></a>
 
 ###### Article R*28
 
@@ -5570,7 +7146,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Sélection.<a id=61></a>
+#### SECTION II : Sélection.<a id=65></a>
 
 ###### Article R*40
 
@@ -5868,11 +7444,11 @@ _Cite_:
   - Code du service national R44
 
 
-### CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=62></a>
+### CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=66></a>
 
-#### SECTION I : Dispenses<a id=63></a>
+#### SECTION I : Dispenses<a id=67></a>
 
-##### PARAGRAPHE 1 : Soutiens de famille.<a id=64></a>
+##### PARAGRAPHE 1 : Soutiens de famille.<a id=68></a>
 
 ###### Article R*55
 
@@ -6300,7 +7876,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise.<a id=65></a>
+##### PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise.<a id=69></a>
 
 ###### Article R*68-1
 
@@ -6439,7 +8015,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### PARAGRAPHE 3 : Résidence à l'étranger.<a id=66></a>
+##### PARAGRAPHE 3 : Résidence à l'étranger.<a id=70></a>
 
 ###### Article R*69
 
@@ -6723,7 +8299,7 @@ _Cite_:
   - Code du service national R69 à R76
 
 
-#### SECTION III : Condamnés.<a id=67></a>
+#### SECTION III : Condamnés.<a id=71></a>
 
 ###### Article R*98
 
@@ -6834,7 +8410,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-### CHAPITRE III : Réforme pour inaptitude physique.<a id=68></a>
+### CHAPITRE III : Réforme pour inaptitude physique.<a id=72></a>
 
 ###### Article R101
 
@@ -6961,7 +8537,7 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
-### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.<a id=69></a>
+### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.<a id=73></a>
 
 ###### Article R*105
 
@@ -7119,13 +8695,13 @@ _Cite_:
   - Code du service national R108
 
 
-## TITRE III : Dispositions particulières aux différentes formes du service national<a id=70></a>
+## TITRE III : Dispositions particulières aux différentes formes du service national<a id=74></a>
 
-### CHAPITRE I : Service militaire<a id=71></a>
+### CHAPITRE I : Service militaire<a id=75></a>
 
-#### SECTION I : Service militaire actif<a id=72></a>
+#### SECTION I : Service militaire actif<a id=76></a>
 
-##### PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=73></a>
+##### PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=77></a>
 
 ###### Article R110
 
@@ -7497,7 +9073,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Service militaire actif fractionné.<a id=74></a>
+##### PARAGRAPHE 2 : Service militaire actif fractionné.<a id=78></a>
 
 ###### Article R123
 
@@ -7598,7 +9174,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Gendarmes auxiliaires.<a id=75></a>
+##### PARAGRAPHE 3 : Gendarmes auxiliaires.<a id=79></a>
 
 ###### Article R*127
 
@@ -7747,9 +9323,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Recrutement des cadres de réserve du service militaire<a id=76></a>
+#### SECTION II : Recrutement des cadres de réserve du service militaire<a id=80></a>
 
-##### PARAGRAPHE 1 : Préparation au service militaire.<a id=77></a>
+##### PARAGRAPHE 1 : Préparation au service militaire.<a id=81></a>
 
 ###### Article R133
 
@@ -7918,7 +9494,7 @@ _Cite_:
   - Code du service national R133 à R138
 
 
-##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=78></a>
+##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=82></a>
 
 ###### Article R140
 
@@ -8060,7 +9636,7 @@ _Cite_:
   - Code du service national R140 à R143
 
 
-##### PARAGRAPHE 3 : Nomination dans les cadres.<a id=79></a>
+##### PARAGRAPHE 3 : Nomination dans les cadres.<a id=83></a>
 
 ###### Article R145
 
@@ -8164,11 +9740,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Service de défense<a id=80></a>
+### CHAPITRE II : Service de défense<a id=84></a>
 
-#### SECTION I : Affectation de défense<a id=81></a>
+#### SECTION I : Affectation de défense<a id=85></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=82></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=86></a>
 
 ###### Article R*149
 
@@ -8311,7 +9887,7 @@ _Cite_:
   - Code du service national R151
 
 
-##### PARAGRAPHE 2 : Affectation individuelle de défense.<a id=83></a>
+##### PARAGRAPHE 2 : Affectation individuelle de défense.<a id=87></a>
 
 ###### Article R*154
 
@@ -8583,7 +10159,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Affectation collective de défense.<a id=84></a>
+##### PARAGRAPHE 3 : Affectation collective de défense.<a id=88></a>
 
 ###### Article R*163
 
@@ -8686,7 +10262,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Statut de défense.<a id=85></a>
+#### SECTION II : Statut de défense.<a id=89></a>
 
 ###### Article R*167
 
@@ -8719,7 +10295,7 @@ _Cite_:
   - Code du service national - art. L94 (M)
 
 
-##### PARAGRAPHE 1 : Régime administratif et social.<a id=86></a>
+##### PARAGRAPHE 1 : Régime administratif et social.<a id=90></a>
 
 ###### Article R*168
 
@@ -8911,7 +10487,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Régime disciplinaire.<a id=87></a>
+##### PARAGRAPHE 2 : Régime disciplinaire.<a id=91></a>
 
 ###### Article R*175
 
@@ -9019,7 +10595,7 @@ _Cite_:
   - Code du service national R176, R175, R177
 
 
-##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.<a id=88></a>
+##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.<a id=92></a>
 
 ###### Article R*179
 
@@ -9230,7 +10806,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION III : Dispositions particulières.<a id=89></a>
+#### SECTION III : Dispositions particulières.<a id=93></a>
 
 ###### Article R*186
 
@@ -9356,7 +10932,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION IV : Modalités d'adaptation aux départements d'outre-mer.<a id=90></a>
+#### SECTION IV : Modalités d'adaptation aux départements d'outre-mer.<a id=94></a>
 
 ###### Article R*190
 
@@ -9488,7 +11064,7 @@ _Cite_:
   - Code du service national R174
 
 
-#### SECTION V : Modalités d'adaptation aux territoires d'outre-mer.<a id=91></a>
+#### SECTION V : Modalités d'adaptation aux territoires d'outre-mer.<a id=95></a>
 
 ###### Article R*195
 
@@ -9668,9 +11244,9 @@ _Cite_:
   - Code du service national R195, R186
 
 
-### CHAPITRE II bis : Service dans la police nationale<a id=92></a>
+### CHAPITRE II bis : Service dans la police nationale<a id=96></a>
 
-#### PARAGRAPHE 1 : Dispositions générales.<a id=93></a>
+#### PARAGRAPHE 1 : Dispositions générales.<a id=97></a>
 
 ###### Article R*201-1
 
@@ -9817,7 +11393,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 2 : Permissions.<a id=94></a>
+#### PARAGRAPHE 2 : Permissions.<a id=98></a>
 
 ###### Article R*201-8
 
@@ -9883,7 +11459,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 3 : Discipline.<a id=95></a>
+#### PARAGRAPHE 3 : Discipline.<a id=99></a>
 
 ###### Article R*201-12
 
@@ -9911,7 +11487,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 4 : Soins.<a id=96></a>
+#### PARAGRAPHE 4 : Soins.<a id=100></a>
 
 ###### Article R*201-13
 
@@ -9929,7 +11505,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 5 : Inaptitude.<a id=97></a>
+#### PARAGRAPHE 5 : Inaptitude.<a id=101></a>
 
 ###### Article R*201-14
 
@@ -9968,7 +11544,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 6 : Solde et indemnités.<a id=98></a>
+#### PARAGRAPHE 6 : Solde et indemnités.<a id=102></a>
 
 ###### Article R*201-16
 
@@ -9996,7 +11572,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 7 : Libération du service actif.<a id=99></a>
+#### PARAGRAPHE 7 : Libération du service actif.<a id=103></a>
 
 ###### Article R*201-17
 
@@ -10032,11 +11608,11 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=100></a>
+### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=104></a>
 
-#### SECTION I : Dispositions communes<a id=101></a>
+#### SECTION I : Dispositions communes<a id=105></a>
 
-##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=102></a>
+##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=106></a>
 
 ###### Article R202
 
@@ -10143,7 +11719,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Indemnités.<a id=103></a>
+##### PARAGRAPHE 2 : Indemnités.<a id=107></a>
 
 ###### Article R206
 
@@ -10269,7 +11845,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Discipline.<a id=104></a>
+##### PARAGRAPHE 3 : Discipline.<a id=108></a>
 
 ###### Article R210
 
@@ -10307,7 +11883,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Permissions.<a id=105></a>
+##### PARAGRAPHE 4 : Permissions.<a id=109></a>
 
 ###### Article R211
 
@@ -10482,7 +12058,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Soins médicaux.<a id=106></a>
+##### PARAGRAPHE 5 : Soins médicaux.<a id=110></a>
 
 ###### Article R218
 
@@ -10563,7 +12139,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 2 JORF 2 septembre 1975
 
 
-##### PARAGRAPHE 6 : Inaptitude physique.<a id=107></a>
+##### PARAGRAPHE 6 : Inaptitude physique.<a id=111></a>
 
 ###### Article R221
 
@@ -10590,7 +12166,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### PARAGRAPHE 7 : Libération du service actif.<a id=108></a>
+##### PARAGRAPHE 7 : Libération du service actif.<a id=112></a>
 
 ###### Article R222
 
@@ -10642,7 +12218,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=109></a>
+#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=113></a>
 
 ###### Article R224
 
@@ -10695,7 +12271,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
 
 
-#### SECTION III : Dispositions particulières au service de la coopération.<a id=110></a>
+#### SECTION III : Dispositions particulières au service de la coopération.<a id=114></a>
 
 ###### Article R226
 
@@ -10756,7 +12332,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE IV : Service des objecteurs de conscience.<a id=111></a>
+### CHAPITRE IV : Service des objecteurs de conscience.<a id=115></a>
 
 ###### Article R227-1
 
@@ -10781,7 +12357,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-#### PARAGRAPHE 1 : Rattachement et affectation.<a id=112></a>
+#### PARAGRAPHE 1 : Rattachement et affectation.<a id=116></a>
 
 ###### Article R227-2
 
@@ -10812,7 +12388,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-#### PARAGRAPHE 2 : Devoirs et obligations.<a id=113></a>
+#### PARAGRAPHE 2 : Devoirs et obligations.<a id=117></a>
 
 ###### Article R227-3
 
@@ -10839,7 +12415,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 3 : Discipline.<a id=114></a>
+#### PARAGRAPHE 3 : Discipline.<a id=118></a>
 
 ###### Article R227-4
 
@@ -10938,7 +12514,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 4 : Permissions.<a id=115></a>
+#### PARAGRAPHE 4 : Permissions.<a id=119></a>
 
 ###### Article R227-10
 
@@ -11020,7 +12596,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 5 : Habilitation des organismes.<a id=116></a>
+#### PARAGRAPHE 5 : Habilitation des organismes.<a id=120></a>
 
 ###### Article R227-15
 
@@ -11106,7 +12682,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=117></a>
+#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=121></a>
 
 ###### Article R227-19
 
@@ -11158,7 +12734,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-## TITRE IV : Service féminin.<a id=118></a>
+## TITRE IV : Service féminin.<a id=122></a>
 
 ###### Article R*228
 
@@ -11299,7 +12875,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-## TITRE V : Dispositions communes aux formes civiles du service national<a id=119></a>
+## TITRE V : Dispositions communes aux formes civiles du service national<a id=123></a>
 
 ###### Article R*234
 
@@ -11332,7 +12908,7 @@ _Cite_:
   - Code du service national R110 à R114, R116 à R118, R120
 
 
-# Annexes<a id=120></a>
+# Annexes<a id=124></a>
 
 ###### Article ANNEXE II
 
