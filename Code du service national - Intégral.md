@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1972-09-02
+Version Consolidée au 1973-02-24
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -64,7 +64,7 @@ Version Consolidée au 1972-09-02
       - [CHAPITRE I : Service militaire (art. R110 à R148)](#61)
         - [SECTION I : Service militaire actif (art. R110 à R*132)](#62)
           - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#63)
-          - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R124 à R126)](#64)
+          - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R123 à R126)](#64)
           - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*129 à R*132)](#65)
         - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R135 à R148)](#66)
           - [PARAGRAPHE 1 : Préparation au service militaire. (art. R135 à R139)](#67)
@@ -4949,6 +4949,39 @@ _Cité par_:
 
 ##### PARAGRAPHE 2 : Service militaire actif fractionné.<a id=64></a>
 
+###### Article R123
+
+Le service militaire actif fractionné visé à l'article L. 72, 2e alinéa, comporte :
+
+1. Dans l'armée de terre, une période de formation d'une durée de huit mois et une ou plusieurs périodes d'entretien dont la
+durée totale ne peut excéder quatre mois ;
+
+2. Dans l'armée de mer, une période de formation d'une durée minimum de trois mois et une ou plusieurs périodes d'entretien
+d'une durée maximum de neuf mois, la durée de chacune de ces dernières ne pouvant ^etre inférieure à trois mois.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-219 1972-03-22 art. 1
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L72 (M)
+
+_Modifié par_:
+
+  - Décret n°73-182 1973-02-22 art. 1 JORF 24 février 1973
+
+_Abrogé par_:
+
+  - Décret n°92-1250 du 1 décembre 1992 - art. 28 (V) JORF 3 décembre 1992
+
+
 ###### Article R124
 
 Les périodes d'entretien sont accomplies au cours des cinq années à compter de la date d'entrée au service militaire actif.
@@ -4966,6 +4999,26 @@ _Abrogé par_:
 _Codifié par_:
 
   - Décret n°72-806 1972-08-31
+
+
+###### Article R125
+
+Le service militaire actif fractionné peut ^etre effectué dans deux unités de l'armée de terre ou dans soixante unités
+navales de défense maritime du territoire désignées par le ministre chargé de la défense nationale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-219 1972-03-22 art. 3
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Modifié par_:
+
+  - Décret n°73-182 1973-02-22 art. 2 JORF 24 février 1973
 
 
 ###### Article R126
