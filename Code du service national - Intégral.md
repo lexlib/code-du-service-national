@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1978-03-29
+Version Consolidée au 1978-08-06
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -55,13 +55,13 @@ Version Consolidée au 1978-03-29
       - [CHAPITRE I : Recensement  - sélection (art. R*29 à R*50)](#52)
         - [SECTION I : Recensement. (art. R*29 à R*39)](#53)
         - [SECTION II : Sélection. (art. R*40 à R*50)](#54)
-      - [CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. R*55 à R*100)](#55)
+      - [CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. R*55 à R*100-1)](#55)
         - [SECTION I : Dispenses (art. R*55 à R77)](#56)
           - [PARAGRAPHE 1 : Soutiens de famille. (art. R*55 à R*68)](#57)
           - [PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-5)](#58)
           - [PARAGRAPHE 3 : Résidence à l'étranger. (art. R*69 à R77)](#59)
         - [SECTION II : Objecteurs de conscience. (art. R78 à R97)](#60)
-        - [SECTION III : Condamnés. (art. R*98 à R*100)](#61)
+        - [SECTION III : Condamnés. (art. R*98 à R*100-1)](#61)
       - [CHAPITRE III : Réforme pour inaptitude physique. (art. R103)](#62)
       - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#63)
     - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R226)](#64)
@@ -5423,6 +5423,34 @@ _Codifié par_:
 _Cité par_:
 
   - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. L54 (M)
+  - Code du service national - art. L55 (M)
+
+
+###### Article R*100-1
+
+Pour l'application dans les territoires d'outre-mer des dispositions des articles L. 54 et L. 55 du code du service national,
+le comité d'assistance est présidé par un magistrat du siège désigné annuellement :
+
+Par le président de la cour d'appel, pour la Nouvelle-Calédonie et les îles Wallis-et-Futuna ;
+
+Par le président du tribunal supérieur d'appel, pour la Polynésie française.
+
+Le comité d'assistance comprend des délégués à l'assistance nommés à raison de leur compétence par le président de la cour
+d'appel ou du tribunal supérieur d'appel sur proposition du président du comité d'assistance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-823 1978-08-02 art. 1 JORF 6 août 1978
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
 
 _Cite_:
 
