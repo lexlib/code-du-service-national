@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2003-08-05
+Version Consolidée au 2004-02-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L122-21)](#2)
@@ -11470,17 +11470,20 @@ _Cite_:
 
 Le report d'incorporation prévu à l'article L. 5, alinéa 2 (2°), le report supplémentaire prévu au premier alinéa de
 l'article L. 5 bis et ses prolongations éventuelles ainsi que le report spécial prévu à l'article L. 10 sont accordés par le
-ministre chargé des armées ou par les commandants de bureau ou de centre du service national, par délégation.
+ministre de la défense ou par les commandants de bureau ou de centre du service national, par délégation.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -11991,8 +11994,8 @@ _Cite_:
 
 ###### Article R*18
 
-L'appel du contingent au service national actif dans toutes ses formes incombe au ministre chargé des armées en accord, le
-cas échéant, avec le ministre responsable d'une forme civile du service national.
+L'appel du contingent au service national actif dans toutes ses formes incombe au ministre de la défense en accord, le cas
+échéant, avec le ministre responsable d'une forme civile du service national.
 
 **Liens relatifs à cet article**
 
@@ -12002,11 +12005,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -12198,7 +12197,7 @@ _Codifié par_:
 ###### Article R15-3
 
 La commission interministérielle des formes civiles du service national comprend un président et quatre membres désignés par
-le Premier ministre ; deux des membres de la commission sont désignés sur proposition du ministre chargé des armées.
+le Premier ministre ; deux des membres de la commission sont désignés sur proposition du ministre de la défense.
 
 Le ministre de l'intérieur, le ministre des affaires étrangères, le ministre chargé des affaires sociales, le ministre chargé
 de l'environnement, le ministre chargé de la forêt, le ministre chargé du commerce extérieur, le ministre chargé de la
@@ -12211,16 +12210,18 @@ Le président et les membres sont nommés pour trois ans.
 
 Le président de la commission peut convoquer toute personne dont l'audition serait utile aux travaux de la commission.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -12233,7 +12234,7 @@ L'appel des jeunes gens d'un même contingent a lieu, sous réserve des disposit
 partir des 1er février, 1er avril, 1er juin, 1er août, 1er octobre et 1er décembre. La durée du service est décomptée à
 partir de chacune de ces dates.
 
-Toutefois, lorsque les besoins des différentes formes du service national le justifient, le ministre chargé des armées peut
+Toutefois, lorsque les besoins des différentes formes du service national le justifient, le ministre de la défense peut
 avancer ou reculer les dates d'appel et de départ des services des jeunes gens dans la limite de quarante-cinq jours.
 
 Pour les jeunes gens recrutés dans les départements et territoires d'outre-mer, les dates d'appel et de départ des services
@@ -12247,11 +12248,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -15134,7 +15131,7 @@ La commission délibère en nombre impair ; ses décisions sont prises à la maj
 
 Ses membres sont tenus au secret des délibérations.
 
-Le ministre chargé des armées désigne le secrétaire de la commission.
+Le ministre de la défense désigne le secrétaire de la commission.
 
 **Liens relatifs à cet article**
 
@@ -15144,11 +15141,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -15165,7 +15158,7 @@ _Cite_:
 
 ###### Article R*99
 
-La commission juridictionnelle est saisie par le ministre chargé des armées.
+La commission juridictionnelle est saisie par le ministre de la défense.
 
 L'instruction est dirigée par le président de la commission et la procédure est contradictoire.
 
@@ -15182,11 +15175,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -15339,7 +15328,7 @@ _Cite_:
 
 La composition des commissions de réforme du service national est fixée comme suit :
 
-Un médecin chef des services ou un médecin en chef, président désigné par le ministre chargé des armées ;
+Un médecin chef des services ou un médecin en chef, président désigné par le ministre de la défense ;
 
 Un médecin principal ou un médecin désigné par le directeur régional du service de santé des armées ;
 
@@ -15357,11 +15346,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -15921,7 +15906,7 @@ _Cite_:
 
 La commission prévue à l'article R. 115 est composée ainsi qu'il suit :
 
-Un représentant du ministre chargé des armées ;
+Un représentant du ministre de la défense ;
 
 Un médecin des armées en fonctions à la caisse nationale militaire de la sécurité sociale ;
 
@@ -15933,16 +15918,9 @@ Un représentant du service de l'action sociale des armées.
 
 L'officier le plus ancien en grade préside la commission ; sa voix est prépondérante en cas de partage des voix.
 
-Les membres de la commission et leurs suppléants sont désignés par le ministre chargé des armées.
+Les membres de la commission et leurs suppléants sont désignés par le ministre de la défense.
 
 Le contrôleur financier ou son représentant peut participer aux séances avec voix consultative.
-
-**Nota:**
-
-Décret n° 98-180 du 17 mars 1998 art. 5 : 
-
-Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
-aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -15952,11 +15930,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -16649,7 +16623,7 @@ conditions d'aptitude au service national, admis d'office au cycle de formation 
 santé.
 
 Ce cycle comprend une période de formation initiale et une période d'application dont les modalités sont fixées par un arrêté
-du ministre chargé des armées.
+du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -16659,11 +16633,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -17795,8 +17765,8 @@ _Codifié par_:
 ###### Article R*201-22
 
 Les candidatures sont déposées par les intéressés auprès du bureau ou du centre du service national dont ils relèvent. Le
-ministre chargé des armées, sous réserve des dispositions de l'article L. 6, transmet les candidatures au ministre chargé de
-la sécurité civile.
+ministre de la défense, sous réserve des dispositions de l'article L. 6, transmet les candidatures au ministre chargé de la
+sécurité civile.
 
 Lorsque leur demande est agréée par ce ministre, les jeunes gens sont mis pour emploi à sa disposition. Ils reçoivent une
 affectation, selon les modalités qui sont déterminées par le ministre :
@@ -17821,11 +17791,7 @@ enregistrés sur les contrôles de l'administration.
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
@@ -20479,22 +20445,24 @@ _Codifié par_:
 
 ###### Article R227-20
 
-En temps de guerre, les objecteurs de conscience peuvent demander au ministre chargé des armées leur incorporation dans une
+En temps de guerre, les objecteurs de conscience peuvent demander au ministre de la défense leur incorporation dans une
 formation militaire.
 
 Cette demande vaut renonciation au bénéfice des dispositions du chapitre IV du titre III du livre II de la partie législative
 du code du service national.
 
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Codifié par_:
 
