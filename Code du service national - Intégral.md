@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1975-09-02
+Version Consolidée au 1975-09-07
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -66,16 +66,16 @@ Version Consolidée au 1975-09-02
           - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#63)
           - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R123 à R126)](#64)
           - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*129 à R*132)](#65)
-        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R135 à R148)](#66)
-          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R135 à R139)](#67)
-          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R144)](#68)
+        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#66)
+          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#67)
+          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R141 à R144)](#68)
           - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R147 à R148)](#69)
       - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#70)
         - [SECTION I : Affectation de défense (art. R*149 à R*166)](#71)
           - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#72)
           - [PARAGRAPHE 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#73)
           - [PARAGRAPHE 3 : Affectation collective de défense. (art. R*163 à R*166)](#74)
-        - [SECTION II : Statut de défense. (art. R*168 à R*185)](#75)
+        - [SECTION II : Statut de défense. (art. R*167 à R*185)](#75)
           - [PARAGRAPHE 1 : Régime administratif et social. (art. R*168 à R*174)](#76)
           - [PARAGRAPHE 2 : Régime disciplinaire. (art. R*175 à R*178)](#77)
           - [PARAGRAPHE 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#78)
@@ -5271,6 +5271,58 @@ _Cité par_:
 
 ##### PARAGRAPHE 1 : Préparation au service militaire.<a id=67></a>
 
+###### Article R133
+
+Les jeunes gens peuvent recevoir avant leur appel sous les drapeaux une préparation au service militaire sous l'une des
+formes suivantes :
+
+- préparation militaire ;
+
+- préparation militaire parachutiste ;
+
+- préparation militaire supérieure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Modifié par_:
+
+  - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
+
+
+###### Article R134
+
+La préparation militaire a pour but de donner aux jeunes gens une formation physique et technique qui les prépare à tenir des
+emplois d'encadrement ou de spécialités.
+
+L'instruction est donnée par des sociétés de préparation militaire et des cadres de réserve volontaires agréés par l'autorité
+militaire.
+
+Un examen de fin de préparation est organisé pour la délivrance d'un brevet de préparation militaire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 16 décembre 1993 - art. 8 (V)
+  - Code du service national - art. ANNEXE I (V)
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Modifié par_:
+
+  - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
+
+
 ###### Article R135
 
 La préparation militaire parachutiste a pour but d'assurer le recrutement de jeunes gens aptes à servir dans les troupes
@@ -5351,6 +5403,35 @@ _Cite_:
 
 
 ##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=68></a>
+
+###### Article R141
+
+Les jeunes gens titulaires du brevet de préparation militaire ou du brevet de préparation militaire parachutiste qui, au
+cours de leurs activités préliminaires, ont été jugés aptes à recevoir la formation d'élève officier de réserve peuvent ^etre
+admis soit à la préparation militaire supérieure, soit au cycle préparatoire visés à l'article R. 140 (2°).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. R140 (M)
+
+_Anciens textes_:
+
+  - Décret n°71-820 1971-09-23 art. 2 et art. 6
+
+_Modifié par_:
+
+  - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
+
 
 ###### Article R144
 
@@ -5863,6 +5944,37 @@ _Cité par_:
 
 
 #### SECTION II : Statut de défense.<a id=75></a>
+
+###### Article R*167
+
+Lorsqu'ils sont appelés à leur emploi de défense en exécution de l'article L. 94, les affectés de défense sont régis par le
+statut de défense défini par les articles L. 88, L. 138 et L. 139 et par la présente section.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°62-1386 1962-11-23 art. 22
+
+_Modifié par_:
+
+  - Décret n°75-828 1975-09-02 art. 3 JORF 7 septembre 1975
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. L138 (M)
+  - Code du service national - art. L139 (M)
+  - Code du service national - art. L88 (M)
+  - Code du service national - art. L94 (M)
+
 
 ##### PARAGRAPHE 1 : Régime administratif et social.<a id=76></a>
 
