@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1995-08-12
+Version Consolidée au 1995-08-30
 ## Contenu: 
   - [Partie législative (art. L1 à L159)](#1)
     - [LIVRE Ier (art. L1 à L115)](#2)
@@ -13734,8 +13734,9 @@ _Cité par_:
 
 ###### Article R215
 
-Des permissions exceptionnelles pour événements familiaux d'une durée au plus égale à dix jours peuvent ^etre accordées pour
-la naissance d'un enfant, le mariage de l'intéressé, le décès du conjoint ou d'un enfant, le décès du père ou de la mère.
+Des permissions exceptionnelles d'une durée au plus égale à dix jours peuvent être accordées pour la naissance d'un enfant,
+le mariage de l'intéressé, le décès du conjoint, d'un enfant ou d'un parent (grands-parents, parents, beaux-parents, frère,
+soeur).
 
 **Liens relatifs à cet article**
 
@@ -13743,6 +13744,10 @@ _Anciens textes_:
 
   - Décret n°67-210 1967-03-10 art. 18
   - Décret n°67-209 1967-03-10 art. 18
+
+_Modifié par_:
+
+  - Décret n°95-963 du 23 août 1995 - art. 1 () JORF 30 août 1995
 
 _Codifié par_:
 
