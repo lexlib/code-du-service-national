@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L122-21)](#2)
@@ -594,7 +594,9 @@ _Cité par_:
 Lors de l'appel de préparation à la défense, les Français reçoivent un enseignement adapté à leur niveau de formation et
 respectueux de l'égalité entre les sexes, qui permet de présenter les enjeux et les objectifs généraux de la défense
 nationale, les moyens civils et militaires de la défense et leur organisation, les formes de volontariats ainsi que les
-préparations militaires et les possibilités d'engagement dans les forces armées et les forces de réserve.
+préparations militaires et les possibilités d'engagement dans les forces armées et les forces de réserve. Ils bénéficient
+également d'une sensibilisation à la prévention des risques et aux missions des services de secours ainsi que d'un
+apprentissage des gestes élémentaires de premier secours.
 
 A cette occasion sont organisés des tests d'évaluation des apprentissages fondamentaux de la langue française. Il est délivré
 une information sur les modalités de consentement au don d'organes à fins de greffe et sur la possibilité pour une personne
@@ -614,7 +616,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-800 du 6 août 2004 - art. 10 () JORF 7 août 2004
+  - Loi n°2004-811 du 13 août 2004 - art. 5 () JORF 17 août 2004
 
 _Cité par_:
 
