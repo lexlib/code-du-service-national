@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1986-03-07
+Version Consolidée au 1986-03-12
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -99,21 +99,22 @@ Version Consolidée au 1986-03-07
         - [SECTION I : Dispositions communes (art. R202 à R223)](#96)
           - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#97)
           - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#98)
-          - [PARAGRAPHE 4 : Permissions. (art. R212 à R217)](#99)
-          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#100)
-          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#101)
-          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#102)
-        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#103)
-        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#104)
-      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#105)
-        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#106)
-        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#107)
-        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#108)
-        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#109)
-        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#110)
-        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#111)
-    - [TITRE IV : Service féminin. (art. R*228 à R*233)](#112)
-  - [Annexes (art. ANNEXE II)](#113)
+          - [PARAGRAPHE 3 : Discipline. (art. R210)](#99)
+          - [PARAGRAPHE 4 : Permissions. (art. R211 à R217)](#100)
+          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#101)
+          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#102)
+          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#103)
+        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#104)
+        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#105)
+      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#106)
+        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#107)
+        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#108)
+        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#109)
+        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#110)
+        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#111)
+        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#112)
+    - [TITRE IV : Service féminin. (art. R*228 à R*233)](#113)
+  - [Annexes (art. ANNEXE II)](#114)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -9296,7 +9297,83 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Permissions.<a id=99></a>
+##### PARAGRAPHE 3 : Discipline.<a id=99></a>
+
+###### Article R210
+
+Les sanctions disciplinaires qui peuvent être infligées aux jeunes gens accomplissant le service national actif dans le
+service de l'aide technique ou celui de la coopération sont :
+
+- l'avertissement qui peut être complété par la suppression de dix jours de permission normale ;
+
+- le bl^ame qui peut être complété par la suppression de quinze jours de permission normale ;
+
+- la radiation d'office assortie du rappel en métropole, d'une majoration de la durée du service actif pouvant aller jusqu'à
+trois mois et de l'annulation des droits à permission normale acquis par le fautif pendant la durée de son service dans
+l'aide technique ou dans la coopération.
+
+La radiation d'office est prononcée par le ministre responsable. L'avertissement et le blâme le sont par l'autorité ayant
+reçu délégation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-210 1967-03-10 art. 15
+  - Décret n°67-209 1967-03-10 art. 15
+
+_Modifié par_:
+
+  - Décret n°86-337 1986-03-05 art. 1 JORF 12 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+
+##### PARAGRAPHE 4 : Permissions.<a id=100></a>
+
+###### Article R211
+
+La durée des permissions normales dont peuvent bénéficier les jeunes gens affectés au service de l'aide technique ou au
+service de la coopération est fixée en fonction du lieu d'emploi.
+
+Dans le service de l'aide technique, cette durée est fixée à trois jours par mois de service effectif accompli outre-mer.
+
+Dans le service de la coopération, cette durée est de :
+
+- deux jours par mois de service effectif accompli en Europe ou en Afrique du Nord ;
+
+- trois jours par mois de service effectif accompli dans les Etats du Moyen-Orient ou au Sahara (Algérie) ;
+
+- quatre jours par mois de service effectif accompli dans les autres Etats étrangers.
+
+Toute fraction de mois de service effectif supérieure à quinze jours est comptée comme un mois entier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-210 1967-03-10 art. 16
+  - Décret n°67-209 1967-03-10 art. 16
+
+_Modifié par_:
+
+  - Décret n°86-337 1986-03-05 art. 2 JORF 12 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+  - Code du service national - art. R216 (V)
+
 
 ###### Article R212
 
@@ -9433,7 +9510,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Soins médicaux.<a id=100></a>
+##### PARAGRAPHE 5 : Soins médicaux.<a id=101></a>
 
 ###### Article R218
 
@@ -9514,7 +9591,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 2 JORF 2 septembre 1975
 
 
-##### PARAGRAPHE 6 : Inaptitude physique.<a id=101></a>
+##### PARAGRAPHE 6 : Inaptitude physique.<a id=102></a>
 
 ###### Article R221
 
@@ -9541,7 +9618,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### PARAGRAPHE 7 : Libération du service actif.<a id=102></a>
+##### PARAGRAPHE 7 : Libération du service actif.<a id=103></a>
 
 ###### Article R222
 
@@ -9593,7 +9670,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=103></a>
+#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=104></a>
 
 ###### Article R224
 
@@ -9646,7 +9723,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
 
 
-#### SECTION III : Dispositions particulières au service de la coopération.<a id=104></a>
+#### SECTION III : Dispositions particulières au service de la coopération.<a id=105></a>
 
 ###### Article R226
 
@@ -9676,7 +9753,7 @@ _Cite_:
   - Code du service national - art. R206 (M)
 
 
-### CHAPITRE IV : Service des objecteurs de conscience.<a id=105></a>
+### CHAPITRE IV : Service des objecteurs de conscience.<a id=106></a>
 
 ###### Article R227-1
 
@@ -9701,7 +9778,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-#### PARAGRAPHE 1 : Rattachement et affectation.<a id=106></a>
+#### PARAGRAPHE 1 : Rattachement et affectation.<a id=107></a>
 
 ###### Article R227-2
 
@@ -9732,7 +9809,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-#### PARAGRAPHE 2 : Devoirs et obligations.<a id=107></a>
+#### PARAGRAPHE 2 : Devoirs et obligations.<a id=108></a>
 
 ###### Article R227-3
 
@@ -9759,7 +9836,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 3 : Discipline.<a id=108></a>
+#### PARAGRAPHE 3 : Discipline.<a id=109></a>
 
 ###### Article R227-4
 
@@ -9858,7 +9935,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 4 : Permissions.<a id=109></a>
+#### PARAGRAPHE 4 : Permissions.<a id=110></a>
 
 ###### Article R227-10
 
@@ -9940,7 +10017,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 5 : Habilitation des organismes.<a id=110></a>
+#### PARAGRAPHE 5 : Habilitation des organismes.<a id=111></a>
 
 ###### Article R227-15
 
@@ -10026,7 +10103,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=111></a>
+#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=112></a>
 
 ###### Article R227-19
 
@@ -10078,7 +10155,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-## TITRE IV : Service féminin.<a id=112></a>
+## TITRE IV : Service féminin.<a id=113></a>
 
 ###### Article R*228
 
@@ -10219,7 +10296,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-# Annexes<a id=113></a>
+# Annexes<a id=114></a>
 
 ###### Article ANNEXE II
 
