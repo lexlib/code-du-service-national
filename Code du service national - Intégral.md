@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2000-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L122-21)](#2)
@@ -15206,16 +15206,23 @@ _Cite_:
 ###### Article R101
 
 Pour l'application des dispositions des articles L. 25 et L. 61, une ou plusieurs commissions de réforme du service national
-sont instituées, en fonction des besoins, sur décision du ministre chargé des armées auprès du commandement militaire de
-l'Ile-de-France, auprès de chaque circonscription militaire de défense, auprès de chaque arrondissement maritime, auprès des
-centres de sélection ou centres du service national et, en ce qui concerne les départements et territoires d'outre-mer,
-auprès des bureaux ou centres du service national.
+sont instituées, en fonction des besoins, sur décision du ministre chargé des armées auprès du commandement de la région
+terre Ile-de-France, auprès de chaque région terre, auprès de chaque arrondissement maritime, auprès des centres de sélection
+ou centres du service national et, en ce qui concerne les départements et territoires d'outre-mer, auprès des bureaux ou
+centres du service national.
 
 En outre, des commissions de réforme du service national peuvent être instituées, sur décision du ministre chargé des armées,
 auprès des troupes en opérations ou stationnées en dehors de la métropole ou des départements et territoires d'outre-mer.
 
 Les séances de la commission de réforme du service national ne sont pas publiques. La commission peut entendre toute personne
 dont elle estime l'audition utile.
+
+**Nota:**
+
+Décret n° 98-180 du 17 mars 1998 art. 5 : 
+
+Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
+aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
 
 **Liens relatifs à cet article**
 
@@ -15228,13 +15235,13 @@ _Cité par_:
   - Décret n°90-758 du 24 août 1990 - art. 11 (Ab)
   - Code du service national - art. ANNEXE I (V)
 
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+_Modifié par_:
+
+  - Décret n°2000-559 du 21 juin 2000 - art. 11 () JORF 24 juin 2000 en vigueur le 1er juillet 2000
 
 _Codifié par_:
 
