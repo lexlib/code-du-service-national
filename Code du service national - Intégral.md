@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1987-07-11
+Version Consolidée au 1987-07-14
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -100,7 +100,7 @@ Version Consolidée au 1987-07-11
         - [PARAGRAPHE 5 : Inaptitude. (art. R*201-14 à R*201-15)](#97)
         - [PARAGRAPHE 6 : Solde et indemnités. (art. R*201-16)](#98)
         - [PARAGRAPHE 7 : Libération du service actif. (art. R*201-17 à R*201-18)](#99)
-      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R226)](#100)
+      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#100)
         - [SECTION I : Dispositions communes (art. R202 à R223)](#101)
           - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#102)
           - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#103)
@@ -110,7 +110,7 @@ Version Consolidée au 1987-07-11
           - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#107)
           - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#108)
         - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#109)
-        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#110)
+        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#110)
       - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#111)
         - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#112)
         - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#113)
@@ -10280,6 +10280,37 @@ _Cité par_:
 _Cite_:
 
   - Code du service national - art. R206 (M)
+
+
+###### Article R227
+
+Lorsqu'ils sont en France en instance de départ, les intéressés reçoivent une indemnité égale à 75 p. 100 du montant de
+l'élément commun.
+
+Lorsque, hors de l'Etat de séjour, ils sont en permission, les intéressés reçoivent une indemnité égale à 25 p. 100 du
+montant de l'élément commun.
+
+Lorsque, hors de l'Etat de séjour, ils sont en permission de convalescence en tant que rapatriés sanitaires, les intéressés
+reçoivent une indemnité égale au montant de l'élément commun.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-210 1967-03-10 art. 11
+
+_Modifié par_:
+
+  - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
+  - Décret n°87-527 1987-07-08 art. 1 JORF 14 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
 
 
 ### CHAPITRE IV : Service des objecteurs de conscience.<a id=111></a>
