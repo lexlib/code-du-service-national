@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1979-01-19
+Version Consolidée au 1981-03-10
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -62,7 +62,7 @@ Version Consolidée au 1979-01-19
           - [PARAGRAPHE 3 : Résidence à l'étranger. (art. R*69 à R77)](#59)
         - [SECTION II : Objecteurs de conscience. (art. R78 à R97)](#60)
         - [SECTION III : Condamnés. (art. R*98 à R*100-1)](#61)
-      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R103)](#62)
+      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R103 à R104)](#62)
       - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#63)
     - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R226)](#64)
       - [CHAPITRE I : Service militaire (art. R110 à R148)](#65)
@@ -5498,6 +5498,60 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
+###### Article R104
+
+La commission de réforme du service national prononce à l'égard des hommes qui lui sont présentés l'une des décisions
+suivantes :
+
+- apte ;
+
+- réformé temporairement ;
+
+- réformé définitivement.
+
+Toutefois, lorsqu'il s'agit de jeunes gens renvoyés devant elle par la commission locale d'aptitude la commission de réforme
+du service national prononce les décisions prévues à l'article L. 24.
+
+En outre, la commission de réforme peut prescrire la mise en observation dans un h^opital des armées des jeunes gens
+antérieurement considérés d'office comme aptes au service national. Cette mise en observation est limitée à dix jours.
+
+Les décisions de la commission de réforme du service national prises en présence des intéressés leur sont notifiées séance
+tenante. Dans le cas contraire, elles sont notifiées dans les huit jours qui suivent la séance, ce délai pouvant ^etre porté
+à trente jours pour les hommes résidant à l'étranger. La notification faite séance tenante fait courir les délais de recours.
+
+La radiation des cadres des hommes accomplissant les obligations d'activité du service national ou servant au titre de
+l'article L. 85 du code du service national peut, sur demande des intéressés, ^etre repoussée d'un délai au plus égal à un
+mois à compter de la date de notification de la mise en réforme, sans que ce délai puisse permettre de maintenir les
+demandeurs sous les drapeaux au-delà de la limite de la durée du service actif qui leur est applicable.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-81 1972-01-24 art. 5
+
+_Modifié par_:
+
+  - Décret n°77-1122 1977-09-27 art. 4 JORF 5 octobre 1977
+  - Décret n°81-213 1981-03-05 art. 1 JORF 10 mars 1981
+
+_Cité par_:
+
+  - Décret n°78-194 du 24 février 1978 - art. 3 (Ab)
+  - Décret n°78-194 du 24 février 1978 - art. 4 (Ab)
+  - Décret n°78-194 du 24 février 1978 - art. 8 (Ab)
+  - Code du service national - art. ANNEXE I (V)
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L24 (M)
+  - Code du service national - art. L85 (M)
+
+
 ### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.<a id=63></a>
 
 ###### Article R*105
@@ -5723,6 +5777,44 @@ _Codifié par_:
 _Cité par_:
 
   - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R112
+
+Les militaires et les anciens militaires visés à l'article R. 110, qui se trouvent dans l'incapacité physique médicalement
+reconnue d'exercer une activité professionnelle rémunérée, peuvent bénéficier :
+
+1° D'une allocation journalière à partir de leur radiation des cadres.
+
+2° D'une allocation d'invalidité au cas où après leur radiation des cadres ces militaires demeureraient atteints d'une
+invalidité réduisant des deux tiers leur capacité de travail ;
+
+3° D'allocations en remboursement de frais de soins exposés par eux et par leurs ayants droit.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-183 1972-03-06
+
+_Modifié par_:
+
+  - Décret n°81-213 1981-03-05 art. 1 JORF 10 mars 1981
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+  - Code du service national - art. R116 (V)
+  - Code du service national - art. R117 (V)
+  - Code du service national - art. R120 (V)
+
+_Cite_:
+
+  - Code du service national - art. R110 (M)
 
 
 ###### Article R113
