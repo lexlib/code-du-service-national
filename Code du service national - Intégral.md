@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1977-11-08
+Version Consolidée au 1978-03-23
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -49,7 +49,7 @@ Version Consolidée au 1977-11-08
         - [SECTION I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#46)
           - [PARAGRAPHE 1 : Appel avancé. (art. R*1 à R4)](#47)
           - [PARAGRAPHE 3 : Dispositions communes. (art. R*12)](#48)
-        - [SECTION II : Composition et appel du contingent. (art. R*17 à R22)](#49)
+        - [SECTION II : Composition et appel du contingent. (art. R*16 à R22)](#49)
     - [TITRE II : Dispositions communes aux différentes formes du service national (art. R*29 à R*109)](#50)
       - [CHAPITRE I : Recensement  - sélection (art. R*29 à R*50)](#51)
         - [SECTION I : Recensement. (art. R*29 à R*39)](#52)
@@ -3271,6 +3271,73 @@ _Cite_:
 
 
 #### SECTION II : Composition et appel du contingent.<a id=49></a>
+
+###### Article R*16
+
+Pour l'application de l'article R.15-1°, effectuent leurs obligations du service actif sous la forme du service militaire
+dans les armées les jeunes gens qui en font la demande et ceux qui ne sont pas affectés à l'une des autres formes du service
+national.
+
+Sont notamment affectés dans les armées :
+
+(Décret n° 78-388 du 17 mars 1978, art. 1er) << 1° Les jeunes gens titulaires du brevet de préparation militaire supérieure
+et les marins de la marine marchande. <> ;
+
+2° Les jeunes gens dont la candidature a été retenue en vue d'occuper un emploi dans des laboratoires ou organismes
+scientifiques dépendant du ministre chargé de la défense nationale ou agréés par lui ;
+
+3° Les jeunes gens qui, ayant fait l'objet d'une décision d'agrément dans les conditions fixées par les articles R.23 à R.27,
+se trouveraient dans l'un des cas visés par l'article L. 12, alinéa 2 (§ 1° et 2°) et alinéa 3.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-728 1972-08-01 art. 2
+
+_Modifié par_:
+
+  - Décret n°74-759 1974-08-30 art. 4 JORF 4 septembre 1974
+  - Décret n°78-388 1978-03-17 art. 1 JORF 23 mars 1978
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. L12 (Ab)
+  - Code du service national R23, L12
+
+
+###### Article R*16-1
+
+Pour l'application des articles L. 70 et R. 16 du présent code, sont considérés comme marins de la marine marchande :
+
+1° Les Français qui exercent la profession de marin au sens de l'article 1er du décret susvisé du 7 ao^ut 1967 ;
+
+2° Les élèves français des établissements scolaires maritimes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°67-690 du 7 août 1967 - art. 1 (V)
+  - Code du service national - art. L70 (M)
+  - Code du service national L70, R16
+
+_Créé par_:
+
+  - Décret n°78-388 1978-03-17 art. 2 JORF 23 mars 1978
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
 
 ###### Article R*17
 
