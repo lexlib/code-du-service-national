@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1989-09-27
+Version Consolidée au 1989-12-27
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -49,7 +49,7 @@ Version Consolidée au 1989-09-27
         - [Chapitre III : Dispositions particulières au service de défense. (art. L139 à L149)](#46)
         - [Chapitre III bis : Dispositions particulières au service dans la police nationale. (art. L149-1 à L149-10)](#47)
         - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L151 à L159)](#48)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R*233)](#49)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R*234)](#49)
     - [TITRE I : Définition et principes du service national (art. R*1 à R*27)](#50)
       - [CHAPITRE I : Dispositions générales (art. R*1 à R22)](#51)
         - [SECTION I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#52)
@@ -119,7 +119,8 @@ Version Consolidée au 1989-09-27
         - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#116)
         - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#117)
     - [TITRE IV : Service féminin. (art. R*228 à R*233)](#118)
-  - [Annexes (art. ANNEXE II)](#119)
+    - [TITRE V : Dispositions communes aux formes civiles du service national (art. R*234)](#119)
+  - [Annexes (art. ANNEXE II)](#120)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -7161,6 +7162,36 @@ _Cite_:
   - Code du service national R111 à R114
 
 
+###### Article R116
+
+L'allocation journalière visée au 1° de l'article R. 112 est égale au montant minimum de l'indemnité journalière prévue au 5°
+de l'article L. 321-1 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-183 1972-03-06
+
+_Modifié par_:
+
+  - Décret n°77-1217 1977-10-28 art. 3 JORF 8 novembre 1977
+  - Décret n°89-926 1989-02-15 art. 1 JORF 27 décembre 1989
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. R112 (M)
+  - Code de la sécurité sociale. - art. L321-1 (M)
+
+
 ###### Article R117
 
 L'allocation d'invalidité visée au 2° de l'article R. 112 est égale au montant minimum de la pension d'invalidité prévue aux
@@ -11023,7 +11054,40 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-# Annexes<a id=119></a>
+## TITRE V : Dispositions communes aux formes civiles du service national<a id=119></a>
+
+###### Article R*234
+
+Les dispositions des articles R. 110 à R. 114, R. 116 à R. 118 et R. 120 sont applicables aux personnes effectuant une forme
+civile du service national ainsi qu'à leurs ayants droit. Les allocations prévues auxdits articles sont attribuées et versées
+selon les modalités fixées par instruction du ministre responsable.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°71-919 1971-11-17 art. 8
+
+_Modifié par_:
+
+  - Décret n°84-698 1984-07-17 art. 2 JORF 24 juillet 1984
+  - Décret n°89-926 1989-02-15 art. 2 JORF 27 décembre 1989
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. R120 (M)
+  - Code du service national R110 à R114, R116 à R118, R120
+
+
+# Annexes<a id=120></a>
 
 ###### Article ANNEXE II
 
