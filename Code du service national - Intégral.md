@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1978-03-23
+Version Consolidée au 1978-03-29
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -48,54 +48,55 @@ Version Consolidée au 1978-03-23
       - [CHAPITRE I : Dispositions générales (art. R*1 à R22)](#45)
         - [SECTION I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#46)
           - [PARAGRAPHE 1 : Appel avancé. (art. R*1 à R4)](#47)
-          - [PARAGRAPHE 3 : Dispositions communes. (art. R*12)](#48)
-        - [SECTION II : Composition et appel du contingent. (art. R*16 à R22)](#49)
-    - [TITRE II : Dispositions communes aux différentes formes du service national (art. R*29 à R*109)](#50)
-      - [CHAPITRE I : Recensement  - sélection (art. R*29 à R*50)](#51)
-        - [SECTION I : Recensement. (art. R*29 à R*39)](#52)
-        - [SECTION II : Sélection. (art. R*40 à R*50)](#53)
-      - [CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. R*55 à R*100)](#54)
-        - [SECTION I : Dispenses (art. R*55 à R77)](#55)
-          - [PARAGRAPHE 1 : Soutiens de famille. (art. R*55 à R*68)](#56)
-          - [PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-5)](#57)
-          - [PARAGRAPHE 3 : Résidence à l'étranger. (art. R*69 à R77)](#58)
-        - [SECTION II : Objecteurs de conscience. (art. R78 à R97)](#59)
-        - [SECTION III : Condamnés. (art. R*98 à R*100)](#60)
-      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R103)](#61)
-      - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#62)
-    - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R226)](#63)
-      - [CHAPITRE I : Service militaire (art. R110 à R148)](#64)
-        - [SECTION I : Service militaire actif (art. R110 à R*132)](#65)
-          - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#66)
-          - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R123 à R126)](#67)
-          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*129 à R*132)](#68)
-        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#69)
-          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#70)
-          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R141 à R144)](#71)
-          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R147 à R148)](#72)
-      - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#73)
-        - [SECTION I : Affectation de défense (art. R*149 à R*166)](#74)
-          - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#75)
-          - [PARAGRAPHE 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#76)
-          - [PARAGRAPHE 3 : Affectation collective de défense. (art. R*163 à R*166)](#77)
-        - [SECTION II : Statut de défense. (art. R*167 à R*185)](#78)
-          - [PARAGRAPHE 1 : Régime administratif et social. (art. R*168 à R*174)](#79)
-          - [PARAGRAPHE 2 : Régime disciplinaire. (art. R*175 à R*178)](#80)
-          - [PARAGRAPHE 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#81)
-        - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#82)
-        - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#83)
-        - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#84)
-      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R226)](#85)
-        - [SECTION I : Dispositions communes (art. R202 à R223)](#86)
-          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#87)
-          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#88)
-          - [PARAGRAPHE 4 : Permissions. (art. R212 à R217)](#89)
-          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#90)
-          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#91)
-          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#92)
-        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#93)
-        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#94)
-    - [TITRE IV : Service féminin. (art. R*235 à R*238)](#95)
+          - [PARAGRAPHE 2 : Report d'incorporation. (art. R*9-1 à R9)](#48)
+          - [PARAGRAPHE 3 : Dispositions communes. (art. R*12)](#49)
+        - [SECTION II : Composition et appel du contingent. (art. R*16 à R22)](#50)
+    - [TITRE II : Dispositions communes aux différentes formes du service national (art. R*29 à R*109)](#51)
+      - [CHAPITRE I : Recensement  - sélection (art. R*29 à R*50)](#52)
+        - [SECTION I : Recensement. (art. R*29 à R*39)](#53)
+        - [SECTION II : Sélection. (art. R*40 à R*50)](#54)
+      - [CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. R*55 à R*100)](#55)
+        - [SECTION I : Dispenses (art. R*55 à R77)](#56)
+          - [PARAGRAPHE 1 : Soutiens de famille. (art. R*55 à R*68)](#57)
+          - [PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-5)](#58)
+          - [PARAGRAPHE 3 : Résidence à l'étranger. (art. R*69 à R77)](#59)
+        - [SECTION II : Objecteurs de conscience. (art. R78 à R97)](#60)
+        - [SECTION III : Condamnés. (art. R*98 à R*100)](#61)
+      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R103)](#62)
+      - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#63)
+    - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R226)](#64)
+      - [CHAPITRE I : Service militaire (art. R110 à R148)](#65)
+        - [SECTION I : Service militaire actif (art. R110 à R*132)](#66)
+          - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#67)
+          - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R123 à R126)](#68)
+          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*129 à R*132)](#69)
+        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#70)
+          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#71)
+          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R141 à R144)](#72)
+          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R147 à R148)](#73)
+      - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#74)
+        - [SECTION I : Affectation de défense (art. R*149 à R*166)](#75)
+          - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#76)
+          - [PARAGRAPHE 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#77)
+          - [PARAGRAPHE 3 : Affectation collective de défense. (art. R*163 à R*166)](#78)
+        - [SECTION II : Statut de défense. (art. R*167 à R*185)](#79)
+          - [PARAGRAPHE 1 : Régime administratif et social. (art. R*168 à R*174)](#80)
+          - [PARAGRAPHE 2 : Régime disciplinaire. (art. R*175 à R*178)](#81)
+          - [PARAGRAPHE 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#82)
+        - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#83)
+        - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#84)
+        - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#85)
+      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R226)](#86)
+        - [SECTION I : Dispositions communes (art. R202 à R223)](#87)
+          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#88)
+          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#89)
+          - [PARAGRAPHE 4 : Permissions. (art. R212 à R217)](#90)
+          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#91)
+          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#92)
+          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#93)
+        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#94)
+        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#95)
+    - [TITRE IV : Service féminin. (art. R*235 à R*238)](#96)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -3243,7 +3244,158 @@ _Cite_:
   - Code du service national - art. R2 (M)
 
 
-##### PARAGRAPHE 3 : Dispositions communes.<a id=48></a>
+##### PARAGRAPHE 2 : Report d'incorporation.<a id=48></a>
+
+###### Article R*9-1
+
+Les cycles de formation professionnelle pouvant faire bénéficier du report supplémentaire d'incorporation prévu à l'article
+L. 5 bis, dans la limite d'une année scolaire ou universitaire, les jeunes gens en mesure d'achever dans ce délai le cyle
+commencé sont les suivants ;
+
+1° le cycle de formation des instituteurs y compris, le cas échéant, l'année de formation pratique sanctionnée par le
+certificat d'aptitude pédagogique ;
+
+2° le cycle de formation dispensé dans les centres annexés à certaines écoles normales conduisant au certificat d'aptitude de
+l'enfance inadaptée (C.A.E.I.), de l'enseignement dans les classes de transition (C.A.E.T.), de l'enseignement pratique
+(C.A.E.P.) ou professionnel dans un collège d'enseignement général (C.A.P.C.E.G.) ;
+
+3° les cycles de formation de professeur technique ou de professeur technique adjoint des lycées techniques ;
+
+4° les cycles de scolarité dans les écoles normales nationales d'apprentissage y compris, le cas échéant, l'année de
+formation pratique sanctionnée par le certificat d'aptitude pédagogique ;
+
+5° le cycle de préparation au certificat d'aptitude au professorat de l'enseignement secondaire (C.A.P.E.S.), y compris, le
+cas échéant, le stage au centre pédagogique régional sanctionné par les épreuves pratiques du C.A.P.E.S.) ;
+
+6° les cycles de scolarité dans les écoles normales supérieures ;
+
+7° le cycle de préparation à l'agrégation, y compris, le cas échéant, le stage d'application d'une année dans un centre
+pédagogique régional ;
+
+8° les cycles de formation professionnelle, organisée par les administrations publiques, les universités ou par le secteur
+privé, sanctionnés selon le cas par l'attribution d'un certificat d'aptitude professionnelle, d'un brevet d'étude
+professionnelle, d'un certificat de capacité, d'un diplôme d'Etat ou d'un diplôme nécessaire à la titularisation dans un
+emploi public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-431 1978-03-23 art. 1 JORF 29 mars 1978
+
+_Abrogé par_:
+
+  - Décret n°89-203 1989-04-04 art. 2 JORF 7 avril 1989
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L5 bis (M)
+
+
+###### Article R*9-2
+
+Les classes préparatoires à un concours d'admission dans un établissement à nombre de places déterminé dont les élèves
+peuvent bénéficier du report supplémentaire d'incorporation prévu à l'article L. 5 bis afin de se présenter une nouvelle fois
+au concours sont les suivantes :
+
+A - Etablissements d'enseignement public
+
+1° Classes des lycées assurant en un an la préparation aux concours d'entrée aux grandes écoles ;
+
+2° Classes des lycées assurant la seconde année de préparation aux concours d'entrée aux grandes écoles.
+
+B - Etablissements d'enseignement privés
+
+Toutes les classes préparatoires ayant des programmes et des horaires identiques à ceux des classes énumérées ci-dessus dès
+lors que la fréquentation de ces classes ouvre droit au bénéfice de la sécurité sociale des étudiants.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-431 1978-03-23 art. 1 JORF 29 mars 1978
+
+_Abrogé par_:
+
+  - Décret n°89-203 1989-04-04 art. 2 JORF 7 avril 1989
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R9
+
+Les cycles d'enseignement pouvant faire bénéficier du report supplémentaire d'incorporation prévu à l'article L. 5 bis, dans
+la limite d'une année scolaire ou universitaire, les jeunes gens en mesure d'achever dans ce délai le cyle commencé sont les
+suivants ;
+
+1° le deuxième cycle de l'enseignement du second degré ;
+
+2° le cycle préparant à la capacité en droit ;
+
+3° le cycle d'études supérieures techniques courtes sanctionnées par l'attribution du brevet de technicien supérieur ou le
+diplôme universitaire de technologie ;
+
+4° le premier cycle, sanctionné par le diplôme d'études universitaires générales (D.E.U.G.), le deuxième cycle, sanctionné
+soit par une licence, soit par une maîtrise, le troisième cycle, sanctionné par le doctorat de l'enseignement supérieur ainsi
+que les cycles de formation conduisant à des diplômes d'université en tant qu'ils sont complémentaires ou distincts d'un
+cycle de préparation à un diplôme national ;
+
+5° le cycle d'enseignement, sanctionné par le certificat d'aptitude au professorat d'éducation physique et sportive, dispensé
+dans les centres, instituts ou unités d'enseignement et de recherche régionaux d'éducation physique et sportive (C.R.E.P.S.,
+I.R.E.P.S. ou U.E.R.E.O.S.) ;
+
+6° le premier, le deuxième ou troisième cycle de l'enseignement dispensé dans les unités pédagogiques d'architecture ;
+
+7° le cycle d'enseignement dispensé :
+
+- à l'école nationale supérieure des Beaux-Arts ;
+
+- à l'école nationale supérieure des arts décoratifs ;
+
+- dans les écoles nationales, régionales ou municipales d'arts ;
+
+- à l'école du Louvre ;
+
+8° le cycle de préparation au concours d'admission dans un établissement à nombre de places déterminé ;
+
+9° les cycles de scolarité dans les écoles d'enseignement supérieur publiques ou privées délivrant un diplôme d'ingénieur
+reconnu par la commission des titres d'ingénieurs ;
+
+10° les cycles de scolarité dans les écoles de haut enseignement commercial ;
+
+11° les cycles de scolarité dans les écoles privées d'enseignement supérieur, dès lors que la fréquentation des classes ouvre
+droit au bénéfice de la sécurité sociale des étudiants.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°78-431 1978-03-23 art. 1 JORF 29 mars 1978
+
+_Abrogé par_:
+
+  - Décret n°89-203 1989-04-04 art. 2 JORF 7 avril 1989
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+_Cite_:
+
+  - Code du service national - art. L5 bis (M)
+
+
+##### PARAGRAPHE 3 : Dispositions communes.<a id=49></a>
 
 ###### Article R*12
 
@@ -3271,7 +3423,7 @@ _Cite_:
   - Code du service national R7, R10
 
 
-#### SECTION II : Composition et appel du contingent.<a id=49></a>
+#### SECTION II : Composition et appel du contingent.<a id=50></a>
 
 ###### Article R*16
 
@@ -3480,11 +3632,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-## TITRE II : Dispositions communes aux différentes formes du service national<a id=50></a>
+## TITRE II : Dispositions communes aux différentes formes du service national<a id=51></a>
 
-### CHAPITRE I : Recensement  - sélection<a id=51></a>
+### CHAPITRE I : Recensement  - sélection<a id=52></a>
 
-#### SECTION I : Recensement.<a id=52></a>
+#### SECTION I : Recensement.<a id=53></a>
 
 ###### Article R*29
 
@@ -3726,7 +3878,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Sélection.<a id=53></a>
+#### SECTION II : Sélection.<a id=54></a>
 
 ###### Article R*40
 
@@ -4024,11 +4176,11 @@ _Cite_:
   - Code du service national R44
 
 
-### CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=54></a>
+### CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=55></a>
 
-#### SECTION I : Dispenses<a id=55></a>
+#### SECTION I : Dispenses<a id=56></a>
 
-##### PARAGRAPHE 1 : Soutiens de famille.<a id=56></a>
+##### PARAGRAPHE 1 : Soutiens de famille.<a id=57></a>
 
 ###### Article R*55
 
@@ -4369,7 +4521,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise.<a id=57></a>
+##### PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise.<a id=58></a>
 
 ###### Article R*68-5
 
@@ -4387,7 +4539,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 3 : Résidence à l'étranger.<a id=58></a>
+##### PARAGRAPHE 3 : Résidence à l'étranger.<a id=59></a>
 
 ###### Article R*69
 
@@ -4624,7 +4776,7 @@ _Cite_:
   - Code du service national R69 à R76
 
 
-#### SECTION II : Objecteurs de conscience.<a id=59></a>
+#### SECTION II : Objecteurs de conscience.<a id=60></a>
 
 ###### Article R78
 
@@ -5195,7 +5347,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION III : Condamnés.<a id=60></a>
+#### SECTION III : Condamnés.<a id=61></a>
 
 ###### Article R*98
 
@@ -5278,7 +5430,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-### CHAPITRE III : Réforme pour inaptitude physique.<a id=61></a>
+### CHAPITRE III : Réforme pour inaptitude physique.<a id=62></a>
 
 ###### Article R103
 
@@ -5317,7 +5469,7 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
-### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.<a id=62></a>
+### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.<a id=63></a>
 
 ###### Article R*105
 
@@ -5475,13 +5627,13 @@ _Cite_:
   - Code du service national R108
 
 
-## TITRE III : Dispositions particulières aux différentes formes du service national<a id=63></a>
+## TITRE III : Dispositions particulières aux différentes formes du service national<a id=64></a>
 
-### CHAPITRE I : Service militaire<a id=64></a>
+### CHAPITRE I : Service militaire<a id=65></a>
 
-#### SECTION I : Service militaire actif<a id=65></a>
+#### SECTION I : Service militaire actif<a id=66></a>
 
-##### PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=66></a>
+##### PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=67></a>
 
 ###### Article R110
 
@@ -5642,7 +5794,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Service militaire actif fractionné.<a id=67></a>
+##### PARAGRAPHE 2 : Service militaire actif fractionné.<a id=68></a>
 
 ###### Article R123
 
@@ -5743,7 +5895,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Gendarmes auxiliaires.<a id=68></a>
+##### PARAGRAPHE 3 : Gendarmes auxiliaires.<a id=69></a>
 
 ###### Article R*129
 
@@ -5788,9 +5940,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Recrutement des cadres de réserve du service militaire<a id=69></a>
+#### SECTION II : Recrutement des cadres de réserve du service militaire<a id=70></a>
 
-##### PARAGRAPHE 1 : Préparation au service militaire.<a id=70></a>
+##### PARAGRAPHE 1 : Préparation au service militaire.<a id=71></a>
 
 ###### Article R133
 
@@ -5923,7 +6075,7 @@ _Cite_:
   - Code du service national R133 à R138
 
 
-##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=71></a>
+##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=72></a>
 
 ###### Article R141
 
@@ -5979,7 +6131,7 @@ _Cite_:
   - Code du service national R140 à R143
 
 
-##### PARAGRAPHE 3 : Nomination dans les cadres.<a id=72></a>
+##### PARAGRAPHE 3 : Nomination dans les cadres.<a id=73></a>
 
 ###### Article R147
 
@@ -6022,11 +6174,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Service de défense<a id=73></a>
+### CHAPITRE II : Service de défense<a id=74></a>
 
-#### SECTION I : Affectation de défense<a id=74></a>
+#### SECTION I : Affectation de défense<a id=75></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=75></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=76></a>
 
 ###### Article R*149
 
@@ -6130,7 +6282,7 @@ _Cite_:
   - Code du service national R151
 
 
-##### PARAGRAPHE 2 : Affectation individuelle de défense.<a id=76></a>
+##### PARAGRAPHE 2 : Affectation individuelle de défense.<a id=77></a>
 
 ###### Article R*154
 
@@ -6361,7 +6513,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Affectation collective de défense.<a id=77></a>
+##### PARAGRAPHE 3 : Affectation collective de défense.<a id=78></a>
 
 ###### Article R*163
 
@@ -6464,7 +6616,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Statut de défense.<a id=78></a>
+#### SECTION II : Statut de défense.<a id=79></a>
 
 ###### Article R*167
 
@@ -6497,7 +6649,7 @@ _Cite_:
   - Code du service national - art. L94 (M)
 
 
-##### PARAGRAPHE 1 : Régime administratif et social.<a id=79></a>
+##### PARAGRAPHE 1 : Régime administratif et social.<a id=80></a>
 
 ###### Article R*168
 
@@ -6689,7 +6841,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Régime disciplinaire.<a id=80></a>
+##### PARAGRAPHE 2 : Régime disciplinaire.<a id=81></a>
 
 ###### Article R*175
 
@@ -6797,7 +6949,7 @@ _Cite_:
   - Code du service national R176, R175, R177
 
 
-##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.<a id=81></a>
+##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.<a id=82></a>
 
 ###### Article R*179
 
@@ -7008,7 +7160,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION III : Dispositions particulières.<a id=82></a>
+#### SECTION III : Dispositions particulières.<a id=83></a>
 
 ###### Article R*186
 
@@ -7134,7 +7286,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION IV : Modalités d'adaptation aux départements d'outre-mer.<a id=83></a>
+#### SECTION IV : Modalités d'adaptation aux départements d'outre-mer.<a id=84></a>
 
 ###### Article R*190
 
@@ -7266,7 +7418,7 @@ _Cite_:
   - Code du service national R174
 
 
-#### SECTION V : Modalités d'adaptation aux territoires d'outre-mer.<a id=84></a>
+#### SECTION V : Modalités d'adaptation aux territoires d'outre-mer.<a id=85></a>
 
 ###### Article R*195
 
@@ -7446,11 +7598,11 @@ _Cite_:
   - Code du service national R195, R186
 
 
-### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=85></a>
+### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=86></a>
 
-#### SECTION I : Dispositions communes<a id=86></a>
+#### SECTION I : Dispositions communes<a id=87></a>
 
-##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=87></a>
+##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=88></a>
 
 ###### Article R202
 
@@ -7557,7 +7709,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Indemnités.<a id=88></a>
+##### PARAGRAPHE 2 : Indemnités.<a id=89></a>
 
 ###### Article R206
 
@@ -7683,7 +7835,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Permissions.<a id=89></a>
+##### PARAGRAPHE 4 : Permissions.<a id=90></a>
 
 ###### Article R212
 
@@ -7820,7 +7972,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Soins médicaux.<a id=90></a>
+##### PARAGRAPHE 5 : Soins médicaux.<a id=91></a>
 
 ###### Article R218
 
@@ -7901,7 +8053,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 2 JORF 2 septembre 1975
 
 
-##### PARAGRAPHE 6 : Inaptitude physique.<a id=91></a>
+##### PARAGRAPHE 6 : Inaptitude physique.<a id=92></a>
 
 ###### Article R221
 
@@ -7928,7 +8080,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### PARAGRAPHE 7 : Libération du service actif.<a id=92></a>
+##### PARAGRAPHE 7 : Libération du service actif.<a id=93></a>
 
 ###### Article R222
 
@@ -7980,7 +8132,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=93></a>
+#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=94></a>
 
 ###### Article R224
 
@@ -8033,7 +8185,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
 
 
-#### SECTION III : Dispositions particulières au service de la coopération.<a id=94></a>
+#### SECTION III : Dispositions particulières au service de la coopération.<a id=95></a>
 
 ###### Article R226
 
@@ -8063,7 +8215,7 @@ _Cite_:
   - Code du service national - art. R206 (M)
 
 
-## TITRE IV : Service féminin.<a id=95></a>
+## TITRE IV : Service féminin.<a id=96></a>
 
 ###### Article R*235
 
