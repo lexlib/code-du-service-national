@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1987-07-14
+Version Consolidée au 1988-04-28
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -78,7 +78,7 @@ Version Consolidée au 1987-07-14
           - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*128 à R*132)](#75)
         - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#76)
           - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#77)
-          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R141 à R144)](#78)
+          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#78)
           - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R145 à R148)](#79)
       - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#80)
         - [SECTION I : Affectation de défense (art. R*149 à R*166)](#81)
@@ -7549,6 +7549,39 @@ _Cite_:
 
 
 ##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=78></a>
+
+###### Article R140
+
+Sont admis aux cours ou pelotons de formation des élèves officiers de réserve, dont la durée ne peut excéder quatre mois,
+dans la limite des places offertes par les armées :
+
+1° Les jeunes gens titulaires du brevet de préparation militaire supérieure qui ont obtenu à l'examen prévu à l'article R.
+136 une note suffisante : leur incorporation peut ^etre décalée dans les conditions fixées à l'article R. 11 ;
+
+2° Les jeunes gens reçus à un examen à l'issue d'un cycle préparatoire, d'une durée maximum de deux mois, organisé au début
+du service militaire actif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+  - Code du service national - art. R136 (V)
+  - Code du service national - art. R141 (V)
+  - Code du service national - art. R145 (V)
+
+_Cite_:
+
+  - Code du service national R136, R11
+
+_Anciens textes_:
+
+  - Décret n°71-820 1971-09-23 art. 2 à art. 6
+
 
 ###### Article R141
 
