@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1983-09-15
+Version Consolidée au 1983-10-25
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -49,7 +49,7 @@ Version Consolidée au 1983-09-15
       - [CHAPITRE I : Dispositions générales (art. R*1 à R22)](#46)
         - [SECTION I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#47)
           - [PARAGRAPHE 1 : Appel avancé. (art. R*1 à R4)](#48)
-          - [PARAGRAPHE 2 : Report d'incorporation. (art. R*8-2 à R9)](#49)
+          - [PARAGRAPHE 2 : Report d'incorporation. (art. R*8-1 à R9)](#49)
           - [PARAGRAPHE 3 : Dispositions communes. (art. R*11 à R*12)](#50)
         - [SECTION II : Composition et appel du contingent. (art. R*16 à R22)](#51)
     - [TITRE II : Dispositions communes aux différentes formes du service national (art. R*29 à R*109)](#52)
@@ -3564,6 +3564,33 @@ _Cite_:
 
 
 ##### PARAGRAPHE 2 : Report d'incorporation.<a id=49></a>
+
+###### Article R*8-1
+
+Les jeunes gens qui désirent obtenir le report supplémentaire d'un an prévu à l'article L. 5 ter doivent le demander au
+bureau du service national dont ils relèvent six mois au plus tard avant la date d'expiration du report d'incorporation dont
+ils bénéficient au titre du 2° du deuxième alinéa de l'article L. 5 en y joignant toutes pièces de nature à établir la
+gravité de leur situation familiale ou sociale. Les demandes rev^etues de l'avis du maire ou du consul du domicile des
+intéressés sont instruites par le commissaire de la République du département de recensement des jeunes gens ou, en ce qui
+concerne les jeunes gens recensés à l'étranger, par le commissaire de la République du département des Pyrénées-Orientales.
+Les commissaires de la République soumettent ces demandes à l'appréciation de la commission régionale compétente. Ils
+notifient la décision de cette dernière aux intéressés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°83-237 1983-03-21 JORF 27 mars 1983 rectificatif JORF 25 octobre 1983
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L5 (M)
+  - Code du service national - art. L5 ter (M)
+
 
 ###### Article R*8-2
 
