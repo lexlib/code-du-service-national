@@ -1,13 +1,13 @@
 # Code du service national  
-Version Consolidée au 1973-07-11
+Version Consolidée au 1974-07-07
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
       - [TITRE I : Définition et principes du service national (art. L4 à L8)](#3)
         - [Chapitre I : Dispositions générales. (art. L4 à L8)](#4)
-      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L17 à L65)](#5)
-        - [Chapitre Ier : Recensement, sélection (art. L17 à L28)](#6)
-          - [Section I : Recensement. (art. L17 à L22)](#7)
+      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L16 à L65)](#5)
+        - [Chapitre Ier : Recensement, sélection (art. L16 à L28)](#6)
+          - [Section I : Recensement. (art. L16 à L22)](#7)
           - [Section II : Sélection. (art. L24 à L28)](#8)
         - [Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. L29 à L60)](#9)
           - [Section I : Exemptions. (art. L29)](#10)
@@ -207,6 +207,39 @@ _Codifié par_:
 #### Chapitre Ier : Recensement, sélection<a id=6></a>
 
 ##### Section I : Recensement.<a id=7></a>
+
+###### Article L16
+
+Les jeunes gens qui ont eu la faculté de répudier ou de décliner la nationalité française et qui n'ont pas usé de cette
+faculté sont soumis aux obligations prévues à l'article précédent.
+
+Toutefois, ils peuvent, sur leur demande, être inscrits sur les listes de recensement avant cet âge ; ils perdent alors de ce
+fait la faculté de répudier ou de décliner la nationalité française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°74-631 1974-07-05 art. 18-I JORF 7 juillet 1974
+
+_Cité par_:
+
+  - Arrêté du 11 avril 1990 - art. 2 (V)
+  - Décret n°98-719 du 20 août 1998 - art. 10 (V)
+  - Code du service national - art. R14 (V)
+
+_Cite_:
+
+  - Code du service national - art. L15 (M)
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 12
+
 
 ###### Article L17
 
