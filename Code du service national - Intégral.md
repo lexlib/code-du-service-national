@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2002-04-03
+Version Consolidée au 2002-04-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L122-21)](#2)
@@ -106,54 +106,42 @@ Version Consolidée au 2002-04-03
             - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#103)
             - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#104)
             - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#105)
-        - [Chapitre II : Service de défense (art. R*149 à R*201)](#106)
-          - [Section I : Affectation de défense (art. R*149 à R*166)](#107)
-            - [Paragraphe 1er : Dispositions générales. (art. R*149 à R*153)](#108)
-            - [Paragraphe 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#109)
-            - [Paragraphe 3 : Affectation collective de défense. (art. R*163 à R*166)](#110)
-          - [Section II : Statut de défense. (art. R*167 à R*185)](#111)
-            - [Paragraphe 1er : Régime administratif et social. (art. R*169 à R*174)](#112)
-            - [Paragraphe 2 : Régime disciplinaire. (art. R*175 à R*178)](#113)
-            - [Paragraphe 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#114)
-          - [Section III : Dispositions particulières. (art. R*186 à R*189)](#115)
-          - [Section IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#116)
-          - [Section V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#117)
-        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#118)
-          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#119)
-          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#120)
-        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#121)
-          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#122)
-            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#123)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#124)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#125)
-            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#126)
-          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#127)
-            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#128)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#129)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#130)
-            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#131)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#132)
-          - [Section I : Dispositions communes (art. R202 à R223)](#133)
-            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#134)
-            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#135)
-            - [Paragraphe 3 : Discipline. (art. R210)](#136)
-            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#137)
-            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#138)
-            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#139)
-            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#140)
-          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#141)
-          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#142)
-        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#143)
-          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#144)
-          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#145)
-          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#146)
-          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#147)
-          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#148)
-          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#149)
-      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#150)
-      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#151)
-  - [Annexes (art. ANNEXE I à ANNEXE II)](#152)
-    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#153)
+        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#106)
+          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#107)
+          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#108)
+        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#109)
+          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#110)
+            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#111)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#112)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#113)
+            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#114)
+          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#115)
+            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#116)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#117)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#118)
+            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#119)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#120)
+          - [Section I : Dispositions communes (art. R202 à R223)](#121)
+            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#122)
+            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#123)
+            - [Paragraphe 3 : Discipline. (art. R210)](#124)
+            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#125)
+            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#126)
+            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#127)
+            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#128)
+          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#129)
+          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#130)
+        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#131)
+          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#132)
+          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#133)
+          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#134)
+          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#135)
+          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#136)
+          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#137)
+      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#138)
+      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#139)
+  - [Annexes (art. ANNEXE I à ANNEXE II)](#140)
+    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#141)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -16883,2019 +16871,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Service de défense<a id=106></a>
+#### Chapitre II bis : Service dans la police nationale<a id=106></a>
 
-##### Section I : Affectation de défense<a id=107></a>
-
-##### Paragraphe 1er : Dispositions générales.<a id=108></a>
-
-###### Article R*149
-
-Les personnels visés à l'article L. 87 qui reçoivent une affectation au service de défense en vue de leur utilisation dans
-les cas prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959 sont appelés " affectés de défense ".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-  - Code du service national - art. L87 (M)
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 1
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*150
-
-L'affectation de défense est individuelle ou collective.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 2 et art. 3
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L91 (Ab)
-  - Code du service national L91, R151
-
-
-###### Article R*151
-
-I. - L'affectation de défense est individuelle dans les corps de défense prévus à l'article L. 89.
-
-II. - L'affectation de défense est collective :
-
-1° Dans les corps de l'Etat, les services des assemblées parlementaires, les directions et services de l'Etat et des
-collectivités territoriales ainsi que dans les organismes qui leur sont rattachés. Tous leurs fonctionnaires et agents
-contractuels ou auxiliaires qui sont soumis aux obligations du service de défense sont affectés collectifs de défense, y
-compris les titulaires d'une affectation individuelle tant qu'ils n'ont pas reçu l'ordre de rejoindre cette affectation ;
-
-2° Dans les entreprises et établissements appartenant aux catégories énumérées aux tableaux I, II, III et IV de l'annexe II
-au présent code et dont la liste est arrêtée par le Premier ministre ou par les autorités ayant reçu, à cet effet, sa
-délégation. Leurs personnels qui sont soumis aux obligations du service de défense sont affectés collectifs de défense, y
-compris les titulaires d'une affectation individuelle tant qu'ils n'ont pas reçu l'ordre de rejoindre cette affectation.
-
-Les services et organismes mentionnés au 1° et 2° ci-dessus peuvent, en outre, recevoir des affectés individuels de défense.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 4
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L89 (M)
-  - Code du service national L89, annexe II
-
-
-###### Article R*152
-
-Les personnels assujettis au service national appartenant aux organismes visés à l'article R. 151 sont tenus de faire
-connaître leur situation vis-à-vis du service national ainsi que tout changement intervenant dans cette situation aux
-autorités administratives ou aux chefs d'entreprises ou d'établissements dont ils dépendent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 5
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R151
-
-
-###### Article R*153
-
-Les autorités responsables des organismes visés à l'article R. 151 tiennent à jour les renseignements relatifs à l'état civil
-et à la qualification professionnelle de leur personnel titulaire d'une affectation de défense individuelle ou collective.
-
-Ces renseignements doivent être tenus en permanence à la disposition des agents chargés du contrôle des affectations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 6
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R151
-
-
-##### Paragraphe 2 : Affectation individuelle de défense.<a id=109></a>
-
-###### Article R*154
-
-Les personnels soumis aux obligations du service national ne peuvent recevoir d'affectation individuelle de défense qu'au
-titre soit des corps de défense, soit d'emplois distincts de leur emploi habituel. Leur affectation est décidée par les
-autorités et suivant les modalités prévues aux articles R.[* 156 et R.*] 157.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 7
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R156, R157
-
-
-###### Article R*156
-
-Sauf pour les catégories de personnels définies à l'article R. 157, [*magistrats du corps judiciaire et personnel
-indispensable au fonctionnement de juridictions*] l'affectation individuelle de défense est [*autorité compétente*] décidée :
-
-- par les généraux commandant les circonscriptions militaires de défense ou les autorités designées par le ministre chargé
-des armées en ce qui concerne les personnels soumis aux obligations du service militaire ;
-
-- par les préfets en ce qui concerne les personnels non soumis aux obligations du service militaire.
-
-Dans le cas où l'emploi habituel des intéressés relève d'un ministre autre que celui au titre duquel l'affectation de défense
-est demandée, l'avis du représentant du premier doit être recueilli préalablement à la décision d'affectation.
-
-Les autorites ayant pouvoir de décision consultent les représentants des administrations ou services pour les professions
-relevant de leur compétence.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 9
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R157
-
-
-###### Article R*157
-
-L'affectation individuelle de défense des magistrats du corps judiciaire et des personnels indispensables au fonctionnement
-des juridictions et qui sont désignés par des instructions du Premier ministre est décidée :
-
-- en ce qui concerne les personnels soumis aux obligations du service militaire, par le ministre chargé des armées sur
-demande du ministre responsable de l'emploi de défense auquel ces personnels doivent être affectés ;
-
-- en ce qui concerne les personnels non soumis aux obligations du service militaire, par le ministre responsable de l'emploi
-de défense auquel ces personnels doivent être affectés.
-
-Dans le cas où l'emploi habituel des intéressés relève d'un autre ministre, l'avis conforme de ce dernier doit au préalable
-être recueilli. Pour les magistrats du siège, l'avis conforme du Conseil supérieur de la magistrature est, en outre,
-obligatoire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 10
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*158
-
-Les demandes d'affectation individuelle de défense sont nominatives ou numériques ; dans ce dernier cas, elles doivent
-mentionner expressément les caractéristiques de l'emploi, les qualifications professionnelles et les aptitudes requises.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 11
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*159
-
-Les demandes d'affectation individuelle à un corps de défense sont établies par l'autorité responsable de la mise sur pied de
-ce corps.
-
-Les demandes d'affectation individuelle à l'un des organismes visés à l'article R. 151 sont établies, suivant le cas, par
-l'autorité administrative responsable ou par le chef d'entreprise ou d'établissement.
-
-Les demandes d'affectation individuelle de défense sont instruites à la diligence de la direction du service national. Cette
-derniere enregistre et notifie les décisions d'affectation individuelle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 12
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R151
-
-
-###### Article R*160
-
-La radiation de l'affectation individuelle de défense est prononcée par les autorités ayant prononcé l'affectation. Elle est
-notifiée par la direction du service national.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 13
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*161
-
-Le Premier ministre dispose d'un organisme consultatif, dit commission centrale du service de défense, qui peut être saisi de
-toute question concernant l'application du présent chapitre.
-
-Cette commission est ainsi composée :
-
-- le secrétaire général de la défense nationale ou son représentant, président ;
-
-- les représentants du ministre chargé des armées, du ministre de l'intérieur et du ministre chargé des affaires
-économiques ;
-
-- les représentants des ministres dont les responsabilités de défense ont été fixées par décrets ;
-
-- le représentant du ministre du travail ;
-
-- les représentants des autres ministres pour les questions relevant de leur compétence.
-
-La commission peut entendre toute personne ou autorité qualifiée.
-
-Le secrétariat de la commission est assuré par le secrétariat général de la défense nationale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 15
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*162
-
-En tout temps, les affectations individuelles de défense peuvent être rapportées par l'autorité qui les a prononcées, soit de
-sa propre initiative, soit à la demande de l'autorité dont relève l'emploi habituel des intéressés ; les changements
-d'affectation interviennent selon la procédure définie aux articles R.* 154, R.* 157 et R.* 160.
-
-Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, un délai de dix jours maximum
-est consenti à l'organisme employeur pour l'exécution des décisions prévues à l'alinéa précédent.
-
-En cas de rappel à l'activité, dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier
-1959, les personnels pour qui une demande d'affectation de défense serait en cours d'examen sont tenus de se conformer aux
-prescriptions des ordres d'affectation en leur possession.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-  - Code du service national R160, R151, R154, R157
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 16
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-##### Paragraphe 3 : Affectation collective de défense.<a id=110></a>
-
-###### Article R*163
-
-Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, le Gouvernement peut, par
-décret pris en conseil des ministres, limiter l'application de l'affectation collective de défense à une partie du
-territoire, à certaines catégories d'activité ou à certains postes.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 17
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*164
-
-En dehors des organismes mentionnés à l'article R.* 151, le Gouvernement peut, par décret pris en conseil des ministres, dans
-les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, décider le maintien dans leur
-emploi, quel qu'il soit, des personnels auxquels s'appliquent les obligations du service de défense, s'ils n'ont pas reçu
-l'ordre de rejoindre une affectation individuelle. Cette mesure entraîne l'affectation collective de défense desdits
-personnels pour toute la durée de son application.
-
-L'application des dispositions de l'alinéa précédent peut être limitée à une partie du territoire et à certaines catégories
-d'activité ou à certains postes ; elle peut être étendue à des catégories d'activité autres que celles énumérées aux tableaux
-I, II, III et IV de l'annexe II du présent code.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-  - Code du service national R151, annexe II
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 18
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*165
-
-Les personnels compris dans une affectation collective de défense sont incorporés dans le service de défense au moment où ils
-se présentent à l'emploi de défense qui leur est assigné en application de l'article L. 94.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 19
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L94 (M)
-
-
-###### Article R*166
-
-L'affectation collective de défense cesse de plein droit et sans préavis lorsque les intéressés reçoivent l'ordre de
-rejoindre une affectation individuelle soit militaire, soit de défense, soit dans la réserve de la police nationale, soit au
-titre de l'article L. 116-5.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 20
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L116-5 (M)
-
-
-##### Section II : Statut de défense.<a id=111></a>
-
-###### Article R*167
-
-Lorsqu'ils sont appelés à leur emploi de défense en exécution de l'article L. 94, les affectés de défense sont régis par le
-statut de défense défini par les articles L. 88, L. 138 et L. 139 et par la présente section.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 22
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L138 (M)
-  - Code du service national - art. L139 (M)
-  - Code du service national - art. L88 (M)
-  - Code du service national - art. L94 (M)
-
-
-##### Paragraphe 1er : Régime administratif et social.<a id=112></a>
-
-###### Article R*169
-
-Sous réserve des mesures qui pourront être prises dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n°
-59-147 du 7 janvier 1959 en ce qui concerne les rémunérations de toute nature, les affectés de défense perçoivent :
-
-a) Dans les emplois publics existants, les rémunérations prévues par les textes en vigueur, afférents au grade dont ils sont
-titulaires ou à l'emploi auquel ils sont affectés. Dans les emplois publics créés pour les nécessités de la défense, les
-rémunérations sont fixées par décret en conseil des ministres pris sur rapport du ministre intéressé et du ministre de
-l'économie et des finances ;
-
-b) Dans les autres emplois, et suivant les dispositions qui leur sont applicables, les rémunérations en vigueur dans les
-établissements, exploitations ou organismes dont dépendent ces emplois.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 24
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*170
-
-La législation du travail propre à l'emploi d'affectation est applicable aux personnels servant sous statut de défense sous
-réserve des dispositions de l'article L. 94.
-
-Les dispositions du présent article sont adaptées aux corps de défense par les décrets en Conseil d'Etat constitutifs de ces
-corps.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 25
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L94 (M)
-
-
-###### Article R*171
-
-Si l'affectation de défense entraîne changement d'emploi, l'affecté de défense bénéficie, à l'égard de sa réintégration dans
-son emploi antérieur, du même régime que s'il avait été appelé ou rappelé sous les drapeaux.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 26
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*172
-
-Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, il est interdit à tout chef
-d'entreprise d'engager un travailleur déjà placé, à titre individuel ou collectif, dans la position d'affecté de défense.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 27
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*173
-
-Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, toute personne qui, étant
-soumise aux obligations du service de défense, est embauchée par un organisme dont le personnel est soumis au régime de
-l'affectation collective de défense, en application de l'article R.[* 163 ou de l'article R.*] 164, est incorporée dans le
-service de défense au moment où elle rejoint son emploi.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-  - Code du service national R164, R163
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 28
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*174
-
-Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, si le chef d'un des
-organismes soumis au régime de l'affectation de défense en application de l'article R.[* 151 ou de l'article R.*] 164 estime
-nécessaire de licencier du personnel en affectation collective de défense, il en fait la demande à l'autorité compétente, qui
-peut décider soit le transfert de tout ou partie de ce personnel dans un autre organisme, soit sa radiation de l'affectation
-de défense.
-
-L'autorité compétente est le ministre responsable de l'organisme où sont opérés les licenciements. Le pouvoir de décision de
-ce ministre peut être délégué au préfet de zone et sous-délégué au préfet du département, dans des conditions qui sont fixées
-par instruction du Premier ministre.
-
-La décision intervient dans le mois qui suit la demande. Les décisions sont enregistrées et notifiées à la diligence de la
-direction du service national.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-  - Code du service national R164, R151
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 29
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-##### Paragraphe 2 : Régime disciplinaire.<a id=113></a>
-
-###### Article R*175
-
-Les personnels servant sous statut de défense sont soumis :
-
-- dans les administrations et services de l'Etat, des départements et des communes ainsi que dans les établissements publics
-ou entreprises qui en dépendent : aux règles de discipline applicables à leur personnel ;
-
-- dans les autres établissements : aux prescriptions du règlement intérieur, établi en conformité des dispositions de
-l'article 22-a du livre Ier du code du travail. Dans les entreprises ou établissements visés à l'article R. 151, ce règlement
-fixe l'échelle des sanctions applicables en cas d'infraction à la discipline générale de l'établissement.
-
-Les marins de la marine marchande demeurent soumis, lorsqu'ils sont embarqués, au code disciplinaire et pénal de la marine
-marchande.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 30
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R151
-  - Code du travail 22
-
-
-###### Article R*176
-
-En cas de manquement aux obligations définies au chapitre II du titre III du présent code, les personnels servant dans les
-corps de défense sont passibles, sans préjudice des poursuites pénales éventuelles, des sanctions disciplinaires suivantes :
-
-l'avertissement, le blâme, la consigne à la résidence administrative, la réduction d'un ou deux grades. Le décret en Conseil
-d'Etat constitutif de chaque corps de défense peut déterminer dans quelles conditions les dispositions de l'article précédent
-et celles du présent article sont applicables au cas particulier de ce corps.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 31
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R175
-
-
-###### Article R*178
-
-Les sanctions prévues, d'une part, à l'article R.[* 175, d'autre part, à l'article R.*] 176 peuvent se cumuler.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 33
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R176, R175
-
-
-##### Paragraphe 3 : Dispositions particulières aux corps de défense.<a id=114></a>
-
-###### Article R*179
-
-Les corps de défense prévus à l'article L. 89 sont composés de personnels soumis aux obligations du service national,
-désignés soit en raison de leur aptitude, soit du fait qu'ils appartiennent à un service ou à une entreprise qui constitue ou
-contribue à constituer un tel corps. Ces personnels reçoivent, à ce titre, une affection individuelle de défense.
-
-Chaque corps de défense répond à une mission particulière à laquelle est adaptée son organisation propre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 34
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L89 (M)
-
-
-###### Article R*180
-
-Chaque corps de défense a sa hiérarchie propre.
-
-Son encadrement est assuré par des personnels qualifiés soit par leur profession ou leur emploi, soit par l'instruction
-qu'ils ont reçue spécialement à cet effet, soit par le grade dont ils sont titulaires dans la réserve des armées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 35
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*181
-
-Les cadres des corps de défense sont pourvus d'un grade d'emploi en rapport avec leur affectation de défense.
-
-Dans chaque corps de défense, une échelle de correspondance est établie entre les grades d'emploi et les grades de la
-hiérarchie militaire. Cette correspondance n'entraîne pas assimilation.
-
-Les grades d'emploi doivent être conformes aux hiérarchies fonctionnelles des administrations et des organismes qui font
-partie du corps de défense selon un tableau d'équivalence fixé par arrêté du ministre responsable de la mise sur pied du
-corps de défense, contresigné par le ministre chargé des armées.
-
-L'affectation individuelle dans le corps de défense confère aux intéressés le grade d'emploi correspondant à leur hiérarchie
-fonctionnelle dans leur organisme d'appartenance. Il est porté sur la décision d'affectation individuelle de défense. Tout
-changement de grade d'emploi doit faire l'objet d'une nouvelle décision. Les actes d'engagement prévus à l'article R. 186
-doivent également comporter, en cas d'engagement au titre d'un corps de défense, le grade d'emploi de l'intéressé.
-
-Le grade d'emploi n'est donné que pour la durée de l'emploi. Il peut être retiré à tout moment par décision de l'autorité
-habilitée à le conférer, pour les motifs qui entraînent la perte ou le retrait des grades militaires dans la réserve des
-armées.
-
-Les grades correspondant aux grades d'officiers sont conférés par arrêté du ministre responsable de la mise sur pied de
-chaque corps de défense, contresigné par le ministre chargé des armées s'il s'agit d'un officier de réserve. Le décret en
-Conseil d'Etat constitutif de chaque corps de défense fixe les conditions dans lesquelles les autres grades sont conférés.
-
-Le grade d'emploi donne droit au commandement à l'intérieur du corps de défense.
-
-La position dans les cadres est la seule position des cadres des corps de défense.
-
-Les décrets en Conseil d'Etat constitutifs des différents corps de défense déterminent les appellations des différents grades
-d'emploi, leur correspondance avec les grades de la hiérarchie militaire, les conditions d'avancement au sein des corps de
-défense. Ces décrets sont contresignés par le ministre chargé des armées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 36
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*182
-
-Le décret en Conseil d'Etat constitutif de chaque corps de défense détermine, le cas échéant, les règles du port d'un
-uniforme et les insignes des grades d'emploi. Ces derniers doivent comporter des marques distinctives par rapport aux
-insignes de grade des armées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 37
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*183
-
-Les corps de défense peuvent bénéficier du soutien logistique des armées, à charge pour les ministres intéressés de supporter
-les dépenses correspondantes. Des accords passés entre le ministre chargé des armées et les ministres intéressés fixent les
-modalités de ce soutien.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 38
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*184
-
-En ce qui concerne les infirmités résultant par origine ou par aggravation de l'exécution d'un service de défense accompli
-dans un corps de défense, les intéressés bénéficient, conformément à l'article L. 89, des dispositions du livre Ier du code
-des pensions militaires d'invalidité et des victimes de la guerre, à l'exclusion de tout autre régime légal ou statutaire de
-pensions d'invalidité ou de rentes d'incapacité permanente. Ils bénéficient également des dispositions du deuxième alinéa de
-l'article L. 62.
-
-Ils conservent dans ce cas, pendant la période qui précède la date d'ouverture du droit à pension militaire d'invalidité, le
-bénéfice des prestations résultant des législations et statuts de sécurité ou de prévoyance sociales dont ils relèvent, à
-l'exclusion des pensions d'invalidité et d'incapacité permanente.
-
-La présomption d'imputabilité est applicable dans les corps de défense, le personnel étant soumis à une visite médicale
-d'incorporation et se trouvant placé sous surveillance médicale. Les modalités de cette surveillance médicale sont définies
-dans les décrets en Conseil d'Etat constitutifs de chaque corps de défense.
-
-Les pensions servies aux intéressés sont liquidées sur la base des grades d'emploi prévus à l'article R. 181 selon les
-tableaux d'équivalence fixés dans les décrets en Conseil d'Etat constitutifs des corps de défense.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 39
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L62 (M)
-  - Code du service national - art. L89 (M)
-  - Code du service national L89, R181, L62
-
-
-###### Article R*185
-
-Tout ministre ayant la charge d'un corps de défense constitue, au sein de son administration et aux différents niveaux de
-l'organisation territoriale de la défense, un organisme permanent ayant mission de préparer la mise sur pied du corps de
-défense considéré.
-
-Cet organisme peut comprendre des cadres militaires détachés par les armées. Dans les circonstances prévues aux articles 2 et
-6 de l'ordonnance n° 59-147 du 7 janvier 1959, il peut être renforcé par des cadres militaires de réserve.
-
-Parmi les cadres militaires d'active et de réserve visés à l'alinéa précédent, seront choisis ceux à qui incombera d'assurer
-la liaison avec les armées, en particulier pour l'application de l'article R. 183 et l'organisation de la sécurité des
-éléments du corps de défense.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-  - Code du service national R183
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 40
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-##### Section III : Dispositions particulières.<a id=115></a>
-
-###### Article R*186
-
-Les personnels assujettis ou non au service national, sans affectation militaire ou de défense, peuvent s'engager au titre du
-service de défense, devant le préfet du département de leur domicile ou de leur résidence, à servir dans les corps de défense
-ou dans les organismes définis à l'article R. 151. Ils peuvent être appelés à remplir les obligations qui résultent de cet
-engagement dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959. L'engagement est
-toujours résiliable à la volonté de l'administration compétente, soit à son initiative, soit à la demande de l'intéressé.
-L'affectation militaire en suspend les effets.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-  - Code du service national R151
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 41
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*187
-
-Les Français assujettis au service national et résidant à l'étranger peuvent être l'objet d'une décision de maintien sur
-place prise suivant la procédure prévue aux articles R.[* 156 et R.*] 157 lorsque, en considération de leur profession ou de
-leur emploi, cette mesure est reconnue nécessaire par le ministre des affaires étrangères.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 42
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R157, R156
-
-
-###### Article R*188
-
-Le fait de mettre obstacle à l'accomplissement des obligations imposées par le titre V de l'ordonnance n° 59-147 du 7 janvier
-1959 et par le présent chapitre ou de ne pas se conformer à ces obligations est puni de l'amende prévue pour les
-contraventions de la 4° classe, sans préjudice, le cas échéant, de l'application de toute autre peine prévue notamment aux
-articles 397 à 476 du code de justice militaire, complétés par les articles L. 145 à L. 149 du présent code.
-
-Est puni de la même amende le fait de mettre obstacle à l'accomplissement, par un agent de l'autorité publique, des fonctions
-tendant à assurer l'exécution ou le contrôle des obligations visées à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07
-  - Code de justice militaire 397 à 476
-  - Code du service national L145 à L149
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 43
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*189
-
-Chaque ministre inclut, dans la communication annuelle au Premier ministre des plans concernant son action dans le domaine de
-la défense, un compte rendu de préparation de la mobilisation des personnels relevant de son autorité susceptibles de
-recevoir une affectation de défense, à titre individuel ou collectif, y compris ceux devant entrer dans les " corps de
-défense " qu'il lui incombe de mettre sur pied.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°62-1386 1962-11-23 art. 44
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-##### Section IV : Modalités d'adaptation aux départements d'outre-mer.<a id=116></a>
-
-###### Article R*190
-
-Pour l'application dans les départements d'outre-mer du premier alinéa de l'article R.[* 151, les organismes au titre
-desquels sont prononcées les affectations de défense, en dehors des corps de défense, sont :
-
-D'une part :
-
-- les administrations des départements d'outre-mer et les organismes rattachés ainsi que les services dépendant des
-administrations et organismes métropolitains visés au premier alinéa de l'article R.*] 151 ;
-
-- les services départementaux et les services administratifs communaux ainsi que les organismes rattachés.
-
-D'autre part, dans chacune des catégories d'activité énumérées aux tableaux I, II, III et IV de l'annexe II du présent code,
-les entreprises et établissements dont la liste est arrêtée par le préfet, qui reçoit à cet effet la délégation du Premier
-ministre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 1
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R151, annexe II
-
-
-###### Article R*191
-
-Pour l'application dans les départements d'outre-mer des trois premiers alinéas de l'article R. 156, l'affectation
-individuelle de défense est décidée :
-
-- en ce qui concerne les personnels soumis aux obligations du service militaire, par le commandant supérieur qui a le
-département dans sa zone de responsabilité ;
-
-- en ce qui concerne les personnels non soumis aux obligations du service militaire, par le préfet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 2
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R156
-
-
-###### Article R*192
-
-Les préfets des départements d'outre-mer reçoivent une affectation individuelle de défense prononcée par le ministre chargé
-des départements et territoires d'outre-mer. S'ils sont soumis aux obligations du service militaire, l'avis conforme du
-ministre chargé des armées doit être recueilli.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 3
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*193
-
-Pour préparer les décisions d'affectation, les autorités ayant pouvoir de décision consultent les représentants des
-administrations ou services pour les professions relevant de leur compétence.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 du 19 janvier 1968 - art. 4, v. init.
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*194
-
-Pour l'application dans les départements d'outre-mer de l'article R. 174, le pouvoir de décider le transfert de tout ou
-partie du personnel dans un autre organisme ou sa radiation de l'affectation de défense est exercé par le préfet du
-département, par délégation du ministre chargé des départements et territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 5
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R174
-
-
-##### Section V : Modalités d'adaptation aux territoires d'outre-mer.<a id=117></a>
-
-###### Article R*195
-
-Pour l'application dans les territoires d'outre-mer du premier alinéa de l'article R. 151, les organismes au titre desquels
-sont prononcées les affectations de défense, en dehors des corps de défense, sont :
-
-D'une part :
-
-- les administrations des territoires d'outre-mer et les services d'Etat déterminés par le décret n° 56-1227 du 3 décembre
-1956 modifié ainsi que les organismes rattachés ;
-
-- les services territoriaux et les services administratifs communaux ainsi que les organismes rattachés.
-
-D'autre part, dans chacune des catégories d'activité énumérées aux tableaux I, II, III et IV de l'annexe II du présent code,
-les entreprises et établissements dont la liste est arrêtée par le représentant de l'Etat, qui reçoit à cet effet la
-délégation du Premier ministre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°56-1227 1956-12-03
-  - Code du service national R151, annexe II
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 6
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*196
-
-Pour l'application dans les territoires d'outre-mer des trois premiers alinéas de l'article R. 156, l'affectation
-individuelle de défense est décidée :
-
-- en ce qui concerne les personnels soumis aux obligations du service militaire, par le commandant supérieur des forces
-armées qui a le territoire dans sa zone de responsabilité ;
-
-- en ce qui concerne les personnels non soumis aux obligations du service militaire, par le représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 7
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R156
-
-
-###### Article R*197
-
-Les représentants de l'Etat dans les territoires d'outre-mer reçoivent une affectation individuelle de défense prononcée par
-le ministre chargé des départements et territoires d'outre-mer. S'ils sont soumis aux obligations du service militaire,
-l'avis du ministre chargé des armées doit être recueilli.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 8
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*198
-
-Pour préparer les décisions d'affectation, les autorités ayant pouvoir de décision consultent les représentants des
-administrations ou services pour les professions relevant de leur compétence.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 du 19 janvier 1968 - art. 9, v. init.
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R*199
-
-A Mayotte, lorsque les décisions d'affectation concernent des services ou organismes territoriaux relevant de la compétence
-du président du conseil général, elles sont prises sur sa proposition.
-
-Pour les services ou organismes d'Etat, elles sont préparées dans les conditions prévues à l'article R. 198.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 10
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R198
-
-
-###### Article R*200
-
-Pour l'application dans les territoires d'outre-mer de l'article R. 174, le pouvoir de décider le transfert de tout ou partie
-du personnel dans un autre organisme ou sa radiation de l'affectation de défense est exercé par le représentant de l'Etat,
-par délégation du ministre chargé des départements et territoires d'outre-mer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 11
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national R174
-
-
-###### Article R*201
-
-Pour l'application de l'article R.[* 186, le représentant de l'Etat est l'autorité habilitée à recevoir les engagements au
-titre du service de défense dans les organismes définis à l'article R.*] 195.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°68-63 1968-01-19 art. 12
-
-_Modifié par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-536 du 18 avril 2002 - art. 17 (V) JORF 19 avril 2002
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cite_:
-
-  - Code du service national R195, R186
-
-
-#### Chapitre II bis : Service dans la police nationale<a id=118></a>
-
-##### Section I : Service actif dans la police nationale.<a id=119></a>
+##### Section I : Service actif dans la police nationale.<a id=107></a>
 
 ###### Article R*201-1
 
@@ -19554,7 +17532,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Section II : Disponibilité et réserve dans la police nationale.<a id=120></a>
+##### Section II : Disponibilité et réserve dans la police nationale.<a id=108></a>
 
 ###### Article R*201-20-1
 
@@ -19778,11 +17756,11 @@ _Cite_:
   - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
 
 
-#### Chapitre II ter : Service de sécurité civile<a id=121></a>
+#### Chapitre II ter : Service de sécurité civile<a id=109></a>
 
-##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=122></a>
+##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=110></a>
 
-##### Paragraphe 1er : Affectation.<a id=123></a>
+##### Paragraphe 1er : Affectation.<a id=111></a>
 
 ###### Article R*201-21
 
@@ -19950,7 +17928,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=124></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=112></a>
 
 ###### Article R*201-26
 
@@ -20014,7 +17992,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=125></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=113></a>
 
 ###### Article R*201-28
 
@@ -20185,7 +18163,7 @@ _Cite_:
   - Code du service national R201-29 à R201-31
 
 
-##### Paragraphe 4.<a id=126></a>
+##### Paragraphe 4.<a id=114></a>
 
 ###### Article R*201-34
 
@@ -20252,9 +18230,9 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=127></a>
+##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=115></a>
 
-##### Paragraphe 1er : Affectation.<a id=128></a>
+##### Paragraphe 1er : Affectation.<a id=116></a>
 
 ###### Article R*201-36
 
@@ -20411,7 +18389,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=129></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=117></a>
 
 ###### Article R*201-41
 
@@ -20477,7 +18455,7 @@ _Cite_:
   - Code du service national R201-37
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=130></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=118></a>
 
 ###### Article R*201-43
 
@@ -20634,7 +18612,7 @@ _Cite_:
   - Code du service national R201-44 à R201-46
 
 
-##### Paragraphe 4.<a id=131></a>
+##### Paragraphe 4.<a id=119></a>
 
 ###### Article R*201-48
 
@@ -20701,11 +18679,11 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=132></a>
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=120></a>
 
-##### Section I : Dispositions communes<a id=133></a>
+##### Section I : Dispositions communes<a id=121></a>
 
-##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=134></a>
+##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=122></a>
 
 ###### Article R202
 
@@ -20873,7 +18851,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 2 : Indemnités.<a id=135></a>
+##### Paragraphe 2 : Indemnités.<a id=123></a>
 
 ###### Article R206
 
@@ -21077,7 +19055,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Discipline.<a id=136></a>
+##### Paragraphe 3 : Discipline.<a id=124></a>
 
 ###### Article R210
 
@@ -21126,7 +19104,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Permissions.<a id=137></a>
+##### Paragraphe 4 : Permissions.<a id=125></a>
 
 ###### Article R211
 
@@ -21403,7 +19381,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Soins médicaux.<a id=138></a>
+##### Paragraphe 5 : Soins médicaux.<a id=126></a>
 
 ###### Article R218
 
@@ -21530,7 +19508,7 @@ _Cité par_:
   - Code du service national - art. R227 (V)
 
 
-##### Paragraphe 6 : Inaptitude physique.<a id=139></a>
+##### Paragraphe 6 : Inaptitude physique.<a id=127></a>
 
 ###### Article R221
 
@@ -21572,7 +19550,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### Paragraphe 7 : Libération du service actif.<a id=140></a>
+##### Paragraphe 7 : Libération du service actif.<a id=128></a>
 
 ###### Article R222
 
@@ -21655,7 +19633,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section II : Dispositions particulières au service de l'aide technique.<a id=141></a>
+##### Section II : Dispositions particulières au service de l'aide technique.<a id=129></a>
 
 ###### Article R224
 
@@ -21733,7 +19711,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section III : Dispositions particulières au service de la coopération.<a id=142></a>
+##### Section III : Dispositions particulières au service de la coopération.<a id=130></a>
 
 ###### Article R226
 
@@ -21829,7 +19807,7 @@ _Cite_:
   - Code du service national - art. R220 (M)
 
 
-#### Chapitre IV : Service des objecteurs de conscience.<a id=143></a>
+#### Chapitre IV : Service des objecteurs de conscience.<a id=131></a>
 
 ###### Article R227-1
 
@@ -21869,7 +19847,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-##### Paragraphe 1er : Rattachement et affectation.<a id=144></a>
+##### Paragraphe 1er : Rattachement et affectation.<a id=132></a>
 
 ###### Article R227-2
 
@@ -21916,7 +19894,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-##### Paragraphe 2 : Devoirs et obligations.<a id=145></a>
+##### Paragraphe 2 : Devoirs et obligations.<a id=133></a>
 
 ###### Article R227-3
 
@@ -21958,7 +19936,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 3 : Discipline.<a id=146></a>
+##### Paragraphe 3 : Discipline.<a id=134></a>
 
 ###### Article R227-4
 
@@ -22148,7 +20126,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 4 : Permissions.<a id=147></a>
+##### Paragraphe 4 : Permissions.<a id=135></a>
 
 ###### Article R227-10
 
@@ -22307,7 +20285,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 5 : Habilitation des organismes.<a id=148></a>
+##### Paragraphe 5 : Habilitation des organismes.<a id=136></a>
 
 ###### Article R227-15
 
@@ -22453,7 +20431,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 6 : Missions en temps de guerre.<a id=149></a>
+##### Paragraphe 6 : Missions en temps de guerre.<a id=137></a>
 
 ###### Article R227-19
 
@@ -22521,7 +20499,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-### Titre IV : Service féminin.<a id=150></a>
+### Titre IV : Service féminin.<a id=138></a>
 
 ###### Article R*228
 
@@ -22837,7 +20815,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R531-1 (M)
 
 
-### Titre V : Dispositions communes aux formes civiles du service national<a id=151></a>
+### Titre V : Dispositions communes aux formes civiles du service national<a id=139></a>
 
 ###### Article R*234
 
@@ -22880,7 +20858,7 @@ _Cite_:
   - Code du service national R110 à R114, R116 à R118, R120
 
 
-# Annexes<a id=152></a>
+# Annexes<a id=140></a>
 
 ###### Article ANNEXE I
 
@@ -23171,7 +21149,7 @@ _Cite_:
   - Code du service national R*1, R*5, R*6, R*7, R*8, R*10, R*11, R*12, R*15, R*16, R*17, R*18, R*23, R*24, R*25, R*26, R*27, R*28, R*29, R*30, R*31, R*32, R*33, R*34, R*35, R*36, R*37, R*38, R*39, R*40, R*41, R*42, R*43, R*43-1, R*43-2, R*43-3, R*44, R*
 
 
-## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=153></a>
+## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=141></a>
 
 ###### Article ANNEXE II
 
