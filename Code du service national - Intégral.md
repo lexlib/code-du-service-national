@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1983-12-22
+Version Consolidée au 1984-04-01
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -61,44 +61,49 @@ Version Consolidée au 1983-12-22
           - [PARAGRAPHE 1 : Soutiens de famille. (art. R*55 à R*68)](#58)
           - [PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#59)
           - [PARAGRAPHE 3 : Résidence à l'étranger. (art. R*69 à R77)](#60)
-        - [SECTION II : Objecteurs de conscience. (art. R78 à R97)](#61)
-        - [SECTION III : Condamnés. (art. R*98 à R*100-1)](#62)
-      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R103 à R104)](#63)
-      - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#64)
-    - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R226)](#65)
-      - [CHAPITRE I : Service militaire (art. R110 à R148)](#66)
-        - [SECTION I : Service militaire actif (art. R110 à R*132)](#67)
-          - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#68)
-          - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R123 à R126)](#69)
-          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*128 à R*132)](#70)
-        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#71)
-          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#72)
-          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R141 à R144)](#73)
-          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R147 à R148)](#74)
-      - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#75)
-        - [SECTION I : Affectation de défense (art. R*149 à R*166)](#76)
-          - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#77)
-          - [PARAGRAPHE 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#78)
-          - [PARAGRAPHE 3 : Affectation collective de défense. (art. R*163 à R*166)](#79)
-        - [SECTION II : Statut de défense. (art. R*167 à R*185)](#80)
-          - [PARAGRAPHE 1 : Régime administratif et social. (art. R*168 à R*174)](#81)
-          - [PARAGRAPHE 2 : Régime disciplinaire. (art. R*175 à R*178)](#82)
-          - [PARAGRAPHE 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#83)
-        - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#84)
-        - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#85)
-        - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#86)
-      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R226)](#87)
-        - [SECTION I : Dispositions communes (art. R202 à R223)](#88)
-          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#89)
-          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#90)
-          - [PARAGRAPHE 4 : Permissions. (art. R212 à R217)](#91)
-          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#92)
-          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#93)
-          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#94)
-        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#95)
-        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#96)
-    - [TITRE IV : Service féminin. (art. R*235 à R*238)](#97)
-  - [Annexes (art. ANNEXE II)](#98)
+        - [SECTION III : Condamnés. (art. R*98 à R*100-1)](#61)
+      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R103 à R104)](#62)
+      - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#63)
+    - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-18)](#64)
+      - [CHAPITRE I : Service militaire (art. R110 à R148)](#65)
+        - [SECTION I : Service militaire actif (art. R110 à R*132)](#66)
+          - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#67)
+          - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R123 à R126)](#68)
+          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*128 à R*132)](#69)
+        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#70)
+          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#71)
+          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R141 à R144)](#72)
+          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R147 à R148)](#73)
+      - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#74)
+        - [SECTION I : Affectation de défense (art. R*149 à R*166)](#75)
+          - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#76)
+          - [PARAGRAPHE 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#77)
+          - [PARAGRAPHE 3 : Affectation collective de défense. (art. R*163 à R*166)](#78)
+        - [SECTION II : Statut de défense. (art. R*167 à R*185)](#79)
+          - [PARAGRAPHE 1 : Régime administratif et social. (art. R*168 à R*174)](#80)
+          - [PARAGRAPHE 2 : Régime disciplinaire. (art. R*175 à R*178)](#81)
+          - [PARAGRAPHE 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#82)
+        - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#83)
+        - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#84)
+        - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#85)
+      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R226)](#86)
+        - [SECTION I : Dispositions communes (art. R202 à R223)](#87)
+          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#88)
+          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#89)
+          - [PARAGRAPHE 4 : Permissions. (art. R212 à R217)](#90)
+          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#91)
+          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#92)
+          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#93)
+        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#94)
+        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#95)
+      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-18)](#96)
+        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#97)
+        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#98)
+        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#99)
+        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#100)
+        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#101)
+    - [TITRE IV : Service féminin. (art. R*235 à R*238)](#102)
+  - [Annexes (art. ANNEXE II)](#103)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -5428,605 +5433,7 @@ _Cite_:
   - Code du service national R69 à R76
 
 
-#### SECTION II : Objecteurs de conscience.<a id=61></a>
-
-###### Article R78
-
-La présente section fixe les conditions dans lesquelles les jeunes gens admis au bénéfice de l'article L. 41 [*objecteur de
-conscience*] recoivent application de l'article L. 138 [*discipline propre de l'administration ou de l'entreprise*] lorsque
-la formation civile assurant un travail d'intéret général à laquelle ils sont affectés n'a pas été constituée spécialement à
-cet effet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 1
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-  - Code du service national - art. R80 (Ab)
-  - Code du service national - art. R81 (Ab)
-  - Code du service national - art. R82 (Ab)
-  - Code du service national - art. R83 (Ab)
-  - Code du service national - art. R91 (Ab)
-  - Code du service national - art. R92 (Ab)
-  - Code du service national - art. R95 (Ab)
-
-_Cite_:
-
-  - Code du service national - art. L138 (M)
-  - Code du service national - art. L41 (Ab)
-
-
-###### Article R79
-
-Les jeunes gens visés à l'article R. 78 [*objecteurs de conscience*] relèvent du ministre des affaires sociales et de la
-solidarité nationale.
-
-Ils sont placés pour emploi, par décision du ministre, sous l'autorité des responsables de l'encadrement de la formation
-civile d'affectation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 2
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R80
-
-En tant que citoyens, les jeunes visés à l'article R. 78 [*objecteurs de conscience*] doivent [*obligations*] :
-
-se conformer aux lois ;
-
-servir avec loyauté et dévouement ;
-
-s'interdire tout acte, propos ou attitude contraires aux intérêts de la Nation.
-
-En tant qu'assujettis au service national, ils sont tenus au devoir d'obéissance, notamment en ce qui concerne l'appel au
-service, l'affectation et les examens médicaux.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 3 et art. 4
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. R78 (Ab)
-
-
-###### Article R81
-
-Affectés à une formation civile, les jeunes gens visés à l'article R. 78 [*objecteurs de conscience*] doivent
-[*obligations*] :
-
-accomplir dans le cadre du règlement interieur établi par l'organisme d'emploi en accord avec le ministre, le travail qui
-leur est confié, à l'exclusion de tout autre ;
-
-observer en toutes circonstances les règles élémentaires de la politesse et du savoir-vivre.
-
-Il leur est interdit de s'absenter sans autorisation du lieu de travail.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 5
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. R78 (Ab)
-
-
-###### Article R82
-
-Les jeunes gens visés à l'article R. 78 [*objecteurs de conscience*] peuvent être tenus de résider soit dans des limites
-géographiques déterminées, soit dans des locaux mis à leur disposition par la formation civile d'affectation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 6
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. R78 (Ab)
-
-
-###### Article R83
-
-Les jeunes gens visés à l'article R. 78 [*objecteurs de conscience*] ne doivent participer à aucune activite ou réunion à
-caractère politique ou syndical [*interdiction*].
-
-Ils doivent [*obligation*] obtenir l'autorisation du ministre [*de l'agriculture*] [*autorité compétente*] lorsqu'ils
-désirent évoquer publiquement des questions politiques ou mettant en cause une puissance étrangère ou une organisation
-internationale.
-
-Toutefois, et sous-réserve des inéligibilités prévues par la loi, ces jeunes gens peuvent être candidats à toute fonction
-publique élective. En ce cas, les dispositions figurant aux deux premiers alinéas du présent article ne leur sont pas
-opposables et l'interdiction d'adhésion à un parti politique est suspendue pour la durée de la campagne électorale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 7
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. R78 (Ab)
-
-_Modifié par_:
-
-  - Décret n°75-807 1975-08-29 art. 1 JORF 2 septembre 1975
-
-
-###### Article R84
-
-Toute réclamation collective ou manifestation collective, toute cessation concertée du travail sont interdites.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 8
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R85
-
-Tout manquement aux prescriptions qui précèdent expose son auteur à des punitions prononcées dans les conditions définies par
-les articles 97,98 et 99 du règlement de discipline générale. 
-
-Les punitions disciplinaires sont le blâme et le déplacement d'office. Elles sont prononcées par le ministre    , après que
-l'intéressé ait été mis en mesure de s'expliquer sur les faits qui lui sont reprochés. 
-
-Une même faute peut être sanctionnée à la fois sur le plan disciplinaire et sur le plan pénal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 9
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R86
-
-Le blâme sanctionne une faute assez grave ou des fautes répétées de gravité moindre. 
-
-Il entraine la suppression de deux jours de permission. 
-
-Il est notifié par écrit à l'intéressé, avec insertion à son dossier   .
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 10
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-  - Code du service national - art. R93 (Ab)
-
-
-###### Article R87
-
-Le déplacement d'office sanctionne une faute grave ou très grave.
-
-Il entraine la suppression de cinq jours de permission.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 11
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-  - Code du service national - art. R93 (Ab)
-
-
-###### Article R88
-
-Le sursis peut être accordé en ce qui concerne la suppression des jours de permission pour la première punition.
-
-Si l'intéressé n'encourt aucune autre punition pendant un délai de six mois, les jours de permission supprimés lui sont
-remis.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 12
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-  - Code du service national - art. R93 (Ab)
-
-
-###### Article R89
-
-Le puni qui présente une réclamation n'est pas dispensé de se conformer aux ordres ou aux mesures prescrites.
-
-Une réclamation fondée sur de fausses allégations ou rédigée en termes irrespectueux peut entraîner une nouvelle punition.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 13
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R90
-
-Toute infraction mentionnée aux articles L. 146 et [*défaillance, désertion, abandon de poste, refus d'obéissance*] L. 149
-doit être signalée par le responsable de l'encadrement de la formation d'affectation dans les conditions prévues à l'article
-L. 141. Un exemplaire du procès-verbal est adressé directement au ministre par la gendarmerie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 14
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L141 (M)
-  - Code du service national - art. L146 (M)
-  - Code du service national - art. L149 (M)
-
-
-###### Article R91
-
-Dans les conditions fixées par l'article L. 135, le temps pendant lequel les jeunes gens visés à l'article R. 78 [*objecteurs
-de conscience*] ont subi, en vertu d'un jugement, une peine ayant eu pour effet de les empêcher d'accomplir tout ou partie
-des obligations du service dans leur formation d'affectation ne compte pas pour la durée de service exigée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 15
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. L135 (M)
-  - Code du service national - art. R78 (Ab)
-
-
-###### Article R92
-
-Des permissions sont accordées par le ministre ou son représentant [*autorité compétente*], sur proposition du responsable de
-l'encadrement de la formation d'affectation, dans les conditions fixées aux articles R. 93 à R. 97 aux jeunes gens visés à
-l'article R. 78 [*objecteurs de conscience*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 16
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. R78 (Ab)
-  - Code du service national R93 à R97, R78
-
-
-###### Article R93
-
-Des permissions dites "de détente" peuvent être accordées dans la limite de cinq jours par période de quatre mois [*délai*]
-de présence effective. Si un dimanche ou un jour férié se situe au début ou à la fin de la permission, il s'ajoute à la durée
-de celle-ci qui ne peut en aucun cas être inférieure à cinq jours.
-
-Vient en déduction de la durée de ces permissions un nombre de jours égal à celui :
-
-des jours supprimés et non remis, dans les conditions prévues aux articles R. 86, R. 87 et R. 88 ;
-
-du temps passé en absence sans autorisation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 17
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. R86 (Ab)
-  - Code du service national - art. R87 (Ab)
-  - Code du service national - art. R88 (Ab)
-
-
-###### Article R94
-
-Des permissions exceptionnelles peuvent être accordées à l'occasion d'un événement familial important dans les conditions
-applicables à l'ensemble des jeunes gens accomplissant leur service national actif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 18
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R95
-
-Les jeunes gens visés à l'article R. 78 [*objecteurs de conscience*] sortant d'un établissement hospitalier peuvent
-bénéficier de permissions de convalescence dont la durée est fixée par le médecin [*autorité compétente*] agréé par le
-ministre [*de l'agriculture*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 19
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-_Cite_:
-
-  - Code du service national - art. R78 (Ab)
-
-
-###### Article R96
-
-Le ministre [*de l'agriculture*] [*autorité compétente*] peut accorder, à titre de récompense, des permissions individuelles
-de caractère exceptionnel, dans la limite de cinq jours [*durée*] par an, pour l'un des seuls motifs suivants :
-
-acte exceptionnel de courage et de dévouement ;
-
-efficacité exemplaire dans l'exécution du travail.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 20
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-###### Article R97
-
-Indépendamment des permissions visées dans les articles précédents, le ministre [*de l'agriculture*] peut accorder, en raison
-de la bonne conduite des intéressés pendant toute la durée du service, un congé sans solde exceptionnel précédant la
-libération du service et ne pouvant excéder quatre-vingt-dix jours.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-805 1972-08-17 art. 21
-
-_Abrogé par_:
-
-  - Décret n°84-234 du 29 mars 1984 - art. 2, v. init.
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
-
-_Cité par_:
-
-  - Code du service national - art. ANNEXE I (V)
-
-
-#### SECTION III : Condamnés.<a id=62></a>
+#### SECTION III : Condamnés.<a id=61></a>
 
 ###### Article R*98
 
@@ -6137,7 +5544,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-### CHAPITRE III : Réforme pour inaptitude physique.<a id=63></a>
+### CHAPITRE III : Réforme pour inaptitude physique.<a id=62></a>
 
 ###### Article R103
 
@@ -6230,7 +5637,7 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
-### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.<a id=64></a>
+### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.<a id=63></a>
 
 ###### Article R*105
 
@@ -6388,13 +5795,13 @@ _Cite_:
   - Code du service national R108
 
 
-## TITRE III : Dispositions particulières aux différentes formes du service national<a id=65></a>
+## TITRE III : Dispositions particulières aux différentes formes du service national<a id=64></a>
 
-### CHAPITRE I : Service militaire<a id=66></a>
+### CHAPITRE I : Service militaire<a id=65></a>
 
-#### SECTION I : Service militaire actif<a id=67></a>
+#### SECTION I : Service militaire actif<a id=66></a>
 
-##### PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=68></a>
+##### PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=67></a>
 
 ###### Article R110
 
@@ -6668,7 +6075,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Service militaire actif fractionné.<a id=69></a>
+##### PARAGRAPHE 2 : Service militaire actif fractionné.<a id=68></a>
 
 ###### Article R123
 
@@ -6769,7 +6176,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Gendarmes auxiliaires.<a id=70></a>
+##### PARAGRAPHE 3 : Gendarmes auxiliaires.<a id=69></a>
 
 ###### Article R*128
 
@@ -6861,9 +6268,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Recrutement des cadres de réserve du service militaire<a id=71></a>
+#### SECTION II : Recrutement des cadres de réserve du service militaire<a id=70></a>
 
-##### PARAGRAPHE 1 : Préparation au service militaire.<a id=72></a>
+##### PARAGRAPHE 1 : Préparation au service militaire.<a id=71></a>
 
 ###### Article R133
 
@@ -6996,7 +6403,7 @@ _Cite_:
   - Code du service national R133 à R138
 
 
-##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=73></a>
+##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=72></a>
 
 ###### Article R141
 
@@ -7079,7 +6486,7 @@ _Cite_:
   - Code du service national R140 à R143
 
 
-##### PARAGRAPHE 3 : Nomination dans les cadres.<a id=74></a>
+##### PARAGRAPHE 3 : Nomination dans les cadres.<a id=73></a>
 
 ###### Article R147
 
@@ -7122,11 +6529,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Service de défense<a id=75></a>
+### CHAPITRE II : Service de défense<a id=74></a>
 
-#### SECTION I : Affectation de défense<a id=76></a>
+#### SECTION I : Affectation de défense<a id=75></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=77></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=76></a>
 
 ###### Article R*149
 
@@ -7269,7 +6676,7 @@ _Cite_:
   - Code du service national R151
 
 
-##### PARAGRAPHE 2 : Affectation individuelle de défense.<a id=78></a>
+##### PARAGRAPHE 2 : Affectation individuelle de défense.<a id=77></a>
 
 ###### Article R*154
 
@@ -7500,7 +6907,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Affectation collective de défense.<a id=79></a>
+##### PARAGRAPHE 3 : Affectation collective de défense.<a id=78></a>
 
 ###### Article R*163
 
@@ -7603,7 +7010,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Statut de défense.<a id=80></a>
+#### SECTION II : Statut de défense.<a id=79></a>
 
 ###### Article R*167
 
@@ -7636,7 +7043,7 @@ _Cite_:
   - Code du service national - art. L94 (M)
 
 
-##### PARAGRAPHE 1 : Régime administratif et social.<a id=81></a>
+##### PARAGRAPHE 1 : Régime administratif et social.<a id=80></a>
 
 ###### Article R*168
 
@@ -7828,7 +7235,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Régime disciplinaire.<a id=82></a>
+##### PARAGRAPHE 2 : Régime disciplinaire.<a id=81></a>
 
 ###### Article R*175
 
@@ -7936,7 +7343,7 @@ _Cite_:
   - Code du service national R176, R175, R177
 
 
-##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.<a id=83></a>
+##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.<a id=82></a>
 
 ###### Article R*179
 
@@ -8147,7 +7554,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION III : Dispositions particulières.<a id=84></a>
+#### SECTION III : Dispositions particulières.<a id=83></a>
 
 ###### Article R*186
 
@@ -8273,7 +7680,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION IV : Modalités d'adaptation aux départements d'outre-mer.<a id=85></a>
+#### SECTION IV : Modalités d'adaptation aux départements d'outre-mer.<a id=84></a>
 
 ###### Article R*190
 
@@ -8405,7 +7812,7 @@ _Cite_:
   - Code du service national R174
 
 
-#### SECTION V : Modalités d'adaptation aux territoires d'outre-mer.<a id=86></a>
+#### SECTION V : Modalités d'adaptation aux territoires d'outre-mer.<a id=85></a>
 
 ###### Article R*195
 
@@ -8585,11 +7992,11 @@ _Cite_:
   - Code du service national R195, R186
 
 
-### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=87></a>
+### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=86></a>
 
-#### SECTION I : Dispositions communes<a id=88></a>
+#### SECTION I : Dispositions communes<a id=87></a>
 
-##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=89></a>
+##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=88></a>
 
 ###### Article R202
 
@@ -8696,7 +8103,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Indemnités.<a id=90></a>
+##### PARAGRAPHE 2 : Indemnités.<a id=89></a>
 
 ###### Article R206
 
@@ -8822,7 +8229,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Permissions.<a id=91></a>
+##### PARAGRAPHE 4 : Permissions.<a id=90></a>
 
 ###### Article R212
 
@@ -8959,7 +8366,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Soins médicaux.<a id=92></a>
+##### PARAGRAPHE 5 : Soins médicaux.<a id=91></a>
 
 ###### Article R218
 
@@ -9040,7 +8447,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 2 JORF 2 septembre 1975
 
 
-##### PARAGRAPHE 6 : Inaptitude physique.<a id=93></a>
+##### PARAGRAPHE 6 : Inaptitude physique.<a id=92></a>
 
 ###### Article R221
 
@@ -9067,7 +8474,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### PARAGRAPHE 7 : Libération du service actif.<a id=94></a>
+##### PARAGRAPHE 7 : Libération du service actif.<a id=93></a>
 
 ###### Article R222
 
@@ -9119,7 +8526,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=95></a>
+#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=94></a>
 
 ###### Article R224
 
@@ -9172,7 +8579,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
 
 
-#### SECTION III : Dispositions particulières au service de la coopération.<a id=96></a>
+#### SECTION III : Dispositions particulières au service de la coopération.<a id=95></a>
 
 ###### Article R226
 
@@ -9202,7 +8609,357 @@ _Cite_:
   - Code du service national - art. R206 (M)
 
 
-## TITRE IV : Service féminin.<a id=97></a>
+### CHAPITRE IV : Service des objecteurs de conscience.<a id=96></a>
+
+###### Article R227-1
+
+Le présent chapitre fixe les conditions dans lesquelles les jeunes gens admis au bénéfice de l'article L. 116-1 accomplissent
+leurs obligations de service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L116-1 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R227-12 (M)
+  - Code du service national - art. R227-2 (V)
+  - Code du service national - art. R227-3 (V)
+  - Code du service national - art. R227-9 (V)
+
+
+#### PARAGRAPHE 1 : Rattachement et affectation.<a id=97></a>
+
+###### Article R227-2
+
+Les jeunes gens visés à l'article R. 227-1 relèvent du ministre chargé des affaires sociales qui les répartit pour y ^etre
+employés dans des administrations de l'Etat ou des collectivités locales, ou les met à la disposition d'organismes à vocation
+sociale ou humanitaire assurant une mission d'intér^et général, habilités dans les conditions fixées aux articles R. 227-15
+et R. 227-16.
+
+Le ministre chargé des affaires sociales arr^ete la liste des administrations et organismes visés à l'alinéa précédent, la
+communique aux jeunes gens admis au bénéfice du service des objecteurs de conscience, et recueille leurs candidatures. Il les
+communique, pour avis, aux ministres dont dépendent les administrations ou organismes concernés. Il affecte les jeunes gens
+compte tenu des besoins des administrations ou organismes et des candidatures exprimées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. R227-1 (M)
+  - Code du service national - art. R227-15 (M)
+  - Code du service national - art. R227-16 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R227-4 (V)
+
+
+#### PARAGRAPHE 2 : Devoirs et obligations.<a id=98></a>
+
+###### Article R227-3
+
+Assujettis au service national, les jeunes gens visés à l'article R. 227-1 sont tenus de se conformer aux règles concernant
+l'appel au service, l'affectation et les examens médicaux.
+
+Affectés à une formation civile, ils sont soumis au règlement intérieur propre à l'organisme qui les emploie. Ils doivent
+accomplir, à l'exclusion de tout autre, le travail défini en accord avec le ministre dont dépend cette formation et qui leur
+est confié.
+
+Pour l'accomplissement de leur travail, ils peuvent ^etre tenus de résider dans des locaux mis à leur disposition par
+l'administration ou l'organisme d'affectation.
+
+Il leur est interdit de s'absenter du lieu de travail sans autorisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. R227-1 (M)
+
+
+#### PARAGRAPHE 3 : Discipline.<a id=99></a>
+
+###### Article R227-4
+
+Tout manquement aux devoirs et obligations visés à l'article précédent expose son auteur à des sanctions disciplinaires
+prononcées par le ministre mentionné à l'article R.* 227-2. Les jeunes gens susceptibles d'être sanctionnés doivent être mis
+en mesure de s'expliquer sur les faits qui leur sont reprochés.
+
+Les sanctions disciplinaires sont l'avertissement et le déplacement d'office.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. R227-2 (M)
+
+
+###### Article R227-5
+
+L'avertissement entra^ine la suppression de deux jours de permission. Il est notifié par écrit à l'intéressé, avec insertion
+à son dossier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. R227-10 (V)
+
+
+###### Article R227-6
+
+Le déplacement d'office sanctionne une faute grave. Il est assorti de la suppression de cinq jours de permission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. R227-10 (V)
+
+
+###### Article R227-7
+
+Le sursis peut être accordé en ce qui concerne la suppression des jours de permission pour la première sanction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R227-8
+
+Toute infraction mentionnée aux articles L. 146 à L. 149 doit ^etre signalée par le responsable de la formation d'affectation
+dans les conditions prévues à l'article L. 141. Un exemplaire du procès-verbal est adressé directement au ministre chargé des
+affaires sociales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L141 (M)
+  - Code du service national L146 à L149, L141
+
+
+###### Article R227-9
+
+Dans les conditions fixées par l'article L. 135, le temps pendant lequel les jeunes gens visés à l'article R. 227-1 ont subi,
+en vertu d'un jugement, une peine ayant eu pour effet de les emp^echer d'accomplir tout ou partie des obligations du service
+dans l'administration ou l'organisme d'affectation, ne compte pas pour la durée de service exigée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L135 (M)
+  - Code du service national - art. R227-1 (M)
+
+
+#### PARAGRAPHE 4 : Permissions.<a id=100></a>
+
+###### Article R227-10
+
+Des permissions dites << de détente <> peuvent ^etre accordées par l'organisme d'affectation en fonction de son activité dans
+la limite de seize jours par an. Si un dimanche ou un jour férié se situe au début ou à la fin de la permission, il s'ajoute
+à la durée de celle-ci.
+
+Vient en déduction de la durée de ces permissions un nombre de jours égal à celui :
+
+- des jours supprimés dans les conditions prévues aux articles R.[* 227-5 et R.*] 227-6 ;
+
+- des jours d'absence sans autorisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. R227-5 (M)
+  - Code du service national - art. R227-6 (M)
+
+
+###### Article R227-11
+
+Des permissions dites << de détente <> peuvent ^etre accordées dans les m^emes conditions à l'occasion d'un événement
+familial important selon les règles applicables à l'ensemble des jeunes gens accomplissant leur service national actif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R227-12
+
+Les jeunes gens visés à l'article R. 227-1 sortant d'un établissement hospitalier peuvent bénéficier de permissions de
+convalescence dont la durée est fixée par le médecin agréé par le ministre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. R227-1 (M)
+
+
+###### Article R227-13
+
+Le ministre peut accorder, à titre de récompense, des permissions individuelles de caractère exceptionnel, dans la limite de
+cinq jours par an, pour acte exceptionnel de courage et de dévouement.
+
+Un ou plusieurs congés de formation, dont la durée totale ne peut pas excéder douze jours ouvrables, peuvent ^etre accordés
+par le ministre dont dépend l'organisme auprès duquel le demandeur est affecté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R227-14
+
+Indépendamment des permissions visées dans les articles précédents, le ministre peut accorder, en raison de la bonne conduite
+des intéressés pendant toute la durée du service, un congé sans solde exceptionnel précédant la libération du service et ne
+pouvant excéder quatre-vingt-dix jours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 5 : Habilitation des organismes.<a id=101></a>
+
+###### Article R227-15
+
+Les organismes qui sollicitent l'habilitation pour recevoir des objecteurs de conscience pour l'accomplissement de leur
+service national adressent une demande au ministre dont ils relèvent.
+
+La demande mentionne :
+
+1. Les nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des dirigeants de l'organisme ainsi que
+ceux des personnes chargées de l'encadrement ;
+
+2. La liste des activités de l'organisme.
+
+Un exemplaire des statuts et du règlement intérieur de l'organisme est annexé à la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. R227-2 (V)
+
+
+###### Article R227-16
+
+Le ministre chargé des affaires sociales, sur proposition des ministres dont relèvent les organismes demandeurs, procède à
+l'habilitation qui est subordonnée à la signature de la convention mentionnée à l'article R. 227-17.
+
+Les propositions d'habilitation des ministres dont relèvent les organismes demandeurs devront prendre en compte notamment la
+mission d'intér^et général poursuivie, l'absence de but lucratif, la capacité financière de l'organisme ainsi que les
+possibilités d'encadrement des objecteurs de conscience.
+
+L'habilitation peut ^etre retirée si l'organisme ne remplit plus les conditions ayant présidé à son agrément ou s'il ne
+respecte pas ses obligations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. R227-17 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R227-2 (V)
+
+
+###### Article R227-17
+
+Une convention type concernant la mise à disposition d'appelés objecteurs de conscience est proposée aux organismes désirant
+accueillir des objecteurs de conscience. Elle précise les obligations auxquelles les objecteurs de conscience sont tenus et
+les contr^oles dont ils sont susceptibles de faire l'objet.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 30 août 1988 - art. 4 (Ab)
+  - Arrêté du 12 avril 1996 - art. 4 (V)
+  - Code du service national - art. R227-16 (V)
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R227-18
+
+Une commission est instituée afin de connaître de la gestion du régime des objecteurs de conscience, des difficultés
+éventuelles et d'étudier les propositions d'adaptations jugées nécessaires. Elle peut entendre des représentants des
+organismes habilités et des associations concernées par l'objection de conscience. Sa composition est définie par arrêté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+## TITRE IV : Service féminin.<a id=102></a>
 
 ###### Article R*235
 
@@ -9319,7 +9076,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-# Annexes<a id=98></a>
+# Annexes<a id=103></a>
 
 ###### Article ANNEXE II
 
