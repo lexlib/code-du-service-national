@@ -1,151 +1,885 @@
 # Code du service national  
-Version Consolidée au 1996-05-29
+Version Consolidée au 1997-11-08
 ## Contenu: 
-  - [Partie législative (art. L1 à L159)](#1)
-    - [LIVRE Ier (art. L1 à L115)](#2)
-      - [TITRE I : Définition et principes du service national (art. L1 à L8)](#3)
-        - [Chapitre I : Dispositions générales. (art. L1 à L8)](#4)
-      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L15 à L66)](#5)
-        - [Chapitre Ier : Recensement, sélection (art. L15 à L28)](#6)
-          - [Section I : Recensement. (art. L15 à L22)](#7)
-          - [Section II : Sélection. (art. L23 à L28)](#8)
-        - [Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. L29 à L60)](#9)
-          - [Section I : Exemptions. (art. L29 à L30)](#10)
-          - [Section II : Dispenses. (art. L31 à L40)](#11)
-          - [Section IV : Condamnés. (art. L51 à L60)](#12)
-        - [Chapitre III : Réforme pour inaptitude physique. (art. L61)](#13)
-        - [Chapitre IV : Droits résultant de l'accomplissement du service national actif. (art. L62 à L66)](#14)
-      - [TITRE III : Dispositions particulières aux différentes formes du service national (art. L67 à L115)](#15)
-        - [Chapitre I : Service militaire (art. L67 à L85)](#16)
-          - [Section I : Définition. (art. L67 à L69)](#17)
-          - [Section II : Service militaire actif. (art. L70 à L77)](#18)
-          - [Section III : Recrutement des cadres de réserve du service militaire. (art. L78 à L79)](#19)
-          - [Section IV : Disponibilité et réserve du service militaire. (art. L80 à L85)](#20)
-        - [Chapitre II : Service de défense. (art. L86 à L94)](#21)
-        - [Chapitre II bis : Service dans la police nationale (art. L94-1 à L94-15)](#22)
-          - [Section I : Disposition générales. (art. L94-1 à L94-2)](#23)
-          - [Section II : Droits et obligations. (art. L94-3 à L94-10)](#24)
-          - [Section III : Disponibilité et réserve dans la police nationale. (art. L94-11 à L94-15)](#25)
-        - [Chapitre II ter : Service de sécurité civile. (art. L94-16 à L94-20)](#26)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. L95 à L115)](#27)
-          - [Section I : Définitions. (art. L95 à L96)](#28)
-          - [Section II : Dispositions communes (art. L97 à L111)](#29)
-            - [Paragraphe 1 : Dispositions générales. (art. L97 à L101)](#30)
-            - [Paragraphe 2 : Droits et obligations. (art. L102 à L108)](#31)
-            - [Paragraphe 3 : Dispositions diverses. (art. L109 à L111)](#32)
-          - [Section III : Dispositions particulières au service de l'aide technique. (art. L112)](#33)
-          - [Section IV : Dispositions particulières au service de la coopération. (art. L113 à L115)](#34)
-    - [LIVRE II (art. L5 bis à L159)](#35)
-      - [TITRE Ier : Définition et principes du service national (art. L5 bis à L14)](#36)
-        - [Chapitre Ier : Dispositions générales. (art. L5 bis)](#37)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L12 à L13)](#38)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L9 à L14)](#39)
-      - [TITRE IV : Dispositions pénales et disciplinaires (art. L117 à L159)](#40)
-        - [Chapitre Ier : Dispositions générales (art. L117 à L136)](#41)
-          - [Section I : Dispositions pénales (art. L117 à L134)](#42)
-            - [Paragraphe 1er : Fraudes. (art. L117 à L121)](#43)
-            - [Paragraphe 2 : Insoumission. (art. L122 à L131)](#44)
-            - [Paragraphe 4 : Infractions aux obligations dans la réserve. (art. L133 à L134)](#45)
-          - [Section II : Dispositions disciplinaires et administratives. (art. L135 à L136)](#46)
-        - [Chapitre II : Dispositions particulières au service militaire. (art. L137)](#47)
-        - [Chapitre III : Dispositions particulières au service de défense. (art. L138 à L149)](#48)
-        - [Chapitre III bis : Dispositions particulières au service dans la police nationale. (art. L149-1 à L149-10)](#49)
-        - [Chapitre III ter : Dispositions particulières au service de sécurité civile. (art. L149-11)](#50)
-        - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L150 à L159)](#51)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R*234)](#52)
-    - [TITRE I : Définition et principes du service national (art. R*1 à R*27)](#53)
-      - [CHAPITRE I : Dispositions générales (art. R*1 à R22)](#54)
-        - [SECTION I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#55)
-          - [PARAGRAPHE 1 : Appel avancé. (art. R*1 à R4)](#56)
-          - [PARAGRAPHE 2 : Report d'incorporation. (art. R*5 à R9)](#57)
-          - [PARAGRAPHE 3 : Dispositions communes. (art. R*11 à R*12)](#58)
-        - [SECTION II : Composition et appel du contingent. (art. R*15 à R22)](#59)
-      - [CHAPITRE II : Dispositions particulières a certains emplois du service national. (art. R*23 à R*27)](#60)
-    - [TITRE II : Dispositions communes aux différentes formes du service national (art. R*28 à R*109)](#61)
-      - [CHAPITRE I : Recensement  - sélection (art. R*28 à R*50-6)](#62)
-        - [SECTION I : Recensement. (art. R*28 à R*39)](#63)
-        - [SECTION II : Sélection. (art. R*40 à R*50-6)](#64)
-          - [PARAGRAPHE 1 : Dispositions générales. (art. R*40 à R*42)](#65)
-          - [PARAGRAPHE 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#66)
-          - [PARAGRAPHE 3 : Sélection. (art. R*44 à R*44-1)](#67)
-          - [PARAGRAPHE 4 : Règles de discipline. (art. R*45 à R*45-2)](#68)
-          - [PARAGRAPHE 5 : Responsabilité de l'Etat. (art. R*46)](#69)
-          - [PARAGRAPHE 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#70)
-          - [PARAGRAPHE 7 : Marins de la marine marchande. (art. R*48)](#71)
-          - [PARAGRAPHE 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#72)
-          - [PARAGRAPHE 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#73)
-      - [CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. R*55 à R*100-1)](#74)
-        - [SECTION I : Dispenses (art. R*55 à R77)](#75)
-          - [PARAGRAPHE 1 : Soutiens de famille. (art. R*55 à R*68)](#76)
-          - [PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#77)
-          - [PARAGRAPHE 3 : Résidence à l'étranger. (art. R*69 à R77)](#78)
-        - [SECTION III : Condamnés. (art. R*98 à R*100-1)](#79)
-      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R101 à R104)](#80)
-      - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#81)
-    - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#82)
-      - [CHAPITRE I : Service militaire (art. R110 à R148)](#83)
-        - [SECTION I : Service militaire actif (art. R110 à R*132)](#84)
-          - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#85)
-          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#86)
-        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#87)
-          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#88)
-          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#89)
-          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R145 à R148)](#90)
-      - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#91)
-        - [SECTION I : Affectation de défense (art. R*149 à R*166)](#92)
-          - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#93)
-          - [PARAGRAPHE 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#94)
-          - [PARAGRAPHE 3 : Affectation collective de défense. (art. R*163 à R*166)](#95)
-        - [SECTION II : Statut de défense. (art. R*167 à R*185)](#96)
-          - [PARAGRAPHE 1 : Régime administratif et social. (art. R*169 à R*174)](#97)
-          - [PARAGRAPHE 2 : Régime disciplinaire. (art. R*175 à R*178)](#98)
-          - [PARAGRAPHE 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#99)
-        - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#100)
-        - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#101)
-        - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#102)
-      - [CHAPITRE II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#103)
-        - [SECTION I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#104)
-        - [SECTION II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#105)
-      - [CHAPITRE II TER : Service de sécurité civile (art. R*201-21 à R*201-49)](#106)
-        - [SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#107)
-          - [PARAGRAPHE 1 : Affectation. (art. R*201-21 à R*201-25)](#108)
-          - [PARAGRAPHE 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#109)
-          - [PARAGRAPHE 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#110)
-          - [PARAGRAPHE 4. (art. R*201-34 à R*201-35)](#111)
-        - [SECTION II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#112)
-          - [PARAGRAPHE 1 : Affectation. (art. R*201-36 à R*201-40)](#113)
-          - [PARAGRAPHE 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#114)
-          - [PARAGRAPHE 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#115)
-          - [PARAGRAPHE 4. (art. R*201-48 à R*201-49)](#116)
-      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#117)
-        - [SECTION I : Dispositions communes (art. R202 à R223)](#118)
-          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#119)
-          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#120)
-          - [PARAGRAPHE 3 : Discipline. (art. R210)](#121)
-          - [PARAGRAPHE 4 : Permissions. (art. R211 à R217)](#122)
-          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#123)
-          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#124)
-          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#125)
-        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#126)
-        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#127)
-      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#128)
-        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#129)
-        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#130)
-        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#131)
-        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#132)
-        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#133)
-        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#134)
-    - [TITRE IV : Service féminin. (art. R*228 à R*233-1)](#135)
-    - [TITRE V : Dispositions communes aux formes civiles du service national (art. R*234)](#136)
-  - [Annexes (art. ANNEXE I à ANNEXE II)](#137)
-    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#138)
+  - [Partie législative (art. L111-1 à L159)](#1)
+    - [LIVRE Ier (art. L111-1 à L121-3)](#2)
+      - [TITRE Ier : Dispositions générales relatives au service national (art. L111-1 à L114-13)](#3)
+        - [Chapitre Ier : Principes. (art. L111-1 à L111-3)](#4)
+        - [Chapitre II : Champ d'application. (art. L112-1 à L112-6)](#5)
+        - [Chapitre III : Le recensement. (art. L113-1 à L113-8)](#6)
+        - [Chapitre IV : L'enseignement de la défense et l'appel de préparation à la défense. (art. L114-1 à L114-13)](#7)
+      - [TITRE II : Dispositions relatives aux volontariats (art. L121-1 à L121-3)](#8)
+        - [Chapitre Ier : Le volontariat dans les armées. (art. L121-1 à L121-3)](#9)
+    - [LIVRE II (art. L1 à L159)](#10)
+      - [TITRE Ier : Définition et principes du service national (art. L1 à L14)](#11)
+        - [Chapitre Ier : Dispositions générales. (art. L1 à L8)](#12)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L9 à L14)](#13)
+      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L15 à L65)](#14)
+        - [Chapitre Ier : Recensement, sélection (art. L15 à L28)](#15)
+          - [Section I : Recensement. (art. L15 à L22)](#16)
+          - [Section II : Sélection. (art. L23 à L28)](#17)
+        - [Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. L29 à L60)](#18)
+          - [Section I : Exemptions. (art. L29)](#19)
+          - [Section II : Dispenses. (art. L31 à L40-1)](#20)
+          - [Section IV : Condamnés. (art. L51 à L60)](#21)
+        - [Chapitre III : Réforme pour inaptitude physique. (art. L61)](#22)
+        - [Chapitre IV : Droits résultant de l'accomplissement du service national actif. (art. L62 à L65)](#23)
+      - [TITRE III : Dispositions particulières aux différentes formes du service national (art. L67 à L116-9)](#24)
+        - [Chapitre Ier : Service militaire (art. L67 à L85)](#25)
+          - [Section I : Définition. (art. L67 à L69)](#26)
+          - [Section II : Service militaire actif. (art. L70 à L77)](#27)
+          - [Section III : Recrutement des cadres de réserve du service militaire. (art. L78 à L79)](#28)
+          - [Section IV : Disponibilité et réserve du service militaire. (art. L80 à L85)](#29)
+        - [Chapitre II : Service de défense. (art. L86 à L94)](#30)
+        - [Chapitre II bis : Service dans la police nationale (art. L94-1 à L94-15)](#31)
+          - [Section I : Dispositions générales. (art. L94-1 à L94-2)](#32)
+          - [Section II : Droits et obligations. (art. L94-3 à L94-10)](#33)
+          - [Section III : Disponibilité et réserve dans la police nationale. (art. L94-11 à L94-15)](#34)
+        - [Chapitre II ter : Service de sécurité civile. (art. L94-16 à L94-20)](#35)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. L95 à L115)](#36)
+          - [Section I : Définitions. (art. L95 à L96)](#37)
+          - [Section II : Dispositions communes (art. L97 à L111)](#38)
+            - [Paragraphe 1er : Dispositions générales. (art. L97 à L101-1)](#39)
+            - [Paragraphe 2 : Droits et obligations. (art. L102 à L108)](#40)
+            - [Paragraphe 3 : Dispositions diverses. (art. L109 à L111)](#41)
+          - [Section III : Dispositions particulières au service de l'aide technique. (art. L112)](#42)
+          - [Section IV : Dispositions particulières au service de la coopération. (art. L113 à L115)](#43)
+        - [Chapitre IV : Service des objecteurs de conscience. (art. L116-1 à L116-9)](#44)
+      - [TITRE IV : Dispositions pénales et disciplinaires (art. L117 à L159)](#45)
+        - [Chapitre Ier : Dispositions générales (art. L117 à L136)](#46)
+          - [Section I : Dispositions pénales (art. L117 à L134)](#47)
+            - [Paragraphe 1er : Fraudes. (art. L117 à L121)](#48)
+            - [Paragraphe 2 : Insoumission. (art. L122 à L131)](#49)
+            - [Paragraphe 4 : Infractions aux obligations dans la réserve. (art. L133 à L134)](#50)
+          - [Section II : Dispositions disciplinaires et administratives. (art. L135 à L136)](#51)
+        - [Chapitre II : Dispositions particulières au service militaire. (art. L137)](#52)
+        - [Chapitre III : Dispositions particulières au service de défense. (art. L138 à L149)](#53)
+        - [Chapitre III bis : Dispositions particulières au service dans la police nationale. (art. L149-1 à L149-10)](#54)
+        - [Chapitre III ter : Dispositions particulières au service de sécurité civile. (art. L149-11)](#55)
+        - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L150 à L159)](#56)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1 à R*234)](#57)
+    - [TITRE I : Définition et principes du service national (art. R*1 à R*27)](#58)
+      - [CHAPITRE I : Dispositions générales (art. R*1 à R22)](#59)
+        - [SECTION I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#60)
+          - [PARAGRAPHE 1 : Appel avancé. (art. R*1 à R4)](#61)
+          - [PARAGRAPHE 2 : Report d'incorporation. (art. R*5 à R9)](#62)
+          - [PARAGRAPHE 3 : Dispositions communes. (art. R*11 à R*12)](#63)
+        - [SECTION II : Composition et appel du contingent. (art. R*15 à R22)](#64)
+      - [CHAPITRE II : Dispositions particulières a certains emplois du service national. (art. R*23 à R*27)](#65)
+    - [TITRE II : Dispositions communes aux différentes formes du service national (art. R*28 à R*109)](#66)
+      - [CHAPITRE I : Recensement  - sélection (art. R*28 à R*50-6)](#67)
+        - [SECTION I : Recensement. (art. R*28 à R*39)](#68)
+        - [SECTION II : Sélection. (art. R*40 à R*50-6)](#69)
+          - [PARAGRAPHE 1 : Dispositions générales. (art. R*40 à R*42)](#70)
+          - [PARAGRAPHE 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#71)
+          - [PARAGRAPHE 3 : Sélection. (art. R*44 à R*44-1)](#72)
+          - [PARAGRAPHE 4 : Règles de discipline. (art. R*45 à R*45-2)](#73)
+          - [PARAGRAPHE 5 : Responsabilité de l'Etat. (art. R*46)](#74)
+          - [PARAGRAPHE 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#75)
+          - [PARAGRAPHE 7 : Marins de la marine marchande. (art. R*48)](#76)
+          - [PARAGRAPHE 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#77)
+          - [PARAGRAPHE 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#78)
+      - [CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. R*55 à R*100-1)](#79)
+        - [SECTION I : Dispenses (art. R*55 à R77)](#80)
+          - [PARAGRAPHE 1 : Soutiens de famille. (art. R*55 à R*68)](#81)
+          - [PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#82)
+          - [PARAGRAPHE 3 : Résidence à l'étranger. (art. R*69 à R77)](#83)
+        - [SECTION III : Condamnés. (art. R*98 à R*100-1)](#84)
+      - [CHAPITRE III : Réforme pour inaptitude physique. (art. R101 à R104)](#85)
+      - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif. (art. R*105 à R*109)](#86)
+    - [TITRE III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#87)
+      - [CHAPITRE I : Service militaire (art. R110 à R148)](#88)
+        - [SECTION I : Service militaire actif (art. R110 à R*132)](#89)
+          - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#90)
+          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#91)
+        - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#92)
+          - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#93)
+          - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#94)
+          - [PARAGRAPHE 3 : Nomination dans les cadres. (art. R145 à R148)](#95)
+      - [CHAPITRE II : Service de défense (art. R*149 à R*201)](#96)
+        - [SECTION I : Affectation de défense (art. R*149 à R*166)](#97)
+          - [PARAGRAPHE 1 : Dispositions générales. (art. R*149 à R*153)](#98)
+          - [PARAGRAPHE 2 : Affectation individuelle de défense. (art. R*154 à R*162)](#99)
+          - [PARAGRAPHE 3 : Affectation collective de défense. (art. R*163 à R*166)](#100)
+        - [SECTION II : Statut de défense. (art. R*167 à R*185)](#101)
+          - [PARAGRAPHE 1 : Régime administratif et social. (art. R*169 à R*174)](#102)
+          - [PARAGRAPHE 2 : Régime disciplinaire. (art. R*175 à R*178)](#103)
+          - [PARAGRAPHE 3 : Dispositions particulières aux corps de défense. (art. R*179 à R*185)](#104)
+        - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#105)
+        - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#106)
+        - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#107)
+      - [CHAPITRE II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#108)
+        - [SECTION I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#109)
+        - [SECTION II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#110)
+      - [CHAPITRE II TER : Service de sécurité civile (art. R*201-21 à R*201-49)](#111)
+        - [SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#112)
+          - [PARAGRAPHE 1 : Affectation. (art. R*201-21 à R*201-25)](#113)
+          - [PARAGRAPHE 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#114)
+          - [PARAGRAPHE 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#115)
+          - [PARAGRAPHE 4. (art. R*201-34 à R*201-35)](#116)
+        - [SECTION II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#117)
+          - [PARAGRAPHE 1 : Affectation. (art. R*201-36 à R*201-40)](#118)
+          - [PARAGRAPHE 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#119)
+          - [PARAGRAPHE 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#120)
+          - [PARAGRAPHE 4. (art. R*201-48 à R*201-49)](#121)
+      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#122)
+        - [SECTION I : Dispositions communes (art. R202 à R223)](#123)
+          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#124)
+          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#125)
+          - [PARAGRAPHE 3 : Discipline. (art. R210)](#126)
+          - [PARAGRAPHE 4 : Permissions. (art. R211 à R217)](#127)
+          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#128)
+          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#129)
+          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#130)
+        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#131)
+        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#132)
+      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#133)
+        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#134)
+        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#135)
+        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#136)
+        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#137)
+        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#138)
+        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#139)
+    - [TITRE IV : Service féminin. (art. R*228 à R*233-1)](#140)
+    - [TITRE V : Dispositions communes aux formes civiles du service national (art. R*234)](#141)
+  - [Annexes (art. ANNEXE I à ANNEXE II)](#142)
+    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#143)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
 
-### TITRE I : Définition et principes du service national<a id=3></a>
+### TITRE Ier : Dispositions générales relatives au service national<a id=3></a>
 
-#### Chapitre I : Dispositions générales.<a id=4></a>
+#### Chapitre Ier : Principes.<a id=4></a>
+
+###### Article L111-1
+
+Les citoyens concourent à la défense de la Nation. Ce devoir s'exerce notamment par l'accomplissement du service national
+universel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L111-2
+
+Le service national universel comprend des obligations : le recensement, l'appel de préparation à la défense et l'appel sous
+les drapeaux.
+
+Il comporte aussi des volontariats.
+
+L'appel de préparation à la défense a pour objet de conforter l'esprit de défense et de concourir à l'affirmation du
+sentiment d'appartenance à la communauté nationale, ainsi qu'au maintien du lien entre l'armée et la jeunesse.
+
+L'appel sous les drapeaux permet d'atteindre, avec les militaires professionnels, les volontaires et les réservistes, les
+effectifs déterminés par le législateur pour assurer la défense de la Nation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Décret n°2005-716 du 29 juin 2005 - art. 6 (V)
+  - Arrêté du 23 novembre 2009 - art. 2 (V)
+  - Décret n°2010-663 du 17 juin 2010 (V)
+  - Arrêté du 4 février 2011 (V)
+  - Arrêté du 12 août 2011 (V)
+  - Arrêté du 23 avril 2012 (V)
+  - Arrêté du 21 décembre 2012 (V)
+  - Code du service national - art. L122-1 (V)
+
+
+###### Article L111-3
+
+Le volontariat vise à apporter un concours personnel et temporaire à la communauté nationale dans le cadre d'une mission
+d'intérêt général et à développer la solidarité et le sentiment d'appartenance à la Nation.
+
+Les volontariats s'effectuent dans l'un des trois domaines suivants :
+
+- défense, sécurité et prévention ;
+
+- cohésion sociale et solidarité ;
+
+- coopération internationale et aide humanitaire.
+
+Dans les départements, territoires et collectivités territoriales d'outre-mer, le volontariat de l'aide technique constitue
+une forme particulière du volontariat de cohésion sociale et solidarité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 8 (V)
+  - Code du service national - art. L122-1 (V)
+  - Code du service national - art. L122-19 (V)
+
+_Abrogé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 4
+
+
+#### Chapitre II : Champ d'application.<a id=5></a>
+
+###### Article L112-1
+
+Le livre Ier du code du service national s'applique aux jeunes hommes nés après le 31 décembre 1978, à ceux qui sont
+rattachés aux mêmes années de recensement ainsi qu'aux jeunes femmes nées après le 31 décembre 1982 et à celles qui sont
+rattachées aux mêmes années de recensement. Les jeunes femmes sont recensées à partir du 1er janvier 1999.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L112-2
+
+L'appel sous les drapeaux est suspendu pour tous les Français qui sont nés après le 31 décembre 1978 et ceux qui sont
+rattachés aux mêmes classes de recensement.
+
+Il est rétabli à tout moment par la loi dès lors que les conditions de la défense de la Nation l'exigent ou que les objectifs
+assignés aux armées le nécessitent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L112-3
+
+Les jeunes hommes nés en 1980 et 1981 sont recensés à l'âge de dix-sept ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Abrogé par_:
+
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 27 (V)
+
+
+###### Article L112-4
+
+Les jeunes hommes nés en 1979 sont exemptés de l'appel de préparation à la défense. Ils peuvent néanmoins demander à y
+participer et se porter alors candidats à une préparation militaire.
+
+Jusqu'au 31 décembre 2001, les jeunes hommes nés en 1980, 1981 et 1982 sont convoqués pour participer à l'appel de
+préparation à la défense entre la date de leur recensement et leur dix-neuvième anniversaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Abrogé par_:
+
+  - Loi n°2006-449 du 18 avril 2006 - art. 24 () JORF 19 avril 2006
+
+
+###### Article L112-5
+
+Lorsqu'ils ont été incorporés, les jeunes hommes nés après le 31 décembre 1978 ainsi que ceux rattachés aux mêmes classes de
+recensement demeurent soumis aux articles L. 1er à L. 159 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cite_:
+
+  - Code du service national L1 à L159
+
+
+###### Article L112-6
+
+Les jeunes femmes nées après le 31 décembre 1981 peuvent se porter candidates à une préparation militaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+#### Chapitre III : Le recensement.<a id=6></a>
+
+###### Article L113-1
+
+Tout Français âgé de seize ans est tenu de se faire recenser.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Arrêté du 7 février 2019 - art. 2 (V)
+
+
+###### Article L113-2
+
+A l'occasion du recensement, les Français déclarent leur état civil, leur situation familiale et scolaire, universitaire ou
+professionnelle à la mairie de leur domicile ou au consulat dont ils dépendent. L'administration leur remet une attestation
+de recensement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L113-3
+
+Les personnes devenues françaises entre leur seizième et leur vingt-cinquième anniversaire et celles dont la nationalité
+française a été établie entre ces deux âges à la suite d'une décision de justice sont soumises à l'obligation de recensement,
+pour les premières, dès que la nationalité française a été acquise ou que cette acquisition leur a été notifiée et, pour les
+secondes, dès que la décision de justice a force de chose jugée.
+
+Les jeunes étrangers mentionnés à l'article 21-7 du code civil peuvent participer volontairement aux opérations du
+recensement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cite_:
+
+  - Code civil - art. 21-7 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R*111-1 (M)
+
+
+###### Article L113-4
+
+Avant l'âge de vingt-cinq ans, pour être autorisée à s'inscrire aux examens et concours soumis au contrôle de l'autorité
+publique, la personne assujettie à l'obligation de recensement doit être en règle avec cette obligation.
+
+Elle peut procéder à la régularisation de sa situation en se faisant recenser.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Cité par_:
+
+  - Arrêté du 20 décembre 1993 - art. 2 (VT)
+  - Arrêté du 20 décembre 1993 - art. 6 (VT)
+  - Arrêté du 20 décembre 1993 - art. 9 (VT)
+  - Arrêté du 17 novembre 1999 - art. 12 (Ab)
+  - Arrêté du 17 novembre 1999 - art. 15 (VT)
+  - Arrêté du 27 décembre 2007 (V)
+  - Arrêté du 28 décembre 2011 - art. 12 (V)
+  - Arrêté du 28 décembre 2011 - art. 14 (V)
+  - Arrêté du 28 décembre 2011 - art. 16 (V)
+  - Arrêté du 28 décembre 2011 - art. 6 (V)
+  - Arrêté du 28 décembre 2011 - art. 9 (V)
+  - Arrêté du 21 décembre 2015 - art. 4 (VD)
+  - Arrêté du 21 décembre 2015 - art. 6 (VD)
+  - Arrêté du 21 décembre 2015 - art. 8 (VD)
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L113-5
+
+Les Français omis sur les listes de recensement sur lesquelles ils auraient dû être inscrits sont portés, jusqu'à l'âge de
+vingt-cinq ans, sur les premières listes de recensement établies après la découverte de l'omission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L113-6
+
+La gestion des dossiers des personnes recensées est assurée par l'administration chargée du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L113-7
+
+Après avoir été recensés, et jusqu'à l'âge de vingt-cinq ans, les Français sont tenus de faire connaître à l'administration
+chargée du service national tout changement de domicile ou de résidence, de situation familiale et professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L113-8
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+#### Chapitre IV : L'enseignement de la défense et l'appel de préparation à la défense.<a id=7></a>
+
+###### Article L114-1
+
+A partir de la rentrée 1998, les principes et l'organisation de la défense nationale et de la défense européenne font l'objet
+d'un enseignement obligatoire dans le cadre des programmes des établissements d'enseignement du second degré des premier et
+second cycles.
+
+Cet enseignement a pour objet de renforcer le lien armée-Nation tout en sensibilisant la jeunesse à son devoir de défense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Nouveaux textes_:
+
+  - Code de l'éducation - art. L312-12 (V)
+
+_Cité par_:
+
+  - Code de la défense. - art. L4211-3 (V)
+
+
+###### Article L114-2
+
+En complément de cet enseignement, est organisé pour tous les Français l'appel de préparation à la défense auquel ils sont
+tenus de participer.
+
+L'appel de préparation à la défense a lieu entre la date du recensement des Français et leur dix-huitième anniversaire. Il
+dure une journée.
+
+A l'issue de l'appel de préparation à la défense, il est délivré un certificat individuel de participation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Arrêté du 17 juin 1998 - art. 12 (Ab)
+  - Arrêté du 29 juillet 2009 (Ab)
+  - Arrêté du 11 janvier 2016 - art. 11 (V)
+  - Code du service national - art. R*112-1 (V)
+  - Code du service national - art. R*112-16 (V)
+  - Code du service national - art. R*112-9 (V)
+
+
+###### Article L114-3
+
+Lors de l'appel de préparation à la défense, les Français reçoivent un enseignement adapté à leur niveau de formation qui
+permet de présenter les enjeux et les objectifs généraux de la défense nationale, les moyens civils et militaires de la
+défense et leur organisation, les formes de volontariats ainsi que les préparations militaires et les possibilités
+d'engagement dans les forces armées et les forces de réserve.
+
+A cette occasion sont organisés des tests d'évaluation des apprentissages fondamentaux de la langue française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Décret n°2012-127 du 30 janvier 2012 (V)
+  - Code du service national - art. R*112-1 (V)
+
+
+###### Article L114-4
+
+Les Français choisissent parmi trois dates au moins proposées par l'administration chargée du service national celle à
+laquelle ils participent à l'appel de préparation à la défense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Code du service national - art. L113-3 (VD)
+  - Code du service national - art. L114-9 (VD)
+  - Code du service national - art. R*112-2 (V)
+
+
+###### Article L114-5
+
+Les Français qui n'ont pas pu participer à l'appel de préparation à la défense avant la date de leur dix-huitième
+anniversaire peuvent demander à régulariser leur situation jusqu'à l'âge de vingt-cinq ans. Ils sont alors convoqués par
+l'administration chargée du service national dans un délai de trois mois pour accomplir cette obligation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Code du service national - art. R*112-10 (V)
+  - Code du service national - art. R*112-11 (V)
+
+
+###### Article L114-6
+
+Avant l'âge de vingt-cinq ans, pour être autorisée à s'inscrire aux examens et concours soumis au contrôle de l'autorité
+publique, la personne assujettie à l'obligation de participer à l'appel de préparation à la défense doit, sauf cas de force
+majeure, être en règle avec cette obligation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Cité par_:
+
+  - Arrêté du 20 décembre 1993 - art. 2 (VT)
+  - Arrêté du 20 décembre 1993 - art. 6 (V)
+  - Arrêté du 20 décembre 1993 - art. 9 (VT)
+  - Arrêté du 17 novembre 1999 - art. 3 (Ab)
+  - Arrêté du 17 novembre 1999 - art. 6 (Ab)
+  - Arrêté du 21 décembre 2015 - art. 4 (VD)
+  - Arrêté du 21 décembre 2015 - art. 6 (VD)
+  - Arrêté du 21 décembre 2015 - art. 8 (VD)
+  - Code du service national - art. R*111-6 (V)
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L114-7
+
+Ne sont pas soumises à l'obligation de participer à l'appel de préparation à la défense les personnes atteintes d'une maladie
+invalidante, d'une infirmité ou d'un handicap les rendant définitivement inaptes à y participer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L114-8
+
+Les Français âgés de moins de vingt-cinq ans qui résident à l'étranger participent, sous la responsabilité du chef du poste
+diplomatique ou consulaire accrédité, à l'appel de préparation à la défense aménagé en fonction des contraintes de leur pays
+de résidence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L114-9
+
+Les Français majeurs âgés de moins de vingt-cinq ans, non inscrits sur les listes de recensement sur lesquelles ils auraient
+dû figurer, sont convoqués à l'appel de préparation à la défense dans un délai de six mois suivant la découverte de
+l'omission et dans les conditions fixées à l'article L. 114-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+_Cite_:
+
+  - Code du service national - art. L114-4 (V)
+
+
+###### Article L114-10
+
+Les Français répondant à l'appel de préparation à la défense ont la qualité d'appelés du service national.
+
+Ils sont placés sous la responsabilité de l'Etat.
+
+Les personnes victimes de dommages corporels subis à l'occasion de l'appel de préparation à la défense peuvent, ainsi que
+leurs ayants droit, obtenir de l'Etat une réparation destinée à assurer l'indemnisation intégrale du préjudice subi, calculée
+suivant les règles de droit commun.
+
+Aucune action récursoire ne peut être engagée contre les personnes morales propriétaires des locaux d'accueil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L114-11
+
+Les responsables d'établissements d'accueil de l'appel de préparation à la défense passent, avec l'administration chargée du
+service national, des conventions fixant les modalités de mise à disposition de leurs locaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L114-12
+
+Les Français peuvent, sur leur demande, prolonger l'appel de préparation à la défense par une préparation militaire.
+
+Cette préparation militaire consiste en une formation militaire dont la durée est fixée par l'autorité militaire en fonction
+des besoins de chaque arme et spécialité.
+
+A l'issue de cette préparation militaire, les Français pourront avoir accès à la réserve.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L114-13
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat. En ce qui concerne les Français
+établis hors de France, ces modalités sont prises après avis du Conseil supérieur des Français à l'étranger ou de son bureau
+permanent dans l'intervalle des sessions du conseil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+### TITRE II : Dispositions relatives aux volontariats<a id=8></a>
+
+#### Chapitre Ier : Le volontariat dans les armées.<a id=9></a>
+
+###### Article L121-1
+
+Les Français peuvent, sous réserve de leur aptitude et dans la limite des emplois budgétaires prévus à cet effet, servir avec
+la qualité de militaire, comme volontaires dans les armées.
+
+A la date du dépôt de leur demande, ils doivent être âgés de plus de dix-huit ans et de moins de vingt-six ans.
+
+Le volontariat est conclu pour une durée de douze mois. Il est renouvelable chaque année. La durée totale du volontariat ne
+peut excéder soixante mois.
+
+Il est souscrit au titre d'une armée ou d'une formation rattachée.
+
+Les volontaires peuvent servir dans les départements, territoires et collectivités territoriales d'outre-mer au titre du
+service militaire adapté. Ceux qui sont nés ou ont leur résidence habituelle dans les départements, territoires et
+collectivités territoriales d'outre-mer peuvent demander à recevoir une formation professionnelle. Ils servent alors en tant
+que stagiaires du service militaire adapté.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°46-1541 du 22 juin 1946 - art. Annexe 3 (VT)
+  - Arrêté du 5 novembre 2009 - art. 2 (V)
+  - Code du travail - art. L6222-7-1 (VD)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L121-2
+
+Les jeunes hommes nés avant le 1er janvier 1979 et ayant accompli les obligations du service national peuvent également
+déposer une demande pour servir comme volontaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+###### Article L121-3
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+
+
+## LIVRE II<a id=10></a>
+
+### TITRE Ier : Définition et principes du service national<a id=11></a>
+
+#### Chapitre Ier : Dispositions générales.<a id=12></a>
 
 ###### Article L1
 
@@ -171,6 +905,18 @@ le service militaire ;
 
 - le service des objecteurs de conscience.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : Les articles L. 1er à L. 159 du code du service national constituent le livre II
+du code du service national. Ses dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -182,17 +928,20 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Modifié par_:
-
-  - Loi n°85-835 du 7 août 1985 - art. 5 () JORF 8 aôut 1985 en vigueur le 1er janvier 1986
-  - Loi n°92-9 du 4 janvier 1992 - art. 2 () JORF 7 janvier 1992
-
 _Cité par_:
 
   - Arrêté du 3 janvier 1989 - art. 6 (V)
   - Arrêté du 6 octobre 1995 - art. 4 (M)
   - Code des pensions militaires d'invalidité et de... - art. L111-1 (VD)
   - Code du service national - art. L5 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L2
@@ -209,13 +958,23 @@ a) Un service actif légal dont la durée est :
 
 - de vingt mois pour le service des objecteurs de conscience.
 
-Toutefois, cette durée est de douze mois pour les jeunes gens qui ont obtenu le bénéfice des dispositions de l'article L. 9
-au titre du service militaire et pour ceux qui, ayant obtenu le bénéfice des dispositions de l'article L. 10, effectuent un
-service autre que ceux de l'aide technique, de la coopération ou des objecteurs de conscience.
-
 b) Des périodes qui peuvent être effectuées au titre d'une forme de service national autre que celle dans laquelle a été
 accompli le service actif ; la durée totale de ces périodes ne peut excéder six mois et chacune d'elles ne peut dépasser un
 mois. Ces dispositions sont applicables sous réserve des dispositions du chapitre Ier du titre III.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -239,7 +998,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-4 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -259,7 +1022,7 @@ décret en Conseil d'Etat.
 Les étrangers sans nationalité et ceux qui bénéficient du droit d'asile sont assujettis au service national.
 
 Les étrangères sans nationalité et celles qui bénéficient du droit d'asile peuvent se porter volontaires pour accéder aux
-différentes formes du service national dans les limites et conditions fixées par décret en Conseil d'Etat.
+différentes formes du service militaire dans les limites et conditions fixées par décret en Conseil d'Etat.
 
 Toutefois, dans les organismes soumis à l'affectation collective de défense, le service de défense s'étend aux Français et
 aux étrangers mentionnés au troisième alinéa ci-dessus, âgés de plus de cinquante ans, ainsi qu'aux Françaises et aux
@@ -268,13 +1031,27 @@ aux étrangers mentionnés au troisième alinéa ci-dessus, âgés de plus de ci
 Les obligations qui découlent de l'alinéa précédent s'appliquent nonobstant toutes dispositions conventionnelles ou
 statutaires relatives à la cessation de l'activité professionnelle ; elles cessent à l'âge de soixante-cinq ans.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Loi n°1928-03-31 art. 2 al. 1 et art. 3 al. 1 et al. 2
   - Ordonnance 59-147 1959-01-07 art. 42
   - Loi n°65-550 1965-07-09 art. 1
-  - Loi n°1928-03-31 art. 2 al. 1 et art. 3 al. 1 et al. 2
 
 _Codifié par_:
 
@@ -282,7 +1059,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 4 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -297,7 +1078,22 @@ _Cite_:
 ###### Article L3 bis
 
 Lorsqu'un Français assujetti aux obligations du service national a simultanément la nationalité d'un autre Etat et qu'il
-réside habituellement sur le territoire français, il accomplit ces obligations en France.
+réside habituellement sur le territoire français, il accomplit ces obligations sous le régime du code du service national
+français.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -305,15 +1101,33 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L4
 
 Nul ne peut être investi de fonctions publiques, même électives, s'il ne justifie avoir satisfait aux obligations imposées
 par le présent code.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -325,10 +1139,18 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L5
 
-Les jeunes gens peuvent être appelés, dans les conditions prévues à l'article L. 7 à accomplir leurs obligations du service
+Les jeunes gens peuvent être appelés, dans les conditions prévues à l'article L. 7, à accomplir leurs obligations du service
 national actif à partir de l'âge de dix-huit ans.
 
 Ils ont le droit :
@@ -345,16 +1167,25 @@ prévues à l'article L. 1.
 Ils présentent leur demande sous leur seule signature. Toutefois, la satisfaction des demandes de jeunes gens désireux de
 devancer l'appel, et qui ne possèdent pas à la date de leur demande l'aptitude physique requise, peut être différée.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°78-753 du 17 juillet 1978 - art. 14 (M) JORF 18 juillet 1978
-  - Loi n°92-9 du 4 janvier 1992 - art. 5 () JORF 7 janvier 1992
 
 _Cité par_:
 
@@ -373,22 +1204,164 @@ _Cité par_:
   - Code du service national - art. R14 (V)
   - Code du service national - art. R9 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code du service national - art. L1 (M)
   - Code du service national - art. L7 (M)
 
 
-###### Article L5 quater
+###### Article L5 bis
 
-Les jeunes gens qui demandent à être incorporés avant l'âge de vingt ans bénéficient d'une priorité. Leur demande doit être
-satisfaite dans un délai de quatre mois au plus.
+Un report supplémentaire d'une durée maximale de quatre années scolaires ou universitaires est accordé, sur leur demande, aux
+jeunes gens visés au 2° de l'article L. 5 qui justifient annuellement de la poursuite d'études ou de formation
+professionnelle dans des conditions fixées par décret en Conseil d'Etat.
+
+Ces demandes de report doivent être déposées par les intéressés au bureau du service national dont ils relèvent, avant le 1er
+octobre de l'année civile au cours de laquelle ils atteignent l'âge de vingt-deux ans.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cité par_:
+
+  - Code du service national - art. L117 (V)
+  - Code du service national - art. L14 (V)
+  - Code du service national - art. L5 bis A (V)
+  - Code du service national - art. L9 (V)
+  - Code du service national - art. R*73 (V)
+  - Code du service national - art. R*8 (V)
+  - Code du service national - art. R*8-2 (V)
+  - Code du service national - art. R*9-1 (M)
+  - Code du service national - art. R*9-3 (V)
+  - Code du service national - art. R*9-4 (V)
+  - Code du service national - art. R136 (V)
+  - Code du service national - art. R9 (V)
+
+_Cite_:
+
+  - Code du service national - art. L5 (M)
+
+
+###### Article L5 bis A
+
+Les jeunes gens titulaires d'un contrat de travail de droit privé à durée indéterminée, obtenu au moins trois mois avant la
+date d'expiration du report d'incorporation qu'ils détiennent et prévu aux articles L. 5 (2°) ou L. 5 bis, peuvent demander à
+bénéficier d'un report d'incorporation d'une durée de deux ans pouvant être prolongée. Ce report cesse dès qu'il est mis fin
+au contrat de travail en cours.
+
+Les jeunes gens titulaires d'un contrat de travail à durée déterminée de droit privé d'une durée au moins égale à six mois,
+conclu au moins trois mois avant la date d'expiration du report d'incorporation qu'ils détiennent et prévu aux articles L. 5
+(2°) ou L. 5 bis, peuvent demander à bénéficier d'un report d'incorporation jusqu'au terme du contrat de travail en cours,
+dans la limite de deux ans.
+
+Les reports mentionnés au présent article sont accordés si l'incorporation immédiate du demandeur a pour conséquence de
+compromettre son insertion professionnelle ou la réalisation d'une première expérience professionnelle.
+
+Le report est accordé par la commission régionale définie à l'article L. 32.
+
+Les modalités d'application de cet article sont fixées par décrets en Conseil d'Etat. Ces dispositions entreront en vigueur
+au plus tard le 1er janvier 1999.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
+
+_Cite_:
+
+  - Code du service national - art. L32 (M)
+  - Code du service national - art. L5 (M)
+  - Code du service national - art. L5 bis (M)
+
+
+###### Article L5 quater
+
+Les jeunes gens qui demandent à être incorporés avant l'âge de vingt ans bénéficient d'une priorité. Leur demande doit être
+satisfaite dans le délai de quatre mois au plus.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L5 ter
@@ -398,11 +1371,33 @@ familiale ou sociale grave qui, toutefois, ne justifie pas une dispense du servi
 
 L'appréciation du bien-fondé de l'octroi de ce report relève de la commission régionale définie à l'article L. 32.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -419,21 +1414,34 @@ _Cité par_:
 Dans la répartition des assujettis entre les différentes formes de service national, les besoins des armées sont satisfaits
 en priorité.
 
-Les modalités d'affectation des jeunes gens aux différentes formes du service national sont fixées par décret en Conseil
+Les modalités d'affectation des jeunes gens aux différentes formes de service national sont fixées par décret en Conseil
 d'Etat.
 
 Compte tenu des besoins des armées, le Gouvernement arrête chaque année le nombre, la qualification ou le niveau d'aptitude
-des jeunes gens incorporables au cours de l'année dans la police nationale, le service de sécurité civile, le service de
-l'aide technique et le service de la coopération, ainsi que le nombre des jeunes gens qui, au cours de ladite année, peuvent
-être admis au bénéfice des dispositions de l'article L. 9.
+des jeunes gens incorporables au cours de l'année dans le service de la police nationale, le service de sécurité civile, le
+service de l'aide technique et le service de la coopération.
 
 Les jeunes gens qui le demandent sont affectés au service militaire.
 
 L'affectation individuelle des jeunes gens qui doivent être appelés au service militaire est déterminée en fonction des
 besoins et en tenant compte des aptitudes, de la qualification et de la situation de famille des intéressés.
 
-Les jeunes gens mariés avec enfants ou veufs avec enfants ou classés soutien de famille sont affectés par priorité dans les
+Les jeunes gens mariés avec enfants ou veufs avec enfants ou classés soutiens de famille sont affectés par priorité dans les
 formations les plus rapprochées de leur domicile.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -444,15 +1452,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°87-512 1987-07-10 art. 1 JORF 11 juillet 1987) M(Loi 92-9 1992-01-04 art. 7 JORF 7 janvier 1992
-
-_Cite_:
-
-  - Loi n°87-512 du 10 juillet 1987 - art. 1, v. init.
-  - Code du service national - art. L9 (M)
 
 **Liens**:
 
@@ -468,6 +1467,11 @@ _Cite_:
   - TXT_SOURCE: Décret n°96-111 du 12 février 1996 - art. 1 (V)
   - TXT_SOURCE: Décret n°96-111 du 12 février 1996 - art. 2 (V)
   - TXT_SOURCE: Décret n°96-111 du 12 février 1996 - art. 3 (V)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 _Cité par_:
 
@@ -493,6 +1497,20 @@ pour les jeunes gens qui ont obtenu le bénéfice des dispositions de l'article 
 Toutefois, en cas d'insoumission ou d'omission sur les listes de recensement, l'appel peut intervenir jusqu'à ce que les
 intéressés aient atteint l'âge de trente-quatre ans.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -514,7 +1532,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-452 du 28 mai 1996 - art. 29 () JORF 29 mai 1996
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -523,8 +1545,22 @@ _Cite_:
 
 ###### Article L8
 
-Sont considérés comme ayant satisfait à leurs obligations de service actif les jeunes gens qui ont accompli, en vertu d'un
+Sont considérés comme ayant satisfait à leurs obligations de service actif, les jeunes gens qui ont accompli, en vertu d'un
 engagement, une durée de service au moins égale à la durée légale de ce service actif.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -536,12 +1572,252 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
 
-### TITRE II : Dispositions communes aux différentes formes de service national<a id=5></a>
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
-#### Chapitre Ier : Recensement, sélection<a id=6></a>
+**Liens**:
 
-##### Section I : Recensement.<a id=7></a>
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=13></a>
+
+###### Article L9
+
+Les jeunes gens qui en font la demande peuvent être appelés soit pour occuper pendant le temps de leur service militaire
+actif un emploi dans les organismes d'études, de recherche ou d'enseignement dépendant du ministre de la défense, soit pour
+tenir un emploi au titre du service de l'aide technique ou du service de la coopération.
+
+La définition desdits emplois ainsi que les qualifications professionnelles requises des candidats sont fixées par décret en
+Conseil d'Etat.
+
+Les candidatures sont agréées par les ministres intéressés dans la limite des emplois à pourvoir.
+
+Les jeunes gens qui justifient de la poursuite d'études en vue de l'obtention de diplômes correspondant aux emplois prévus
+ci-dessus bénéficient du report supplémentaire prévu à l'article L. 5 bis, même s'ils n'ont pas déposé leur demande avant le
+1er octobre de l'année civile au cours de laquelle ils ont atteint l'âge de vingt-deux ans.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 4, v. init.
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Cité par_:
+
+  - Décret n°91-255 du 7 mars 1991 - art. 3 (V)
+  - Arrêté du 16 décembre 1993 - art. 13 (V)
+  - Code du service national - art. L11 (M)
+  - Code du service national - art. L117 (M)
+  - Code du service national - art. L12 (Ab)
+  - Code du service national - art. L14 (V)
+  - Code du service national - art. L2 (V)
+  - Code du service national - art. L20 (M)
+  - Code du service national - art. L6 (M)
+  - Code du service national - art. R*23 (V)
+  - Code du service national - art. R*24 (M)
+  - Code du service national - art. R*25 (V)
+  - Code du service national - art. R*26 (V)
+  - Code du service national - art. R*73 (M)
+  - Code du service national - art. R*8-3 (Ab)
+  - Code du service national - art. R14 (V)
+  - Code du service national - art. R15-1 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cite_:
+
+  - Code du service national - art. L5 bis (M)
+
+
+###### Article L10
+
+Les jeunes gens qui justifient de la poursuite d'un cycle d'études en vue de l'obtention de l'un des titres requis pour
+l'exercice de la profession de médecin, de pharmacien, de vétérinaire ou de chirurgien-dentiste peuvent, sur leur demande,
+bénéficier d'un report spécial d'incorporation.
+
+Ce report d'incorporation vient à échéance au plus tard le 31 décembre de l'année civile au cours de laquelle ils atteignent
+l'âge de vingt-huit ans.
+
+Les jeunes gens mentionnés au présent article qui, au moment de leur incorporation, sont titulaires du titre requis sont
+affectés, dans la limite des emplois budgétaires disponibles, en qualité de médecin, vétérinaire, pharmacien ou de
+chirurgien-dentiste à l'une des formes du service national actif.
+
+Au moment de leur incorporation, ces jeunes gens sont tenus de présenter à l'autorité responsable de leur incorporation les
+diplômes et documents justifiant les qualifications dont ils sont titulaires et de fournir toutes informations relatives aux
+enseignements dont ils ont bénéficié et à la nature et au niveau de la formation qu'ils ont acquise.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 5 (Ab)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Cité par_:
+
+  - Arrêté du 1 décembre 1992 - art. 1 (V)
+  - Décret n°93-54 du 15 janvier 1993 - art. ANNEXE V (V)
+  - Décret n°94-23 du 11 janvier 1994 - art. annexe (V)
+  - Code du service national - art. L11 (V)
+  - Code du service national - art. L117 (V)
+  - Code du service national - art. L14 (V)
+  - Code du service national - art. L2 (V)
+  - Code du service national - art. L20 (V)
+  - Code du service national - art. L30 (Ab)
+  - Code du service national - art. L7 (V)
+  - Code du service national - art. R*73 (V)
+  - Code du service national - art. R*8-2 (V)
+  - Code du service national - art. R14 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+
+###### Article L11
+
+Les jeunes gens qui sollicitent le bénéfice d'un report d'incorporation au titre de l'article L. 10 doivent déposer leur
+demande avant le 1er janvier de l'année civile au cours de laquelle ils atteignent l'âge de vingt-deux ans.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 6 (Ab)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cite_:
+
+  - Code du service national - art. L10 (M)
+
+
+###### Article L14
+
+Les décrets en conseil des ministres prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959 portant
+organisation générale de la défense peuvent suspendre totalement ou partiellement l'application des dispositions du 2° de
+l'article L. 5 et des articles L. 5 bis, L. 9, L. 10 et L. 116-2.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 23 al. 10
+  - Loi n°70-596 du 9 juillet 1970 - art. 10 (Ab)
+
+_Cite_:
+
+  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
+  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
+  - Code du service national - art. L10 (M)
+  - Code du service national - art. L116-2 (M)
+  - Code du service national - art. L5 (M)
+  - Code du service national - art. L5 bis (M)
+  - Code du service national - art. L9 (M)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+
+### TITRE II : Dispositions communes aux différentes formes de service national<a id=14></a>
+
+#### Chapitre Ier : Recensement, sélection<a id=15></a>
+
+##### Section I : Recensement.<a id=16></a>
 
 ###### Article L15
 
@@ -573,7 +1849,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°95-116 du 4 février 1995 - art. 104 () JORF 5 février 1995
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -603,7 +1883,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°95-116 du 4 février 1995 - art. 104 () JORF 5 février 1995
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -621,11 +1905,21 @@ manifestation de volonté ou d'option et ceux dont la nationalité française a 
 jugement ou d'une décision récognitive sont soumis aux obligations de recensement dès qu'ils ont acquis la nationalité
 française ou dès que celle-ci a été reconnue.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 13 al. 1
 
 _Codifié par_:
 
@@ -633,13 +1927,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°95-116 du 4 février 1995 - art. 104 () JORF 5 février 1995
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
   - Code du service national - art. L40-1 (V)
   - Code du service national - art. L68 (V)
   - Code du service national - art. R14 (V)
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 13 al. 1
 
 
 ###### Article L18
@@ -650,6 +1952,20 @@ recrutement.
 Les jeunes gens reçoivent du ministre chargé des armées une carte du service national et, à partir du moment où ils sont
 libérés du service actif, un titre de mobilisation. Ils sont tenus de présenter ces pièces à toute réquisition des autorités
 militaires, judiciaires ou civiles.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -662,6 +1978,14 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L19
 
@@ -673,6 +1997,20 @@ Le délai d'appel est de quinze jours francs à partir de la signification de la
 
 Les actes faits en exécution du présent article sont enregistrés gratis.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -683,35 +2021,64 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L20
 
 Les jeunes gens qui, sauf cas de force majeure, n'ont pas satisfait aux obligations de recensement et de déclaration prévues
-à l'article L. 15 sont exclus du bénéfice des dispositions des articles L. 9 et L. 10.
+à l'article L. 15 sont exclus du bénéfice des dispositions de l'article L. 10.
 
 S'ils ont été omis sur les listes de recensement sur lesquelles ils auraient dû être inscrits, ils sont portés sur les
 premières listes de recensement établies après la découverte de l'omission, à moins d'avoir alors atteint l'âge de cinquante
 ans.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 16 al. 1
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code du service national - art. L10 (M)
   - Code du service national - art. L15 (M)
-  - Code du service national - art. L9 (M)
 
 _Cité par_:
 
   - Code du service national - art. R14 (V)
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 16 al. 1
 
 
 ###### Article L21
@@ -724,13 +2091,21 @@ Ces hommes sont également tenus de fournir à l'autorité publique les renseign
 concernant leur situation familiale ou professionnelle. La correspondance relative à cet objet a lieu en franchise ; à
 l'étranger, elle est transmise par le consul de France.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 11 avril 1990 - art. 2 (V)
-  - Arrêté du 22 janvier 1991 - art. 2 (M)
-  - Code du service national - art. R*30 (Ab)
 
 _Anciens textes_:
 
@@ -742,6 +2117,20 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Cité par_:
+
+  - Arrêté du 11 avril 1990 - art. 2 (V)
+  - Arrêté du 22 janvier 1991 - art. 2 (M)
+  - Code du service national - art. R*30 (Ab)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L22
 
@@ -749,6 +2138,20 @@ Les employeurs des assujettis au service national sont tenus, dans les condition
 l'exactitude de la déclaration concernant la situation professionnelle. Ils sont également tenus de notifier à leur personnel
 la décision plaçant leur établissement sous le régime de l'affectation collective de défense en vue de l'application de
 l'article L. 94.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -760,12 +2163,20 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code du service national - art. L94 (M)
 
 
-##### Section II : Sélection.<a id=8></a>
+##### Section II : Sélection.<a id=17></a>
 
 ###### Article L23
 
@@ -774,6 +2185,20 @@ psychotechniques. La participation à ces opérations, dont la durée ne dépass
 d'hospitalisation pour mise en observation, constitue une obligation du service national. Les intéressés sont considérés,
 pour la durée de ces opérations, comme militaires en activité de service, dans les conditions et limites fixées par décret en
 Conseil d'Etat.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -802,7 +2227,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 12 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L24
@@ -810,6 +2239,20 @@ _Modifié par_:
 A la suite des opérations prévues à l'article précédent, les jeunes gens font l'objet, selon leur aptitude physique, d'une
 proposition de répartition en trois catégories : aptes, ajournés, exemptés. Ils reçoivent communication de la proposition
 d'aptitude établie à leur sujet.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -820,6 +2263,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -845,6 +2296,20 @@ Les jeunes gens qui n'auraient pas répondu à la convocation qui leur a été a
 L. 23 sont considérés d'office comme aptes au service. Ils sont, lors de leur appel au service actif, convoqués devant une
 commission de réforme.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -857,7 +2322,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 13 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -876,6 +2345,20 @@ _Cite_:
 L'ajournement n'est prononcé qu'une seule fois et pour une durée maximale de six mois. Le second examen des ajournés est
 effectué par la commission locale d'aptitude qui reçoit alors une composition différente de celle qui a décidé l'ajournement.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -888,7 +2371,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 14 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -900,6 +2387,20 @@ _Cité par_:
 Les décisions des commissions locales d'aptitude et celles des commissions de réforme peuvent être déférées aux tribunaux
 administratifs dans un délai de deux mois à dater de la notification de ces décisions.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -910,11 +2411,33 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L28
 
 Les modalités d'application du présent chapitre pourront comporter des dispositions particulières pour les jeunes Français
 résidant à l'étranger. Ces dispositions sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -926,10 +2449,18 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
 
-#### Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=9></a>
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
-##### Section I : Exemptions.<a id=10></a>
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+
+#### Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=18></a>
+
+##### Section I : Exemptions.<a id=19></a>
 
 ###### Article L29
 
@@ -938,6 +2469,20 @@ obligations de réserve du service militaire.
 
 En vue de leur emploi dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, ils
 peuvent être affectés à un emploi de défense s'ils présentent l'aptitude, médicalement constatée, exigée pour cet emploi.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -954,39 +2499,16 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
 
-###### Article L30
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
-Les jeunes gens qui auront reçu application des dispositions de l'article L. 10 et qui ne rempliraient plus, par la suite,
-les conditions d'aptitude physique prévues pour leur emploi peuvent être mis à la disposition du ministre de la santé
-publique et de la sécurité sociale pour une durée de douze mois.
+**Liens**:
 
-Ils sont soumis à un statut particulier fixé par la loi.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-596 du 9 juillet 1970 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Abrogé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
-
-_Cité par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V)
-
-_Cite_:
-
-  - Code du service national - art. L10 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section II : Dispenses.<a id=11></a>
+##### Section II : Dispenses.<a id=20></a>
 
 ###### Article L31
 
@@ -996,9 +2518,9 @@ Sont dispensés des obligations du service national actif :
 
 2° Les jeunes gens dont le père, la mère, un frère ou une soeur :
 
-a) A été déclaré " Mort pour la France " ou, s'il était de nationalité étrangère ou apatride, a fait l'objet d'une
-attestation du ministre des anciens combattants et victimes de guerre selon laquelle il est décédé dans des circonstances
-telles que cette mention lui aurait été accordée s'il avait été de nationalité française ;
+a) A été déclaré Mort pour la France, ou, s'il était de nationalité étrangère ou apatride, a fait l'objet d'une attestation
+du ministre des anciens combattants et victimes de guerre, selon laquelle il est décédé dans des circonstances telles que
+cette mention lui aurait été accordée s'il avait été de nationalité française ;
 
 b) Est décédé, étant militaire en activité, ou mobilisé, ou requis, ou servant au titre de l'une des formes du service
 national, des suites d'un accident survenu, d'une blessure reçue, ou d'une maladie contractée dans l'exécution, sur ordre, de
@@ -1006,13 +2528,27 @@ missions, services ou tâches comportant des risques particuliers ou au cours de
 combat ;
 
 c) Est décédé, alors qu'il servait au titre de l'une des formes du service national ou qu'il était mobilisé ou requis, des
-suites d'un accident survenu, d'une blessure reçue ou d'une maladie contractée dans l'accomplissement d'un service effectif.
+suites d'un accident survenu, d'une blessure reçue ou d'une maladie contractée dans l'accomplissement d'un service effectif ;
 
 d) Est décédé des suites d'un accident survenu, d'une blessure reçue ou d'une maladie contractée au cours d'une action dont
 l'accomplissement, sur ordre de l'autorité publique ou dans l'intérêt de la sécurité ou de l'ordre publics, comportait en
 lui-même des risques particuliers.
 
 Il est statué sur les demandes de dispense par une décision du préfet du département du lieu de recensement.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1022,8 +2558,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°78-753 du 17 juillet 1978 - art. 15 (V) JORF 18 juillet 1978
-  - Loi n°92-9 du 4 janvier 1992 - art. 15 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -1036,9 +2575,15 @@ _Cité par_:
 
 ###### Article L32
 
-Peuvent être dispensés des obligations du service national actif les jeunes gens qui sont classés soutien de famille,
+Peuvent être dispensés des obligations du service national actif, les jeunes gens qui sont classés soutiens de famille,
 notamment parce qu'ils ont la charge effective d'une ou plusieurs personnes qui ne disposeraient plus de ressources
 suffisantes si les jeunes gens étaient incorporés.
+
+Sont également dispensés des obligations du service national actif, sur leur demande, les jeunes gens mariés dont l'épouse ne
+dispose pas de ressources suffisantes, ainsi que les jeunes gens qui ont la charge effective d'au moins un enfant.
+
+Peuvent aussi être dispensés des obligations du service actif les jeunes gens dont l'incorporation entraînerait une situation
+économique et sociale grave.
 
 Les diverses catégories auxquelles s'applique la qualité de soutien de famille et la procédure permettant de l'établir sont
 définies par décret en Conseil d'Etat.
@@ -1046,21 +2591,29 @@ définies par décret en Conseil d'Etat.
 Un décret détermine, en fonction des nécessités du service, les conditions d'application de ces dispenses.
 
 Peuvent également être dispensés des obligations du service national actif les jeunes gens dont l'incorporation aurait, par
-suite du décès d'un de leurs parents ou beaux-parents ou de l'incapacité de l'un de ceux-ci, pour effet l'arrêt de
+suite du décès d'un de leurs ascendants ou beaux-parents ou de l'incapacité de l'un de ceux-ci, pour effet l'arrêt de
 l'exploitation familiale à caractère agricole, commercial ou artisanal, notamment lorsque les ressources de l'exploitation ne
 permettraient pas d'en assurer le fonctionnement en l'absence de l'intéressé.
+
+Peuvent aussi être dispensés des obligations du service national actif les jeunes gens dont l'incorporation aurait pour
+conséquence l'arrêt d'une exploitation à caractère agricole, commercial ou artisanal dont ils sont titulaires.
 
 Peuvent, en outre, demander à être dispensés des obligations du service national actif les jeunes gens, chefs d'une
 entreprise depuis deux ans au moins, dont l'incorporation aurait des conséquences inévitables sur l'emploi de salariés par
 cessation de l'activité de cette entreprise.
 
-Un décret en Conseil d'Etat détermine les conditions d'application de ces dispositions. "
+Un décret en Conseil d'Etat détermine les conditions d'application de ces dispositions.
 
 Dans le cadre de ces dispositions, il est statué sur les demandes de dispense par une décision d'une commission régionale
 comprenant, sous la présidence du préfet de région ou, à défaut, d'un préfet ou d'un sous-préfet en exercice dans la région,
-le représentant, le général commandant la division militaire ou son représentant, un conseiller général, un magistrat et le
-chef du service régional de l'action sanitaire et sociale ou son représentant. La commission entend, à leur demande, les
-jeunes gens intéressés ainsi que, le cas échéant, leur représentant légal et le maire de leur commune ou son délégué.
+le représentant, le général commandant la circonscription militaire de défense ou son représentant, un conseiller général, un
+magistrat et le chef du service régional de l'action sanitaire et sociale ou son représentant. La commission entend, à leur
+demande, les jeunes gens intéressés ainsi que, le cas échéant, leur représentant légal et le maire de leur commune ou son
+délégué.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -1072,10 +2625,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°76-617 du 9 juillet 1976 - art. 23 () JORF 10 juillet 1976
 
 _Cité par_:
 
@@ -1106,21 +2655,34 @@ _Cité par_:
   - Code du service national - art. R*68-6 (V)
   - Code du service national - art. R9 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L32 bis
 
-Pour la reconnaissance de la qualité de soutien de famille des jeunes gens chargés de famille, il est tenu compte, d'une
-part, de leur situation familiale et, d'autre part, du montant des ressources dont ils disposeraient, notamment en
-application de l'article 156 du code de la famille et de l'aide sociale, en cas d'appel sous les drapeaux, à l'exclusion de
-celles résultant du produit des obligations alimentaires dont leur famille serait susceptible de bénéficier.
-
-Est considéré comme chargé de famille, au sens de l'alinéa précédent, le jeune homme ayant la charge effective d'au moins un
-enfant, qu'il s'agisse d'un enfant légitime, d'un enfant naturel reconnu ou de l'enfant d'une femme dont le jeune homme est
-devenu l'époux.
-
-Les jeunes gens mariés incorporables dont l'épouse, lors de leur appel, se trouve en état de grossesse médicalement certifié
+Les jeunes gens mariés incorporables dont l'épouse, lors de leur appel, se trouve en état de grossesse médicalement certifié,
 font l'objet, sur leur demande, d'une décision différant leur appel jusqu'à la naissance de l'enfant. Ils pourront à ce
-moment demander à être reconnus comme soutien de famille.
+moment demander à être reconnus comme soutiens de famille.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1128,19 +2690,19 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°76-617 du 9 juillet 1976 - art. 22 () JORF 10 juillet 1976
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
   - Code du service national - art. R*55 (M)
   - Code du service national - art. R*57 (M)
   - Code du service national - art. R*58 (M)
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 156 (Ab)
 
 
 ###### Article L33
@@ -1155,6 +2717,20 @@ publication, les demandes doivent être présentées dans les trente jours qui s
 
 Les situations individuelles sont appréciées à la date à laquelle est prise la décision.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -1165,6 +2741,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1185,11 +2769,33 @@ _Cité par_:
 Les recours formés contre les décisions prises en application des articles L. 31 et L. 32 doivent être déférés aux tribunaux
 administratifs dans un délai de deux mois à dater de la notification.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1207,6 +2813,20 @@ l'article L. 32.
 Il peut en être de même lorsque leur incorporation a pour conséquence l'arrêt de l'exploitation familiale à caractère
 agricole, commercial ou artisanal pour quelque raison que ce soit.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -1219,7 +2839,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°76-617 du 9 juillet 1976 - art. 24 () JORF 10 juillet 1976
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1236,6 +2860,20 @@ activité pendant une durée déterminée et sous le contrôle de l'administrati
 
 La durée, le champ d'application et les conditions d'attribution de ces mesures ainsi que la nature et la durée des
 obligations de leurs bénéficiaires sont fixés par décret en Conseil d'Etat.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1254,18 +2892,37 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°90-988 - art. 3 (V)
   - TXT_SOURCE: Décret n°90-988 - art. 4 (V)
   - TXT_SOURCE: Décret n°90-988 du 18 octobre 1990
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 
 ###### Article L37
 
 Les jeunes Français résidant effectivement à l'âge de dix-huit ans dans certains pays étrangers dont la liste est fixée par
-décret en conseil d'Etat font l'objet, en raison de l'éloignement, d'une décision différant leur appel tant qu'ils résident
+décret en Conseil d'Etat, font l'objet, en raison de l'éloignement, d'une décision différant leur appel tant qu'ils résident
 dans l'un de ces pays. S'ils n'ont pas cessé, à l'âge de vingt-neuf ans, d'avoir leur résidence habituelle dans ces pays, ils
 sont dispensés d'office des obligations du service national actif.
 
 Sont également dispensés de ces obligations les jeunes Français qui sont établis avant l'âge de dix-huit ans sur le
 territoire d'un Etat étranger lié à la France par un traité d'alliance ou un accord de défense, s'ils prouvent qu'ils ont été
 appelés au service actif dans cet Etat.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1281,6 +2938,11 @@ _Codifié par_:
 
   - TXT_SOURCE: Décret n°92-277 du 24 mars 1992
   - TXT_SOURCE: Décret n°92-277 du 24 mars 1992 - art. 1 (V)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 _Cité par_:
 
@@ -1307,12 +2969,27 @@ c) A toute époque, s'ils quittent provisoirement leur pays de résidence pour v
 alors qu'ils ont déjà accompli leur service obligatoire dans leur pays de résidence ou qu'ils y ont obtenu un sursis
 d'incorporation au titre de ces études.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 **Liens**:
 
   - TXT_SOURCE: Décret n°92-277 du 24 mars 1992
   - TXT_SOURCE: Décret n°92-277 du 24 mars 1992 - art. 1 (V)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -1329,13 +3006,27 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°73-625 1973-07-10 art. 10-I JORF 11 juillet 1973
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 
 ###### Article L39
 
 Les jeunes gens dispensés au titre des articles L. 31 et L. 32 peuvent, s'ils sont reconnus aptes au service national actif,
 faire acte de volontariat pour être soumis aux obligations de la forme de service national actif de leur choix.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1346,6 +3037,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1358,6 +3057,20 @@ _Cite_:
 En vue de leur emploi dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, les
 jeunes gens dispensés des obligations du service national actif peuvent recevoir une affectation soit dans la réserve du
 service militaire, soit dans le service de défense.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1374,8 +3087,37 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
 
-##### Section IV : Condamnés.<a id=12></a>
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+
+###### Article L40-1
+
+Les jeunes gens visés à l'article L. 17 qui, au moment de leur naturalisation, de leur intégration ou de leur déclaration,
+ont satisfait à leurs obligations du service national à l'égard de leur Etat d'origine, dans les conditions prévues par la
+législation de cet Etat, sont considérés comme ayant satisfait aux obligations imposées par le présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
+
+_Cite_:
+
+  - Code du service national - art. L17 (M)
+
+
+##### Section IV : Condamnés.<a id=21></a>
 
 ###### Article L51
 
@@ -1388,6 +3130,20 @@ commission juridictionnelle. Celle-ci décide que les intéressés seront tenus 
 Soit au titre de l'une des formes du titre III ;
 
 Soit suivant des modalités particulières comportant des obligations destinées à assurer leur reclassement social.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1411,7 +3167,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 16 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1432,11 +3192,33 @@ Le président et les membres de la commission sont nommés par arrêté intermin
 remplacés par des suppléants. Le président et les membres suppléants sont désignés suivant les mêmes règles que les
 titulaires.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1451,6 +3233,20 @@ Les séances ne sont pas publiques.
 
 Les décisions de la commission sont notifiées aux ministres chargés de leur exécution et aux intéressés. Elles ne sont
 susceptibles d'aucun recours autre que le recours en cassation devant le Conseil d'Etat.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1473,18 +3269,45 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 7 (V)
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 8 (V)
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 9 (V)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 
 ###### Article L54
 
-Les modalités particulières prévues à l'article L. 51 sont mises en oeuvre par le comité d'assistance, prévue par l'article
+Les modalités particulières prévues à l'article L. 51 sont mises en oeuvre par le comité d'assistance, prévu par l'article
 731 du code de procédure pénale, compétent au lieu de la résidence des intéressés.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1512,11 +3335,33 @@ désignée par lui, notamment en ce qui concerne leurs conditions d'existence.
 
 Ces obligations peuvent à tout moment être modifiées, aménagées ou supprimées par la commission.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1536,11 +3381,33 @@ militaire actif.
 
 Le temps du service actif éventuellement accompli dans l'une des formes du titre III vient en déduction de cette période.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1552,11 +3419,33 @@ _Cite_:
 Les jeunes gens soumis à ces modalités particulières sont justiciables des tribunaux judiciaires de droit commun pour les
 infractions définies ci-après.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L58
@@ -1573,19 +3462,34 @@ d'assistance ;
 c) N'est pas présent au lieu de sa résidence ou de son activité dans les quinze jours suivant la date d'expiration d'une
 autorisation d'absence accordée.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 _Cite_:
 
@@ -1605,11 +3509,33 @@ Celles des articles 414, 415 et 417 du code de justice militaire sont applicable
 ce délit et à celles qui ont soit recelé son auteur, soit soustrait ou tenté de soustraire son auteur aux poursuites
 ordonnées par la loi.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -1625,19 +3551,34 @@ _Cite_:
 Est passible d'une peine de deux ans d'emprisonnement celui qui, hors le cas de force majeure, ne se soumet pas aux
 obligations qui lui sont imposées en application des articles L. 51, L. 54 et L. 55.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 _Cite_:
 
@@ -1646,7 +3587,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-#### Chapitre III : Réforme pour inaptitude physique.<a id=13></a>
+#### Chapitre III : Réforme pour inaptitude physique.<a id=22></a>
 
 ###### Article L61
 
@@ -1661,6 +3602,20 @@ concerne un homme accomplissant le service actif légal, elle entraîne dispense
 Le ministre chargé de la défense nationale peut, soit d'office dans un délai de deux mois à compter de la décision de la
 commission de réforme, soit à tout moment à la requête de l'intéressé, demander à une autre commission de réforme de procéder
 à un nouvel examen.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1684,13 +3639,21 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Anciens textes_:
 
   - Loi n°1928-03-31 art. 59
   - Loi n°1932-12-13 art. 58
 
 
-#### Chapitre IV : Droits résultant de l'accomplissement du service national actif.<a id=14></a>
+#### Chapitre IV : Droits résultant de l'accomplissement du service national actif.<a id=23></a>
 
 ###### Article L62
 
@@ -1706,16 +3669,25 @@ L'alinéa précédent est applicable aux jeunes gens convoqués aux opérations 
 activités de préparation militaire ; lorsque la préparation militaire est organisée par une société agréée, la réparation
 complémentaire n'est due par l'Etat que si la responsabilité de cette société est engagée.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°76-617 du 9 juillet 1976 - art. 25 () JORF 10 juillet 1976
-  - Loi n°92-9 du 4 janvier 1992 - art. 17 () JORF 7 janvier 1992
 
 _Cité par_:
 
@@ -1727,6 +3699,14 @@ _Cité par_:
   - Code du service national - art. R*184 (Ab)
   - Code du service national - art. R*46 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code de la famille et de l'aide sociale. - art. 156 (Ab)
@@ -1735,10 +3715,24 @@ _Cite_:
 ###### Article L62 bis
 
 La réglementation des conditions d'admission ou de poursuite des études dans les établissements d'enseignement et, en
-particulier, dans ceux qui recrutent par voie de concours, sera établie ou aménagée, notamment en matière de limite d'âge, de
-manière que les jeunes gens qui, après avoir interrompu leurs études ou leur formation professionnelle pour accomplir leur
+particulier, dans ceux qui recrutent par voie de concours, sera établie ou aménagée, notamment en matière de limites d'âge,
+de manière que les jeunes gens qui, après avoir interrompu leurs études ou leur formation professionnelle pour accomplir leur
 service national, reprennent ces études ou cette formation à l'issue de leur service actif, ne puissent être privés des
 dispositions dont ils auraient pu bénéficier s'ils n'avaient pas accompli le service national actif.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1749,6 +3743,14 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°73-625 du 10 juillet 1973 - art. 11, v. init.
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -1769,6 +3771,20 @@ sa durée effective dans le calcul de l'ancienneté de service exigée pour l'av
 
 Le temps obligatoirement passé dans le service militaire ou le service de défense en sus du service national actif est pris
 en compte intégralement pour l'avancement et pour la retraite.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1847,12 +3863,34 @@ _Cité par_:
   - Code du service national - art. L72-1 (Ab)
   - Code du service national - art. L94-9 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L64
 
 Pour l'accès à un emploi de l'Etat, des collectivités locales, des établissements publics et des entreprises publiques dont
 le personnel est soumis à un statut réglementaire, la limite d'âge est reculée d'un temps égal à celui passé effectivement
 dans le service national actif accompli dans l'une des formes du titre III.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1864,6 +3902,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -1880,8 +3926,22 @@ _Cité par_:
 
 Les hommes ayant satisfait aux obligations du service national actif ou qui en ont été dispensés peuvent, s'ils remplissent
 les conditions requises, être admis dans la gendarmerie. Toutefois, seuls les candidats ayant accompli leurs obligations sous
-la forme du service militaire bénéficient, le cas échéant, de bonification de classement pour l'admission et la
+la forme du service militaire bénéficient, le cas échéant, de bonifications de classement pour l'admission et la
 titularisation.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -1893,6 +3953,14 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cité par_:
 
   - Code du service national - art. L72 (V)
@@ -1900,57 +3968,11 @@ _Cité par_:
   - Code du service national - art. L94-9 (V)
 
 
-###### Article L66
+### TITRE III : Dispositions particulières aux différentes formes du service national<a id=24></a>
 
-Les jeunes gens ayant effectivement accompli le service militaire actif, le service dans la police nationale ou le service de
-sécurité civile, bénéficient, dans les conditions fixées par décret en Conseil d'Etat, d'une réserve d'emplois pour l'accès
-aux emplois publics énumérés ci-après :
+#### Chapitre Ier : Service militaire<a id=25></a>
 
-- gardiens de la paix de la police nationale ;
-
-- agents de police municipaux ;
-
-- sapeurs-pompiers professionnels des corps communaux ;
-
-- surveillants d'établissements pénitentiaires ;
-
-- préposés et matelots de l'administration des douanes ;
-
-- agents techniques forestiers de l'Office national des forêts.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 7
-  - Loi n°65-550 1965-07-09 art. 44
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°92-9 du 4 janvier 1992 - art. 18 () JORF 7 janvier 1992
-
-_Abrogé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
-
-_Cité par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V)
-  - CODE DES COMMUNES. - art. L353-2 (Ab)
-  - Code du service national - art. L72 (M)
-  - Code du service national - art. L72-1 (Ab)
-  - Code du service national - art. L94-9 (M)
-
-
-### TITRE III : Dispositions particulières aux différentes formes du service national<a id=15></a>
-
-#### Chapitre I : Service militaire<a id=16></a>
-
-##### Section I : Définition.<a id=17></a>
+##### Section I : Définition.<a id=26></a>
 
 ###### Article L67
 
@@ -1960,12 +3982,21 @@ dont cinq ans dans le service actif et la disponibilité et le reliquat dans la 
 Le temps de service supplémentaire accompli dans le service actif par un engagé vient en déduction du temps de service à
 passer dans la disponibilité.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code du service national - art. L69 (V)
-  - Code du service national - art. R*231 (V)
 
 _Anciens textes_:
 
@@ -1976,6 +4007,19 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cité par_:
+
+  - Code du service national - art. L69 (V)
+  - Code du service national - art. R*231 (V)
+
 
 ###### Article L68
 
@@ -1983,19 +4027,41 @@ Le temps passé par les hommes visés à l'article L. 17, soit dans la légion �
 françaises, soit dans l'armée de leur pays d'origine, soit sur un théâtre d'opérations militaires actives dans une armée
 alliée ou associée, vient en déduction des obligations de service actif auxquelles ils sont tenus.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 13 al. 4
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code du service national - art. L17 (M)
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 13 al. 4
 
 
 ###### Article L69
@@ -2003,10 +4069,9 @@ _Anciens textes_:
 Par dérogation aux dispositions de l'article L. 67 :
 
 1° Tout officier ou sous-officier de réserve peut, par décision du ministre chargé de la défense nationale, être maintenu
-dans les cadres à l'expiration des obligations légales, en considération des besoins des armées.
-
-Cette décision, révocable en fonction de ces besoins, ne peut avoir pour effet de maintenir dans les cadres les officiers et
-les sous-officiers de réserve au-delà de la limite d'âge, augmentée de cinq ans, des cadres d'active correspondants.
+dans les cadres à l'expiration des obligations légales, en considération des besoins des armées. Cette décision, révocable en
+fonction de ces besoins, ne peut avoir pour effet de maintenir dans les cadres les officiers et les sous-officiers de réserve
+au-delà de la limite d'âge, augmentée de cinq ans, des cadres d'active correspondants.
 
 2° Les anciens officiers et sous-officiers d'active conservent, dans le cadre de réserve où ils peuvent être versés à la
 cessation de leurs services actifs, les limites d'âge définies à l'alinéa ci-dessus.
@@ -2016,8 +4081,20 @@ leurs statuts particuliers.
 
 **Nota:**
 
-NOTA : Concernant les limites d'âge, il y a lieu de faire référence aux limites figurant à l'annexe à la loi n° 72-662 du 13
-juillet 1972 parue au Journal officiel du 14 juillet 1972.
+Concernant les limites d'âge, il y a lieu de faire référence aux limites figurant à l'annexe à la loi n° 72-662 du 13 juillet
+1972 parue au Journal officiel du 14 juillet 1972.
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2038,10 +4115,6 @@ _Cité par_:
   - Code du service national - art. L80 (V)
   - Code du service national - art. R*231 (V)
 
-_Modifié par_:
-
-  - Loi n°93-4 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997
@@ -2057,13 +4130,18 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 7 (V)
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 8 (V)
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 9 (V)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 _Cite_:
 
   - Code du service national - art. L67 (M)
 
 
-##### Section II : Service militaire actif.<a id=18></a>
+##### Section II : Service militaire actif.<a id=27></a>
 
 ###### Article L70
 
@@ -2077,11 +4155,21 @@ Les militaires peuvent être appelés à servir en tout temps et en tout lieu. T
 qui sont volontaires pour une telle affectation peuvent être affectés à des unités ou formations stationnées hors d'Europe et
 hors des départements et des territoires d'outre-mer.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code du service national - art. R*16-1 (V)
 
 _Anciens textes_:
 
@@ -2094,12 +4182,41 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cité par_:
+
+  - Code du service national - art. R*16-1 (V)
+
 
 ###### Article L71
 
 Les jeunes gens accomplissant le service militaire actif doivent être affectés à des emplois militaires. Ils reçoivent
 l'instruction militaire et participent aux missions des armées ainsi qu'à celles définies aux articles L. 73 à L. 75. Ils
 peuvent recevoir un complément d'instruction générale et de formation professionnelle.
+
+Toutefois, à titre temporaire et sous réserve des dispositions de l'article L. 6, le ministre chargé des armées peut mettre
+des appelés volontaires à disposition d'autres ministères par voie de protocole pour des missions d'utilité publique.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2111,9 +4228,18 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
-  - Code du service national L73 à L75
+  - Code du service national - art. L6 (M)
+  - Code du service national L73 à L75, L6
 
 
 ###### Article L72
@@ -2134,10 +4260,24 @@ les drapeaux. Ils bénéficient notamment de la présomption d'imputabilité pr�
 militaires d'invalidité et des victimes de la guerre.
 
 La période de volontariat entre dans le calcul des pensions de vieillesse. Elle donne droit aux avantages prévus au deuxième
-alinéa de l'article L. 63 et à l'article L. 64, ainsi qu'à une priorité dans l'application des articles L. 65 et L. 66.
+alinéa de l'article L. 63 et à l'article L. 64, ainsi qu'à une priorité dans l'application de l'article L. 65.
 
 Un décret fixe la rémunération des appelés dont la demande de volontariat est acceptée ainsi que les conditions dans
 lesquelles un pécule leur est attribué en fin de service.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2161,14 +4301,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 1992-01-04 art. 3 et 19 JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
   - Code du service national - art. L63 (M)
   - Code du service national - art. L64 (M)
   - Code du service national - art. L65 (M)
-  - Code du service national - art. L66 (Ab)
   - Code des pensions militaires d'invalidité et des v - art. L3 (M)
 
 
@@ -2179,6 +4322,20 @@ d'intérêt général dans les conditions fixées par décrets pris sur la propo
 
 Les crédits correspondant à l'exécution de ces tâches ainsi qu'à l'instruction complémentaire appropriée sont inscrits au
 budget des ministères intéressés.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2194,12 +4351,34 @@ _Cité par_:
 
   - Décret n°90-670 du 31 juillet 1990 - art. 24 (Ab)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L74
 
 Les jeunes gens peuvent demander à accomplir leur service actif en qualité de gendarme auxiliaire. Ils reçoivent une
 instruction leur permettant d'être admis, à l'issue de leurs obligations légales, dans la gendarmerie ou dans ses réserves.
 Le nombre de jeunes gens appelés dans la gendarmerie ne peut dépasser 15 p. 100 des effectifs de cette arme.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2213,7 +4392,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L75
@@ -2222,18 +4405,27 @@ Une formation professionnelle peut être donnée aux jeunes gens accomplissant l
 
 1° Dans des unités particulières ;
 
-2° Par l'intermédiaire d'organismes publics ou privés fonctionnant dans les conditions prévues par la loi n° 66-892
-d'orientation et de programme sur la formation professionnelle du 3 décembre 1966 et avec lesquels des conventions seraient
-conclues conformément aux dispositions de l'article 9 de cette loi.
+2° Par l'intermédiaire d'organismes publics ou privés fonctionnant dans les conditions prévues par le livre IX du code du
+travail et avec lesquels des conventions seraient conclues conformément au titre II de ce livre.
 
 Les jeunes gens qui reçoivent une formation professionnelle dans les conditions fixées ci-dessus peuvent être tenus de
 participer à des activités d'intérêt public, dans des départements ou régions déterminés par décrets.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-892 1966-12-03 art. 9
 
 _Anciens textes_:
 
@@ -2242,6 +4434,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L76
@@ -2252,6 +4452,20 @@ militaire actif. Dans ce cas, les intéressés passent dans la disponibilité à
 Lorsque les circonstances l'exigent, le Gouvernement peut conserver temporairement sous les drapeaux, dans la limite des
 obligations légales d'activité, les hommes ayant accompli la durée du service actif. La période de maintien sous les drapeaux
 est considérée comme une prolongation du service actif.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2283,11 +4497,33 @@ _Cité par_:
   - Code rural - art. R343-4 (M)
   - Code rural et de la pêche maritime - art. D731-51 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L77
 
 Dans les cas prévus aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, le Gouvernement peut rappeler sous les
 drapeaux tout ou partie des personnels soumis aux obligations du service militaire.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2305,13 +4541,21 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cité par_:
 
   - Code du service national - art. L91 (Ab)
   - Code du service national - art. L94-10 (V)
 
 
-##### Section III : Recrutement des cadres de réserve du service militaire.<a id=19></a>
+##### Section III : Recrutement des cadres de réserve du service militaire.<a id=28></a>
 
 ###### Article L78
 
@@ -2320,6 +4564,20 @@ l'exécution du service militaire actif.
 
 Les conditions dans lesquelles les demandes sont reçues, les modalités de sélection, d'instruction, de prise en compte
 éventuelle des titres de préparation militaire ainsi que les grades auxquels ils peuvent être nommés sont définis par décret.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2331,6 +4589,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L79
@@ -2341,6 +4607,20 @@ définit les titres sanctionnant cette préparation.
 Les jeunes gens détenteurs de titres de préparation militaire reçoivent, pendant le service actif, une affectation
 correspondant aux spécialités résultant de ces titres.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -2352,8 +4632,16 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
 
-##### Section IV : Disponibilité et réserve du service militaire.<a id=20></a>
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+
+##### Section IV : Disponibilité et réserve du service militaire.<a id=29></a>
 
 ###### Article L80
 
@@ -2361,11 +4649,21 @@ Tout homme ou toute femme de la réserve, père ou mère d'au moins quatre enfan
 mariage, quatre enfants ou plus, est libéré de toute obligation du service militaire, sauf à accepter de poursuivre des
 activités de disponibilité et de réserve.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du service national - art. L69 (M)
 
 _Anciens textes_:
 
@@ -2379,7 +4677,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-4 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cite_:
+
+  - Code du service national - art. L69 (M)
 
 
 ###### Article L81
@@ -2387,6 +4693,20 @@ _Modifié par_:
 Pendant la disponibilité, les hommes restent rattachés au contingent avec lequel ils ont été appelés au service actif. Dans
 la réserve, ils sont classés en fonction de la date de leur naissance, les hommes nés au cours d'une même année constituant
 une classe d'âge.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2397,6 +4717,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L82
@@ -2411,15 +4739,25 @@ Il peut être procédé au rappel des disponibles et réservistes d'une manière
 service, unité ou partie du territoire. Le rappel peut intervenir par contingent ou classe d'âge ou par catégorie ou sous-
 catégorie de forces ou par spécialité.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°93-4 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
 
 **Liens**:
 
@@ -2436,6 +4774,11 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 7 (V)
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 8 (V)
   - TXT_SOURCE: Décret n°97-104 du 6 février 1997 - art. 9 (V)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 _Cité par_:
 
@@ -2469,6 +4812,20 @@ service militaire, dans une formation des armées.
 Les corps spéciaux et les cadres d'assimilés spéciaux peuvent, en dehors des cas prévus à l'article L. 82, être appelés à
 l'activité par décret pris en conseil des ministres lorsque les circonstances l'exigent.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -2489,6 +4846,14 @@ _Cité par_:
   - Code de justice militaire. - art. D112-17 (V)
   - Code de justice militaire. - art. D112-20 (V)
   - Code du service national - art. L82 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L84
@@ -2520,6 +4885,20 @@ période, des congés payés, il ne pourra être fait obstacle à ce désir.
 Indépendamment des périodes obligatoires et volontaires, les officiers et les sous-officiers de réserve ou assimilés peuvent
 être appelés à fréquenter des écoles de perfectionnement les préparant à leurs fonctions de mobilisation.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -2528,10 +4907,6 @@ _Cité par_:
   - Décret n°78-194 du 24 février 1978 - art. 8 (Ab)
   - Code du service national - art. L85 (V)
   - Code du service national - art. L93 (Ab)
-
-_Cite_:
-
-  - Code du service national - art. L2 (M)
 
 _Anciens textes_:
 
@@ -2544,7 +4919,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-4 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cite_:
+
+  - Code du service national - art. L2 (M)
 
 
 ###### Article L85
@@ -2555,6 +4938,20 @@ militaires du service actif et soumis, dès lors, à toutes les obligations impo
 
 Les dispositions du second alinéa de l'article L. 62 leur sont applicables.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -2563,7 +4960,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 22 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -2582,7 +4983,7 @@ _Anciens textes_:
   - Loi n°1932-12-13 art. 78 al. 1
 
 
-#### Chapitre II : Service de défense.<a id=21></a>
+#### Chapitre II : Service de défense.<a id=30></a>
 
 ###### Article L86
 
@@ -2602,7 +5003,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983) M(Loi 92-9 1992-01-04 art. 23 et 24 JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 _Cite_:
 
@@ -2647,7 +5056,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 _Cite_:
 
@@ -2677,7 +5094,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 _Cite_:
 
@@ -2716,7 +5141,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 _Cite_:
 
@@ -2740,7 +5173,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 
 ###### Article L93
@@ -2766,7 +5207,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 _Cite_:
 
@@ -2797,7 +5246,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 23 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 _Cité par_:
 
@@ -2810,14 +5267,28 @@ _Cité par_:
   - Code du service national - art. R*170 (Ab)
 
 
-#### Chapitre II bis : Service dans la police nationale<a id=22></a>
+#### Chapitre II bis : Service dans la police nationale<a id=31></a>
 
-##### Section I : Disposition générales.<a id=23></a>
+##### Section I : Dispositions générales.<a id=32></a>
 
 ###### Article L94-1
 
 Le service dans la police nationale comporte le service actif, la disponibilité et la réserve. Il s'étend jusqu'à l'âge de
 cinquante ans dont cinq ans dans le service actif et la disponibilité et le reliquat dans la réserve.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2825,13 +5296,13 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
-
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 28 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-2
@@ -2839,18 +5310,36 @@ _Modifié par_:
 Les jeunes gens peuvent, sur leur demande, être admis à accomplir leur service national dans la police nationale, en qualité
 de policier auxiliaire. Leur nombre ne peut dépasser 10 p. 100 de l'effectif du personnel actif de la police nationale.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section II : Droits et obligations.<a id=24></a>
+##### Section II : Droits et obligations.<a id=33></a>
 
 ###### Article L94-3
 
@@ -2862,15 +5351,33 @@ l'occasion de l'exercice de leurs fonctions.
 
 Ils peuvent être appelés à servir en tout temps et en tout lieu.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-4
@@ -2878,7 +5385,21 @@ _Créé par_:
 Les policiers auxiliaires doivent s'abstenir de toute activité syndicale ou politique.
 
 Toute incitation ou participation à une cessation concertée de service est considérée comme un acte d'indiscipline et
-sanctionnée comme telle.
+sanctionnée comme tel.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2886,24 +5407,46 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-5
 
 Le régime des permissions dont peuvent bénéficier les policiers auxiliaires est fixé par décret.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-6
@@ -2911,15 +5454,33 @@ _Créé par_:
 Les policiers auxiliaires ont droit à la gratuité ou au remboursement des soins médicaux, des fournitures de médicaments et
 des frais d'hospitalisation dans les conditions qui sont fixées par décret.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-7
@@ -2930,19 +5491,33 @@ du code des pensions militaires d'invalidité et des victimes de guerre, à l'ex
 statutaire de pensions d'invalidité ou de rentes d'incapacité permanente. La pension est liquidée sur la base du taux prévu
 pour le soldat.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987) M(Loi 92-9 1992-01-04 art. 2 JORF 7 janvier 1992
-
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 29 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-8
@@ -2952,7 +5527,21 @@ effectuent le service dans la police nationale sont les mêmes que celles qui so
 accomplissant le service militaire.
 
 Les prestations et indemnités reçues par les policiers auxiliaires n'entrent pas en ligne de compte dans l'évaluation des
-ressources des familles dont ils sont les soutiens en vue de l'examen d'une demande d'aide sociale.
+ressources des familles dont ils sont les soutiens, en vue de l'examen d'une demande d'aide sociale.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2960,9 +5549,13 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-9
@@ -2983,10 +5576,24 @@ de la durée légale. Ils bénéficient de la présomption d'imputabilité prév
 d'invalidité et des victimes de la guerre.
 
 La période de volontariat entre dans le calcul des pensions de vieillesse. Elle donne droit aux avantages prévus au deuxième
-alinéa de l'article L. 63 et à l'article L. 64 ainsi qu'à une priorité dans l'application des articles L. 65 et L. 66.
+alinéa de l'article L. 63 et à l'article L. 64 ainsi qu'à une priorité dans l'application de l'article L. 65.
 
 La rémunération des appelés dont la demande de volontariat est acceptée et les conditions dans lesquelles un pécule leur est
 attribué en fin de service sont fixées par le décret prévu au dernier alinéa de l'article L. 72.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -2999,16 +5606,19 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987) M(Loi 92-9 1992-01-04 art. 30 JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
   - Code du service national - art. L63 (M)
   - Code du service national - art. L64 (M)
   - Code du service national - art. L65 (M)
-  - Code du service national - art. L66 (Ab)
   - Code du service national - art. L72-1 (Ab)
 
 
@@ -3016,15 +5626,33 @@ _Cite_:
 
 Les dispositions des articles L. 76 et L. 77 sont applicables aux appelés servant dans la police nationale.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -3037,12 +5665,26 @@ _Cite_:
   - Code du service national - art. L77 (M)
 
 
-##### Section III : Disponibilité et réserve dans la police nationale.<a id=25></a>
+##### Section III : Disponibilité et réserve dans la police nationale.<a id=34></a>
 
 ###### Article L94-11
 
 Tout policier auxiliaire de la réserve, père d'au moins quatre enfants vivants ou ayant à sa charge, du fait de son mariage,
 quatre enfants ou plus, est libéré de toute obligation du service dans la police nationale.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3050,9 +5692,13 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-12
@@ -3061,15 +5707,33 @@ Pendant la disponibilité, les policiers auxiliaires restent attachés au contin
 actif. Dans la réserve, ils sont classés en fonction de la date de leur naissance, les hommes nés au cours d'une même année
 constituant une classe d'âge.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-13
@@ -3083,15 +5747,33 @@ par ordre individuel et en cas de convocation pour les périodes d'exercice.
 Il peut être procédé au rappel des disponibles et réservistes d'une manière distincte et indépendante par service, unité ou
 partie du territoire. Le rappel peut intervenir par contingent ou classe d'âge.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -3120,15 +5802,33 @@ d'exercice. Il en rend compte immédiatement au Parlement, s'il est en session, 
 Lorsqu'un salarié, convoqué pour une période obligatoire, fait connaître à son employeur son désir de bénéficier, durant
 cette période, des congés payés, il ne pourra être fait obstacle à ce désir.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -3149,15 +5849,33 @@ service actif et soumis, dès lors, à toutes les obligations imposées par les 
 
 Les dispositions du second alinéa de l'article L. 62 leur sont applicables.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 2 JORF 11 juillet 1987) M(Loi 92-9 1992-01-04 art. 31 JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -3166,12 +5884,26 @@ _Cite_:
   - Code du service national - art. L94-14 (M)
 
 
-#### Chapitre II ter : Service de sécurité civile.<a id=26></a>
+#### Chapitre II ter : Service de sécurité civile.<a id=35></a>
 
 ###### Article L94-16
 
 Le service de sécurité civile est placé sous l'autorité du ministre de l'intérieur. Il s'accomplit principalement dans les
 services d'incendie et de secours.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3179,9 +5911,13 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 32 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -3198,6 +5934,20 @@ sapeurs-pompiers volontaires sont admis en priorité, sur leur demande, à effec
 un service de sécurité civile s'ils s'engagent à poursuivre leur activité de sapeur-pompier volontaire pendant cinq années au
 moins.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -3206,7 +5956,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-370 du 3 mai 1996 - art. 16 () JORF 4 mai 1996
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -3217,6 +5971,20 @@ _Cité par_:
 
 Les dispositions des articles L. 94-3 à L. 94-10 sont applicables aux jeunes gens qui effectuent le service de sécurité
 civile.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3229,9 +5997,13 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 32 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -3243,15 +6015,33 @@ _Cite_:
 Le service de sécurité civile ne comprend ni disponibilité ni réserve. A l'issue du service actif, les jeunes gens qui ont
 accompli un service de sécurité civile sont versés dans la réserve du service de défense.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 32 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L94-20
@@ -3261,29 +6051,61 @@ fixées par décret en Conseil d'Etat, par des jeunes gens n'ayant pas la qualit
 organismes concourant directement à la protection des populations et relevant d'un ministre autre que le ministre de
 l'intérieur.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 32 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
   - Code du service national - art. L94-16 (M)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=27></a>
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=36></a>
 
-##### Section I : Définitions.<a id=28></a>
+##### Section I : Définitions.<a id=37></a>
 
 ###### Article L95
 
 Le service de l'aide technique contribue, par la mise à leur disposition de jeunes gens du contingent, au développement des
 départements et territoires d'outre-mer.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3295,11 +6117,33 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L96
 
 Le service de la coopération fait participer les jeunes Français au développement de pays étrangers. Ceux-ci peuvent être
 affectés dans des entreprises françaises concourant au développement de ces pays.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3313,13 +6157,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-  - Loi n°92-9 du 4 janvier 1992 - art. 33 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section II : Dispositions communes<a id=29></a>
+##### Section II : Dispositions communes<a id=38></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=30></a>
+##### Paragraphe 1er : Dispositions générales.<a id=39></a>
 
 ###### Article L97
 
@@ -3334,6 +6181,20 @@ Ils reçoivent du ministre intéressé une affectation dans les conditions fixé
 Pendant l'accomplissement de leur service, ils sont soumis à l'autorité du ministre susvisé et régis par les dispositions du
 présent chapitre.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -3345,12 +6206,34 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L98
 
 Les jeunes gens qui, ayant été admis à accomplir le service de l'aide technique ou le service de la coopération, n'ont pas
 répondu à la convocation du ministre responsable sont soumis aux obligations du service militaire actif pour une durée égale
 à la durée du service dans l'aide technique ou la coopération.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3364,7 +6247,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 34 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -3381,6 +6268,20 @@ Ils n'accomplissent au titre de l'aide technique ou au titre de la coopération 
 A l'expiration d'une durée de service actif qui leur est applicable, les intéressés sont radiés des contrôles et libérés du
 service ; ils peuvent alors recevoir une affectation militaire ou une affectation de défense.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -3393,10 +6294,32 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L100
 
 Les conditions d'application des dispositions du présent chapitre sont fixées par décret.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3409,6 +6332,14 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L101
 
@@ -3416,6 +6347,20 @@ Sous réserve de l'application éventuelle des articles L. 150 à L. 159, les je
 technique ou au service de la coopération sont soumis aux seules dispositions résultant du présent chapitre. Ils sont tenus
 aux obligations professionnelles imposées aux membres des personnels français exerçant des emplois de même nature dans le
 département, le territoire ou l'Etat de séjour, en dehors du service national.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3428,12 +6373,58 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code du service national L150 à L159
 
 
-##### Paragraphe 2 : Droits et obligations.<a id=31></a>
+###### Article L101-1
+
+Les dispositions du premier alinéa de l'article L. 76 sont applicables aux jeunes gens affectés au service de l'aide
+technique ou au service de la coopération.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+_Cité par_:
+
+  - Décret n°2001-763 du 28 août 2001 - art. 1 (V)
+
+_Cite_:
+
+  - Code du service national - art. L76 (M)
+
+
+##### Paragraphe 2 : Droits et obligations.<a id=40></a>
 
 ###### Article L102
 
@@ -3442,6 +6433,20 @@ convenance inhérentes à leur emploi, notamment à l'égard de l'Etat de séjou
 
 Ils sont tenus à la discrétion professionnelle pour les faits et informations dont ils ont connaissance dans l'exercice ou à
 l'occasion de l'exercice de leurs fonctions.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3454,6 +6459,14 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L103
 
@@ -3462,6 +6475,20 @@ syndicale ou politique.
 
 Toute incitation ou participation à une cessation concertée de service est considérée comme un acte d'indiscipline et
 sanctionnée comme tel.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3473,6 +6500,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L104
@@ -3487,6 +6522,20 @@ uniforme pour chacun des départements, territoires, pays ou régions, quelles q
 
 Les prestations et indemnités prévues au présent article ne sont pas passibles d'impôts.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -3497,6 +6546,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -3510,6 +6567,20 @@ _Cité par_:
 Le régime des permissions dont peuvent bénéficier les jeunes gens affectés au service de l'aide technique ou au service de la
 coopération est fixé par décret.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -3521,12 +6592,34 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L106
 
 Les jeunes gens affectés au service de l'aide technique ou au service de la coopération ont droit à la gratuité ou au
 remboursement des soins médicaux, des fournitures de médicaments et des frais d'hospitalisation dans les conditions qui sont
 fixées par décret.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3538,6 +6631,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -3552,22 +6653,58 @@ des pensions militaires d'invalidité et des victimes de guerre, à l'exclusion 
 de pensions d'invalidité ou de rentes d'incapacité permanente. La pension est liquidée sur la base du taux prévu pour le
 soldat.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L108
 
 L'aide sociale ainsi que les prestations de sécurité sociale qui peuvent être accordées aux familles dont les soutiens
-effectuent le service de l'aide technique ou le service de la coopération sont les mêmes que celles qui lui sont accordées
-aux familles des jeunes gens accomplissant le service militaire.
+effectuent le service de l'aide technique ou le service de la coopération sont les mêmes que celles qui sont accordées aux
+familles des jeunes gens accomplissant le service militaire.
 
 Les prestations et indemnités reçues par les jeunes gens affectés au service de l'aide technique ou au service de la
 coopération n'entrent pas en ligne de compte dans l'évaluation des ressources des familles dont ils sont les soutiens, en vue
 de l'examen d'une demande d'aide sociale.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3575,14 +6712,36 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
 
-##### Paragraphe 3 : Dispositions diverses.<a id=32></a>
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+
+##### Paragraphe 3 : Dispositions diverses.<a id=41></a>
 
 ###### Article L109
 
-En cas de faute exclusive de toute faute personnelle, la responsabilité pécuniaire de l'Etat français, ou, le cas échéant
+En cas de faute exclusive de toute faute personnelle, la responsabilité pécuniaire de l'Etat français, ou, le cas échéant,
 celle de l'Etat de séjour, est substituée à celle des jeunes gens affectés au service de l'aide technique ou au service de la
 coopération.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3597,7 +6756,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 35 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L110
@@ -3613,6 +6776,20 @@ de l'article L. 2.
 La jeune femme est libérée de son volontariat sauf si, ayant l'aptitude requise, elle demande à achever son volontariat au
 service militaire.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -3626,7 +6803,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 36 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -3648,6 +6829,20 @@ disposition du ministre chargé des armées en vue de terminer, le cas échéant
 libérées de leur volontariat, sauf si, ayant l'aptitude requise, elles demandent à achever leur volontariat au service
 militaire.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -3661,7 +6856,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 37 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -3673,12 +6872,26 @@ _Cité par_:
   - Code du service national - art. R*232 (V)
 
 
-##### Section III : Dispositions particulières au service de l'aide technique.<a id=33></a>
+##### Section III : Dispositions particulières au service de l'aide technique.<a id=42></a>
 
 ###### Article L112
 
 En prononçant l'affectation, le ministre des départements et territoires d'outre-mer indique, en cas de besoin, les autorités
 locales dont le jeune homme ou la jeune femme relèvera dans l'accomplissement de sa mission.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3692,19 +6905,37 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 38 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
   - Décret n°98-180 du 17 mars 1998 - art. 4 (V)
 
 
-##### Section IV : Dispositions particulières au service de la coopération.<a id=34></a>
+##### Section IV : Dispositions particulières au service de la coopération.<a id=43></a>
 
 ###### Article L113
 
 Les cas et conditions dans lesquels les jeunes gens affectés au service de la coopération relèvent, pour leur emploi, des
 autorités de l'Etat étranger dans lequel ils ont reçu une affectation sont arrêtés en accord entre la France et cet Etat.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3716,12 +6947,34 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L114
 
 Il est interdit aux jeunes gens affectés au service de la coopération de se livrer à toute manifestation susceptible de nuire
 à l'Etat français ou aux rapports que ce dernier entretient avec les organisations internationales ou les Etats au service
 desquels ou auprès desquels ils se trouvent placés.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3733,11 +6986,33 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L115
 
 Les jeunes gens affectés au service de la coopération sont, le cas échéant, soumis aux dispositions des accords passés entre
 la France et l'Etat de séjour.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3749,26 +7024,37 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
 
-## LIVRE II<a id=35></a>
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
-### TITRE Ier : Définition et principes du service national<a id=36></a>
+**Liens**:
 
-#### Chapitre Ier : Dispositions générales.<a id=37></a>
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
-###### Article L5 bis
 
-Un report supplémentaire d'incorporation de deux années scolaires ou universitaires est accordé, sur leur demande, aux jeunes
-gens visés au 2° de l'article L. 5 qui justifient de la poursuite d'études ou de formation professionnelle dans des
-conditions fixées par décret.
+#### Chapitre IV : Service des objecteurs de conscience.<a id=44></a>
 
-Ces demandes de report doivent être déposées par les intéressés au bureau du service national dont ils relèvent, avant le 1er
-octobre de l'année civile au cours de laquelle ils atteignent l'âge de vingt-deux ans.
+###### Article L116-1
 
-La durée de ce report supplémentaire est portée à trois années pour les jeunes gens titulaires d'un brevet de préparation
-militaire et à quatre années pour les jeunes gens titulaires d'un brevet de préparation militaire supérieure. Ces jeunes gens
-doivent avoir obtenu les brevets correspondants avant le 1er octobre de l'année civile au cours de laquelle ils atteignent
-l'âge de vingt-quatre ans.
+Les jeunes gens soumis aux obligations du service national qui, pour des motifs de conscience, se déclarent opposés à l'usage
+personnel des armes sont, dans les conditions prévues par le présent chapitre, admis à satisfaire à leurs obligations, soit
+dans un service civil relevant d'une administration de l'Etat ou des collectivités locales, soit dans un organisme à vocation
+sociale ou humanitaire assurant une mission d'intérêt général, agréé dans des conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -3778,52 +7064,88 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°82-541 1982-06-29 art. 1 JORF 30 juin 1982
-  - Loi n°89-18 du 13 janvier 1989 - art. 77 () JORF 14 janvier 1989
-  - Loi n°92-9 du 4 janvier 1992 - art. 6 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
-  - Code du service national - art. L117 (V)
+  - Code du service national - art. L116-2 (V)
+  - Code du service national - art. R227-1 (V)
+
+
+###### Article L116-2
+
+Les demandes d'admission au bénéfice des dispositions du présent chapitre doivent être motivées conformément aux dispositions
+de l'article L. 116-1.
+
+Avant l'accomplissement du service national actif, les demandes doivent, pour être recevables, être présentées avant le 15 du
+mois qui précède l'incorporation de l'intéressé.
+
+Après l'accomplissement des obligations du service national actif et de la disponibilité, ou lorsque les intéressés ont été
+exemptés ou dispensés, elles sont recevables à tout moment et valent renonciation au grade militaire éventuellement détenu.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cite_:
+
+  - Code du service national - art. L116-1 (M)
+
+_Cité par_:
+
   - Code du service national - art. L14 (V)
-  - Code du service national - art. L5 bis A (V)
-  - Code du service national - art. L9 (V)
-  - Code du service national - art. R*73 (V)
-  - Code du service national - art. R*8 (V)
-  - Code du service national - art. R*8-2 (V)
-  - Code du service national - art. R*9-1 (M)
-  - Code du service national - art. R*9-3 (V)
-  - Code du service national - art. R*9-4 (V)
-  - Code du service national - art. R136 (V)
-  - Code du service national - art. R9 (V)
-
-_Cite_:
-
-  - Code du service national - art. L5 (M)
 
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=38></a>
+###### Article L116-3
 
-###### Article L12
+Les demandes sont agréées par le ministre chargé des armées.
 
-La durée du service actif des jeunes gens qui ont obtenu le bénéfice des dispositions de l'article L. 9 reste celle prévue
-par l'article L. 2 pour la forme de service national à laquelle ils ont postulé :
+Le recours devant le tribunal administratif contre le refus d'agrément suspend l'incorporation et l'application du dernier
+alinéa de l'article L. 7. Le tribunal administratif statue en premier et dernier ressort suivant la procédure d'urgence.
 
-1° Au cas où, après l'âge de vingt-quatre ans, ils ne poursuivent par les études correspondant à la demande visée au premier
-alinéa de l'article L. 9 ou renoncent au bénéfice des dispositions dudit article ;
+**Nota:**
 
-2° Au cas où, au moment de leur incorporation, ayant poursuivi leurs études au-delà de vingt-quatre ans, ils ont abandonné le
-cycle d'études correspondant à leur demande, ou n'ont pas obtenu la qualification requise, ou encore refusent l'emploi ou
-l'affectation obtenus.
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
 
-Toutefois, au cas où ils ne peuvent être affectés à un emploi correspondant à leur qualification, la durée de leur service
-actif est celle qui est fixée pour la forme de service qu'ils effectuent dans les conditions prévues à l'article L. 2.
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-596 du 9 juillet 1970 - art. 7 (Ab)
 
 _Codifié par_:
 
@@ -3831,38 +7153,129 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°73-625 1973-07-10 art. 8 JORF 11 juillet 1973
-  - Loi n°82-541 1982-06-29 art. 3 JORF 30 juin 1982
-  - Loi n°92-9 du 4 janvier 1992 - art. 10 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
-_Abrogé par_:
+**Liens**:
 
-  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cite_:
+
+  - Code du service national - art. L7 (M)
+
+
+###### Article L116-4
+
+Les jeunes gens, dont la demande en vue de bénéficier des dispositions du présent chapitre est agréée, sont assimilés aux
+assujettis du service de défense pour l'application des dispositions des articles L. 89, L. 141 et L. 145 à L. 149.
+
+Sous réserve des règles relatives aux conditions de travail et à la discipline, fixées par décret en Conseil d'Etat, ils sont
+soumis à la réglementation interne propre à l'organisme qui les emploie.
+
+En cas de condamnation pour insoumission ou désertion, le tribunal peut prononcer, outre la peine d'emprisonnement
+applicable, le retrait de la décision d'admission de l'intéressé.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cite_:
+
+  - Code du service national - art. L141 (M)
+  - Code du service national - art. L89 (M)
+  - Code du service national L89, L141, L145 à L149
+
+
+###### Article L116-5
+
+Le service effectué par ces jeunes gens consiste, au cours des périodes d'activité, en travaux ou missions d'utilité publique
+pouvant revêtir un caractère périlleux.
+
+En temps de guerre, les intéressés sont chargés de missions de service ou de secours d'intérêt national d'une nature telle
+que soit réalisée l'égalité de tous devant le danger commun. Un décret en Conseil d'Etat fixera, dès le temps de paix, les
+missions ci-dessus.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
-  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V)
-  - Code du service national - art. L150 (V)
-  - Code du service national - art. R*16 (M)
-  - Code du service national - art. R222 (V)
-
-_Cite_:
-
-  - Code du service national - art. L2 (M)
-  - Code du service national - art. L9 (M)
+  - Code du service national - art. L87 (Ab)
+  - Code du service national - art. R*166 (Ab)
 
 
-###### Article L13
+###### Article L116-7
 
-Les jeunes gens qui sont autorisés à accomplir le service actif au-delà du 31 décembre de l'année civile au cours de laquelle
-ils ont atteint l'âge de vingt-quatre ans renoncent de ce fait au bénéfice des dispenses prévues à l'article L. 32 sauf cas
-d'une exceptionnelle gravité. Le ministre chargé de la défense nationale décide de l'attribution de la dispense.
+Les intéressés peuvent, à tout moment, par une déclaration expresse adressée au ministre chargé des armées, demander à être
+incorporés dans une formation militaire.
+
+La durée du service accompli au titre du service des objecteurs de conscience sera imputée pour la moitié sur le temps de
+service national actif imposé au contingent avec lequel ils ont été incorporés.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-596 du 9 juillet 1970 - art. 9 (Ab)
 
 _Codifié par_:
 
@@ -3870,188 +7283,95 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°73-625 1973-07-10 art. 9 JORF 11 juillet 1973
-  - Loi n°92-9 du 4 janvier 1992 - art. 11 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
-_Abrogé par_:
+**Liens**:
 
-  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V) JORF 8 novembre 1997
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+
+###### Article L116-8
+
+Les bénéficiaires des dispositions du présent chapitre ne peuvent exercer une activité politique ou syndicale qu'en dehors
+des heures de service et hors des lieux où ils sont employés ainsi qu'en dehors des enceintes et des locaux relevant de
+l'organisme qui les emploie.
+
+L'exercice du droit de grève est incompatible avec l'accomplissement de leurs obligations.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+
+###### Article L116-9
+
+En cas d'application du premier alinéa de l'article L. 76, le Gouvernement peut libérer par anticipation une fraction de
+contingent au cours des huit derniers mois du service actif.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
 
 _Cité par_:
 
-  - Loi n°97-1019 du 28 octobre 1997 - art. 3 (V)
+  - Décret n°2001-763 du 28 août 2001 - art. 1 (V)
 
 _Cite_:
 
-  - Code du service national - art. L32 (M)
+  - Code du service national - art. L76 (M)
 
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=39></a>
+### TITRE IV : Dispositions pénales et disciplinaires<a id=45></a>
 
-###### Article L9
+#### Chapitre Ier : Dispositions générales<a id=46></a>
 
-Les jeunes gens qui en font la demande peuvent être appelés soit pour occuper, pendant le temps de leur service militaire
-actif, un emploi dans les organismes d'études, de recherche ou d'enseignement dépendant du ministre de la défense, soit pour
-tenir un emploi au titre du service de l'aide technique ou du service de la coopération.
+##### Section I : Dispositions pénales<a id=47></a>
 
-La définition desdits emplois ainsi que les qualifications professionnelles requises des candidats sont fixées par décret en
-Conseil d'Etat.
-
-Les candidatures sont agréées par les ministres intéressés dans la limite des emplois à pourvoir.
-
-Un report d'incorporation peut être accordé, sur leur demande, aux jeunes gens qui justifient de la poursuite d'études en vue
-de l'obtention de diplômes correspondant aux emplois prévus ci-dessus ; la décision d'agrément des candidatures est prise,
-dans ce cas, par les ministres intéressés après avis d'une commission présidée par un conseiller d'Etat. Le report vient à
-échéance au plus tard le 31 décembre de l'année civile au cours de laquelle les jeunes gens atteignent l'âge de vingt-cinq
-ans.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-596 du 9 juillet 1970 - art. 4, v. init.
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°73-625 1973-07-10 art. 6 JORF 11 juillet 1973
-  - Loi n°92-9 du 4 janvier 1992 - art. 8 () JORF 7 janvier 1992
-
-_Cité par_:
-
-  - Décret n°91-255 du 7 mars 1991 - art. 3 (V)
-  - Arrêté du 16 décembre 1993 - art. 13 (V)
-  - Code du service national - art. L11 (M)
-  - Code du service national - art. L117 (M)
-  - Code du service national - art. L12 (Ab)
-  - Code du service national - art. L14 (V)
-  - Code du service national - art. L2 (V)
-  - Code du service national - art. L20 (M)
-  - Code du service national - art. L6 (M)
-  - Code du service national - art. R*23 (V)
-  - Code du service national - art. R*24 (M)
-  - Code du service national - art. R*25 (V)
-  - Code du service national - art. R*26 (V)
-  - Code du service national - art. R*73 (M)
-  - Code du service national - art. R*8-3 (Ab)
-  - Code du service national - art. R14 (V)
-  - Code du service national - art. R15-1 (M)
-
-
-###### Article L10
-
-Les jeunes gens qui justifient de la poursuite d'un cycle d'études en vue de l'obtention de l'un des titres requis pour
-l'exercice de la profession de médecin, de pharmacien, de vétérinaire ou de chirurgien-dentiste peuvent, sur leur demande,
-bénéficier d'un report spécial d'incorporation.
-
-Ce report d'incorporation vient à échéance au plus tard le 31 décembre de l'année civile au cours de laquelle :
-
-- les étudiants en pharmacie et en art vétérinaire atteignent l'âge de vingt-sept ans ;
-
-- les étudiants en médecine et en chirurgie dentaire atteignent l'âge de vingt-huit ans.
-
-Les jeunes gens mentionnés au présent article qui, au moment de leur incorporation, sont titulaires du titre requis sont
-affectés, dans la limite des emplois budgétaires disponibles, en qualité de médecin, vétérinaire, pharmacien ou de
-chirurgien-dentiste à l'une des formes du service national actif.
-
-Au moment de leur incorporation, ces jeunes gens sont tenus de présenter à l'autorité responsable de leur incorporation les
-diplômes et documents justifiant les qualifications dont ils sont titulaires et de fournir toutes informations relatives aux
-enseignements dont ils ont bénéficié et à la nature et au niveau de la formation qu'ils ont acquise.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-596 du 9 juillet 1970 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Cité par_:
-
-  - Arrêté du 1 décembre 1992 - art. 1 (V)
-  - Décret n°93-54 du 15 janvier 1993 - art. ANNEXE V (V)
-  - Décret n°94-23 du 11 janvier 1994 - art. annexe (V)
-  - Code du service national - art. L11 (V)
-  - Code du service national - art. L117 (V)
-  - Code du service national - art. L14 (V)
-  - Code du service national - art. L2 (V)
-  - Code du service national - art. L20 (V)
-  - Code du service national - art. L30 (Ab)
-  - Code du service national - art. L7 (V)
-  - Code du service national - art. R*73 (V)
-  - Code du service national - art. R*8-2 (V)
-  - Code du service national - art. R14 (V)
-
-_Modifié par_:
-
-  - Loi n°96-452 du 28 mai 1996 - art. 29 () JORF 29 mai 1996
-
-
-###### Article L11
-
-Les jeunes gens qui sollicitent le bénéfice d'un report d'incorporation au titre des articles L. 9 ou L. 10 doivent déposer
-leur demande avant le 1er janvier de l'année civile au cours de laquelle ils atteignent l'âge de vingt-deux ans.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-596 du 9 juillet 1970 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°73-625 1973-07-10 art. 6 JORF 11 juillet 1973
-
-_Cite_:
-
-  - Code du service national - art. L10 (M)
-  - Code du service national - art. L9 (M)
-
-
-###### Article L14
-
-Les décrets en conseil des ministres prévus par les articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959 portant
-organisation générale de la défense peuvent suspendre totalement ou partiellement l'application des dispositions du 2° de
-l'article L. 5 et des articles L. 5 bis, L. 9, L. 10 et L. 116-2.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 23 al. 10
-  - Loi n°70-596 du 9 juillet 1970 - art. 10 (Ab)
-
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-  - Code du service national - art. L10 (M)
-  - Code du service national - art. L116-2 (M)
-  - Code du service national - art. L5 (M)
-  - Code du service national - art. L5 bis (M)
-  - Code du service national - art. L9 (M)
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-
-### TITRE IV : Dispositions pénales et disciplinaires<a id=40></a>
-
-#### Chapitre Ier : Dispositions générales<a id=41></a>
-
-##### Section I : Dispositions pénales<a id=42></a>
-
-##### Paragraphe 1er : Fraudes.<a id=43></a>
+##### Paragraphe 1er : Fraudes.<a id=48></a>
 
 ###### Article L117
 
@@ -4062,39 +7382,53 @@ Sont punis de la même peine :
 
 1° Les jeunes gens qui se rendent coupables d'un refus concerté de participer aux opérations prévues à l'article L. 23 ;
 
-2° Les jeunes gens qui, par fraude ou manoeuvres, se font dispenser, exempter ou réformer d'une manière définitive ou
-obtiennent ou tentent d'obtenir l'application des articles L. 5 bis, L. 9 et L. 10, sans préjudice de peines plus graves en
-cas de faux.
+2° Les jeunes gens qui, par fraudes ou manoeuvres, se font dispenser, exempter ou réformer d'une manière définitive ou
+obtiennent ou tentent d'obtenir l'application des articles L. 5 bis et L. 10, sans préjudice de peines plus graves en cas de
+faux.
 
-Les jeunes gens exemptés sont considérés d'office comme aptes au service national dès qu'il est reconnu que leur exemption a
+Les jeunes gens exemptés sont considérés d'office comme aptes au service national, dès qu'il est reconnu que leur exemption a
 été frauduleusement obtenue.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-_Cite_:
-
-  - Code du service national - art. L10 (M)
-  - Code du service national - art. L23 (M)
-  - Code du service national - art. L5 bis (M)
-  - Code du service national - art. L9 (M)
 
 _Anciens textes_:
 
   - Loi n°1928-03-31 art. 86
   - Loi n°1932-12-13 art. 95
   - Ordonnance 60-257 1960-03-25 art. 6
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 et 3 JORF 8 novembre 1997
+
+_Cite_:
+
+  - Code du service national - art. L10 (M)
+  - Code du service national - art. L23 (M)
+  - Code du service national - art. L5 bis (M)
 
 
 ###### Article L118
@@ -4103,18 +7437,21 @@ Les dispositions des articles 418, 419 et 420 du code de justice militaire sont 
 service national convaincu de s'être rendu impropre au service, soit temporairement, soit d'une manière permanente, dans le
 but de se soustraire aux obligations imposées par le présent code.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de justice militaire - art. 418 (M)
-  - Code de justice militaire - art. 419 (M)
-  - Code de justice militaire - art. 420 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 87
-  - Loi n°1932-12-13 art. 96
 
 _Codifié par_:
 
@@ -4126,6 +7463,25 @@ _Cité par_:
   - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
   - Loi n°95-884 du 3 août 1995 - art. 3 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Cite_:
+
+  - Code de justice militaire - art. 418 (M)
+  - Code de justice militaire - art. 419 (M)
+  - Code de justice militaire - art. 420 (Ab)
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 87
+  - Loi n°1932-12-13 art. 96
 
 
 ###### Article L119
@@ -4143,19 +7499,34 @@ justement prononcées.
 
 Ceux qui ont fait les dons ou promesses sont punis de la même peine.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 230 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 _Cite_:
 
@@ -4177,30 +7548,13 @@ _Anciens textes_:
 ###### Article L120
 
 Tout fonctionnaire ou officier public, civil ou militaire qui, sous quelque prétexte que ce soit, a autorisé ou admis des
-dispenses, exclusions, exemptions, réformes définitives autres que celles déterminées par le présent code ou qui a
-arbitrairement donné une extension ou consenti une réduction soit à la durée, soit aux règles ou conditions des appels et
+dispenses, exclusions, exemptions, réformes définitives autres que celles déterminées par le présent code, ou qui a
+arbitrairement donné une extension ou consenti une réduction, soit à la durée, soit aux règles ou conditions des appels et
 rappels à l'activité et des engagements est coupable d'abus d'autorité et puni de six mois d'emprisonnement ou de 50 000 F
-d'amende [* taux *] sans préjudice des peines plus graves prévues, notamment dans les articles 432-11 du code pénal et 389 du
-code de justice militaire quand il s'agit de militaires.
+d'amende, [* taux *] sans préjudice des peines plus graves prévues, notamment dans les articles 432-11 du code pénal et 389
+du code de justice militaire quand il s'agit de militaires.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 89 et art. 89 bis
-  - Loi n°1932-12-13 art. 98
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 231 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
 
 _Cite_:
 
@@ -4211,12 +7565,56 @@ _Cité par_:
 
   - Code du service national - art. L121 (V)
 
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 89 et art. 89 bis
+  - Loi n°1932-12-13 art. 98
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
 
 ###### Article L121
 
 Les peines édictées par les articles L. 119 et L. 120 sont applicables aux tentatives de délits prévus par ces articles.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -4227,17 +7625,27 @@ _Anciens textes_:
 
   - Loi n°1928-03-31 art. 95
 
-_Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-
-##### Paragraphe 2 : Insoumission.<a id=44></a>
+##### Paragraphe 2 : Insoumission.<a id=49></a>
 
 ###### Article L122
 
 Un ordre de route est émis à l'encontre de tout assujetti aux obligations du service national, appelé ou rappelé à
 l'activité, en vertu de la loi, par voie d'affiches ou par ordres d'appel individuels, qui n'a pas répondu à la convocation.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -4250,6 +7658,14 @@ _Cité par_:
   - Loi n°88-828 du 20 juillet 1988 - art. 4 (V)
   - Loi n°95-884 du 3 août 1995 - art. 4 (V)
   - Code du service national - art. R*201-19 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L123
@@ -4272,16 +7688,33 @@ son dernier domicile connu ou au consul de sa dernière résidence connue.
 En ce qui concerne les marins de la marine marchande embarqués sur un navire français, la notification est faite au
 capitaine.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 48 al.3 et art. 90 al. 3
-  - Loi n°1932-12-13 art. 72, art. 73, art. 74 et art. 100
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -4290,6 +7723,11 @@ _Cité par_:
   - Code du service national - art. R*50-4 (V)
   - Code du service national - art. R*53 (MMN)
 
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 48 al.3 et art. 90 al. 3
+  - Loi n°1932-12-13 art. 72, art. 73, art. 74 et art. 100
+
 
 ###### Article L124
 
@@ -4297,13 +7735,33 @@ Tout assujetti au service national appelé ou rappelé au service à qui un ordr
 force majeure, n'est pas arrivé à sa destination au jour fixé par cet ordre est, après les délais fixés aux articles L. 125
 et L. 126, considéré comme insoumis et passible des peines prévues par l'article 397 du code de justice militaire.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de justice militaire - art. 397 (M)
+  - Code du service national - art. L125 (M)
+  - Code du service national - art. L126 (M)
 
 _Anciens textes_:
 
-  - Loi n°62-861 1962-07-28 art. 8 al. 1
   - Loi n°1928-03-31 art. 90 al. 1 et art. 92 al. 2 et al. 3
   - Loi n°1932-12-13 art. 99 al. 1 et art. 101 al. 2 et al. 3
+  - Loi n°62-861 1962-07-28 art. 8 al. 1
 
 _Codifié par_:
 
@@ -4315,11 +7773,13 @@ _Cité par_:
   - Loi n°95-884 du 3 août 1995 - art. 4 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de justice militaire - art. 397 (M)
-  - Code du service national - art. L125 (M)
-  - Code du service national - art. L126 (M)
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L125
@@ -4329,6 +7789,20 @@ En temps de paix, le délai d'insoumission est fixé à huit jours.
 Ce délai est porté à quinze jours lorsque la notification est faite au maire ou au consul et lorsque l'intéressé demeure dans
 un pays dans lequel la résidence permanente ouvre droit à la dispense prévue au premier alinéa de l'article L. 37. Il est
 porté à trente jours à l'égard des marins de la marine marchande embarqués sur un navire français.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -4344,6 +7818,14 @@ _Cité par_:
   - Code du service national - art. L126 (V)
   - Code du service national - art. L136 (V)
   - Code du service national - art. R*201-19 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -4364,7 +7846,26 @@ En cas de mobilisation, les assujettis qui, hors le cas de force majeure, ne se 
 l'ordre de route contenu dans leur titre de mobilisation pour assurer leur arrivée à destination, sont déclarés insoumis à
 l'expiration du même délai.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1928-03-31 art. 90 al. 5 et art. 92 al. 4
+  - Loi n°1932-12-13 art. 75 al. 2, art. 99 al. 1 et art. 101 al. 3
 
 _Cite_:
 
@@ -4376,16 +7877,19 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cité par_:
 
   - Code du service national - art. L124 (V)
   - Code du service national - art. L136 (V)
   - Code du service national - art. R*201-19 (V)
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 90 al. 5 et art. 92 al. 4
-  - Loi n°1932-12-13 art. 75 al. 2, art. 99 al. 1 et art. 101 al. 3
 
 
 ###### Article L127
@@ -4395,28 +7899,50 @@ articles 94, 181 et 375 du code de justice militaire. Sauf en temps de guerre et
 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959, les insoumis qui sont découverts ou qui font leur soumission cessent d'être
 astreints à l'accomplissement du service national actif dès qu'ils ont atteint l'âge de trente-cinq ans.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de justice militaire - art. 181 (Ab)
+  - Code de justice militaire - art. 375 (Ab)
+  - Code de justice militaire - art. 94 (Ab)
+  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
+  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
+
+_Cité par_:
+
+  - Code du service national - art. L59 (V)
 
 _Anciens textes_:
 
   - Loi n°1928-03-31 art. 90 al. 7
   - Loi n°1932-12-13 art. 99 al. 1
 
-_Cite_:
-
-  - Ordonnance 59-147 1959-01-07 art. 2, art. 6
-  - Ordonnance n°59-147 du 7 janvier 1959 - art. 6 (Ab)
-  - Code de justice militaire - art. 181 (Ab)
-  - Code de justice militaire - art. 375 (Ab)
-  - Code de justice militaire - art. 94 (Ab)
-
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Cité par_:
+_Modifié par_:
 
-  - Code du service national - art. L59 (V)
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L128
@@ -4453,13 +7979,14 @@ _Cité par_:
   - Code du service national - art. L130 (V)
   - Code du service national - art. L131 (V)
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 232 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 
 ###### Article L129
@@ -4490,13 +8017,14 @@ _Cité par_:
   - Code du service national - art. L130 (V)
   - Code du service national - art. L131 (V)
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 
 ###### Article L130
@@ -4505,7 +8033,33 @@ Si l'un des délits prévus aux articles L. 128 et L. 129 a été commis à l'ai
 fonctionnaire public, employé ou agent de l'État, des départements ou des communes, les peines peuvent être portées au
 double. Le coupable est de plus interdit de toute fonction ou emploi public pendant cinq ans au moins et dix ans au plus.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -4521,22 +8075,27 @@ _Anciens textes_:
   - Loi n°1928-03-31 art. 91 al. 3
   - Loi n°1932-12-13 art. 104 al. 3
 
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
 
 ###### Article L131
 
 Les peines édictées par les articles L. 128, L. 129 et L. 130 sont applicables aux tentatives de délits prévus par ces
 articles.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1928-03-31 art. 95
-  - Loi n°1932-12-13 art. 107
 
 _Codifié par_:
 
@@ -4549,24 +8108,43 @@ _Cité par_:
   - Loi n°95-884 du 3 août 1995 - art. 3 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code du service national - art. L128 (M)
   - Code du service national - art. L129 (M)
   - Code du service national - art. L130 (M)
 
+_Anciens textes_:
 
-##### Paragraphe 4 : Infractions aux obligations dans la réserve.<a id=45></a>
+  - Loi n°1928-03-31 art. 95
+  - Loi n°1932-12-13 art. 107
+
+
+##### Paragraphe 4 : Infractions aux obligations dans la réserve.<a id=50></a>
 
 ###### Article L133
 
 Tout assujetti au service national qui a refusé ou s'est mis dans l'impossibilité de recevoir sa carte du service national,
 son livret individuel, son titre ou tout autre document d'appel ou qui a détruit volontairement ces pièces après les avoir
 reçues ou qui a renvoyé ou s'est mis volontairement dans l'impossibilité de présenter ces pièces est puni d'un an
-d'emprisonnement et de 25000 F d'amende [* taux *] ou de l'une de ces deux peines seulement et peut en outre être interdit
+d'emprisonnement et de 25000 F d'amende [* taux *] ou de l'une de ces deux peines seulement et peut, en outre, être interdit
 pendant cinq ans au plus des droits énumérés à l'article 131-26 du code pénal.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code du service national - art. L134 (V)
+  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
+  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
 
 _Anciens textes_:
 
@@ -4577,19 +8155,14 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Cité par_:
-
-  - Loi n°81-736 du 4 août 1981 - art. 5 (V)
-  - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
-  - Code du service national - art. L134 (V)
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 _Cite_:
 
@@ -4619,20 +8192,21 @@ _Cité par_:
   - Loi n°95-884 du 3 août 1995 - art. 3 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
 
 _Cite_:
 
   - Code du service national - art. L133 (M)
 
 
-##### Section II : Dispositions disciplinaires et administratives.<a id=46></a>
+##### Section II : Dispositions disciplinaires et administratives.<a id=51></a>
 
 ###### Article L135
 
@@ -4652,11 +8226,33 @@ Tout assujetti dont les services ont ainsi été interrompus est tenu de remplir
 la peine. Toutefois, quelles que soient les déductions de service ainsi opérées, l'assujetti qui en est l'objet est dégagé
 des obligations du service national en même temps que la classe à laquelle il appartient.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -4687,6 +8283,20 @@ convoqué.
 En aucun cas, le retard imputable aux intéressés ne compte dans le temps de service national exigé d'eux. Il en est de même
 du temps pendant lequel ils ont été insoumis.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -4698,13 +8308,21 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code du service national - art. L125 (M)
   - Code du service national - art. L126 (M)
 
 
-#### Chapitre II : Dispositions particulières au service militaire.<a id=47></a>
+#### Chapitre II : Dispositions particulières au service militaire.<a id=52></a>
 
 ###### Article L137
 
@@ -4721,12 +8339,38 @@ d'affectation, peuvent être contraints de rejoindre leur poste par les officier
 A cet effet, ils sont mis en route dans les plus brefs délais et au maximum dans les quarante-huit heures aux fins de
 présentation à l'autorité militaire compétente pour régulariser leur situation.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
 
 _Cité par_:
 
   - Décret n°78-729 du 28 juin 1978 - art. 4 (V)
   - Code du service national - art. L135 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -4738,17 +8382,8 @@ _Anciens textes_:
   - Loi n°1928-03-31 art. 46
   - Loi n°1932-12-13 art. 55 al. 1 et al. 2
 
-_Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°72-662 du 13 juillet 1972 - art. 110 () JORF 14 juillet 1972
-  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
-
-
-#### Chapitre III : Dispositions particulières au service de défense.<a id=48></a>
+#### Chapitre III : Dispositions particulières au service de défense.<a id=53></a>
 
 ###### Article L138
 
@@ -4767,7 +8402,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 41 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 _Cite_:
 
@@ -4796,6 +8439,18 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
+
 _Cite_:
 
   - Code de procédure pénale 697 à 698-8
@@ -4816,15 +8471,15 @@ d'un agent de police judiciaire.
 L'infraction doit être immédiatement signalée à la brigade de gendarmerie ou à l'autorité de police territorialement
 compétente par :
 
-a) Le commandant de la formation si l'intéressé appartient à un corps de défense ;
+a) le commandant de la formation si l'intéressé appartient à un corps de défense ;
 
-b) Le directeur de l'administration ou le chef d'établissement si l'intéressé travaille dans une administration ou un
+b) le directeur de l'administration ou le chef d'établissement si l'intéressé travaille dans une administration ou un
 établissement de l'Etat ou une collectivité publique ;
 
-c) Le chef de l'établissement ou de l'entreprise si l'intéressé travaille dans un établissement ou une entreprise autre que
+c) le chef de l'établissement ou de l'entreprise si l'intéressé travaille dans un établissement ou une entreprise autre que
 ceux visés au paragraphe b ci-dessus ;
 
-d) L'autorité administrative de tutelle si l'intéressé travaille isolément.
+d) l'autorité administrative de tutelle si l'intéressé travaille isolément.
 
 Le ministre chargé des armées est tenu informé par chaque ministre responsable des infractions commises par les personnes
 servant sous statut de défense ainsi que de la suite donnée aux poursuites engagées contre ces personnes.
@@ -4847,6 +8502,18 @@ _Cité par_:
   - Code du service national - art. R227-8 (V)
   - Code du service national - art. R90 (Ab)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
+
 _Cite_:
 
   - Code de justice militaire L397 à L476
@@ -4860,7 +8527,7 @@ délivré :
 
 a) S'il s'agit d'un individu servant sous statut de défense affecté à une administration rattachée à l'une des trois armées
 ou à un établissement travaillant au profit de l'une d'entre elles, par l'autorité militaire de cette armée exerçant les
-pouvoirs judiciaires sur le territoire où se trouve l'administration ou l'établissement ;
+pouvoirs judiciaires sur le territoire où se trouve l'administration ou l'établissement.
 
 b) Dans les autres cas, par l'autorité militaire de l'armée de terre exerçant les pouvoirs judiciaires sur le lieu de
 l'affectation.
@@ -4875,6 +8542,18 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
+
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 699-1 (M)
@@ -4884,7 +8563,7 @@ _Cite_:
 ###### Article L143
 
 Lorsqu'un individu servant sous statut de défense, poursuivi pour un crime ou un délit de la compétence de juridictions
-militaires, a des co-auteurs ou complices non justiciables de ces juridictions, la compétence est déterminée selon les règles
+militaires, a des coauteurs ou complices non justiciables de ces juridictions, la compétence est déterminée selon les règles
 établies par le code de justice militaire, l'intéressé étant considéré comme militaire pour leur application.
 
 **Liens relatifs à cet article**
@@ -4896,6 +8575,18 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 
 ###### Article L144
@@ -4921,7 +8612,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
 
 _Cité par_:
 
@@ -4948,6 +8647,18 @@ _Cité par_:
 
   - Loi n°81-736 du 4 août 1981 - art. 5 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
+
 _Cite_:
 
   - Code du service national L146 à L149
@@ -4955,8 +8666,8 @@ _Cite_:
 
 ###### Article L146
 
-Est insoumis et passible de peines prévues à l'article 397 du code de justice militaire ainsi que du séquestre ou de la
-confiscation des biens dans les conditions prévues au chapitre II du titre V du livre II dudit code, tout individu titulaire
+Est insoumis et passible des peines prévues à l'article 397 du code de justice militaire ainsi que du séquestre ou de la
+confiscation des biens dans les conditions prévues au chapitre II du titre VI du livre II dudit code, tout individu titulaire
 d'une affectation individuelle ou dûment avisé d'une affectation collective de défense le concernant qui, appelé au titre de
 l'article L. 94, ne se présente pas, hors le cas de force majeure, à la destination fixée, dans un délai de deux jours à
 compter de la date de publication du décret mettant en vigueur les mesures prévues aux articles 2 et 6 de l'ordonnance n°
@@ -4986,12 +8697,24 @@ _Cité par_:
   - Loi n°95-884 du 3 août 1995 - art. 4 (V)
   - Code du service national - art. R90 (Ab)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
+
 
 ###### Article L147
 
 Est déserteur à l'expiration des délais de grâce prévus aux articles 398 à 413 du code de justice militaire et passible des
-peines que ces articles édictent ainsi que du séquestre ou de la confiscation des biens dans les conditions prévues au
-chapitre II du titre V du livre II dudit code :
+peines que ces articles édictent, ainsi que du séquestre ou de la confiscation des biens dans les conditions prévues au
+chapitre II du titre VI du livre II dudit code :
 
 a) Tout individu qui, déjà incorporé au titre militaire, reçoit une affectation de défense et ne rejoint pas la destination
 qui lui est donnée à ce titre ;
@@ -5024,6 +8747,18 @@ _Cité par_:
   - Loi n°88-828 du 20 juillet 1988 - art. 4 (V)
   - Loi n°95-884 du 3 août 1995 - art. 4 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
+
 _Cite_:
 
   - Code de justice militaire 398 à 413
@@ -5051,6 +8786,18 @@ _Cité par_:
   - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
   - Loi n°95-884 du 3 août 1995 - art. 3 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
+
 _Cite_:
 
   - Code de justice militaire - art. 468 (M)
@@ -5058,7 +8805,7 @@ _Cite_:
 
 ###### Article L149
 
-Est passible des peines prévues aux articles 447 et 448 du code de justice militaire l'individu servant sous statut de
+Est passible des peines prévues aux articles 447 et 448 du code de justice militaire, l'individu servant sous statut de
 défense qui refuse d'obéir ou qui, hors le cas de force majeure, n'exécute pas l'ordre reçu de ceux qui ont qualité pour le
 donner.
 
@@ -5079,13 +8826,25 @@ _Cité par_:
   - Loi n°95-884 du 3 août 1995 - art. 5 (V)
   - Code du service national - art. R90 (Ab)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
+_Abrogé par_:
+
+  - Loi n°99-894 du 22 octobre 1999 - art. 54 (Ab) JORF 23 octobre 1999
+
 _Cite_:
 
   - Code de justice militaire - art. 447 (M)
   - Code de justice militaire - art. 448 (Ab)
 
 
-#### Chapitre III bis : Dispositions particulières au service dans la police nationale.<a id=49></a>
+#### Chapitre III bis : Dispositions particulières au service dans la police nationale.<a id=54></a>
 
 ###### Article L149-1
 
@@ -5101,15 +8860,33 @@ l'autorité ayant reçu délégation, après que l'intéressé eut été mis à 
 La majoration du temps de service est considérée comme une prolongation du service actif mais n'est pas prise en compte au
 titre des articles L. 63 et L. 64.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -5142,15 +8919,33 @@ pouvoirs judiciaires sur le lieu de l'affectation. Le ministre de l'intérieur t
 procès-verbaux, pièces, documents et objets concernant les faits reprochés ainsi que son avis sur l'opportunité des
 poursuites.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -5172,15 +8967,33 @@ compétent.
 Le ministre chargé des armées est tenu informé par le ministre de l'intérieur des infractions commises par ces jeunes gens
 ainsi que de la suite donnée aux poursuites engagées contre ces personnes.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -5194,9 +9007,23 @@ _Cité par_:
 
 ###### Article L149-4
 
-Lorsqu'un policier auxiliaire, poursuivi pour un crime ou un délit de la compétence des juridictions militaires, a des co-
-auteurs ou complices non justiciables de ces juridictions, la compétence est déterminée selon les règles établies par le code
-de justice militaire, l'intéressé étant considéré comme militaire pour leur application.
+Lorsqu'un policier auxiliaire, poursuivi pour un crime ou un délit de la compétence des juridictions militaires, a des
+coauteurs ou complices non justiciables de ces juridictions, la compétence est déterminée selon les règles établies par le
+code de justice militaire, l'intéressé étant considéré comme militaire pour leur application.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5204,9 +9031,13 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L149-5
@@ -5220,15 +9051,33 @@ Le juge choisi par l'autorité militaire exerçant les pouvoirs judiciaires siè
 en grade. Il doit détenir le grade de sous-brigadier auxiliaire de 1re classe de la police nationale. A égalité de grade avec
 le prévenu, il doit être d'une ancienneté supérieure.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
 ###### Article L149-6
@@ -5237,15 +9086,33 @@ Les dispositions du code de justice militaire qui répriment les faits de déser
 d'obéissance, tels qu'ils sont définis aux articles L. 149-7 à L. 149-10 ci-après, sont applicables aux policiers
 auxiliaires.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -5269,21 +9136,39 @@ quinze jours suivant celui fixé pour son arrivée.
 Toutefois, le policier auxiliaire qui n'a pas trois mois de service ne peut être considéré comme déserteur qu'après un mois
 d'absence.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
-
 _Cité par_:
 
   - Loi n°88-828 du 20 juillet 1988 - art. 4 (V)
   - Loi n°95-884 du 3 août 1995 - art. 4 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -5295,21 +9180,39 @@ _Cite_:
 Est coupable d'abandon de poste et passible des peines prévues à l'article 468 du code de justice militaire tout policier
 auxiliaire qui s'absente de son poste sans autorisation.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
-
 _Cité par_:
 
   - Loi n°88-828 du 20 juillet 1988 - art. 3 (V)
   - Loi n°95-884 du 3 août 1995 - art. 3 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -5322,21 +9225,39 @@ Est passible des peines prévues aux articles 447 et 448 du code de justice mili
 d'obéir ou qui n'exécute pas l'ordre reçu de ceux qui ont qualité pour le donner, sauf dans le cas où l'ordre est
 manifestement illégal et de nature à compromettre gravement un intérêt public.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
-
 _Cité par_:
 
   - Loi n°88-828 du 20 juillet 1988 - art. 5 (V)
   - Loi n°95-884 du 3 août 1995 - art. 5 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -5349,15 +9270,33 @@ _Cite_:
 Les dispositions des articles 94, 181 et 375 du code de justice militaire relatives aux modes d'extinction de l'action
 publique et à la prescription des peines sont applicables aux policiers auxiliaires.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-512 1987-07-10 art. 3 JORF 11 juillet 1987
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -5366,11 +9305,25 @@ _Cite_:
   - Code de justice militaire - art. 94 (Ab)
 
 
-#### Chapitre III ter : Dispositions particulières au service de sécurité civile.<a id=50></a>
+#### Chapitre III ter : Dispositions particulières au service de sécurité civile.<a id=55></a>
 
 ###### Article L149-11
 
 Les dispositions des articles L. 149-1 à L. 149-10 s'appliquent aux jeunes gens qui effectuent le service de sécurité civile.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5378,16 +9331,20 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 42 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
   - Code du service national L149-1 à L149-10
 
 
-#### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.<a id=51></a>
+#### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.<a id=56></a>
 
 ###### Article L150
 
@@ -5400,6 +9357,20 @@ sanction prévue par l'article L. 151 ci-dessous.
 
 Le volontaire ainsi rappelé en métropole est tenu d'achever, dans une formation militaire ou autre, les seize mois de service
 actif prévus par l'article L. 12 pour le service de l'aide technique ou le service de la coopération.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5414,7 +9385,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-9 du 4 janvier 1992 - art. 43 () JORF 7 janvier 1992
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -5436,6 +9411,20 @@ Dans tous les cas, la radiation d'office s'accompagne du rappel en métropole et
 pouvant aller jusqu'à trois mois ; elle est prononcée par le ministre responsable du service après que l'intéressé eut été
 mis à même de présenter ses observations.
 
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -5449,7 +9438,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cité par_:
 
@@ -5468,9 +9461,23 @@ des forces armées, selon la procédure prévue au code de justice militaire, po
 mission difinis par les articles L. 156 à L. 159.
 
 En outre, et sous réserve des engagements internationaux, les jeunes gens affectés au service de la coopération sont
-justiciables des mêmes juridictions et selon la même procédure pour les infractions de toute nature prévues et réprimées par
-la loi pénale française, commises hors du territoire de la République, soit à l'intérieur d'un établissement militaire
+justiciables des mêmes juridictions et selon la même procédure pour les infractions de toute nature, prévues et réprimées par
+la loi pénale française, commises, hors du territoire de la République, soit à l'intérieur d'un établissement militaire
 français, soit dans l'exécution de leur service.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5489,6 +9496,14 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L632-1 (Ab)
   - Code du service national - art. L154 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code du service national L156 à L159
@@ -5502,9 +9517,23 @@ judiciaire, dans les conditions prévues par les articles 697 à 698-8 du code d
 Le ministre responsable transmet à cette autorité les rapports, procès-verbaux, pièces, documents et objets concernant les
 faits reprochés ainsi que son avis sur l'opportunité des poursuites.
 
-Le ministre chargé des armées est tenu informé, par les ministres responsables, des infractions commises par les jeunes gens
+Le ministre chargé des armées est tenu informé par les ministres responsables des infractions commises par les jeunes gens
 affectés au service de l'aide technique ou au service de la coopération ainsi que de la suite donnée aux poursuites engagées
 contres ces jeunes gens.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5523,7 +9552,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°83-605 1983-07-08 art. 1 JORF 9 juillet 1983
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 _Cite_:
 
@@ -5535,6 +9568,20 @@ _Cite_:
 
 Les tribunaux des forces armées appelés à juger des jeunes gens affectés au service de l'aide technique ou au service de la
 coopération ont la composition prévue au code de justice militaire pour le jugement des hommes du rang.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5551,6 +9598,14 @@ _Cité par_:
 
   - Loi n°81-736 du 4 août 1981 - art. 5 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 
 ###### Article L156
 
@@ -5562,7 +9617,7 @@ coopération qui s'absente sans autorisation du poste où il doit accomplir sa m
 
 b) Tout individu affecté au service de l'aide technique ou au service de la coopération, dont la mission, le congé ou la
 permission est expiré et qui, dans les quinze jours suivant celui fixé pour son arrivée ou son retour, ne s'est pas présenté
-à son poste.
+à son poste ;
 
 c) Tout individu affecté au service de l'aide technique ou au service de la coopération qui, recevant un ordre de mutation
 dans le service, ne rejoint pas son nouveau poste dans les quinze jours suivant celui fixé pour son arrivée.
@@ -5570,6 +9625,20 @@ dans le service, ne rejoint pas son nouveau poste dans les quinze jours suivant 
 En temps de guerre, l'individu affecté au service de l'aide technique ou au service de la coopération, en activité de
 service, coupable de désertion, est passible des peines prévues au deuxième alinéa de l'article 399 et à l'article 413 du
 code de justice militaire.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5589,6 +9658,14 @@ _Cité par_:
   - Loi n°95-884 du 3 août 1995 - art. 4 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code de justice militaire - art. 399 (M)
@@ -5599,6 +9676,20 @@ _Cite_:
 
 Les dispositions des articles 94, 181, 307 à 318 et 375 du code de justice militaire sont applicables en matière de désertion
 à l'encontre des jeunes gens affectés au service de l'aide technique ou au service de la coopération.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5615,6 +9706,14 @@ _Cité par_:
 
   - Loi n°81-736 du 4 août 1981 - art. 5 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code de justice militaire - art. 181 (Ab)
@@ -5627,6 +9726,20 @@ _Cite_:
 
 Les dispositions des articles 414 et 415 du code de justice militaire sont applicables lorsque sont en cause des jeunes gens
 affectés au service de l'aide technique ou au service de la coopération.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5643,6 +9756,14 @@ _Cité par_:
 
   - Loi n°81-736 du 4 août 1981 - art. 5 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code de justice militaire - art. 414 (M)
@@ -5655,6 +9776,20 @@ Est coupable de non-exécution de mission du service de l'aide technique ou du s
 peines du premier alinéa de l'article 465 du code de justice militaire tout jeune homme affecté à l'un de ces services qui,
 hors le cas de force majeure, n'obtempère pas à une injonction, faite par l'autorité française qualifiée, d'accomplir la
 mission générale ou particulière qui lui est confiée dans le service.
+
+**Nota:**
+
+Loi n° 97-1019 du 28 octobre 1997 art. 2 : 
+
+Les articles L. 1er à L. 159 du code du service national constituent le livre II du code du service national. Ses
+dispositions sont suspendues pour les jeunes gens nés après le 31 décembre 1978. 
+
+Jusqu'au 1er janvier 2003, le livre II du code du service national s'applique aux Français, aux étrangers sans nationalité et
+aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de
+recensement. 
+
+Les jeunes gens nés avant le 1er janvier 1979 et rattachés aux fractions de contingent postérieures au 31 juillet 2001 sont
+considérés comme dispensés de leurs obligations du service national.
 
 **Liens relatifs à cet article**
 
@@ -5673,20 +9808,28 @@ _Cité par_:
   - Loi n°95-884 du 3 août 1995 - art. 5 (V)
   - Loi n°2002-1062 du 6 août 2002 - art. 2 (V)
 
+_Modifié par_:
+
+  - Loi n°97-1019 1997-10-28 art. 2 JORF 8 novembre 1997
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
+
 _Cite_:
 
   - Code de justice militaire - art. 465 (M)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=52></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=57></a>
 
-## TITRE I : Définition et principes du service national<a id=53></a>
+## TITRE I : Définition et principes du service national<a id=58></a>
 
-### CHAPITRE I : Dispositions générales<a id=54></a>
+### CHAPITRE I : Dispositions générales<a id=59></a>
 
-#### SECTION I : Appel avancé et report d'incorporation<a id=55></a>
+#### SECTION I : Appel avancé et report d'incorporation<a id=60></a>
 
-##### PARAGRAPHE 1 : Appel avancé.<a id=56></a>
+##### PARAGRAPHE 1 : Appel avancé.<a id=61></a>
 
 ###### Article R*1
 
@@ -5797,7 +9940,7 @@ _Cite_:
   - Code du service national - art. R2 (M)
 
 
-##### PARAGRAPHE 2 : Report d'incorporation.<a id=57></a>
+##### PARAGRAPHE 2 : Report d'incorporation.<a id=62></a>
 
 ###### Article R*5
 
@@ -6213,7 +10356,7 @@ _Cite_:
   - Code du service national - art. L5 bis (M)
 
 
-##### PARAGRAPHE 3 : Dispositions communes.<a id=58></a>
+##### PARAGRAPHE 3 : Dispositions communes.<a id=63></a>
 
 ###### Article R*11
 
@@ -6273,7 +10416,7 @@ _Cite_:
   - Code du service national R1, R7, R10
 
 
-#### SECTION II : Composition et appel du contingent.<a id=59></a>
+#### SECTION II : Composition et appel du contingent.<a id=64></a>
 
 ###### Article R*15
 
@@ -6735,7 +10878,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Dispositions particulières a certains emplois du service national.<a id=60></a>
+### CHAPITRE II : Dispositions particulières a certains emplois du service national.<a id=65></a>
 
 ###### Article R*23
 
@@ -7001,11 +11144,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-## TITRE II : Dispositions communes aux différentes formes du service national<a id=61></a>
+## TITRE II : Dispositions communes aux différentes formes du service national<a id=66></a>
 
-### CHAPITRE I : Recensement  - sélection<a id=62></a>
+### CHAPITRE I : Recensement  - sélection<a id=67></a>
 
-#### SECTION I : Recensement.<a id=63></a>
+#### SECTION I : Recensement.<a id=68></a>
 
 ###### Article R*28
 
@@ -7416,9 +11559,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Sélection.<a id=64></a>
+#### SECTION II : Sélection.<a id=69></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=65></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=70></a>
 
 ###### Article R*40
 
@@ -7537,7 +11680,7 @@ _Cite_:
   - Code du service national L5, R34
 
 
-##### PARAGRAPHE 2 : Droits résultant des opérations de sélection.<a id=66></a>
+##### PARAGRAPHE 2 : Droits résultant des opérations de sélection.<a id=71></a>
 
 ###### Article R*43
 
@@ -7632,7 +11775,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L321-1 (M)
 
 
-##### PARAGRAPHE 3 : Sélection.<a id=67></a>
+##### PARAGRAPHE 3 : Sélection.<a id=72></a>
 
 ###### Article R*44
 
@@ -7695,7 +11838,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Règles de discipline.<a id=68></a>
+##### PARAGRAPHE 4 : Règles de discipline.<a id=73></a>
 
 ###### Article R*45
 
@@ -7830,7 +11973,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Responsabilité de l'Etat.<a id=69></a>
+##### PARAGRAPHE 5 : Responsabilité de l'Etat.<a id=74></a>
 
 ###### Article R*46
 
@@ -7870,7 +12013,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=70></a>
+##### PARAGRAPHE 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=75></a>
 
 ###### Article R*47
 
@@ -7945,7 +12088,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 7 : Marins de la marine marchande.<a id=71></a>
+##### PARAGRAPHE 7 : Marins de la marine marchande.<a id=76></a>
 
 ###### Article R*48
 
@@ -7971,7 +12114,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 8 : Jeunes gens handicapés ou détenus.<a id=72></a>
+##### PARAGRAPHE 8 : Jeunes gens handicapés ou détenus.<a id=77></a>
 
 ###### Article R*49
 
@@ -8027,7 +12170,7 @@ _Cite_:
   - Code du service national - art. L23 (M)
 
 
-##### PARAGRAPHE 9 : Commission locale d'aptitude.<a id=73></a>
+##### PARAGRAPHE 9 : Commission locale d'aptitude.<a id=78></a>
 
 ###### Article R*50
 
@@ -8235,11 +12378,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=74></a>
+### CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=79></a>
 
-#### SECTION I : Dispenses<a id=75></a>
+#### SECTION I : Dispenses<a id=80></a>
 
-##### PARAGRAPHE 1 : Soutiens de famille.<a id=76></a>
+##### PARAGRAPHE 1 : Soutiens de famille.<a id=81></a>
 
 ###### Article R*55
 
@@ -8696,7 +12839,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise.<a id=77></a>
+##### PARAGRAPHE 2 : Exploitations familiales et chefs d'entreprise.<a id=82></a>
 
 ###### Article R*68-1
 
@@ -8843,7 +12986,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### PARAGRAPHE 3 : Résidence à l'étranger.<a id=78></a>
+##### PARAGRAPHE 3 : Résidence à l'étranger.<a id=83></a>
 
 ###### Article R*69
 
@@ -9127,7 +13270,7 @@ _Cite_:
   - Code du service national R69 à R76
 
 
-#### SECTION III : Condamnés.<a id=79></a>
+#### SECTION III : Condamnés.<a id=84></a>
 
 ###### Article R*98
 
@@ -9246,7 +13389,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-### CHAPITRE III : Réforme pour inaptitude physique.<a id=80></a>
+### CHAPITRE III : Réforme pour inaptitude physique.<a id=85></a>
 
 ###### Article R101
 
@@ -9413,7 +13556,7 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
-### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.<a id=81></a>
+### CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.<a id=86></a>
 
 ###### Article R*105
 
@@ -9579,13 +13722,13 @@ _Cite_:
   - Code du service national R108
 
 
-## TITRE III : Dispositions particulières aux différentes formes du service national<a id=82></a>
+## TITRE III : Dispositions particulières aux différentes formes du service national<a id=87></a>
 
-### CHAPITRE I : Service militaire<a id=83></a>
+### CHAPITRE I : Service militaire<a id=88></a>
 
-#### SECTION I : Service militaire actif<a id=84></a>
+#### SECTION I : Service militaire actif<a id=89></a>
 
-##### PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=85></a>
+##### PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=90></a>
 
 ###### Article R110
 
@@ -9966,7 +14109,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Gendarmes auxiliaires.<a id=86></a>
+##### PARAGRAPHE 3 : Gendarmes auxiliaires.<a id=91></a>
 
 ###### Article R*127
 
@@ -10129,9 +14272,9 @@ _Cite_:
   - Code du service national - art. L72 (M)
 
 
-#### SECTION II : Recrutement des cadres de réserve du service militaire<a id=87></a>
+#### SECTION II : Recrutement des cadres de réserve du service militaire<a id=92></a>
 
-##### PARAGRAPHE 1 : Préparation au service militaire.<a id=88></a>
+##### PARAGRAPHE 1 : Préparation au service militaire.<a id=93></a>
 
 ###### Article R133
 
@@ -10305,7 +14448,7 @@ _Cite_:
   - Code du service national R133 à R138
 
 
-##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=89></a>
+##### PARAGRAPHE 2 : Recrutement et formation des cadres de réserve.<a id=94></a>
 
 ###### Article R140
 
@@ -10464,7 +14607,7 @@ _Cite_:
   - Code du service national R140 à R143
 
 
-##### PARAGRAPHE 3 : Nomination dans les cadres.<a id=90></a>
+##### PARAGRAPHE 3 : Nomination dans les cadres.<a id=95></a>
 
 ###### Article R145
 
@@ -10572,11 +14715,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### CHAPITRE II : Service de défense<a id=91></a>
+### CHAPITRE II : Service de défense<a id=96></a>
 
-#### SECTION I : Affectation de défense<a id=92></a>
+#### SECTION I : Affectation de défense<a id=97></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=93></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=98></a>
 
 ###### Article R*149
 
@@ -10729,7 +14872,7 @@ _Cite_:
   - Code du service national R151
 
 
-##### PARAGRAPHE 2 : Affectation individuelle de défense.<a id=94></a>
+##### PARAGRAPHE 2 : Affectation individuelle de défense.<a id=99></a>
 
 ###### Article R*154
 
@@ -10995,7 +15138,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Affectation collective de défense.<a id=95></a>
+##### PARAGRAPHE 3 : Affectation collective de défense.<a id=100></a>
 
 ###### Article R*163
 
@@ -11117,7 +15260,7 @@ _Cite_:
   - Code du service national - art. L116-5 (M)
 
 
-#### SECTION II : Statut de défense.<a id=96></a>
+#### SECTION II : Statut de défense.<a id=101></a>
 
 ###### Article R*167
 
@@ -11150,7 +15293,7 @@ _Cite_:
   - Code du service national - art. L94 (M)
 
 
-##### PARAGRAPHE 1 : Régime administratif et social.<a id=97></a>
+##### PARAGRAPHE 1 : Régime administratif et social.<a id=102></a>
 
 ###### Article R*169
 
@@ -11333,7 +15476,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Régime disciplinaire.<a id=98></a>
+##### PARAGRAPHE 2 : Régime disciplinaire.<a id=103></a>
 
 ###### Article R*175
 
@@ -11432,7 +15575,7 @@ _Cite_:
   - Code du service national R176, R175
 
 
-##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.<a id=99></a>
+##### PARAGRAPHE 3 : Dispositions particulières aux corps de défense.<a id=104></a>
 
 ###### Article R*179
 
@@ -11666,7 +15809,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION III : Dispositions particulières.<a id=100></a>
+#### SECTION III : Dispositions particulières.<a id=105></a>
 
 ###### Article R*186
 
@@ -11784,7 +15927,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION IV : Modalités d'adaptation aux départements d'outre-mer.<a id=101></a>
+#### SECTION IV : Modalités d'adaptation aux départements d'outre-mer.<a id=106></a>
 
 ###### Article R*190
 
@@ -11924,7 +16067,7 @@ _Cite_:
   - Code du service national R174
 
 
-#### SECTION V : Modalités d'adaptation aux territoires d'outre-mer.<a id=102></a>
+#### SECTION V : Modalités d'adaptation aux territoires d'outre-mer.<a id=107></a>
 
 ###### Article R*195
 
@@ -12127,9 +16270,9 @@ _Cite_:
   - Code du service national R195, R186
 
 
-### CHAPITRE II bis : Service dans la police nationale<a id=103></a>
+### CHAPITRE II bis : Service dans la police nationale<a id=108></a>
 
-#### SECTION I : Service actif dans la police nationale.<a id=104></a>
+#### SECTION I : Service actif dans la police nationale.<a id=109></a>
 
 ###### Article R*201-1
 
@@ -12570,7 +16713,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### SECTION II : Disponibilité et réserve dans la police nationale.<a id=105></a>
+#### SECTION II : Disponibilité et réserve dans la police nationale.<a id=110></a>
 
 ###### Article R*201-20-1
 
@@ -12717,11 +16860,11 @@ _Cite_:
   - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
 
 
-### CHAPITRE II TER : Service de sécurité civile<a id=106></a>
+### CHAPITRE II TER : Service de sécurité civile<a id=111></a>
 
-#### SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=107></a>
+#### SECTION I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=112></a>
 
-##### PARAGRAPHE 1 : Affectation.<a id=108></a>
+##### PARAGRAPHE 1 : Affectation.<a id=113></a>
 
 ###### Article R*201-21
 
@@ -12841,7 +16984,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 2 : Missions - Obligations.<a id=109></a>
+##### PARAGRAPHE 2 : Missions - Obligations.<a id=114></a>
 
 ###### Article R*201-26
 
@@ -12883,7 +17026,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 3 : Hiérarchie - Avancement.<a id=110></a>
+##### PARAGRAPHE 3 : Hiérarchie - Avancement.<a id=115></a>
 
 ###### Article R*201-28
 
@@ -12999,7 +17142,7 @@ _Cite_:
   - Code du service national R201-29 à R201-31
 
 
-##### PARAGRAPHE 4.<a id=111></a>
+##### PARAGRAPHE 4.<a id=116></a>
 
 ###### Article R*201-34
 
@@ -13044,9 +17187,9 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-#### SECTION II : Service de sécurité civile en qualité de forestier auxiliaire<a id=112></a>
+#### SECTION II : Service de sécurité civile en qualité de forestier auxiliaire<a id=117></a>
 
-##### PARAGRAPHE 1 : Affectation.<a id=113></a>
+##### PARAGRAPHE 1 : Affectation.<a id=118></a>
 
 ###### Article R*201-36
 
@@ -13148,7 +17291,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### PARAGRAPHE 2 : Missions - Obligations.<a id=114></a>
+##### PARAGRAPHE 2 : Missions - Obligations.<a id=119></a>
 
 ###### Article R*201-41
 
@@ -13192,7 +17335,7 @@ _Cite_:
   - Code du service national R201-37
 
 
-##### PARAGRAPHE 3 : Hiérarchie - Avancement.<a id=115></a>
+##### PARAGRAPHE 3 : Hiérarchie - Avancement.<a id=120></a>
 
 ###### Article R*201-43
 
@@ -13294,7 +17437,7 @@ _Cite_:
   - Code du service national R201-44 à R201-46
 
 
-##### PARAGRAPHE 4.<a id=116></a>
+##### PARAGRAPHE 4.<a id=121></a>
 
 ###### Article R*201-48
 
@@ -13339,11 +17482,11 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=117></a>
+### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=122></a>
 
-#### SECTION I : Dispositions communes<a id=118></a>
+#### SECTION I : Dispositions communes<a id=123></a>
 
-##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=119></a>
+##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=124></a>
 
 ###### Article R202
 
@@ -13455,7 +17598,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Indemnités.<a id=120></a>
+##### PARAGRAPHE 2 : Indemnités.<a id=125></a>
 
 ###### Article R206
 
@@ -13608,7 +17751,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 3 : Discipline.<a id=121></a>
+##### PARAGRAPHE 3 : Discipline.<a id=126></a>
 
 ###### Article R210
 
@@ -13646,7 +17789,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Permissions.<a id=122></a>
+##### PARAGRAPHE 4 : Permissions.<a id=127></a>
 
 ###### Article R211
 
@@ -13834,7 +17977,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Soins médicaux.<a id=123></a>
+##### PARAGRAPHE 5 : Soins médicaux.<a id=128></a>
 
 ###### Article R218
 
@@ -13920,7 +18063,7 @@ _Cité par_:
   - Code du service national - art. R227 (V)
 
 
-##### PARAGRAPHE 6 : Inaptitude physique.<a id=124></a>
+##### PARAGRAPHE 6 : Inaptitude physique.<a id=129></a>
 
 ###### Article R221
 
@@ -13947,7 +18090,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### PARAGRAPHE 7 : Libération du service actif.<a id=125></a>
+##### PARAGRAPHE 7 : Libération du service actif.<a id=130></a>
 
 ###### Article R222
 
@@ -14008,7 +18151,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=126></a>
+#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=131></a>
 
 ###### Article R224
 
@@ -14060,7 +18203,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION III : Dispositions particulières au service de la coopération.<a id=127></a>
+#### SECTION III : Dispositions particulières au service de la coopération.<a id=132></a>
 
 ###### Article R226
 
@@ -14134,7 +18277,7 @@ _Cite_:
   - Code du service national - art. R220 (M)
 
 
-### CHAPITRE IV : Service des objecteurs de conscience.<a id=128></a>
+### CHAPITRE IV : Service des objecteurs de conscience.<a id=133></a>
 
 ###### Article R227-1
 
@@ -14159,7 +18302,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-#### PARAGRAPHE 1 : Rattachement et affectation.<a id=129></a>
+#### PARAGRAPHE 1 : Rattachement et affectation.<a id=134></a>
 
 ###### Article R227-2
 
@@ -14190,7 +18333,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-#### PARAGRAPHE 2 : Devoirs et obligations.<a id=130></a>
+#### PARAGRAPHE 2 : Devoirs et obligations.<a id=135></a>
 
 ###### Article R227-3
 
@@ -14217,7 +18360,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 3 : Discipline.<a id=131></a>
+#### PARAGRAPHE 3 : Discipline.<a id=136></a>
 
 ###### Article R227-4
 
@@ -14316,7 +18459,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 4 : Permissions.<a id=132></a>
+#### PARAGRAPHE 4 : Permissions.<a id=137></a>
 
 ###### Article R227-10
 
@@ -14414,7 +18557,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 5 : Habilitation des organismes.<a id=133></a>
+#### PARAGRAPHE 5 : Habilitation des organismes.<a id=138></a>
 
 ###### Article R227-15
 
@@ -14500,7 +18643,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=134></a>
+#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=139></a>
 
 ###### Article R227-19
 
@@ -14552,7 +18695,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-## TITRE IV : Service féminin.<a id=135></a>
+## TITRE IV : Service féminin.<a id=140></a>
 
 ###### Article R*228
 
@@ -14791,7 +18934,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R531-1 (M)
 
 
-## TITRE V : Dispositions communes aux formes civiles du service national<a id=136></a>
+## TITRE V : Dispositions communes aux formes civiles du service national<a id=141></a>
 
 ###### Article R*234
 
@@ -14824,7 +18967,7 @@ _Cite_:
   - Code du service national R110 à R114, R116 à R118, R120
 
 
-# Annexes<a id=137></a>
+# Annexes<a id=142></a>
 
 ###### Article ANNEXE I
 
@@ -15115,7 +19258,7 @@ _Cite_:
   - Code du service national R*1, R*5, R*6, R*7, R*8, R*10, R*11, R*12, R*15, R*16, R*17, R*18, R*23, R*24, R*25, R*26, R*27, R*28, R*29, R*30, R*31, R*32, R*33, R*34, R*35, R*36, R*37, R*38, R*39, R*40, R*41, R*42, R*43, R*43-1, R*43-2, R*43-3, R*44, R*
 
 
-## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=138></a>
+## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=143></a>
 
 ###### Article ANNEXE II
 
