@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1985-09-03
+Version Consolidée au 1986-03-07
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -87,25 +87,33 @@ Version Consolidée au 1985-09-03
         - [SECTION III : Dispositions particulières. (art. R*186 à R*189)](#84)
         - [SECTION IV : Modalités d'adaptation aux départements d'outre-mer. (art. R*190 à R*194)](#85)
         - [SECTION V : Modalités d'adaptation aux territoires d'outre-mer. (art. R*195 à R*201)](#86)
-      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R226)](#87)
-        - [SECTION I : Dispositions communes (art. R202 à R223)](#88)
-          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#89)
-          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#90)
-          - [PARAGRAPHE 4 : Permissions. (art. R212 à R217)](#91)
-          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#92)
-          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#93)
-          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#94)
-        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#95)
-        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#96)
-      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#97)
-        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#98)
-        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#99)
-        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#100)
-        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#101)
-        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#102)
-        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#103)
-    - [TITRE IV : Service féminin. (art. R*228 à R*233)](#104)
-  - [Annexes (art. ANNEXE II)](#105)
+      - [CHAPITRE II bis : Service dans la police nationale (art. R*201-1 à R*201-18)](#87)
+        - [PARAGRAPHE 1 : Dispositions générales. (art. R*201-1 à R*201-7)](#88)
+        - [PARAGRAPHE 2 : Permissions. (art. R*201-8 à R*201-11)](#89)
+        - [PARAGRAPHE 3 : Discipline. (art. R*201-12)](#90)
+        - [PARAGRAPHE 4 : Soins. (art. R*201-13)](#91)
+        - [PARAGRAPHE 5 : Inaptitude. (art. R*201-14 à R*201-15)](#92)
+        - [PARAGRAPHE 6 : Solde et indemnités. (art. R*201-16)](#93)
+        - [PARAGRAPHE 7 : Libération du service actif. (art. R*201-17 à R*201-18)](#94)
+      - [CHAPITRE III : Service de l'aide technique et service de la coopération (art. R202 à R226)](#95)
+        - [SECTION I : Dispositions communes (art. R202 à R223)](#96)
+          - [PARAGRAPHE 1 : Opérations préliminaires et appel au service. (art. R202 à R205)](#97)
+          - [PARAGRAPHE 2 : Indemnités. (art. R206 à R209)](#98)
+          - [PARAGRAPHE 4 : Permissions. (art. R212 à R217)](#99)
+          - [PARAGRAPHE 5 : Soins médicaux. (art. R218 à R220)](#100)
+          - [PARAGRAPHE 6 : Inaptitude physique. (art. R221)](#101)
+          - [PARAGRAPHE 7 : Libération du service actif. (art. R222 à R223)](#102)
+        - [SECTION II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#103)
+        - [SECTION III : Dispositions particulières au service de la coopération. (art. R226)](#104)
+      - [CHAPITRE IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#105)
+        - [PARAGRAPHE 1 : Rattachement et affectation. (art. R227-2)](#106)
+        - [PARAGRAPHE 2 : Devoirs et obligations. (art. R227-3)](#107)
+        - [PARAGRAPHE 3 : Discipline. (art. R227-4 à R227-9)](#108)
+        - [PARAGRAPHE 4 : Permissions. (art. R227-10 à R227-14)](#109)
+        - [PARAGRAPHE 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#110)
+        - [PARAGRAPHE 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#111)
+    - [TITRE IV : Service féminin. (art. R*228 à R*233)](#112)
+  - [Annexes (art. ANNEXE II)](#113)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -4032,6 +4040,31 @@ _Cité par_:
 _Cite_:
 
   - Code du service national R27, R15
+
+
+###### Article R*18
+
+L'appel au service actif du contingent dans l'une de ses formes incombe au ministre chargé des armées, en accord avec le
+ministre responsable, lorsque l'appel concerne le service dans la police nationale, le service de défense, le service de
+l'aide technique ou le service de la coopération.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-728 1972-08-01 art. 4
+
+_Modifié par_:
+
+  - Décret n°86-312 1986-03-03 art. 2 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
 
 
 ###### Article R13
@@ -8664,11 +8697,375 @@ _Cite_:
   - Code du service national R195, R186
 
 
-### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=87></a>
+### CHAPITRE II bis : Service dans la police nationale<a id=87></a>
 
-#### SECTION I : Dispositions communes<a id=88></a>
+#### PARAGRAPHE 1 : Dispositions générales.<a id=88></a>
 
-##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=89></a>
+###### Article R*201-1
+
+Les jeunes gens qui satisfont aux conditions de moralité et d'aptitude physique exigées des candidats à un emploi dans la
+police nationale peuvent, sur leur demande, ^etre admis à accomplir leur service national actif dans la police nationale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-2
+
+Les candidatures sont déposées par les intéressés auprès du bureau du service national dont ils relèvent.
+
+Lorsque leur demande est agréée par le ministre de l'intérieur, les jeunes gens sont mis pour emploi à sa disposition. Ils
+reçoivent une affectation dans les services de la direction générale de la police nationale, selon des modalités qui seront
+déterminées par le ministre de l'intérieur.
+
+Pendant l'accomplissement de leur service national, ils sont soumis à l'autorité de ce ministre.
+
+Ils sont réputés incorporés le jour où, répondant à la convocation du ministre de l'intérieur, ils sont enregistrés sur les
+contr^oles de l'administration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-3
+
+Les jeunes gens qui n'ont pas répondu à la convocation du ministre de l'intérieur dans un délai de huit jours sont soumis de
+plein droit aux obligations du service militaire ou du service de défense.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-4
+
+Les appelés dont la candidature a été retenue par le ministre de l'intérieur servent en qualité de policiers auxiliaires. Ils
+effectuent un stage de formation spécialisé permettant leur emploi dans la police nationale. Les modalités de cette formation
+sont définies par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-5
+
+Les policiers auxiliaires participent à l'exécution des missions de la police nationale dans les conditions prévues au
+présent article.
+
+Ils assistent les fonctionnaires de police sous les ordres desquels ils sont placés. Ils peuvent ^etre affectés à des t^aches
+leur permettant de participer au maintien de la sécurité publique ou des t^aches à caractère technique auxquelles les a
+préparés leur formation professionnelle.
+
+Dans l'exercice de leurs fonctions ils n'ont pas compétence pour établir des actes relevant de l'exercice de la police
+judiciaire ou de la police administrative.
+
+Ils ne peuvent participer à des opérations de maintien de l'ordre que dans le cas prévu au deuxième alinéa de l'article R.
+130.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national R130
+
+
+###### Article R*201-6
+
+La hiérarchie des policiers auxiliaires est fixée comme suit :
+
+1° Sous-brigadier auxiliaire de 1re classe de la police nationale ;
+
+2° Sous-brigadier auxiliaire de 2e classe de la police nationale ;
+
+3° Gardien de la paix auxiliaire de 1re classe de la police nationale ;
+
+4° Gardien de la paix auxiliaire de 2e classe de la police nationale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-7
+
+Les jeunes gens affectés dans la police nationale sont tenus aux obligations qui découlent de l'accomplissement du service
+national et à celles qui sont inhérentes à leur emploi.
+
+Ils sont notamment tenus à une particulière discrétion professionnelle pour des faits et informations dont ils ont
+connaissance dans l'exercice de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 2 : Permissions.<a id=89></a>
+
+###### Article R*201-8
+
+Les permissions normales dont peuvent bénéficier les policiers auxiliaires sont fixées à seize jours pour une année de
+service effectif. Elles peuvent ^etre prises soit par fraction, soit en une fois avant la libération du service actif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-9
+
+Des permissions de convalescence peuvent ^etre accordées aux policiers auxiliaires dont l'état de santé le nécessite. Elles
+ont une durée au plus égale à trente jours et sont renouvelables. Elles ne viennent pas en déduction des permissions
+normales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-10
+
+Des permissions exceptionnelles d'une durée au plus égale à quatre jours peuvent ^etre accordées pour la naissance d'un
+enfant, le mariage de l'intéressé, le décès du conjoint ou d'un enfant, le décès du père ou de la mère.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-11
+
+Les frais de voyage supportés à l'occasion des permissions sont à la charge des intéressés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 3 : Discipline.<a id=90></a>
+
+###### Article R*201-12
+
+Les sanctions disciplinaires qui peuvent ^etre infligées aux policiers auxiliaires sont :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° La radiation d'office du service dans la police nationale.
+
+Les sanctions sont prononcées par le ministre de l'intérieur ou l'autorité ayant reçu délégation à cet effet. Elles peuvent
+entraîner la suppression ou la réduction du nombre de jours de permission.
+
+La radiation d'office s'accompagne d'une remise à la disposition du ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 4 : Soins.<a id=91></a>
+
+###### Article R*201-13
+
+Les jeunes gens ^agés affectés au service dans la police nationale sont, le cas échéant, soignés ou hospitalisés par le
+service de santé des armées. Les frais sont remboursés à l'administration militaire par le ministère de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 5 : Inaptitude.<a id=92></a>
+
+###### Article R*201-14
+
+Les conditions dans lesquelles les intéressés sont présentés devant la commission de réforme prévues à l'article L. 61 sont
+fixées par instruction conjointe du ministre de l'intérieur et du ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cite_:
+
+  - Code du service national - art. L61 (M)
+
+
+###### Article R*201-15
+
+Le ministre de l'intérieur peut, dans l'intér^et du service ou en cas d'inadaptation de l'intéressé à l'emploi qu'il occupe,
+mettre fin à l'affectation des appelés dans la police nationale. Ceux-ci sont remis à la disposition du ministre chargé des
+armées jusqu'au terme de leur service actif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 6 : Solde et indemnités.<a id=93></a>
+
+###### Article R*201-16
+
+Les policiers auxiliaires perçoivent une indemnité journalière dont le montant est identique à celui de la solde perçue par
+les appelés au service militaire, selon les équivalents ci-après :
+
+1° Sous-brigadier auxiliaire de 1re classe de la police nationale : sergent ;
+
+2° Sous-brigadier auxiliaire de 2e classe de la police nationale :
+
+caporal-chef ;
+
+3° Gardien de la paix auxiliaire de 1re classe de la police nationale : caporal ;
+
+4° Gardien de la paix auxiliaire de 2e classe de la police nationale : soldat de 2e classe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+#### PARAGRAPHE 7 : Libération du service actif.<a id=94></a>
+
+###### Article R*201-17
+
+Avant leur libération du service actif, les jeunes gens affectés au service dans la police nationale sont soumis à un examen
+médical de contr^ole constatant leur état de santé. A l'expiration de leur service, les intéressés sont rayés des contr^oles
+du service dans la police nationale et libérés du service actif par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+###### Article R*201-18
+
+Le décompte des services accomplis au titre du service dans la police nationale est arr^eté par le ministre de l'intérieur
+lors de la libération des jeunes gens et enregistré sur les pièces matricules. Ces pièces sont adressées au bureau du service
+national d'origine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°86-312 1986-03-03 art. 3 JORF 7 mars 1986
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+
+### CHAPITRE III : Service de l'aide technique et service de la coopération<a id=95></a>
+
+#### SECTION I : Dispositions communes<a id=96></a>
+
+##### PARAGRAPHE 1 : Opérations préliminaires et appel au service.<a id=97></a>
 
 ###### Article R202
 
@@ -8775,7 +9172,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 2 : Indemnités.<a id=90></a>
+##### PARAGRAPHE 2 : Indemnités.<a id=98></a>
 
 ###### Article R206
 
@@ -8901,7 +9298,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 4 : Permissions.<a id=91></a>
+##### PARAGRAPHE 4 : Permissions.<a id=99></a>
 
 ###### Article R212
 
@@ -9038,7 +9435,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### PARAGRAPHE 5 : Soins médicaux.<a id=92></a>
+##### PARAGRAPHE 5 : Soins médicaux.<a id=100></a>
 
 ###### Article R218
 
@@ -9119,7 +9516,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 2 JORF 2 septembre 1975
 
 
-##### PARAGRAPHE 6 : Inaptitude physique.<a id=93></a>
+##### PARAGRAPHE 6 : Inaptitude physique.<a id=101></a>
 
 ###### Article R221
 
@@ -9146,7 +9543,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### PARAGRAPHE 7 : Libération du service actif.<a id=94></a>
+##### PARAGRAPHE 7 : Libération du service actif.<a id=102></a>
 
 ###### Article R222
 
@@ -9198,7 +9595,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=95></a>
+#### SECTION II : Dispositions particulières au service de l'aide technique.<a id=103></a>
 
 ###### Article R224
 
@@ -9251,7 +9648,7 @@ _Modifié par_:
   - Décret n°75-807 1975-08-29 art. 3 JORF 2 septembre 1975
 
 
-#### SECTION III : Dispositions particulières au service de la coopération.<a id=96></a>
+#### SECTION III : Dispositions particulières au service de la coopération.<a id=104></a>
 
 ###### Article R226
 
@@ -9281,7 +9678,7 @@ _Cite_:
   - Code du service national - art. R206 (M)
 
 
-### CHAPITRE IV : Service des objecteurs de conscience.<a id=97></a>
+### CHAPITRE IV : Service des objecteurs de conscience.<a id=105></a>
 
 ###### Article R227-1
 
@@ -9306,7 +9703,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-#### PARAGRAPHE 1 : Rattachement et affectation.<a id=98></a>
+#### PARAGRAPHE 1 : Rattachement et affectation.<a id=106></a>
 
 ###### Article R227-2
 
@@ -9337,7 +9734,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-#### PARAGRAPHE 2 : Devoirs et obligations.<a id=99></a>
+#### PARAGRAPHE 2 : Devoirs et obligations.<a id=107></a>
 
 ###### Article R227-3
 
@@ -9364,7 +9761,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 3 : Discipline.<a id=100></a>
+#### PARAGRAPHE 3 : Discipline.<a id=108></a>
 
 ###### Article R227-4
 
@@ -9463,7 +9860,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-#### PARAGRAPHE 4 : Permissions.<a id=101></a>
+#### PARAGRAPHE 4 : Permissions.<a id=109></a>
 
 ###### Article R227-10
 
@@ -9545,7 +9942,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 5 : Habilitation des organismes.<a id=102></a>
+#### PARAGRAPHE 5 : Habilitation des organismes.<a id=110></a>
 
 ###### Article R227-15
 
@@ -9631,7 +10028,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=103></a>
+#### PARAGRAPHE 6 : Missions en temps de guerre.<a id=111></a>
 
 ###### Article R227-19
 
@@ -9683,7 +10080,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-## TITRE IV : Service féminin.<a id=104></a>
+## TITRE IV : Service féminin.<a id=112></a>
 
 ###### Article R*228
 
@@ -9824,7 +10221,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-# Annexes<a id=105></a>
+# Annexes<a id=113></a>
 
 ###### Article ANNEXE II
 
