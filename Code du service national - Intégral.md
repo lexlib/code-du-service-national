@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1990-06-24
+Version Consolidée au 1991-07-30
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -75,7 +75,7 @@ Version Consolidée au 1990-06-24
         - [SECTION I : Service militaire actif (art. R110 à R*132)](#72)
           - [PARAGRAPHE 1 : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#73)
           - [PARAGRAPHE 2 : Service militaire actif fractionné. (art. R123 à R126)](#74)
-          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*128 à R*132)](#75)
+          - [PARAGRAPHE 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#75)
         - [SECTION II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#76)
           - [PARAGRAPHE 1 : Préparation au service militaire. (art. R133 à R139)](#77)
           - [PARAGRAPHE 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#78)
@@ -7565,6 +7565,30 @@ _Cité par_:
 
 ##### PARAGRAPHE 3 : Gendarmes auxiliaires.<a id=75></a>
 
+###### Article R*127
+
+Les jeunes gens volontaires pour accomplir le service militaire actif dans la gendarmerie doivent satisfaire aux conditions
+de moralité exigées des candidats à la gendarmerie ainsi qu'aux aptitudes physiques requises.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°70-1347 1970-12-23 art. 1
+
+_Modifié par_:
+
+  - Décret n°91-736 du 24 juillet 1991 - art. 1 () JORF 30 juillet 1991
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+
 ###### Article R*128
 
 Les appelés dont la candidature a été retenue par le ministre chargé de la défense nationale servent en qualité de gendarmes
@@ -7622,6 +7646,39 @@ dans les cas où il peut ^etre fait appel à la troupe.
 _Anciens textes_:
 
   - Décret n°70-1347 1970-12-23 art. 4
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
+
+
+###### Article R*131
+
+La hiérarchie des gendarmes auxiliaires avec sa correspondance dans la hierarchie générale est fixée comme suit :
+
+- aspirant de gendarmerie : aspirant ;
+
+- gendarme auxiliaire maréchal des logis : sergent ;
+
+- gendarme auxiliaire brigadier-chef : caporal-chef ;
+
+- gendarme auxiliaire brigadier : caporal ;
+
+- gendarme auxiliaire de 1re ou de 2e classe : soldat de 1re ou de 2e classe.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°70-1347 1970-12-23 art. 5
+
+_Modifié par_:
+
+  - Décret n°91-736 du 24 juillet 1991 - art. 2 () JORF 30 juillet 1991
 
 _Codifié par_:
 
