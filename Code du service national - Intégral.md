@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2002-04-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L122-21)](#2)
@@ -9923,8 +9923,8 @@ _Cite_:
 
 ###### Article R*111-1
 
-Tous les Français sont tenus, entre la date à laquelle ils atteignent l'âge de seize ans et la fin du mois suivant, de
-souscrire à la mairie de leur domicile une déclaration mentionnant leur état civil, leurs domicile et résidence, leur
+Tous les Français sont tenus, entre la date à laquelle ils atteignent l'âge de seize ans et la fin du troisième mois suivant,
+de souscrire à la mairie de leur domicile une déclaration mentionnant leur état civil, leurs domicile et résidence, leur
 situation familiale, scolaire, universitaire ou professionnelle, notamment en vue de leur participation à l'appel de
 préparation à la défense et, le cas échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer personnellement
 cette démarche, elle peut l'être par leur représentant légal.
@@ -9942,7 +9942,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1066 du 26 novembre 1998 - art. 1 () JORF 27 novembre 1998
+  - Décret n°2002-446 du 29 mars 2002 - art. 1 () JORF 3 avril 2002
 
 _Cité par_:
 
@@ -10152,21 +10152,15 @@ _Créé par_:
 
 ###### Article R*111-9
 
-Au début des mois d'avril, juillet, octobre et janvier, les maires dressent les trois listes suivantes conformes au modèle
-fixé par l'administration chargée du service national :
+Au début des mois d'avril, juillet, octobre et janvier, les maires dressent la liste communale de recensement conforme au
+modèle fixé par l'administration chargée du service national comprenant les personnes recensées au cours du trimestre
+précédent dans les conditions énoncées au présent chapitre en souscrivant la déclaration prévue par l'article R. 111-1.
 
-- la liste communale de recensement comprenant les personnes recensées au cours du trimestre précédent en souscrivant la
-déclaration prévue par l'article R.* 111-1 ;
-
-- la liste des inscrits d'office comprenant les personnes nées dans la commune et qui, bien qu'appartenant aux catégories
-mentionnées aux articles R.* 111-1 à R.* 111-4, n'ont pas souscrit cette déclaration dans les délais prévus par ces articles
-et pour lesquels un avis d'inscription n'a pas été envoyé à la commune par un autre maire ou une autorité consulaire. Pour
-chacune d'elles, les maires établissent une notice individuelle sur laquelle sont portés les renseignements en leur
-possession ;
-
-- la liste de régularisation comprenant les personnes qui, pendant le trimestre précédent, ont souscrit une déclaration après
-que les listes de recensement, sur lesquelles elles auraient dû être inscrites en se présentant dans les délais prévus aux
-articles R.* 111-1 à R.* 111-4, aient été closes.
+Au début des mois d'avril, juillet, octobre et janvier, les maires dressent la liste des jeunes gens et jeunes filles non
+recensés. Dans le cas où le maire n'a pas reçu un avis d'inscription d'un autre maire ou d'une autorité consulaire, la liste
+des non-recensés comprend les personnes nées dans la commune qui appartiennent aux catégories mentionnées aux articles R.
+111-1 à R. 111-4 et qui n'ont pas souscrit la déclaration prévue à l'article R. 111-1 avant le dernier jour du trimestre au
+cours duquel ils atteignent l'âge de dix-huit ans.
 
 **Liens relatifs à cet article**
 
@@ -10174,24 +10168,24 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
+_Modifié par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 2 () JORF 3 avril 2002
+
 _Cite_:
 
-  - Code du service national R111-1
+  - Code du service national R111-1 à R111-4
 
 
 ###### Article R*111-10
 
-La liste de recensement, la liste des inscrits d'office et la liste de régularisation, accompagnées des notices
-individuelles, sont adressées au préfet du département à la fin des mois d'avril, juillet, octobre et janvier.
+La liste de recensement et la liste des non-recensés, accompagnées des notices individuelles, sont adressées à l'organisme
+chargé du service national territorialement compétent à la fin des mois d'avril, juillet, octobre et janvier.
 
 **Liens relatifs à cet article**
 
@@ -10199,65 +10193,28 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
+_Modifié par_:
 
-###### Article R*111-11
-
-Les préfets vérifient les trois listes définies à l'article R. 111-9. Ils les rectifient en tant que de besoin, notamment en
-radiant les noms des recensés qui ne possèdent pas la nationalité française.
-
-Ils arrêtent définitivement ces listes les 30 juin, 30 septembre, 31 décembre et 31 mars. Ils les transmettent alors en y
-joignant les notices individuelles correspondantes, au bureau du service national territorialement compétent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Décret n°2002-446 du 29 mars 2002 - art. 4 (V) JORF 3 avril 2002
-
-_Cite_:
-
-  - Code du service national R111-9
+  - Décret n°2002-446 du 29 mars 2002 - art. 3 () JORF 3 avril 2002
 
 
 ###### Article R*111-12
 
-Lorsqu'ils atteignent l'âge de seize ans, les Français établis à l'étranger ou leur représentant légal sont tenus de
-souscrire auprès des autorités consulaires françaises la déclaration prévue à l'article R.[* 111-1. A cette occasion, ils
-sont informés des conditions dans lesquelles ils auront à accomplir l'appel de préparation à la défense. Il leur est délivré
-l'attestation de recensement prévue à l'article R.*] 111-7.
+A l'âge de seize ans, les Français établis à l'étranger ou leur représentant légal sont tenus de souscrire auprès des
+autorités consulaires françaises la déclaration prévue à l'article R. 111-1. A cette occasion, ils sont informés des
+conditions dans lesquelles ils auront à accomplir l'appel de préparation à la défense. Il leur est délivré l'attestation de
+recensement prévue à l'article R. 111-7.
 
 Les autorités consulaires dressent à des dates définies par arrêté conjoint du ministre des affaires étrangères et du
-ministre de la défense, et au moins une fois par an, la liste de recensement et, le cas échéant, la liste de régularisation.
-Ces deux listes comprennent les personnes ayant souscrit la déclaration prévue par l'article R.[* 111-1.
+ministre de la défense, et au moins une fois par an, la liste de recensement et la liste des non-recensés. La liste de
+recensement comprend les personnes ayant souscrit la déclaration prévue par l'article R. 111-1.
 
-Elles dressent également la liste des inscrits d'office, pour les Français nés ou résidant à leur connaissance dans leur
-cisconscription qui, en âge d'être recensés, n'ont pas souscrit cette déclaration et pour lesquels elles n'ont pas reçu
-d'avis d'inscription d'un maire ou d'une autre autorité consulaire.
-
-Elles adressent les trois listes et les notices individuelles correspondantes au préfet des Pyrénées-Orientales, qui, pour
-les Français de l'étranger, est chargé des opérations prévues à l'article R.*] 111-11.
+Elles adressent la liste et les notices individuelles correspondantes à l'organisme chargé du service national à Perpignan.
 
 **Liens relatifs à cet article**
 
@@ -10265,14 +10222,14 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+_Modifié par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 5 () JORF 3 avril 2002
 
 _Cité par_:
 
@@ -10280,13 +10237,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du service national R111-7, R111-11
+  - Code du service national R111-7, R111-1
 
 
 ###### Article R*111-13
 
 Les personnes qui auraient été omises sur la liste de recensement sont inscrites, dès la découverte de l'omission, par le
-maire, l'autorité consulaire ou, le cas échéant, le préfet, sur la liste de régularisation.
+maire, l'autorité consulaire ou, le cas échéant, le préfet, sur la liste de recensement en cours.
 
 **Liens relatifs à cet article**
 
@@ -10294,20 +10251,20 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
+_Modifié par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 6 () JORF 3 avril 2002
+
 
 ###### Article R*111-14
 
 Le bureau du service national territorialement compétent diligente les recherches pour déterminer l'adresse des Français
-figurant sur la liste des inscrits d'office.
+figurant sur la liste des non-recensés.
 
 Dès qu'il a connaissance de cette adresse, il enjoint aux intéressés de régulariser leur situation à la mairie de leur
 domicile dans les trente jours.
@@ -10318,24 +10275,24 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
+_Modifié par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 7 () JORF 3 avril 2002
+
 
 ###### Article R*111-15
 
 Jusqu'à l'âge de vingt-cinq ans, les Français qui n'ont pas souscrit la déclaration de recensement dans les conditions fixées
-par les articles R.* 111-1 à R.* 111-4 peuvent régulariser leur situation, en effectuant la démarche auprès de la mairie de
+par les articles R. 111-1 à R. 111-4 peuvent régulariser leur situation, en effectuant la démarche auprès de la mairie de
 leur domicile ou de la commune de rattachement, ou de l'autorité consulaire territorialement compétente. Ils sont
-immédiatement inscrits sur les listes de régularisation de la commune ou du consulat.
+immédiatement inscrits sur les listes de recensement de la commune ou du consulat.
 
-L'attestation de recensement définie à l'article R.* 111-7 leur est alors remise.
+L'attestation de recensement définie à l'article R. 111-7 leur est alors remise.
 
 **Liens relatifs à cet article**
 
@@ -10343,18 +10300,18 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
+_Modifié par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 8 () JORF 3 avril 2002
+
 _Cite_:
 
-  - Code du service national R111-4, R111-7
+  - Code du service national R111-1 à R111-4, R111-7
 
 
 ###### Article R*111-16
@@ -10378,18 +10335,19 @@ _Créé par_:
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-###### Article R*111-17
+###### Article R*111-16-1
 
-Les dispositions du présent chapitre sont applicables aux départements et territoires d'outre-mer ainsi qu'aux collectivités
-territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous les réserves suivantes :
+Par dérogation à l'article R. 111-10, en Guyane, la liste de recensement et la liste des non-recensés, accompagnées des
+notices individuelles, sont adressées au préfet à la fin des mois d'avril, juillet, octobre et janvier.
 
-1° Dans les territoires d'outre-mer et dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les
-fonctions dévolues en métropole aux préfets et aux maires sont exercées respectivement par les représentants de l'Etat et par
-les maires ou les chefs de circonscription administrative ;
+Le préfet vérifie ces listes. Il les rectifie en tant que de besoin, notamment en radiant les noms des recensés qui ne
+possèdent pas la nationalité française et les informe des procédures d'accès à la citoyenneté française.
 
-2° Le recensement de chaque classe d'âge peut, dans le département de la Guyane et dans les territoires d'outre-mer,
-notamment en raison du nombre des jeunes gens à recenser ou de la dispersion des populations, être effectué en une seule
-fois, la période de recensement étant alors fixée par le préfet ou les représentants de l'Etat.
+Il les arrête définitivement les 30 juin, 30 septembre, 31 décembre et 31 mars. A ces dates, il les transmet accompagnées des
+notices individuelles correspondantes à l'organisme du service national territorialement compétent.
+
+Le recensement de chaque classe d'âge en Guyane peut être effectué en une seule fois, la période de recensement étant alors
+fixée par le préfet.
 
 **Liens relatifs à cet article**
 
@@ -10399,12 +10357,148 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+  - Décret n°2002-446 du 29 mars 2002 - art. 9 () JORF 3 avril 2002
+
+_Cite_:
+
+  - Code du service national R111-10
+
+
+###### Article R*111-17
+
+Les dispositions du présent chapitre sont applicables en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et
+Futuna et à Mayotte sous réserve des dérogations figurant aux articles R. 111-17-2 à R. 111-17-5.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
 
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+_Modifié par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 10 () JORF 3 avril 2002
+
+_Cite_:
+
+  - Code du service national R111-17-2 à R111-17-5
+
+
+###### Article R*111-17-1
+
+Dans les îles Wallis et Futuna les fonctions dévolues aux maires sont exercées par les chefs de circonscription
+administrative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 11 () JORF 3 avril 2002
+
+
+###### Article R*111-17-2
+
+Par dérogation à l'article R.111-10, dans les îles Wallis et Futuna, la liste de recensement et la liste des non-recensés,
+accompagnées des notices individuelles, sont adressées à l'administrateur supérieur des îles Wallis et Futuna à la fin des
+mois d'avril, juillet, octobre et janvier.
+
+L'administrateur supérieur des îles Wallis et Futuna vérifie ces listes. Il les rectifie en tant que de besoin, notamment en
+radiant les noms des recensés qui ne possèdent pas la nationalité française.
+
+Il les arrête définitivement les 30 juin, 30 septembre, 31 décembre et 31 mars. A ces dates, il les transmet accompagnées des
+notices individuelles correspondantes à l'organisme chargé du service national territorialement compétent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 11 () JORF 3 avril 2002
+
+_Cité par_:
+
+  - Code du service national - art. R*111-17 (V)
+
+_Cite_:
+
+  - Code du service national R111-10
+
+
+###### Article R*111-17-3
+
+Par dérogation à l'article R. 111-10, en Nouvelle-Calédonie et en Polynésie française, la liste de recensement et la liste
+des non-recensés, accompagnées des notices individuelles, sont adressées au haut-commissaire de la République à la fin des
+mois d'avril, juillet, octobre et janvier.
+
+Le haut-commissaire de la République vérifie ces listes. Il les rectifie en tant que de besoin, notamment en radiant les noms
+des recensés qui ne possèdent pas la nationalité française.
+
+Il les arrête définitivement les 30 juin, 30 septembre, 31 décembre et 31 mars. A ces dates, il les transmet accompagnées des
+notices individuelles correspondantes à l'organisme chargé du service national territorialement compétent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 11 () JORF 3 avril 2002
+
+_Cite_:
+
+  - Code du service national R111-10
+
+
+###### Article R*111-17-4
+
+En Nouvelle-Calédonie et en Polynésie française, le haut-commissaire de la République et dans les îles Wallis et Futuna
+l'administrateur supérieur des îles Wallis et Futuna exercent les missions du préfet mentionné à l'article R. 111-13.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 11 () JORF 3 avril 2002
+
+_Cite_:
+
+  - Code du service national R111-13
+
+
+###### Article R*111-17-5
+
+Le recensement de chaque classe d'âge en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna peut
+être effectué en une seule fois, la période de recensement étant alors respectivement fixée par le haut-commissaire de la
+République en Nouvelle-Calédonie, par le haut-commissaire de la République en Polynésie française et par l'administrateur
+supérieur des îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Décret n°2002-446 du 29 mars 2002 - art. 11 () JORF 3 avril 2002
 
 
 ###### Article R*111-18
