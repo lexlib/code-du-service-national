@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1983-03-27
+Version Consolidée au 1983-04-26
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -6374,6 +6374,33 @@ _Anciens textes_:
 _Modifié par_:
 
   - Décret n°75-829 1975-09-02 art. 1 JORF 7 septembre 1975
+
+
+###### Article R142
+
+Sont admis au cycle de formation des élèves sous-officiers de réserve, sur décision du chef de corps ou de formation maritime
+ou aérienne :
+
+1° En priorité, les jeunes gens titulaires du brevet de préparation militaire supérieure non admis au cycle de formation des
+officiers de réserve soit sur leur demande, soit en raison de la date d'appel demandée ;
+
+2° Les jeunes gens titulaires du brevet de préparation militaire ;
+
+3° Les jeunes gens dont l'aptitude a été reconnue au cours de l'incorporation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°71-820 1971-09-28 art. 2 à art. 6
+
+_Codifié par_:
+
+  - Décret n°72-806 1972-08-31
+
+_Cité par_:
+
+  - Code du service national - art. ANNEXE I (V)
 
 
 ###### Article R144
