@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 1975-09-07
+Version Consolidée au 1976-07-10
 ## Contenu: 
   - [Partie législative (art. L4 à L159)](#1)
     - [LIVRE Ier (art. L4 à L115)](#2)
@@ -501,6 +501,36 @@ administratifs dans un délai de deux mois à dater de la notification.
 _Codifié par_:
 
   - Loi n°71-424 1971-06-10
+
+_Cite_:
+
+  - Code du service national - art. L31 (M)
+  - Code du service national - art. L32 (M)
+
+
+###### Article L35
+
+Peuvent bénéficier d'une libération anticipée, sur décision du ministre chargé de la défense nationale, les jeunes gens
+réunissant, en raison d'un fait nouveau intervenant après leur incorporation, les conditions ouvrant droit à dispense au
+titre de l'article L. 31 ou les conditions nécessaires, à la date considérée, pour bénéficier d'une dispense au titre de
+l'article L. 32.
+
+Il peut en être de même lorsque leur incorporation a pour conséquence l'arrêt de l'exploitation familiale à caractère
+agricole, commercial ou artisanal pour quelque raison que ce soit.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°70-596 du 9 juillet 1970 - art. 19 (Ab)
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Loi n°76-617 du 9 juillet 1976 - art. 24 () JORF 10 juillet 1976
 
 _Cite_:
 
