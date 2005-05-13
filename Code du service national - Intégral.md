@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L122-21)](#2)
@@ -724,7 +724,7 @@ _Créé par_:
 
 ###### Article L114-8
 
-Les Français âgés de moins de vingt-cinq ans qui résident à l'étranger participent, sous la responsabilité du chef du poste
+Les Français établis hors de France âgés de moins de vingt-cinq ans participent, sous la responsabilité du chef du poste
 diplomatique ou consulaire accrédité, à l'appel de préparation à la défense aménagé en fonction des contraintes de leur pays
 de résidence.
 
@@ -734,9 +734,9 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Ordonnance n°2005-461 du 13 mai 2005 - art. 5 () JORF 14 mai 2005
 
 
 ###### Article L114-9
