@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2007-05-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-4)](#2)
@@ -69,7 +69,7 @@ Version Consolidée au 2007-03-30
         - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#66)
         - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#67)
         - [Section 3 : Dispositions particulières applicables aux Français de l'étranger. (art. R*112-16 à R*112-17)](#68)
-        - [Section 4 : Dispositions particulières à la préparation militaire. (art. R*112-18 à R*112-20)](#69)
+        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#69)
     - [LIVRE II (art. R*1 à R*234)](#70)
       - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#71)
         - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#72)
@@ -11125,13 +11125,13 @@ _Cité par_:
   - Arrêté du 11 janvier 2016 - art. 7 (V)
 
 
-#### Section 4 : Dispositions particulières à la préparation militaire.<a id=69></a>
+#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=69></a>
 
 ###### Article R*112-18
 
-Les Français désireux d'accomplir une préparation militaire en font la demande par écrit auprès du bureau du service national
-dont ils relèvent en précisant la force armée ou le service commun qu'ils choisissent. Leur admission est prononcée par
-l'autorité militaire après reconnaissance de l'aptitude des intéressés.
+Les Français désireux d'accomplir une période militaire d'initiation ou de perfectionnement à la défense nationale en font la
+demande par écrit auprès du bureau du service national dont ils relèvent en précisant la force armée ou le service commun
+qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des intéressés.
 
 **Liens relatifs à cet article**
 
@@ -11139,21 +11139,21 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+_Modifié par_:
+
+  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
 ###### Article R*112-19
 
-Les cycles de formation de la préparation militaire sont organisés dans chaque armée, dans la gendarmerie nationale et dans
-les services communs, sous forme d'une ou plusieurs périodes d'instruction, selon les modalités fixées par arrêté du ministre
-de la défense.
+Les cycles de formation de la période militaire d'initiation ou de perfectionnement à la défense nationale sont organisés
+dans chaque armée, dans la gendarmerie nationale et dans les services communs, sous forme d'une ou plusieurs périodes
+d'instruction, selon les modalités fixées par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -11161,14 +11161,14 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+_Modifié par_:
+
+  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
 ###### Article R*112-20
@@ -11181,14 +11181,9 @@ _Codifié par_:
 
   - Loi n°71-424 1971-06-10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
 ## LIVRE II<a id=70></a>
