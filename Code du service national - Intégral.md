@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2007-05-05
+Version Consolidée au 2007-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-4)](#2)
@@ -276,25 +276,6 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
-
-
-###### Article L112-3
-
-Les jeunes hommes nés en 1980 et 1981 sont recensés à l'âge de dix-sept ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
-
-_Abrogé par_:
-
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 27 (V)
 
 
 ###### Article L112-5
