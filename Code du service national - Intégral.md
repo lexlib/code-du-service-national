@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2008-05-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-4)](#2)
@@ -1628,7 +1628,7 @@ Il est créé un contrat de droit public intitulé : "contrat de volontariat pou
 formation générale et professionnelle dispensée par l'établissement public d'insertion de la défense.
 
 Peut faire acte de candidature, en vue de souscrire ce contrat avec l'établissement public d'insertion de la défense, toute
-personne de dix-huit à vingt et un ans révolus, ayant sa résidence habituelle en métropole, dont il apparaît, notamment à
+personne de dix-huit ans à vingt-deux ans révolus, ayant sa résidence habituelle en métropole, dont il apparaît, notamment à
 l'issue de la journée d'appel de préparation à la défense, qu'elle rencontre des difficultés particulières d'insertion
 sociale et professionnelle.
 
@@ -1649,13 +1649,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 244 quater G (VT)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
+  - Loi n°2008-493 du 26 mai 2008 - art. 8
 
 
 ###### Article L130-2
@@ -1733,34 +1729,26 @@ _Cité par_:
 
 ###### Article L130-4
 
-I. - Le volontaire pour l'insertion bénéficie pour lui-même et ses ayants droit des prestations en nature de l'assurance
-maladie, maternité et invalidité du régime général de sécurité sociale.
+I.-Le volontaire pour l'insertion bénéficie pour lui-même et ses ayants droit des prestations en nature de l'assurance
+maladie, maternité et invalidité du régime général de sécurité sociale. 
 
 La couverture de ces risques est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
-public d'insertion de la défense et dont le montant est fixé par décret.
+public d'insertion de la défense et dont le montant est fixé par décret. 
 
-II. - Il relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du service au titre du volontariat pour
-l'insertion, des dispositions du livre IV du code de la sécurité sociale.
+II.-Il relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du service au titre du volontariat pour
+l'insertion, des dispositions du livre IV du code de la sécurité sociale. 
 
 La couverture de ce risque est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
-public d'insertion de la défense et dont le montant est fixé par décret.
+public d'insertion de la défense et dont le montant est fixé par décret. 
 
-III. - Le bénéfice des dispositions de l'article L. 130-4 est maintenu durant la période de volontariat au profit du
-volontaire en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire de travail liée à un accident
-ou une maladie survenu par le fait ou à l'occasion du service.
+III.-Le bénéfice des dispositions de l'article L. 130-3 est maintenu durant la période de volontariat au profit du volontaire
+en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire de travail liée à un accident ou une
+maladie survenu par le fait ou à l'occasion du service. 
 
-IV. - Les volontaires pour l'insertion ne relèvent pas de l'article L. 351-12 du code du travail et ne peuvent bénéficier de
+IV.-Les volontaires pour l'insertion ne relèvent pas de l'article L. 351-12 du code du travail et ne peuvent bénéficier de
 l'allocation mentionnée à l'article L. 351-3 du même code.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
 
 _Cité par_:
 
@@ -1770,6 +1758,16 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L412-8 (VT)
   - Code de la sécurité sociale. - art. R412-20 (V)
   - Code du service national - art. L130-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2008-493 du 26 mai 2008 - art. 9
+
+_Cite_:
+
+  - Code du service national - art. L130-3
+  - Code du travail - art. L351-12
+  - Code du travail - art. L351-3
 
 
 ## LIVRE II<a id=17></a>
