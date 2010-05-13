@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2009-11-26
+Version Consolidée au 2010-05-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-4)](#2)
@@ -65,84 +65,90 @@ Version Consolidée au 2009-11-26
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*234)](#62)
     - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-20)](#63)
       - [Chapitre Ier : Le recensement. (art. R*111-1 à R*111-18)](#64)
-      - [Chapitre II : L'appel de préparation à la défense (art. R*112-1 à R*112-20)](#65)
-        - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#66)
-        - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#67)
-        - [Section 3 : Dispositions particulières applicables aux Français de l'étranger. (art. R*112-16 à R*112-17)](#68)
-        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#69)
-    - [LIVRE II (art. R*1 à R*234)](#70)
-      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#71)
-        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#72)
-          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#73)
-            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#74)
-            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#75)
-            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#76)
-          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#77)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#78)
-      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#79)
-        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#80)
-          - [Section II : Sélection (art. R*40 à R*50-6)](#81)
-            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#82)
-            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#83)
-            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#84)
-            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#85)
-            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#86)
-            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#87)
-            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#88)
-            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#89)
-            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#90)
-        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#91)
-          - [Section I : Dispenses (art. R*55 à R77)](#92)
-            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#93)
-            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#94)
-            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#95)
-          - [Section III : Condamnés. (art. R*98 à R*100-1)](#96)
-        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#97)
-      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#98)
-        - [Chapitre Ier : Service militaire (art. R110 à R148)](#99)
-          - [Section I : Service militaire actif (art. R110 à R*132)](#100)
-            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#101)
-            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#102)
-          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#103)
-            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#104)
-            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#105)
-            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#106)
-        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#107)
-          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#108)
-          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#109)
-        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#110)
-          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#111)
-            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#112)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#113)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#114)
-            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#115)
-          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#116)
-            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#117)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#118)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#119)
-            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#120)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#121)
-          - [Section I : Dispositions communes (art. R202 à R223)](#122)
-            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#123)
-            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#124)
-            - [Paragraphe 3 : Discipline. (art. R210)](#125)
-            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#126)
-            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#127)
-            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#128)
-            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#129)
-          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#130)
-          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#131)
-        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#132)
-          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#133)
-          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#134)
-          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#135)
-          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#136)
-          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#137)
-          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#138)
-      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#139)
-      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#140)
-  - [Annexes (art. ANNEXE I à ANNEXE II)](#141)
-    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#142)
+      - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-1 à R121-50)](#65)
+        - [Section I : L'Agence du service civique (art. R120-1 à R120-11)](#66)
+        - [Section II : Les relations entre la personne volontaire et la personne morale agréée (art. D121-21 à R121-20)](#67)
+        - [Section III : Indemnité (art. R121-22 à R121-32)](#68)
+        - [Section IV : Agrément (art. R121-33 à R121-46)](#69)
+        - [Section V : Dispositions diverses (art. R121-47 à R121-50)](#70)
+      - [Chapitre II : L'appel de préparation à la défense (art. R*112-1 à R*112-20)](#71)
+        - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#72)
+        - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#73)
+        - [Section 3 : Dispositions particulières applicables aux Français de l'étranger. (art. R*112-16 à R*112-17)](#74)
+        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#75)
+    - [LIVRE II (art. R*1 à R*234)](#76)
+      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#77)
+        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#78)
+          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#79)
+            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#80)
+            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#81)
+            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#82)
+          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#83)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#84)
+      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#85)
+        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#86)
+          - [Section II : Sélection (art. R*40 à R*50-6)](#87)
+            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#88)
+            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#89)
+            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#90)
+            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#91)
+            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#92)
+            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#93)
+            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#94)
+            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#95)
+            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#96)
+        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#97)
+          - [Section I : Dispenses (art. R*55 à R77)](#98)
+            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#99)
+            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#100)
+            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#101)
+          - [Section III : Condamnés. (art. R*98 à R*100-1)](#102)
+        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#103)
+      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#104)
+        - [Chapitre Ier : Service militaire (art. R110 à R148)](#105)
+          - [Section I : Service militaire actif (art. R110 à R*132)](#106)
+            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#107)
+            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#108)
+          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#109)
+            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#110)
+            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#111)
+            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#112)
+        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#113)
+          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#114)
+          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#115)
+        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#116)
+          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#117)
+            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#118)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#119)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#120)
+            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#121)
+          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#122)
+            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#123)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#124)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#125)
+            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#126)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#127)
+          - [Section I : Dispositions communes (art. R202 à R223)](#128)
+            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#129)
+            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#130)
+            - [Paragraphe 3 : Discipline. (art. R210)](#131)
+            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#132)
+            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#133)
+            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#134)
+            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#135)
+          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#136)
+          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#137)
+        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#138)
+          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#139)
+          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#140)
+          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#141)
+          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#142)
+          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#143)
+          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#144)
+      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#145)
+      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#146)
+  - [Annexes (art. ANNEXE I à ANNEXE II)](#147)
+    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#148)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -10688,9 +10694,1115 @@ _Créé par_:
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-### Chapitre II : L'appel de préparation à la défense<a id=65></a>
+### Chapitre Ier bis : Dispositions relatives au service civique<a id=65></a>
 
-#### Section 1 : Dispositions générales.<a id=66></a>
+#### Section I : L'Agence du service civique<a id=66></a>
+
+###### Article R120-1
+
+Le groupement d'intérêt public dénommé "Agence du service civique" et instituée par l'article L. 120-2 est créé pour une
+durée de cinq ans.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2015-581 du 27 mai 2015 - art. 1
+
+
+###### Article R120-2
+
+La convention constitutive du groupement d'intérêt public et ses annexes sont approuvées par arrêté du ministre chargé de la
+jeunesse et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R120-3
+
+Le groupement d'intérêt public jouit de la personnalité morale à compter de la publication au Journal officiel de la
+République française de l'arrêté portant approbation de la convention constitutive.
+
+L'arrêté mentionné à l'alinéa précédent comporte :
+
+1° La dénomination et l'objet du groupement ;
+
+2° L'identité de ses membres fondateurs ;
+
+3° Le siège du groupement ;
+
+4° Des règles de responsabilité des membres entre eux et à l'égard des tiers.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R120-4
+
+Les modifications ou la prorogation de la convention constitutive, ainsi que la dissolution du groupement avant le terme fixé
+par cette dernière, font l'objet d'une approbation et d'une publication dans les conditions fixées aux articles R. 120-2 et
+R. 120-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R120-5
+
+Le conseil d'administration du groupement comprend :
+
+1° Le président de l'Agence du service civique, nommé par décret du Président de la République ;
+
+2° Les représentants des membres fondateurs de l'Agence du service civique ;
+
+3° Trois personnalités qualifiées désignées par arrêté du ministre chargé de la jeunesse pour leur implication dans le champ
+du service civique et leur compétence reconnue en matière de volontariat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R120-6
+
+Le président de l'Agence du service civique préside le conseil d'administration et le comité stratégique.
+
+Le président de l'Agence peut percevoir une rémunération dont le montant est fixé par décision des ministres chargés du
+budget et de la jeunesse.
+
+Il est assisté de deux vice-présidents désignés par arrêté du ministre chargé de la jeunesse parmi les membres du conseil
+d'administration.
+
+En cas de vacance, il est remplacé par le directeur chargé de la jeunesse et de la vie associative.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R120-7
+
+Le directeur de l'Agence du service civique est nommé par arrêté du ministre chargé de la jeunesse et de la vie associative.
+
+Il prépare les travaux du conseil d'administration et du comité stratégique et en exécute les décisions. Il est ordonnateur
+des recettes et des dépenses du groupement. Il a autorité sur tout le personnel exerçant au sein du groupement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R120-8
+
+Un commissaire du Gouvernement auprès de l'agence est nommé par le ministre chargé de la jeunesse. Celui-ci peut se faire
+représenter. Il assiste, avec voix consultative, aux séances de toutes les instances de délibération et d'administration du
+groupement.
+
+Il reçoit communication de tous les documents relatifs au groupement. Il dispose d'un droit de visite dans les locaux
+appartenant au groupement ou mis à sa disposition.
+
+Pour les décisions qui mettent en jeu l'existence ou le bon fonctionnement du groupement, le commissaire du Gouvernement peut
+provoquer une nouvelle délibération dans un délai de quinze jours à compter de la date à laquelle le procès-verbal de la
+séance lui a été communiqué.
+
+Il informe les administrations dont relèvent les établissements publics participant au groupement.
+
+Il adresse chaque année au ministre chargé de la jeunesse et au ministre chargé du budget un rapport sur l'activité et la
+gestion du groupement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2015-1772 du 24 décembre 2015 - art. 2
+
+
+###### Article R120-9
+
+I. - Dans chaque région, le préfet de région est le délégué territorial de l'agence.
+
+Il désigne un délégué territorial adjoint parmi les chefs de service déconcentrés ou les membres du corps préfectoral.
+
+Il assure, avec l'appui de la direction régionale de la jeunesse, des sports et de la cohésion sociale, la coordination des
+politiques de promotion, d'évaluation et de contrôle du service civique.
+
+II. - Le préfet de département, avec les services placés sous son autorité, notamment la direction départementale
+interministérielle chargée de la cohésion sociale, concourt à l'exercice des compétences du délégué territorial.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Code du service national - art. R121-52 (M)
+
+
+###### Article R120-10
+
+La comptabilité du groupement est tenue et sa gestion assurée selon les règles du droit public.
+
+L'agence est soumise aux dispositions du code des marchés publics.
+
+Les dispositions du décret n° 53-707 du 9 août 1953 modifié relatif au contrôle de l'Etat sur les entreprises publiques
+nationales et certains organismes ayant un objet d'ordre économique et social et celles du décret n° 55-733 du 26 mai 1955
+modifié portant codification et aménagement des textes relatifs au contrôle économique et financier de l'Etat s'appliquent au
+groupement.
+
+Les dispositions du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique sont
+applicables et l'agent comptable du groupement est nommé par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°53-707 du 9 août 1953
+  - Décret n°55-733 du 26 mai 1955
+  - Décret n°62-1587 du 29 décembre 1962
+  - code des marchés publics
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R120-11
+
+Les agents contractuels recrutés sur le fondement de l'article L. 120-2 bénéficient de contrats à durée déterminée,
+renouvelables sur décision expresse, pour une durée n'excédant pas celle de l'existence du groupement. Ils sont soumis aux
+dispositions du décret n° 86-83 du 17 janvier 1986 relatif aux dispositions générales applicables aux agents non titulaires
+de l'Etat pris pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires
+relatives à la fonction publique de l'Etat, à l'exception de son article 8.
+
+Un état annuel des effectifs du groupement est transmis au commissaire du Gouvernement et au contrôleur d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-16 du 11 janvier 1984 - art. 7
+  - Décret n°86-83 du 17 janvier 1986
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+#### Section II : Les relations entre la personne volontaire et la personne morale agréée<a id=67></a>
+
+###### Article D121-21
+
+Des congés exceptionnels pour événements familiaux, d'une durée au plus égale à trois jours par événement, peuvent être
+accordés pour la naissance d'un enfant, le mariage ou la conclusion d'un pacte civil de solidarité. Cette durée peut être
+portée à dix jours pour le décès d'un ascendant ou descendant au premier degré ou de collatéraux au second degré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-10
+
+Le contrat de service civique mentionné à l'article L. 120-7 comprend obligatoirement les éléments suivants :
+
+1° L'identité des parties et l'adresse de leur domicile ;
+
+2° Une description de la mission confiée à la personne volontaire ;
+
+3° La durée de la mission ;
+
+4° Les modalités de préparation à l'exercice de la mission confiée à la personne volontaire mises en œuvre par l'organisme
+d'accueil ;
+
+5° Le ou les lieux d'exercice de la mission ;
+
+6° L'identité et les coordonnées du tuteur mentionné à l'article L. 120-14 ;
+
+7° Le régime des congés applicable à la personne volontaire ;
+
+8° Les conditions de rupture anticipée du contrat ;
+
+9° Le montant de l'indemnité due à la personne volontaire et ses modalités de versement ;
+
+10° Les prestations mentionnées à l'article L. 120-19 versées à la personne volontaire et leurs modalités de versement ;
+
+11° S'agissant de l'engagement de service civique, les modalités de participation de la personne volontaire à la formation
+civique et citoyenne et celles de son accompagnement dans sa réflexion sur son projet d'avenir de la personne volontaire
+mentionnées à l'article L. 120-14 ;
+
+12° Les modalités de préparation aux missions confiées à la personne volontaire prévues à l'article L. 120-14.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-12
+
+Lorsque la personne volontaire est un mineur de plus de seize ans, le contrat de service civique indique également l'identité
+et l'adresse du domicile de la personne ou des personnes titulaires de l'autorité parentale.
+
+Il expose les conditions et les modalités particulières d'accueil et d'accompagnement de la personne volontaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2011-1004 du 24 août 2011 - art. 1
+
+_Nouveaux textes_:
+
+  - Code du service national - art. R121-11 (M)
+
+
+###### Article R121-13
+
+L'organisme agréé transmet sans délai à l'organisme désigné à l'article R. 121-50 les éléments du contrat de service civique
+lorsque ce dernier est relatif à un engagement de service civique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-14
+
+Les formations dispensées à la personne volontaire sont réalisées sur le temps dévolu à la mission. Leur coût ne peut être
+mis à la charge de la personne volontaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-15
+
+Le référentiel de la formation civique et citoyenne mentionnée à l'article L. 120-14 ainsi que les modalités de mise en œuvre
+de cette formation sont définis par l'Agence du service civique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Décret n°2017-689 du 28 avril 2017 - art. 3
+  - Code du service national - art. R121-47-1 (V)
+
+
+###### Article R121-16
+
+L'accompagnement de la personne volontaire dans sa réflexion sur son projet d'avenir, mentionné à l'article L. 120-14, a pour
+objet de favoriser, à l'issue de l'accomplissement de la mission de service civique, l'insertion professionnelle de la
+personne volontaire. Il permet d'analyser les aspirations et les compétences, notamment celles mises en œuvre pendant le
+service civique, de la personne volontaire et de définir les étapes de son parcours ultérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-17
+
+Toute personne effectuant un engagement de service civique ou un volontariat de service civique bénéficie d'un droit à congé
+dès lors qu'elle a exercé la mission définie par son contrat de service civique au minimum durant dix jours ouvrés.
+
+Elle a droit à un congé annuel d'une durée fixée à deux jours ouvrés par mois de service effectif, y compris dans le cadre
+d'une pluralité de missions.
+
+Les congés pour maladie, pour maladie professionnelle ou incapacité temporaires liées à un accident imputable au service,
+pour maternité ou d'adoption sont considérés, pour l'application de l'alinéa précédent, comme service effectif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-18
+
+Les personnes volontaires mineures bénéficient d'une journée de congé supplémentaire par mois de service effectué.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-19
+
+Le congé annuel peut être pris soit par fraction, à concurrence des droits acquis, soit en une fois, en fin d'engagement ou
+de volontariat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-20
+
+Un congé non pris ne donne lieu à aucune indemnité compensatrice.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+#### Section III : Indemnité<a id=68></a>
+
+###### Article R121-22
+
+Dans le cadre d'un volontariat de service civique, l'indemnité brute versée chaque mois, en espèce ou en nature, par la
+personne morale agréée à la personne volontaire est comprise entre 8,07 % et 54,04 % de la rémunération mensuelle afférente à
+l'indice brut 244 de la fonction publique prévu par le décret n° 82-1105 du 23 décembre 1982 relatif aux indices de la
+fonction publique. Le montant servi en nature ne peut excéder 50 % du montant total de l'indemnité. Le montant de l'indemnité
+mensuelle versée tient compte du temps de service effectif de la personne volontaire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°82-1105 du 23 décembre 1982
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-23
+
+Dans le cadre de l'engagement de service civique, l'indemnité versée chaque mois pour le compte de l'Agence du service
+civique est égale à 35,45 % de la rémunération mensuelle afférente à l'indice brut 244 de la fonction publique prévu par le
+décret du 23 décembre 1982 précité. Les conditions de versement de cette indemnité pour des missions d'engagement de service
+civique effectuées à l'étranger sont fixées par arrêté du ministre chargé de la jeunesse et de la vie associative et du
+ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°82-1105 du 23 décembre 1982
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 26 septembre 2011 - art. 1 (V)
+  - Arrêté du 26 septembre 2011 - art. 4 (V)
+
+
+###### Article R121-24
+
+L'indemnité mentionnée à l'article R. 121-23 peut être majorée lorsque les difficultés de nature sociale ou financière
+rencontrées par la personne volontaire le justifient. Un arrêté des ministres chargés du budget et de la jeunesse fixe les
+critères de versement de cette majoration.
+
+Le montant mensuel de cette majoration est fixé à 8,07 % de la rémunération mensuelle afférente à l'indice brut 244 de la
+fonction publique prévu par le décret du 23 décembre 1982 précité.
+
+La majoration est versée mensuellement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°82-1105 du 23 décembre 1982
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 13 septembre 2010 - art. 1 (V)
+
+
+###### Article R121-25
+
+Les personnes morales agréées pour accueillir ou mettre à disposition des volontaires dans le cadre d'un engagement de
+service civique servent à chaque volontaire une prestation dont le montant minimal mensuel est fixé à 7,43 % de la
+rémunération mensuelle afférente à l'indice brut 244 de la fonction publique prévu par le décret du 23 décembre 1982 précité.
+
+Cette prestation nécessaire à la subsistance, l'équipement, le logement et le transport du volontaire pourra être servie en
+nature, à travers notamment l'allocation de titre-repas du volontaire, ou en espèce.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°82-1105 du 23 décembre 1982
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 14 mai 2010 - art. 1 (Ab)
+  - Arrêté du 13 février 2013 - art. 16 (V)
+  - Arrêté du 8 août 2017 - art. 1
+
+
+###### Article R121-26
+
+Le montant des indemnités supplémentaires mentionnées par l'article L. 120-20 est fixé par arrêté du ministre chargé de la
+jeunesse et du ministre chargé du budget.
+
+L'indemnité supplémentaire est versée uniquement lorsque la personne volontaire réalise effectivement sa mission sur un
+territoire autre que la France métropolitaine ou qui n'est pas sa résidence principale.
+
+Les congés pour maladie, pour maladie professionnelle ou incapacité temporaires liées à un accident imputable au service,
+pour maternité ou pour adoption effectués dans l'Etat du lieu de mission sont considérés, pour l'application de l'alinéa
+précédent, comme la réalisation effective de la mission.
+
+Les congés mentionnés aux articles R. 121-18 à R. 121-21 sont considérés, pour l'application du deuxième alinéa, comme la
+réalisation effective de la mission.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 25 janvier 2011 - art. 1 (V)
+  - Arrêté du 25 janvier 2011 - art. 2 (V)
+  - Arrêté du 25 janvier 2011 - art. 3 (V)
+  - Arrêté du 26 septembre 2011 - art. 2 (V)
+  - Code du service national - art. R121-52 (V)
+
+
+###### Article R121-27
+
+Les titres-repas du volontaire, prévus à l'article L. 120-22 du code du service national, sont émis selon les conditions
+visées au 2° de l'article L. 3262-1 du code du travail et cédés à une personne morale, autre que l'Etat, agréée en vertu de
+l'article L. 120-31 du code du service national, contre paiement de leur valeur libératoire.
+
+Les chèques-repas prévus à l'article 12 de la loi n° 2006-586 du 23 mai 2006 relative au volontariat associatif et à
+l'engagement éducatif sont émis selon les conditions prévues au 2° de l'article L. 3262-1 du code du travail et cédés à une
+association mentionnée à l'article 12 de la loi du 23 mai 2006 précitée contre paiement de leur valeur libératoire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2006-586 du 23 mai 2006 - art. 12
+  - Code du service national - art. L120-22
+  - Code du service national - art. L120-31
+  - Code du travail - art. L3262-1
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Code du service national - art. R121-28 (V)
+  - Code du service national - art. R121-51 (M)
+  - Code du service national - art. R121-53 (Ab)
+
+
+###### Article R121-28
+
+Les titres-repas du volontaire acquis par la personne morale mentionnée au premier alinéa de l'article R. 121-27 ne peuvent
+être utilisés que par les volontaires de cette personne morale accomplissant en France un contrat de service civique
+mentionné à l'article L. 120-6 du code du service national et pour la durée de sa mission.
+
+Les chèques-repas du bénévole acquis par une association ne peuvent être utilisés que par les bénévoles de cette association
+y exerçant, dans le cadre de son objet social, une activité bénévole régulière.
+
+Un même volontaire ou bénévole ne peut recevoir respectivement qu'un titre-repas ou un chèque-repas par repas compris dans le
+cadre de son activité journalière.
+
+Ce titre ou ce chèque ne peut être utilisé que par le volontaire ou le bénévole auquel la personne morale mentionnée au
+premier alinéa de l'article R. 121-27 ou l'association l'a remis.
+
+Les titres-repas et les chèques-repas ne sont pas utilisables les dimanches et jours fériés sauf s'ils portent de manière
+très apparente une mention contraire apposée selon le cas par la personne morale précitée ou l'association, sous sa
+responsabilité, au bénéfice exclusif des volontaires ou bénévoles travaillant pendant ces mêmes jours.
+
+Les titres-repas et les chèques-repas ne peuvent être utilisés que dans le département du lieu de travail des volontaires ou
+bénévoles bénéficiaires et les départements limitrophes, à moins qu'ils ne portent de manière très apparente une mention
+contraire apposée selon le cas par la personne morale précitée ou l'association, sous sa responsabilité, au bénéfice exclusif
+de ceux de ces volontaires ou bénévoles qui sont, du fait de leur fonction, appelés à des déplacements à longue distance.
+
+Ces titres ou ces chèques ne peuvent être présentés en paiement d'un repas à un restaurateur ou assimilé que pendant l'année
+civile et la période d'utilisation dont ils font mention.
+
+Les titres ou chèques non utilisés au cours de cette période et rendus par les volontaires ou bénévoles bénéficiaires à la
+personne morale précitée ou l'association au plus tard au cours de la quinzaine suivante sont échangés gratuitement
+respectivement contre un nombre égal de titres ou de chèques valables pour la période ultérieure.
+
+Un même titre ou un même chèque ne peut être utilisé que pour acquitter en tout ou partie le prix d'un seul repas
+correspondant au moins aux normes fixées par l'arrêté prévu par l'article R. 3262-4 du code du travail.
+
+Un même repas ne peut être payé avec plusieurs titres ou chèques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cite_:
+
+  - Code du service national - art. L120-6
+  - Code du travail - art. R3262-4
+
+
+###### Article R121-29
+
+Les volontaires ou les bénévoles venant de quitter la personne morale mentionnée au premier alinéa de l'article R. 121-27 ou
+l'association sont tenus de lui remettre au moment de leur départ les titres-repas ou chèques-repas en leur possession. Ils
+sont aussitôt remboursés du montant de leur contribution à l'achat de ces titres ou de ces chèques.
+
+Les titres ou chèques acquis auprès d'un émetteur peuvent être échangés au cours du mois qui suit leur période d'utilisation
+sous réserve du versement de la commission normalement perçue par l'émetteur lors de la vente de ces titres ou chèques.
+
+Les titres ou chèques qui n'ont pas été présentés au remboursement par un restaurateur avant la fin du deuxième mois suivant
+l'expiration de leur période d'utilisation sont définitivement périmés. Leur montant ne peut plus être remboursé au
+restaurateur ou assimilé par imputation sur le compte titre-repas ou chèque-repas ouvert.
+
+Sous réserve de prélèvements autorisés par l'article R. 3262-13 du code du travail, la contre-valeur des titres ou chèques
+périmés est versée à la personne morale précitée ou à l'association auprès duquel les volontaires ou bénévoles se sont
+procurés leurs titres ou chèques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cite_:
+
+  - Code du travail - art. R3262-13
+
+
+###### Article R121-30
+
+Tout émetteur de titres-repas ou de chèques-repas doit se faire ouvrir un compte bancaire sur lequel sont obligatoirement
+versés, à l'exclusion de tous autres, les fonds qu'il perçoit en contrepartie de la cession de ces titres ou chèques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-31
+
+Les titres-repas et chèques-repas doivent dans tous les cas comporter, en caractères très apparents, les mentions suivantes :
+
+1. Selon le cas,  Titre-repas du volontaire  ou  Chèque-repas du bénévole  ;
+
+2. Les nom et adresse de l'émetteur ;
+
+3. Les nom et adresse de la personne ou de l'établissement bancaire à qui les titres ou les chèques doivent être présentés au
+remboursement par les restaurateurs ;
+
+4. Le montant de la valeur libératoire du titre ou du chèque ;
+
+5. L'année civile d'émission ;
+
+6. La période d'utilisation par les bénéficiaires, telle qu'elle est définie à l'article 2, et du lieu où les titres ou
+chèques peuvent être utilisés ;
+
+7. Le numéro dans une série continue de nombres caractérisant l'émission ;
+
+8. Les nom et adresse du volontaire ou du bénévole qui en est bénéficiaire ;
+
+9. Les nom et adresse du restaurateur chez qui le repas a été consommé.
+
+Les mentions prévues aux 1, 2, 3, 4, 5, 6 et 7 sont apposées au recto du titre par l'émetteur. Les mentions prévues au 8 sont
+apposées au recto du titre ou du chèque par le volontaire ou le bénévole bénéficiaire si elles ne l'ont pas été
+respectivement par la personne morale mentionnée au premier alinéa de l'article R. 121-27 ou l'association.
+
+La personne morale précitée ou l'association indique, avant de remettre les titres-repas ou chèque-repas aux volontaires ou
+bénévoles, la période d'utilisation mentionnée au 6 si elle n'a pas été apposée par l'émetteur.
+
+Les mentions prévues au 9 du présent article sont apposées par le restaurateur au moment de l'acceptation du titre ou du
+chèque.
+
+Les émetteurs doivent prévoir des signes de sécurité communs et facilement reconnaissables par les utilisateurs à apposer au
+recto et au verso des titres-repas et des chèques-repas.
+
+Les titres-repas et chèques-repas émis conformément aux dispositions du présent article sont dispensés du droit de timbre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-32
+
+Les articles R. 3262-13 à R. 3262-25, R. 3262-13 à R. 3262-15, et R. 3262-33 à R. 3262-46 du code du travail sont applicables
+au fonctionnement et au contrôle des titres-repas du volontaire et des chèques-repas du bénévole.
+
+La vérification prévue à l'article R. 3262-26 du code du travail n'est pas nécessaire en ce qui concerne les titres-repas des
+volontaires et les chèques-repas des bénévoles lorsqu'elle a déjà été effectuée pour les titres-restaurant.
+
+L'assimilation prévue à l'article R. 3262-27 du code du travail et son renouvellement prévue à l'article R. 3262-32 du même
+code n'est pas nécessaire en ce qui concerne les titres-repas des volontaires et les chèques-repas des bénévoles lorsqu'elle
+a déjà été effectuée pour les titres-restaurant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Code du service national - art. R121-51 (M)
+  - Code du service national - art. R121-53 (Ab)
+
+_Cite_:
+
+  - Code du travail - art. R3262-26
+  - Code du travail - art. R3262-27
+  - articles R. 3262-13 à R. 3262-25, R. 3262-13 à R. 3262-15, et R. 3262-33 à R. 3262-46 du code du travail
+
+
+#### Section IV : Agrément<a id=69></a>
+
+###### Article R121-33
+
+L'agrément d'engagement de service civique prévu au premier alinéa du II de l'article L. 120-1 est accordé pour une durée
+maximale de deux ans renouvelable à l'organisme sans but lucratif ou à la personne morale de droit public de droit français
+qui :
+
+1° Justifie d'au moins une année d'existence, sauf dérogation accordée par l'Agence du service civique au regard de l'intérêt
+des missions présentées par l'organisme d'accueil ;
+
+2° Prévoit d'accueillir des volontaires âgés de dix-huit à vingt-cinq ans ;
+
+3° Justifie, le cas échéant, des conditions particulières d'accueil de volontaires mineurs de plus de seize ans ;
+
+4° Propose des missions d'intérêt général reconnues prioritaires pour la nation et justifie de sa capacité à les exercer dans
+de bonnes conditions ;
+
+5° Dispose, y compris lorsque les missions se déroulent à l'étranger, d'une organisation et des moyens compatibles avec la
+formation, l'accompagnement et la prise en charge des volontaires qu'il envisage d'accueillir ou de mettre à disposition ;
+
+6° Présente un budget en équilibre et une situation financière saine dans la limite des trois derniers exercices clos, sauf
+dérogation accordée sur la durée d'existence par l'Agence du service civique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Code du service national - art. R121-34 (V)
+  - Code du service national - art. R121-35 (V)
+  - Code du service national - art. R121-42 (V)
+  - Code du service national - art. R121-45 (V)
+  - Code du service national - art. R121-52 (V)
+
+
+###### Article R121-34
+
+L'agrément de volontariat de service civique prévu au troisième alinéa du II de l'article L. 120-1 est accordé pour une durée
+maximale de cinq ans renouvelable à l'association de droit français, à la fondation reconnue d'utilité publique, à l'union
+d'associations ou à la fédération d'associations constituée sous la forme d'association qui répond aux conditions visées aux
+1°, 5° et 6° de l'article R. 121-33 et :
+
+1° Assure une mission ou un programme de missions d'intérêt général et justifie de sa capacité à les exercer dans de bonnes
+conditions ;
+
+2° Dispose d'une organisation compatible avec l'accueil du nombre de volontaires qu'elle envisage d'accueillir ou de mettre à
+disposition ;
+
+2° Dispose de ressources d'origine privée supérieures à 15 % de son budget annuel au cours du dernier exercice clos.
+
+A titre dérogatoire, l'agrément de volontariat de service civique peut être accordé aux organismes mentionnés au premier
+alinéa exerçant des missions reconnues prioritaires pour la nation pour accueillir des personnes volontaires âgées de plus de
+dix-huit ans et de moins de vingt-cinq ans. Dans ce cas, l'agrément délivré par l'Agence du service civique précise les
+missions destinées à ces volontaires en sus des missions mentionnées au 1°.
+
+L'agrément de volontariat de service civique prévu au troisième alinéa du II de l'article L. 120-1 et à l'article L. 120-34
+est accordé pour une durée maximale de cinq ans renouvelable à la personne morale de droit public dont le siège se situe dans
+les départements et territoires d'outre-mer qui répond aux conditions prévues à l'article R. 121-33.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 2 juillet 2018 - art. 2 (V)
+  - Code du service national - art. R121-35 (V)
+
+
+###### Article R121-35
+
+Les agréments de service civique sont délivrés, dans les conditions et selon les priorités et limites définies par le conseil
+d'administration de l'Agence du service civique, par le président de l'Agence du service civique et les délégués territoriaux
+de l'Agence du service civique.
+
+Le directeur de l'Agence du service civique peut, pour la délivrance des agréments, recevoir délégation du président de
+l'Agence du service civique.
+
+Le président de l'Agence du service civique rend régulièrement compte au conseil d'administration des agréments délivrés.
+
+L'Agence du service civique peut accueillir des personnes en service civique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-36
+
+L'agrément accordé à une union visée à l'article 7 du décret du 16 août 1901 pris pour l'exécution de la loi du 1er juillet
+1901 relative au contrat d'association, à une fédération d'associations constituée sous forme d'association qui justifie
+disposer d'au moins deux associations membres ayant leur siège dans des régions différentes, à une union mentionnée à
+l'article L. 2133-2 du code du travail ou à l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires qui justifie disposer d'au moins deux syndicats membres ayant leur siège dans des régions
+différentes, à une union ou une fédération mentionnée aux articles L. 111-2 ou L. 115-5 du code de la mutualité qui justifie
+disposer d'au moins deux mutuelles ou unions membres ayant leur siège dans des régions différentes vaut agrément des
+organismes membres de ces unions ou fédérations.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°83-634 du 13 juillet 1983 - art. 9 bis
+  - Code du travail - art. L2133-2
+  - Code de la mutualité - art. L111-2
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 14 mai 2010 - art. 4 (Ab)
+  - Code du service national - art. R121-38 (V)
+  - Code du service national - art. R121-42 (V)
+
+
+###### Article R121-37
+
+La demande d'agrément ou de renouvellement de celui-ci, accompagnée d'un dossier, est adressée par le représentant légal de
+l'organisme à l'autorité chargée de délivrer l'agrément.
+
+La composition du dossier joint à cette demande est fixée par arrêté du ministre chargé de la jeunesse et de la vie
+associative.
+
+Lorsque le dossier remis à l'administration est complet, il en est délivré récépissé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 14 mai 2010 - art. 1 (Ab)
+  - Arrêté du 14 mai 2010 - art. 2 (Ab)
+  - Arrêté du 2 juillet 2018 - art. 1 (V)
+
+
+###### Article R121-38
+
+L'agrément précise :
+
+1° La forme du service civique ;
+
+2° La dénomination de la structure et le numéro SIREN ;
+
+3° La durée de l'agrément ;
+
+4° Le cas échéant, la liste des associations, des syndicats ou des mutuelles membres des unions ou fédérations mentionnés à
+l'article R. 121-36 ;
+
+5° La liste des établissements secondaires susceptibles d'accueillir des volontaires ;
+
+6° Le nombre maximum de volontaires que l'organisme est autorisé à mettre à disposition auprès d'une ou plusieurs personnes
+morales tierces non agréées dans les conditions définies à l'article L. 120-32 ;
+
+7° La mission ou le programme de missions ;
+
+8° Pour l'engagement de service civique, le niveau de l'autorisation de recrutement de volontaires dont dispose l'organisme
+agréé et la période au cours de laquelle ces recrutements peuvent intervenir.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-39
+
+L'agrément accordé dans le cadre d'un engagement de service civique peut fixer des objectifs de recrutement destinés à
+assurer que les personnes volontaires accueillies présentent des profils diversifiés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-40
+
+L'agrément précise, le cas échéant, si la dérogation prévue au premier alinéa de l'article L. 120-8 du code du service
+national est accordée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cite_:
+
+  - Code du service national - art. L120-8
+
+
+###### Article R121-41
+
+Le refus d'agrément est motivé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-42
+
+Toute modification des statuts ou de tout autre acte constitutif de l'organisme agréé postérieure à la délivrance des
+agréments de service civique ou toute modification des conditions d'accueil des volontaires déclarées en vue de la délivrance
+de l'un des agréments de service civique sont notifiées sans délai à l'autorité administrative ayant délivré l'agrément.
+
+Lorsque les agréments de service civique sont délivrés au titre de l'article R. 121-36, l'union ou la fédération est tenue de
+notifier sans délai à l'autorité administrative ayant délivré l'agrément les modifications apportées à ses statuts ou à ceux
+de ses membres postérieurement à la délivrance de l'agrément ainsi que les modifications apportées aux conditions d'accueil
+des volontaires déclarées en vue de la délivrance de l'agrément.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-43
+
+Les organismes agréés rendent compte à l'autorité administrative ayant délivré l'agrément, pour chaque année écoulée, de
+leurs activités au titre du service civique et, le cas échéant, de celles de leurs associations, syndicats ou mutuelles
+membres selon le cas ou de leurs établissements secondaires ou de personnes morales tierces qui ont bénéficié d'une mise à
+disposition de volontaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-44
+
+L'autorité administrative ayant délivré l'agrément peut à tout moment contrôler les conditions d'exercice de la mission de
+service civique, y compris le contenu et la réalisation des formations prévues à l'article L. 120-14 au sein de l'organisme
+agréé ou des organismes membres de l'union ou de la fédération agréées ou des organismes auprès desquels les volontaires ont
+été mis à disposition.
+
+Les organismes doivent tenir à cet effet à la disposition de cette autorité les documents probants ou les pièces
+justificatives nécessaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-45
+
+Les agréments de service civique peuvent faire l'objet d'un retrait :
+
+1° Lorsque l'une des conditions relatives à sa délivrance n'est plus satisfaite ;
+
+2° En cas d'atteinte à l'ordre public ou à la moralité publique ou de non-respect des obligations générales qui incombent à
+l'organisme ;
+
+3° Ou pour un motif grave tiré de la violation du contrat d'engagement de service civique ou de volontariat de service
+civique conclu avec une personne volontaire ou de conditions d'accueil ou d'exercice des activités constituant un danger
+immédiat pour la santé ou la sécurité de l'intéressé ou celle des tiers.
+
+Dans ce cas, l'organisme peut sans délai se mettre en conformité ou apporter des éléments probants justifiant de sa mise en
+conformité sous un délai de deux mois.
+
+Lorsque le motif du retrait tient à la situation d'un organisme membre d'une union ou d'une fédération agréée, l'autorité
+administrative ayant délivré l'agrément prononce le retrait de celui-ci à raison des membres concernés par cette situation.
+
+Lorsque le motif du retrait tient à la situation d'un ou plusieurs établissements secondaires d'un organisme agréé,
+l'autorité administrative ayant délivré l'agrément prononce le retrait de celui-ci à raison des membres concernés par cette
+situation.
+
+Lorsque le motif du retrait tient à la situation d'une ou plusieurs personnes morales accueillant des volontaires mis à
+disposition par un organisme agréé, l'autorité administrative ayant délivré l'agrément prononce le retrait de l'autorisation
+de mise à disposition à raison des personnes morales en cause.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-46
+
+Le non-renouvellement de l'agrément de service civique, son retrait, le retrait d'une ou plusieurs associations, syndicats,
+mutuelles ou établissements des listes mentionnées à l'article R. 121-37 ainsi que le retrait de l'autorisation de mise à
+disposition entraînent de plein droit une interruption anticipée sans délai dans les cas prévus aux 2° et 3° de l'article R.
+121-45 et moyennant un préavis d'au moins un mois dans tous les autres cas, des contrats de service civique en cours avec le
+ou les organismes ou établissements concernés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+#### Section V : Dispositions diverses<a id=70></a>
+
+###### Article R121-47
+
+L'aide servie aux organismes sans but lucratif de droit français agréés auprès desquels des personnes ont souscrit un
+engagement de service civique est fixée à 100 €.
+
+Cette aide est servie mensuellement par l'organisme chargé du versement, pour le compte de l'Agence de service civique, de
+l'indemnité due à la personne volontaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-48
+
+La mise à disposition ne peut se réaliser simultanément auprès de plusieurs personnes morales sur une même mission d'intérêt
+général. Il est toutefois possible d'organiser cette mise à disposition auprès de plusieurs personnes morales durant la même
+période de service civique sur des missions distinctes agréées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-49
+
+En application de l'article L. 120-17 du code du service national et de l'article 8 du décret n° 99-1039 du 10 décembre 1999
+relatif aux sapeurs-pompiers volontaires, une attestation de service civique pourra être délivrée à l'issue de la première
+période d'engagement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°99-1039 du 10 décembre 1999 - art. 8
+  - Code du service national - art. L120-17
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+
+###### Article R121-50
+
+L'Agence de service et de paiement est chargée de la mise en œuvre, en lien avec l'Agence du service civique, des procédures
+de gestion relatives aux aides accordées aux personnes volontaires, à la protection sociale des volontaires et aux aides
+servies aux organismes d'accueil dans le cadre du service civique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 28 avril 2011 - art. 4 (V)
+  - Arrêté du 26 septembre 2011 - art. 1 (V)
+  - Arrêté du 26 septembre 2011 - art. 4 (V)
+  - Décret n°2019-341 du 19 avril 2019 - art. 2 (V)
+
+
+### Chapitre II : L'appel de préparation à la défense<a id=71></a>
+
+#### Section 1 : Dispositions générales.<a id=72></a>
 
 ###### Article R*112-1
 
@@ -11004,7 +12116,7 @@ _Cite_:
   - Code du service national - art. L114-5 (V)
 
 
-#### Section 2 : Règles applicables aux appelés du service national.<a id=67></a>
+#### Section 2 : Règles applicables aux appelés du service national.<a id=73></a>
 
 ###### Article R*112-12
 
@@ -11106,7 +12218,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-#### Section 3 : Dispositions particulières applicables aux Français de l'étranger.<a id=68></a>
+#### Section 3 : Dispositions particulières applicables aux Français de l'étranger.<a id=74></a>
 
 ###### Article R*112-16
 
@@ -11176,7 +12288,7 @@ _Cité par_:
   - Arrêté du 11 janvier 2016 - art. 7 (V)
 
 
-#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=69></a>
+#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=75></a>
 
 ###### Article R*112-18
 
@@ -11237,15 +12349,15 @@ _Modifié par_:
   - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
-## LIVRE II<a id=70></a>
+## LIVRE II<a id=76></a>
 
-### Titre Ier : Définition et principes du service national<a id=71></a>
+### Titre Ier : Définition et principes du service national<a id=77></a>
 
-#### Chapitre Ier : Dispositions générales<a id=72></a>
+#### Chapitre Ier : Dispositions générales<a id=78></a>
 
-##### Section I : Appel avancé et report d'incorporation<a id=73></a>
+##### Section I : Appel avancé et report d'incorporation<a id=79></a>
 
-##### Paragraphe 1er : Appel avancé.<a id=74></a>
+##### Paragraphe 1er : Appel avancé.<a id=80></a>
 
 ###### Article R*1
 
@@ -11405,7 +12517,7 @@ _Cite_:
   - Code du service national - art. R2 (M)
 
 
-##### Paragraphe 2 : Report d'incorporation.<a id=75></a>
+##### Paragraphe 2 : Report d'incorporation.<a id=81></a>
 
 ###### Article R*5
 
@@ -11884,7 +12996,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=76></a>
+##### Paragraphe 3 : Dispositions communes.<a id=82></a>
 
 ###### Article R*11
 
@@ -11970,7 +13082,7 @@ _Cite_:
   - Code du service national R1, R7, R10
 
 
-##### Section II : Composition et appel du contingent.<a id=77></a>
+##### Section II : Composition et appel du contingent.<a id=83></a>
 
 ###### Article R*15
 
@@ -12564,7 +13676,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=78></a>
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=84></a>
 
 ###### Article R*23
 
@@ -12804,13 +13916,13 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### Titre II : Dispositions communes aux différentes formes du service national<a id=79></a>
+### Titre II : Dispositions communes aux différentes formes du service national<a id=85></a>
 
-#### Chapitre Ier : Recensement  - Sélection<a id=80></a>
+#### Chapitre Ier : Recensement  - Sélection<a id=86></a>
 
-##### Section II : Sélection<a id=81></a>
+##### Section II : Sélection<a id=87></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=82></a>
+##### Paragraphe 1er : Dispositions générales.<a id=88></a>
 
 ###### Article R*40
 
@@ -12962,7 +14074,7 @@ _Cite_:
   - Code du service national - art. L5 (M)
 
 
-##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=83></a>
+##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=89></a>
 
 ###### Article R*43
 
@@ -13101,7 +14213,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L321-1 (M)
 
 
-##### Paragraphe 3 : Sélection.<a id=84></a>
+##### Paragraphe 3 : Sélection.<a id=90></a>
 
 ###### Article R*44
 
@@ -13186,7 +14298,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Règles de discipline.<a id=85></a>
+##### Paragraphe 4 : Règles de discipline.<a id=91></a>
 
 ###### Article R*45
 
@@ -13352,7 +14464,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Responsabilité de l'Etat.<a id=86></a>
+##### Paragraphe 5 : Responsabilité de l'Etat.<a id=92></a>
 
 ###### Article R*46
 
@@ -13403,7 +14515,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=87></a>
+##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=93></a>
 
 ###### Article R*47
 
@@ -13511,7 +14623,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 7 : Marins de la marine marchande.<a id=88></a>
+##### Paragraphe 7 : Marins de la marine marchande.<a id=94></a>
 
 ###### Article R*48
 
@@ -13548,7 +14660,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=89></a>
+##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=95></a>
 
 ###### Article R*49
 
@@ -13626,7 +14738,7 @@ _Cite_:
   - Code du service national - art. L23 (M)
 
 
-##### Paragraphe 9 : Commission locale d'aptitude.<a id=90></a>
+##### Paragraphe 9 : Commission locale d'aptitude.<a id=96></a>
 
 ###### Article R*50
 
@@ -13911,11 +15023,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=91></a>
+#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=97></a>
 
-##### Section I : Dispenses<a id=92></a>
+##### Section I : Dispenses<a id=98></a>
 
-##### Paragraphe 1er : Dispenses à caractère social<a id=93></a>
+##### Paragraphe 1er : Dispenses à caractère social<a id=99></a>
 
 ###### Article R*55
 
@@ -14694,7 +15806,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=94></a>
+##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=100></a>
 
 ###### Article R*68-1
 
@@ -14916,7 +16028,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 3 : Résidence à l'étranger.<a id=95></a>
+##### Paragraphe 3 : Résidence à l'étranger.<a id=101></a>
 
 ###### Article R*69
 
@@ -15297,7 +16409,7 @@ _Cite_:
   - Code du service national R69 à R76
 
 
-##### Section III : Condamnés.<a id=96></a>
+##### Section III : Condamnés.<a id=102></a>
 
 ###### Article R*98
 
@@ -15449,7 +16561,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-#### Chapitre III : Réforme pour inaptitude physique.<a id=97></a>
+#### Chapitre III : Réforme pour inaptitude physique.<a id=103></a>
 
 ###### Article R101
 
@@ -15646,13 +16758,13 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
-### Titre III : Dispositions particulières aux différentes formes du service national<a id=98></a>
+### Titre III : Dispositions particulières aux différentes formes du service national<a id=104></a>
 
-#### Chapitre Ier : Service militaire<a id=99></a>
+#### Chapitre Ier : Service militaire<a id=105></a>
 
-##### Section I : Service militaire actif<a id=100></a>
+##### Section I : Service militaire actif<a id=106></a>
 
-##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=101></a>
+##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=107></a>
 
 ###### Article R110
 
@@ -16114,7 +17226,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Gendarmes auxiliaires.<a id=102></a>
+##### Paragraphe 3 : Gendarmes auxiliaires.<a id=108></a>
 
 ###### Article R*127
 
@@ -16347,9 +17459,9 @@ _Cite_:
   - Code du service national - art. L72 (M)
 
 
-##### Section II : Recrutement des cadres de réserve du service militaire<a id=103></a>
+##### Section II : Recrutement des cadres de réserve du service militaire<a id=109></a>
 
-##### Paragraphe 1er : Préparation au service militaire.<a id=104></a>
+##### Paragraphe 1er : Préparation au service militaire.<a id=110></a>
 
 ###### Article R133
 
@@ -16612,7 +17724,7 @@ _Cite_:
   - Code du service national R133 à R138
 
 
-##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=105></a>
+##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=111></a>
 
 ###### Article R140
 
@@ -16818,7 +17930,7 @@ _Cite_:
   - Code du service national R140 à R143
 
 
-##### Paragraphe 3 : Nomination dans les cadres.<a id=106></a>
+##### Paragraphe 3 : Nomination dans les cadres.<a id=112></a>
 
 ###### Article R145
 
@@ -16977,9 +18089,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II bis : Service dans la police nationale<a id=107></a>
+#### Chapitre II bis : Service dans la police nationale<a id=113></a>
 
-##### Section I : Service actif dans la police nationale.<a id=108></a>
+##### Section I : Service actif dans la police nationale.<a id=114></a>
 
 ###### Article R*201-1
 
@@ -17638,7 +18750,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Section II : Disponibilité et réserve dans la police nationale.<a id=109></a>
+##### Section II : Disponibilité et réserve dans la police nationale.<a id=115></a>
 
 ###### Article R*201-20-1
 
@@ -17862,11 +18974,11 @@ _Cite_:
   - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
 
 
-#### Chapitre II ter : Service de sécurité civile<a id=110></a>
+#### Chapitre II ter : Service de sécurité civile<a id=116></a>
 
-##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=111></a>
+##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=117></a>
 
-##### Paragraphe 1er : Affectation.<a id=112></a>
+##### Paragraphe 1er : Affectation.<a id=118></a>
 
 ###### Article R*201-21
 
@@ -18030,7 +19142,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=113></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=119></a>
 
 ###### Article R*201-26
 
@@ -18094,7 +19206,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=114></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=120></a>
 
 ###### Article R*201-28
 
@@ -18265,7 +19377,7 @@ _Cite_:
   - Code du service national R201-29 à R201-31
 
 
-##### Paragraphe 4.<a id=115></a>
+##### Paragraphe 4.<a id=121></a>
 
 ###### Article R*201-34
 
@@ -18332,9 +19444,9 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=116></a>
+##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=122></a>
 
-##### Paragraphe 1er : Affectation.<a id=117></a>
+##### Paragraphe 1er : Affectation.<a id=123></a>
 
 ###### Article R*201-36
 
@@ -18491,7 +19603,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=118></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=124></a>
 
 ###### Article R*201-41
 
@@ -18557,7 +19669,7 @@ _Cite_:
   - Code du service national R201-37
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=119></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=125></a>
 
 ###### Article R*201-43
 
@@ -18714,7 +19826,7 @@ _Cite_:
   - Code du service national R201-44 à R201-46
 
 
-##### Paragraphe 4.<a id=120></a>
+##### Paragraphe 4.<a id=126></a>
 
 ###### Article R*201-48
 
@@ -18781,11 +19893,11 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=121></a>
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=127></a>
 
-##### Section I : Dispositions communes<a id=122></a>
+##### Section I : Dispositions communes<a id=128></a>
 
-##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=123></a>
+##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=129></a>
 
 ###### Article R202
 
@@ -18953,7 +20065,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 2 : Indemnités.<a id=124></a>
+##### Paragraphe 2 : Indemnités.<a id=130></a>
 
 ###### Article R206
 
@@ -19157,7 +20269,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Discipline.<a id=125></a>
+##### Paragraphe 3 : Discipline.<a id=131></a>
 
 ###### Article R210
 
@@ -19206,7 +20318,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Permissions.<a id=126></a>
+##### Paragraphe 4 : Permissions.<a id=132></a>
 
 ###### Article R211
 
@@ -19483,7 +20595,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Soins médicaux.<a id=127></a>
+##### Paragraphe 5 : Soins médicaux.<a id=133></a>
 
 ###### Article R218
 
@@ -19610,7 +20722,7 @@ _Cité par_:
   - Code du service national - art. R227 (V)
 
 
-##### Paragraphe 6 : Inaptitude physique.<a id=128></a>
+##### Paragraphe 6 : Inaptitude physique.<a id=134></a>
 
 ###### Article R221
 
@@ -19652,7 +20764,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### Paragraphe 7 : Libération du service actif.<a id=129></a>
+##### Paragraphe 7 : Libération du service actif.<a id=135></a>
 
 ###### Article R222
 
@@ -19735,7 +20847,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section II : Dispositions particulières au service de l'aide technique.<a id=130></a>
+##### Section II : Dispositions particulières au service de l'aide technique.<a id=136></a>
 
 ###### Article R224
 
@@ -19813,7 +20925,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section III : Dispositions particulières au service de la coopération.<a id=131></a>
+##### Section III : Dispositions particulières au service de la coopération.<a id=137></a>
 
 ###### Article R226
 
@@ -19909,7 +21021,7 @@ _Cite_:
   - Code du service national - art. R220 (M)
 
 
-#### Chapitre IV : Service des objecteurs de conscience.<a id=132></a>
+#### Chapitre IV : Service des objecteurs de conscience.<a id=138></a>
 
 ###### Article R227-1
 
@@ -19949,7 +21061,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-##### Paragraphe 1er : Rattachement et affectation.<a id=133></a>
+##### Paragraphe 1er : Rattachement et affectation.<a id=139></a>
 
 ###### Article R227-2
 
@@ -19996,7 +21108,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-##### Paragraphe 2 : Devoirs et obligations.<a id=134></a>
+##### Paragraphe 2 : Devoirs et obligations.<a id=140></a>
 
 ###### Article R227-3
 
@@ -20038,7 +21150,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 3 : Discipline.<a id=135></a>
+##### Paragraphe 3 : Discipline.<a id=141></a>
 
 ###### Article R227-4
 
@@ -20228,7 +21340,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 4 : Permissions.<a id=136></a>
+##### Paragraphe 4 : Permissions.<a id=142></a>
 
 ###### Article R227-10
 
@@ -20387,7 +21499,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 5 : Habilitation des organismes.<a id=137></a>
+##### Paragraphe 5 : Habilitation des organismes.<a id=143></a>
 
 ###### Article R227-15
 
@@ -20533,7 +21645,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 6 : Missions en temps de guerre.<a id=138></a>
+##### Paragraphe 6 : Missions en temps de guerre.<a id=144></a>
 
 ###### Article R227-19
 
@@ -20603,7 +21715,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-### Titre IV : Service féminin.<a id=139></a>
+### Titre IV : Service féminin.<a id=145></a>
 
 ###### Article R*228
 
@@ -20919,7 +22031,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R531-1 (M)
 
 
-### Titre V : Dispositions communes aux formes civiles du service national<a id=140></a>
+### Titre V : Dispositions communes aux formes civiles du service national<a id=146></a>
 
 ###### Article R*234
 
@@ -20962,7 +22074,7 @@ _Cite_:
   - Code du service national R110 à R114, R116 à R118, R120
 
 
-# Annexes<a id=141></a>
+# Annexes<a id=147></a>
 
 ###### Article ANNEXE I
 
@@ -20986,274 +22098,275 @@ R.* 230, R.* 231, R.* 232, R.* 233, R.* 233-1, R.* 234, R.* 235, R.* 236, R.* 23
 
 R. 2, R. 3, R. 4, R. 9, R. 13, R. 14, R. 19, R. 20, R. 21, R. 22, R. 72, R. 74, R. 75, R. 76, R. 77, R. 78, R. 79, R. 80, R.
 81, R. 82, R. 83, R. 84, R. 85, R. 86, R. 87, R. 88, R. 89, R. 90, R. 91, R. 92, R. 93, R. 94, R. 95, R. 96, R. 97, R. 101,
-R. 102, R. 103, R. 104, R. 110, R. 111, R. 112, R. 113, R. 114, R. 115, R. 116, R. 117, R. 118, R. 119, R. 120, R. 121, R.
-122, R. 126, R. 133, R. 134, R. 135, R. 136, R. 137, R. 138, R. 139, R. 140, R. 141, R. 142, R. 143, R. 144, R. 145, R. 146,
-R. 147, R. 148, R. 202, R. 203, R. 204, R. 205, R. 206, R. 207, R. 208, R. 209, R. 210, R. 211, R. 212, R. 213, R. 214, R.
-215, R. 216, R. 217, R. 218, R. 219, R. 220, R. 221, R. 222, R. 223, R. 224, R. 225, R. 226, R. 227, R. 234.
+R. 102, R. 103, R. 104, R. 110, R. 111, R. 112, R. 113, R. 114, R. 115, R. 116, R. 117, R. 118, R. 119, R. 120, R. 120-1, R
+120-2, R. 120-3, R. 120-4, R. 120-5, R. 120-6, R. 120-7, R. 120-8, R. 120-9, R. 120-10, R. 120-11, R. 121-10, R121-12, R.
+121-13, R. 121-14, R. R121-15, R. 121-16, R. 121-17, R. 121-18, R. 121-19, R. 121-20, D. 121-21, R. 121-22, R. 121-23, R.
+121-24, R. 121-25, R. 121-26, R. 121-27, R. 121-28, R. 121-29, R. 121-30, R. 121-31, R. 121-32, R. 121-33, R. 121-34, R.
+121-35, R. 121-36, R. 121-37, R. 121-38, R. 121-39, R. 121-40, R. 121-41, R. 121-42, R. 121-43, R. 121-44, R. 121-45, R.
+121-46, R. 121-47, R. 121-48, R. 121-49, R. 121-50, R. 121, R. 122, R. 126, R. 133, R. 134, R. 135, R. 136, R. 137, R. 138,
+R. 139, R. 140, R. 141, R. 142, R. 143, R. 144, R. 145, R. 146, R. 147, R. 148, R. 202, R. 203, R. 204, R. 205, R. 206, R.
+207, R. 208, R. 209, R. 210, R. 211, R. 212, R. 213, R. 214, R. 215, R. 216, R. 217, R. 218, R. 219, R. 220, R. 221, R. 222,
+R. 223, R. 224, R. 225, R. 226, R. 227, R. 234.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°92-1249 du 1 décembre 1992 - art. 64 () JORF 3 décembre 1992
-
-_Codifié par_:
-
-  - Décret n°72-806 1972-08-31
+  - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 _Cite_:
 
-  - Code du service national - art. R*1 (M)
-  - Code du service national - art. R*10 (M)
-  - Code du service national - art. R*100 (M)
-  - Code du service national - art. R*105 (M)
-  - Code du service national - art. R*106 (Ab)
-  - Code du service national - art. R*107 (Ab)
-  - Code du service national - art. R*108 (Ab)
-  - Code du service national - art. R*109 (Ab)
-  - Code du service national - art. R*11 (M)
-  - Code du service national - art. R*12 (M)
-  - Code du service national - art. R*127 (M)
-  - Code du service national - art. R*128 (M)
-  - Code du service national - art. R*129 (M)
-  - Code du service national - art. R*130 (M)
-  - Code du service national - art. R*131 (M)
-  - Code du service national - art. R*132 (M)
-  - Code du service national - art. R*149 (M)
-  - Code du service national - art. R*15 (M)
-  - Code du service national - art. R*150 (M)
-  - Code du service national - art. R*151 (M)
-  - Code du service national - art. R*152 (M)
-  - Code du service national - art. R*153 (M)
-  - Code du service national - art. R*154 (M)
-  - Code du service national - art. R*156 (M)
-  - Code du service national - art. R*157 (M)
-  - Code du service national - art. R*158 (M)
-  - Code du service national - art. R*159 (M)
-  - Code du service national - art. R*16 (M)
-  - Code du service national - art. R*160 (M)
-  - Code du service national - art. R*161 (M)
-  - Code du service national - art. R*162 (M)
-  - Code du service national - art. R*163 (M)
-  - Code du service national - art. R*164 (M)
-  - Code du service national - art. R*165 (M)
-  - Code du service national - art. R*166 (M)
-  - Code du service national - art. R*167 (M)
-  - Code du service national - art. R*169 (M)
-  - Code du service national - art. R*17 (M)
-  - Code du service national - art. R*170 (M)
-  - Code du service national - art. R*171 (M)
-  - Code du service national - art. R*172 (M)
-  - Code du service national - art. R*173 (M)
-  - Code du service national - art. R*174 (M)
-  - Code du service national - art. R*175 (M)
-  - Code du service national - art. R*176 (M)
-  - Code du service national - art. R*178 (M)
-  - Code du service national - art. R*179 (M)
-  - Code du service national - art. R*18 (M)
-  - Code du service national - art. R*180 (M)
-  - Code du service national - art. R*181 (M)
-  - Code du service national - art. R*182 (M)
-  - Code du service national - art. R*183 (M)
-  - Code du service national - art. R*184 (M)
-  - Code du service national - art. R*185 (M)
-  - Code du service national - art. R*186 (M)
-  - Code du service national - art. R*187 (M)
-  - Code du service national - art. R*188 (M)
-  - Code du service national - art. R*189 (M)
-  - Code du service national - art. R*190 (M)
-  - Code du service national - art. R*191 (M)
-  - Code du service national - art. R*192 (M)
-  - Code du service national - art. R*193 (M)
-  - Code du service national - art. R*194 (M)
-  - Code du service national - art. R*195 (M)
-  - Code du service national - art. R*196 (M)
-  - Code du service national - art. R*197 (M)
-  - Code du service national - art. R*198 (M)
-  - Code du service national - art. R*199 (M)
-  - Code du service national - art. R*200 (M)
-  - Code du service national - art. R*228 (M)
-  - Code du service national - art. R*229 (M)
-  - Code du service national - art. R*23 (M)
-  - Code du service national - art. R*230 (M)
-  - Code du service national - art. R*231 (M)
-  - Code du service national - art. R*232 (M)
-  - Code du service national - art. R*233 (M)
-  - Code du service national - art. R*233-1 (M)
-  - Code du service national - art. R*234 (M)
-  - Code du service national - art. R*235 (Ab)
-  - Code du service national - art. R*236 (Ab)
-  - Code du service national - art. R*237 (Ab)
-  - Code du service national - art. R*238 (Ab)
-  - Code du service national - art. R*24 (M)
-  - Code du service national - art. R*25 (M)
-  - Code du service national - art. R*26 (M)
-  - Code du service national - art. R*27 (M)
-  - Code du service national - art. R*28 (Ab)
-  - Code du service national - art. R*29 (M)
-  - Code du service national - art. R*30 (Ab)
-  - Code du service national - art. R*31 (M)
-  - Code du service national - art. R*32 (Ab)
-  - Code du service national - art. R*33 (Ab)
-  - Code du service national - art. R*34 (M)
-  - Code du service national - art. R*35 (Ab)
-  - Code du service national - art. R*36 (M)
-  - Code du service national - art. R*37 (M)
-  - Code du service national - art. R*38 (Ab)
-  - Code du service national - art. R*39 (Ab)
-  - Code du service national - art. R*40 (M)
-  - Code du service national - art. R*41 (M)
-  - Code du service national - art. R*42 (M)
-  - Code du service national - art. R*43 (M)
-  - Code du service national - art. R*43-1 (M)
-  - Code du service national - art. R*43-2 (M)
-  - Code du service national - art. R*43-3 (M)
-  - Code du service national - art. R*44 (M)
-  - Code du service national - art. R*44-1 (M)
-  - Code du service national - art. R*45 (M)
-  - Code du service national - art. R*45-1 (M)
-  - Code du service national - art. R*45-2 (M)
-  - Code du service national - art. R*46 (M)
-  - Code du service national - art. R*47 (M)
-  - Code du service national - art. R*47-1 (M)
-  - Code du service national - art. R*47-2 (M)
-  - Code du service national - art. R*48 (M)
-  - Code du service national - art. R*49 (M)
-  - Code du service national - art. R*49-1 (M)
-  - Code du service national - art. R*5 (M)
-  - Code du service national - art. R*50 (M)
-  - Code du service national - art. R*50-1 (M)
-  - Code du service national - art. R*50-2 (M)
-  - Code du service national - art. R*50-3 (M)
-  - Code du service national - art. R*50-4 (M)
-  - Code du service national - art. R*50-5 (M)
-  - Code du service national - art. R*50-6 (M)
-  - Code du service national - art. R*51 (MMN)
-  - Code du service national - art. R*52 (MMN)
-  - Code du service national - art. R*53 (MMN)
-  - Code du service national - art. R*54 (MMN)
-  - Code du service national - art. R*55 (M)
-  - Code du service national - art. R*56 (M)
-  - Code du service national - art. R*57 (M)
-  - Code du service national - art. R*58 (M)
-  - Code du service national - art. R*59 (M)
-  - Code du service national - art. R*6 (M)
-  - Code du service national - art. R*60 (M)
-  - Code du service national - art. R*61 (M)
-  - Code du service national - art. R*62 (M)
-  - Code du service national - art. R*63 (M)
-  - Code du service national - art. R*64 (M)
-  - Code du service national - art. R*65 (M)
-  - Code du service national - art. R*66 (M)
-  - Code du service national - art. R*67 (M)
-  - Code du service national - art. R*68 (M)
-  - Code du service national - art. R*69 (M)
-  - Code du service national - art. R*7 (M)
-  - Code du service national - art. R*70 (M)
-  - Code du service national - art. R*71 (M)
-  - Code du service national - art. R*73 (M)
-  - Code du service national - art. R*8 (M)
-  - Code du service national - art. R*98 (M)
-  - Code du service national - art. R*99 (M)
-  - Code du service national - art. R101 (M)
-  - Code du service national - art. R102 (M)
-  - Code du service national - art. R103 (M)
-  - Code du service national - art. R104 (M)
-  - Code du service national - art. R110 (M)
-  - Code du service national - art. R111 (M)
-  - Code du service national - art. R112 (M)
-  - Code du service national - art. R113 (M)
-  - Code du service national - art. R114 (M)
-  - Code du service national - art. R115 (M)
-  - Code du service national - art. R116 (M)
-  - Code du service national - art. R117 (M)
-  - Code du service national - art. R118 (M)
-  - Code du service national - art. R119 (Ab)
-  - Code du service national - art. R120 (M)
-  - Code du service national - art. R121 (M)
-  - Code du service national - art. R122 (M)
-  - Code du service national - art. R126 (Ab)
-  - Code du service national - art. R13 (M)
-  - Code du service national - art. R133 (M)
-  - Code du service national - art. R134 (M)
-  - Code du service national - art. R135 (M)
-  - Code du service national - art. R136 (M)
-  - Code du service national - art. R137 (M)
-  - Code du service national - art. R138 (M)
-  - Code du service national - art. R139 (M)
-  - Code du service national - art. R14 (M)
-  - Code du service national - art. R140 (M)
-  - Code du service national - art. R141 (M)
-  - Code du service national - art. R142 (M)
-  - Code du service national - art. R143 (M)
-  - Code du service national - art. R144 (M)
-  - Code du service national - art. R145 (M)
-  - Code du service national - art. R146 (M)
-  - Code du service national - art. R147 (M)
-  - Code du service national - art. R148 (M)
-  - Code du service national - art. R19 (M)
-  - Code du service national - art. R2 (M)
-  - Code du service national - art. R20 (M)
-  - Code du service national - art. R202 (M)
-  - Code du service national - art. R203 (M)
-  - Code du service national - art. R204 (M)
-  - Code du service national - art. R205 (M)
-  - Code du service national - art. R206 (M)
-  - Code du service national - art. R207 (M)
-  - Code du service national - art. R208 (M)
-  - Code du service national - art. R209 (M)
-  - Code du service national - art. R21 (M)
-  - Code du service national - art. R210 (M)
-  - Code du service national - art. R211 (M)
-  - Code du service national - art. R212 (M)
-  - Code du service national - art. R213 (M)
-  - Code du service national - art. R214 (M)
-  - Code du service national - art. R215 (M)
-  - Code du service national - art. R216 (M)
-  - Code du service national - art. R217 (M)
-  - Code du service national - art. R218 (M)
-  - Code du service national - art. R219 (M)
-  - Code du service national - art. R22 (M)
-  - Code du service national - art. R220 (M)
-  - Code du service national - art. R221 (M)
-  - Code du service national - art. R222 (M)
-  - Code du service national - art. R223 (M)
-  - Code du service national - art. R224 (M)
-  - Code du service national - art. R225 (M)
-  - Code du service national - art. R226 (M)
-  - Code du service national - art. R227 (M)
-  - Code du service national - art. R3 (M)
-  - Code du service national - art. R4 (M)
-  - Code du service national - art. R72 (M)
-  - Code du service national - art. R74 (M)
-  - Code du service national - art. R75 (M)
-  - Code du service national - art. R76 (M)
-  - Code du service national - art. R77 (M)
-  - Code du service national - art. R78 (Ab)
-  - Code du service national - art. R79 (Ab)
-  - Code du service national - art. R80 (Ab)
-  - Code du service national - art. R81 (Ab)
-  - Code du service national - art. R82 (Ab)
-  - Code du service national - art. R83 (Ab)
-  - Code du service national - art. R84 (Ab)
-  - Code du service national - art. R85 (Ab)
-  - Code du service national - art. R86 (Ab)
-  - Code du service national - art. R87 (Ab)
-  - Code du service national - art. R88 (Ab)
-  - Code du service national - art. R89 (Ab)
-  - Code du service national - art. R9 (M)
-  - Code du service national - art. R90 (Ab)
-  - Code du service national - art. R91 (Ab)
-  - Code du service national - art. R92 (Ab)
-  - Code du service national - art. R93 (Ab)
-  - Code du service national - art. R94 (Ab)
-  - Code du service national - art. R95 (Ab)
-  - Code du service national - art. R96 (Ab)
-  - Code du service national - art. R97 (Ab)
-  - Code du service national R*1, R*5, R*6, R*7, R*8, R*10, R*11, R*12, R*15, R*16, R*17, R*18, R*23, R*24, R*25, R*26, R*27, R*28, R*29, R*30, R*31, R*32, R*33, R*34, R*35, R*36, R*37, R*38, R*39, R*40, R*41, R*42, R*43, R*43-1, R*43-2, R*43-3, R*44, R*
+  - Code du service national
+  - Code du service national - art. R*1
+  - Code du service national - art. R*10
+  - Code du service national - art. R*100
+  - Code du service national - art. R*105
+  - Code du service national - art. R*106
+  - Code du service national - art. R*107
+  - Code du service national - art. R*108
+  - Code du service national - art. R*109
+  - Code du service national - art. R*11
+  - Code du service national - art. R*12
+  - Code du service national - art. R*127
+  - Code du service national - art. R*128
+  - Code du service national - art. R*129
+  - Code du service national - art. R*130
+  - Code du service national - art. R*131
+  - Code du service national - art. R*132
+  - Code du service national - art. R*149
+  - Code du service national - art. R*15
+  - Code du service national - art. R*150
+  - Code du service national - art. R*151
+  - Code du service national - art. R*152
+  - Code du service national - art. R*153
+  - Code du service national - art. R*154
+  - Code du service national - art. R*156
+  - Code du service national - art. R*157
+  - Code du service national - art. R*158
+  - Code du service national - art. R*159
+  - Code du service national - art. R*16
+  - Code du service national - art. R*160
+  - Code du service national - art. R*161
+  - Code du service national - art. R*162
+  - Code du service national - art. R*163
+  - Code du service national - art. R*164
+  - Code du service national - art. R*165
+  - Code du service national - art. R*166
+  - Code du service national - art. R*167
+  - Code du service national - art. R*169
+  - Code du service national - art. R*17
+  - Code du service national - art. R*170
+  - Code du service national - art. R*171
+  - Code du service national - art. R*172
+  - Code du service national - art. R*173
+  - Code du service national - art. R*174
+  - Code du service national - art. R*175
+  - Code du service national - art. R*176
+  - Code du service national - art. R*178
+  - Code du service national - art. R*179
+  - Code du service national - art. R*18
+  - Code du service national - art. R*180
+  - Code du service national - art. R*181
+  - Code du service national - art. R*182
+  - Code du service national - art. R*183
+  - Code du service national - art. R*184
+  - Code du service national - art. R*185
+  - Code du service national - art. R*186
+  - Code du service national - art. R*187
+  - Code du service national - art. R*188
+  - Code du service national - art. R*189
+  - Code du service national - art. R*190
+  - Code du service national - art. R*191
+  - Code du service national - art. R*192
+  - Code du service national - art. R*193
+  - Code du service national - art. R*194
+  - Code du service national - art. R*195
+  - Code du service national - art. R*196
+  - Code du service national - art. R*197
+  - Code du service national - art. R*198
+  - Code du service national - art. R*199
+  - Code du service national - art. R*200
+  - Code du service national - art. R*228
+  - Code du service national - art. R*229
+  - Code du service national - art. R*23
+  - Code du service national - art. R*230
+  - Code du service national - art. R*231
+  - Code du service national - art. R*232
+  - Code du service national - art. R*233
+  - Code du service national - art. R*233-1
+  - Code du service national - art. R*234
+  - Code du service national - art. R*235
+  - Code du service national - art. R*236
+  - Code du service national - art. R*237
+  - Code du service national - art. R*238
+  - Code du service national - art. R*24
+  - Code du service national - art. R*25
+  - Code du service national - art. R*26
+  - Code du service national - art. R*27
+  - Code du service national - art. R*28
+  - Code du service national - art. R*29
+  - Code du service national - art. R*30
+  - Code du service national - art. R*31
+  - Code du service national - art. R*32
+  - Code du service national - art. R*33
+  - Code du service national - art. R*34
+  - Code du service national - art. R*35
+  - Code du service national - art. R*36
+  - Code du service national - art. R*37
+  - Code du service national - art. R*38
+  - Code du service national - art. R*39
+  - Code du service national - art. R*40
+  - Code du service national - art. R*41
+  - Code du service national - art. R*42
+  - Code du service national - art. R*43
+  - Code du service national - art. R*43-1
+  - Code du service national - art. R*43-2
+  - Code du service national - art. R*43-3
+  - Code du service national - art. R*44
+  - Code du service national - art. R*44-1
+  - Code du service national - art. R*45
+  - Code du service national - art. R*45-1
+  - Code du service national - art. R*45-2
+  - Code du service national - art. R*46
+  - Code du service national - art. R*47
+  - Code du service national - art. R*47-1
+  - Code du service national - art. R*47-2
+  - Code du service national - art. R*48
+  - Code du service national - art. R*49
+  - Code du service national - art. R*49-1
+  - Code du service national - art. R*5
+  - Code du service national - art. R*50
+  - Code du service national - art. R*50-1
+  - Code du service national - art. R*50-2
+  - Code du service national - art. R*50-3
+  - Code du service national - art. R*50-4
+  - Code du service national - art. R*50-5
+  - Code du service national - art. R*50-6
+  - Code du service national - art. R*51
+  - Code du service national - art. R*52
+  - Code du service national - art. R*53
+  - Code du service national - art. R*54
+  - Code du service national - art. R*55
+  - Code du service national - art. R*56
+  - Code du service national - art. R*57
+  - Code du service national - art. R*58
+  - Code du service national - art. R*59
+  - Code du service national - art. R*6
+  - Code du service national - art. R*60
+  - Code du service national - art. R*61
+  - Code du service national - art. R*62
+  - Code du service national - art. R*63
+  - Code du service national - art. R*64
+  - Code du service national - art. R*65
+  - Code du service national - art. R*66
+  - Code du service national - art. R*67
+  - Code du service national - art. R*68
+  - Code du service national - art. R*69
+  - Code du service national - art. R*7
+  - Code du service national - art. R*70
+  - Code du service national - art. R*71
+  - Code du service national - art. R*73
+  - Code du service national - art. R*8
+  - Code du service national - art. R*9
+  - Code du service national - art. R*98
+  - Code du service national - art. R*99
+  - Code du service national - art. R101
+  - Code du service national - art. R102
+  - Code du service national - art. R103
+  - Code du service national - art. R104
+  - Code du service national - art. R110
+  - Code du service national - art. R111
+  - Code du service national - art. R112
+  - Code du service national - art. R113
+  - Code du service national - art. R114
+  - Code du service national - art. R115
+  - Code du service national - art. R116
+  - Code du service national - art. R117
+  - Code du service national - art. R118
+  - Code du service national - art. R119
+  - Code du service national - art. R120
+  - Code du service national - art. R121
+  - Code du service national - art. R122
+  - Code du service national - art. R126
+  - Code du service national - art. R13
+  - Code du service national - art. R133
+  - Code du service national - art. R134
+  - Code du service national - art. R135
+  - Code du service national - art. R136
+  - Code du service national - art. R137
+  - Code du service national - art. R138
+  - Code du service national - art. R139
+  - Code du service national - art. R14
+  - Code du service national - art. R140
+  - Code du service national - art. R141
+  - Code du service national - art. R142
+  - Code du service national - art. R143
+  - Code du service national - art. R144
+  - Code du service national - art. R145
+  - Code du service national - art. R146
+  - Code du service national - art. R147
+  - Code du service national - art. R148
+  - Code du service national - art. R19
+  - Code du service national - art. R2
+  - Code du service national - art. R20
+  - Code du service national - art. R202
+  - Code du service national - art. R203
+  - Code du service national - art. R204
+  - Code du service national - art. R205
+  - Code du service national - art. R206
+  - Code du service national - art. R207
+  - Code du service national - art. R208
+  - Code du service national - art. R209
+  - Code du service national - art. R21
+  - Code du service national - art. R210
+  - Code du service national - art. R211
+  - Code du service national - art. R212
+  - Code du service national - art. R213
+  - Code du service national - art. R214
+  - Code du service national - art. R215
+  - Code du service national - art. R216
+  - Code du service national - art. R217
+  - Code du service national - art. R218
+  - Code du service national - art. R219
+  - Code du service national - art. R22
+  - Code du service national - art. R220
+  - Code du service national - art. R221
+  - Code du service national - art. R222
+  - Code du service national - art. R223
+  - Code du service national - art. R224
+  - Code du service national - art. R225
+  - Code du service national - art. R226
+  - Code du service national - art. R227
+  - Code du service national - art. R3
+  - Code du service national - art. R4
+  - Code du service national - art. R72
+  - Code du service national - art. R74
+  - Code du service national - art. R75
+  - Code du service national - art. R76
+  - Code du service national - art. R77
+  - Code du service national - art. R78
+  - Code du service national - art. R79
+  - Code du service national - art. R80
+  - Code du service national - art. R81
+  - Code du service national - art. R82
+  - Code du service national - art. R83
+  - Code du service national - art. R84
+  - Code du service national - art. R85
+  - Code du service national - art. R86
+  - Code du service national - art. R87
+  - Code du service national - art. R88
+  - Code du service national - art. R89
+  - Code du service national - art. R90
+  - Code du service national - art. R91
+  - Code du service national - art. R92
+  - Code du service national - art. R93
+  - Code du service national - art. R94
+  - Code du service national - art. R95
+  - Code du service national - art. R96
+  - Code du service national - art. R97
 
 
-## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=142></a>
+## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=148></a>
 
 ###### Article ANNEXE II
 
