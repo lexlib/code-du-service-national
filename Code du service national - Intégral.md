@@ -1,154 +1,170 @@
 # Code du service national  
-Version Consolidée au 2010-05-14
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
-    - [LIVRE Ier (art. L111-1 à L130-4)](#2)
+    - [LIVRE Ier (art. L111-1 à L122-17)](#2)
       - [TITRE Ier : Dispositions générales relatives au service national (art. L111-1 à L115-2)](#3)
-        - [Chapitre Ier : Principes. (art. L111-1 à L111-3)](#4)
+        - [Chapitre Ier : Principes. (art. L111-1 à L111-2)](#4)
         - [Chapitre II : Champ d'application. (art. L112-1 à L112-6)](#5)
         - [Chapitre III : Le recensement. (art. L113-1 à L113-8)](#6)
-        - [Chapitre IV : L'enseignement de la défense et l'appel de préparation à la défense. (art. L114-1 à L114-13)](#7)
-        - [Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale. (art. L115-1 à L115-2)](#8)
-      - [TITRE II : Dispositions relatives aux volontariats (art. L121-1 à L130-4)](#9)
-        - [Chapitre Ier : Le volontariat dans les armées. (art. L121-1 à L121-3)](#10)
-        - [Chapitre II : Les volontariats civils (art. L122-1 à L122-21)](#11)
-          - [Section I : Principes de volontariats civils. (art. L122-1 à L122-9)](#12)
-          - [Section II : Droits et obligations du volontaire civil. (art. L122-10 à L122-17)](#13)
-          - [Section III : Dispositions diverses. (art. L122-18 à L122-20)](#14)
-          - [Section IV : Dispositions relatives à l'outre-mer. (art. L122-21)](#15)
-        - [Chapitre III : Le volontariat pour l'insertion (art. L130-1 à L130-4)](#16)
-    - [LIVRE II (art. L1 à L159)](#17)
-      - [TITRE Ier : Définition et principes du service national (art. L1 à L14)](#18)
-        - [Chapitre Ier : Dispositions générales. (art. L1 à L8)](#19)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L9 à L14)](#20)
-      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L15 à L65)](#21)
-        - [Chapitre Ier : Recensement, sélection (art. L15 à L28)](#22)
-          - [Section I : Recensement. (art. L15 à L22)](#23)
-          - [Section II : Sélection. (art. L23 à L28)](#24)
-        - [Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. L29 à L60)](#25)
-          - [Section I : Exemptions. (art. L29)](#26)
-          - [Section II : Dispenses. (art. L31 à L40-1)](#27)
-          - [Section IV : Condamnés. (art. L51 à L60)](#28)
-        - [Chapitre III : Réforme pour inaptitude physique. (art. L61)](#29)
-        - [Chapitre IV : Droits résultant de l'accomplissement du service national actif. (art. L62 à L65)](#30)
-      - [TITRE III : Dispositions particulières aux différentes formes du service national (art. L67 à L116-9)](#31)
-        - [Chapitre Ier : Service militaire (art. L67 à L85)](#32)
-          - [Section I : Définition. (art. L67 à L69)](#33)
-          - [Section II : Service militaire actif. (art. L70 à L77)](#34)
-          - [Section III : Recrutement des cadres de réserve du service militaire. (art. L78 à L79)](#35)
-          - [Section IV : Disponibilité et réserve du service militaire. (art. L80 à L85)](#36)
-        - [Chapitre II bis : Service dans la police nationale (art. L94-1 à L94-15)](#37)
-          - [Section I : Dispositions générales. (art. L94-1 à L94-2)](#38)
-          - [Section II : Droits et obligations. (art. L94-3 à L94-10)](#39)
-          - [Section III : Disponibilité et réserve dans la police nationale. (art. L94-11 à L94-15)](#40)
-        - [Chapitre II ter : Service de sécurité civile. (art. L94-16 à L94-20)](#41)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. L95 à L115)](#42)
-          - [Section I : Définitions. (art. L95 à L96)](#43)
-          - [Section II : Dispositions communes (art. L97 à L111)](#44)
-            - [Paragraphe 1er : Dispositions générales. (art. L97 à L101-1)](#45)
-            - [Paragraphe 2 : Droits et obligations. (art. L102 à L108)](#46)
-            - [Paragraphe 3 : Dispositions diverses. (art. L109 à L111)](#47)
-          - [Section III : Dispositions particulières au service de l'aide technique. (art. L112)](#48)
-          - [Section IV : Dispositions particulières au service de la coopération. (art. L113 à L115)](#49)
-        - [Chapitre IV : Service des objecteurs de conscience. (art. L116-1 à L116-9)](#50)
-      - [TITRE IV : Dispositions pénales et disciplinaires (art. L117 à L159)](#51)
-        - [Chapitre Ier : Dispositions générales (art. L117 à L136)](#52)
-          - [Section I : Dispositions pénales (art. L117 à L134)](#53)
-            - [Paragraphe 1er : Fraudes. (art. L117 à L121)](#54)
-            - [Paragraphe 2 : Insoumission. (art. L122 à L131)](#55)
-            - [Paragraphe 4 : Infractions aux obligations dans la réserve. (art. L133 à L134)](#56)
-          - [Section II : Dispositions disciplinaires et administratives. (art. L135 à L136)](#57)
-        - [Chapitre II : Dispositions particulières au service militaire. (art. L137)](#58)
-        - [Chapitre III bis : Dispositions particulières au service dans la police nationale. (art. L149-1 à L149-10)](#59)
-        - [Chapitre III ter : Dispositions particulières au service de sécurité civile. (art. L149-11)](#60)
-        - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L150 à L159)](#61)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*234)](#62)
-    - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-20)](#63)
-      - [Chapitre Ier : Le recensement. (art. R*111-1 à R*111-18)](#64)
-      - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-1 à R121-50)](#65)
-        - [Section I : L'Agence du service civique (art. R120-1 à R120-11)](#66)
-        - [Section II : Les relations entre la personne volontaire et la personne morale agréée (art. D121-21 à R121-20)](#67)
-        - [Section III : Indemnité (art. R121-22 à R121-32)](#68)
-        - [Section IV : Agrément (art. R121-33 à R121-46)](#69)
-        - [Section V : Dispositions diverses (art. R121-47 à R121-50)](#70)
-      - [Chapitre II : L'appel de préparation à la défense (art. R*112-1 à R*112-20)](#71)
-        - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#72)
-        - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#73)
-        - [Section 3 : Dispositions particulières applicables aux Français de l'étranger. (art. R*112-16 à R*112-17)](#74)
-        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#75)
-    - [LIVRE II (art. R*1 à R*234)](#76)
-      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#77)
-        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#78)
-          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#79)
-            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#80)
-            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#81)
-            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#82)
-          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#83)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#84)
-      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#85)
-        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#86)
-          - [Section II : Sélection (art. R*40 à R*50-6)](#87)
-            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#88)
-            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#89)
-            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#90)
-            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#91)
-            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#92)
-            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#93)
-            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#94)
-            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#95)
-            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#96)
-        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#97)
-          - [Section I : Dispenses (art. R*55 à R77)](#98)
-            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#99)
-            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#100)
-            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#101)
-          - [Section III : Condamnés. (art. R*98 à R*100-1)](#102)
-        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#103)
-      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#104)
-        - [Chapitre Ier : Service militaire (art. R110 à R148)](#105)
-          - [Section I : Service militaire actif (art. R110 à R*132)](#106)
-            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#107)
-            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#108)
-          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#109)
-            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#110)
-            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#111)
-            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#112)
-        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#113)
-          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#114)
-          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#115)
-        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#116)
-          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#117)
-            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#118)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#119)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#120)
-            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#121)
-          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#122)
-            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#123)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#124)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#125)
-            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#126)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#127)
-          - [Section I : Dispositions communes (art. R202 à R223)](#128)
-            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#129)
-            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#130)
-            - [Paragraphe 3 : Discipline. (art. R210)](#131)
-            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#132)
-            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#133)
-            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#134)
-            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#135)
-          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#136)
-          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#137)
-        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#138)
-          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#139)
-          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#140)
-          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#141)
-          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#142)
-          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#143)
-          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#144)
-      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#145)
-      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#146)
-  - [Annexes (art. ANNEXE I à ANNEXE II)](#147)
-    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#148)
+        - [Chapitre IV : L'enseignement de la défense et l'appel de préparation à la défense. (art.  à L113-8)](#7)
+        - [Chapitre IV : L'enseignement de la défense et       la journée défense et citoyenneté. (art. L114-1 à L114-13)](#8)
+        - [Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale. (art. L115-1 à L115-2)](#9)
+      - [TITRE Ier bis : Dispositions relatives au service civique. (art. L120-1 à L120-36)](#10)
+        - [Chapitre Ier : L'Agence du service civique. (art. L120-2)](#11)
+        - [Chapitre II : L'engagement et le volontariat de service civique. (art. L120-3 à L120-36)](#12)
+          - [Section 1 : Dispositions générales. (art. L120-3)](#13)
+          - [Section 2 : Les conditions relatives à la personne volontaire. (art. L120-4 à L120-6)](#14)
+          - [Section 3 : Les relations entre la personne volontaire et la personne morale agréée. (art. L120-7 à L120-17)](#15)
+          - [Section 4 : Indemnité. (art. L120-18 à L120-24)](#16)
+          - [Section 5 : Protection sociale. (art. L120-25 à L120-29)](#17)
+          - [Section 6 : Agrément. (art. L120-30)](#18)
+          - [Section 7 : Dispositions diverses. (art. L120-31 à L120-36)](#19)
+      - [TITRE II : Dispositions relatives aux volontariats (art. L121-1 à L130-4)](#20)
+        - [Chapitre Ier : Le volontariat dans les armées. (art. L121-1 à L121-3)](#21)
+        - [Chapitre II : Les volontariats civils (art.  à L122-20)](#22)
+          - [Section II : Droits et obligations du volontaire civil. (art.  à L121-3)](#23)
+          - [Section III : Dispositions diverses. (art. L122-18 à L122-20)](#24)
+        - [Chapitre III : Le volontariat pour l'insertion (art. L130-1 à L130-4)](#25)
+      - [TITRE II : Dispositions relatives aux autres formes de volontariat. (art. L120-37 à L122-17)](#26)
+        - [Chapitre Ier : Le volontariat dans les armées. (art.  à L120-37)](#27)
+        - [Chapitre II : Dispositions relatives aux volontariats internationaux (art. L122-1 à L122-17)](#28)
+          - [Section I : Principes du volontariat international. (art. L122-1 à L122-9)](#29)
+          - [Section II : Droits et obligations du volontaire international. (art. L122-10 à L122-17)](#30)
+          - [Section III : Dispositions diverses. (art.  à L122-17)](#31)
+        - [Chapitre III : Le volontariat pour l'insertion (art.  à L122-17)](#32)
+    - [LIVRE II (art. L1 à L159)](#33)
+      - [TITRE Ier : Définition et principes du service national (art. L1 à L14)](#34)
+        - [Chapitre Ier : Dispositions générales. (art. L1 à L8)](#35)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L9 à L14)](#36)
+      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L15 à L65)](#37)
+        - [Chapitre Ier : Recensement, sélection (art. L15 à L28)](#38)
+          - [Section I : Recensement. (art. L15 à L22)](#39)
+          - [Section II : Sélection. (art. L23 à L28)](#40)
+        - [Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. L29 à L60)](#41)
+          - [Section I : Exemptions. (art. L29)](#42)
+          - [Section II : Dispenses. (art. L31 à L40-1)](#43)
+          - [Section IV : Condamnés. (art. L51 à L60)](#44)
+        - [Chapitre III : Réforme pour inaptitude physique. (art. L61)](#45)
+        - [Chapitre IV : Droits résultant de l'accomplissement du service national actif. (art. L62 à L65)](#46)
+      - [TITRE III : Dispositions particulières aux différentes formes du service national (art. L67 à L116-9)](#47)
+        - [Chapitre Ier : Service militaire (art. L67 à L85)](#48)
+          - [Section I : Définition. (art. L67 à L69)](#49)
+          - [Section II : Service militaire actif. (art. L70 à L77)](#50)
+          - [Section III : Recrutement des cadres de réserve du service militaire. (art. L78 à L79)](#51)
+          - [Section IV : Disponibilité et réserve du service militaire. (art. L80 à L85)](#52)
+        - [Chapitre II bis : Service dans la police nationale (art. L94-1 à L94-15)](#53)
+          - [Section I : Dispositions générales. (art. L94-1 à L94-2)](#54)
+          - [Section II : Droits et obligations. (art. L94-3 à L94-10)](#55)
+          - [Section III : Disponibilité et réserve dans la police nationale. (art. L94-11 à L94-15)](#56)
+        - [Chapitre II ter : Service de sécurité civile. (art. L94-16 à L94-20)](#57)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. L95 à L115)](#58)
+          - [Section I : Définitions. (art. L95 à L96)](#59)
+          - [Section II : Dispositions communes (art. L97 à L111)](#60)
+            - [Paragraphe 1er : Dispositions générales. (art. L97 à L101-1)](#61)
+            - [Paragraphe 2 : Droits et obligations. (art. L102 à L108)](#62)
+            - [Paragraphe 3 : Dispositions diverses. (art. L109 à L111)](#63)
+          - [Section III : Dispositions particulières au service de l'aide technique. (art. L112)](#64)
+          - [Section IV : Dispositions particulières au service de la coopération. (art. L113 à L115)](#65)
+        - [Chapitre IV : Service des objecteurs de conscience. (art. L116-1 à L116-9)](#66)
+      - [TITRE IV : Dispositions pénales et disciplinaires (art. L117 à L159)](#67)
+        - [Chapitre Ier : Dispositions générales (art. L117 à L136)](#68)
+          - [Section I : Dispositions pénales (art. L117 à L134)](#69)
+            - [Paragraphe 1er : Fraudes. (art. L117 à L121)](#70)
+            - [Paragraphe 2 : Insoumission. (art. L122 à L131)](#71)
+            - [Paragraphe 4 : Infractions aux obligations dans la réserve. (art. L133 à L134)](#72)
+          - [Section II : Dispositions disciplinaires et administratives. (art. L135 à L136)](#73)
+        - [Chapitre II : Dispositions particulières au service militaire. (art. L137)](#74)
+        - [Chapitre III bis : Dispositions particulières au service dans la police nationale. (art. L149-1 à L149-10)](#75)
+        - [Chapitre III ter : Dispositions particulières au service de sécurité civile. (art. L149-11)](#76)
+        - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L150 à L159)](#77)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*234)](#78)
+    - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-20)](#79)
+      - [Chapitre Ier : Le recensement. (art. R*111-1 à R*111-18)](#80)
+      - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-1 à R121-50)](#81)
+        - [Section I : L'Agence du service civique (art. R120-1 à R120-11)](#82)
+        - [Section II : Les relations entre la personne volontaire et la personne morale agréée (art. D121-21 à R121-20)](#83)
+        - [Section III : Indemnité (art. R121-22 à R121-32)](#84)
+        - [Section IV : Agrément (art. R121-33 à R121-46)](#85)
+        - [Section V : Dispositions diverses (art. R121-47 à R121-50)](#86)
+      - [Chapitre II : L'appel de préparation à la défense (art. R*112-1 à R*112-20)](#87)
+        - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#88)
+        - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#89)
+        - [Section 3 : Dispositions particulières applicables aux Français de l'étranger. (art. R*112-16 à R*112-17)](#90)
+        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#91)
+    - [LIVRE II (art. R*1 à R*234)](#92)
+      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#93)
+        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#94)
+          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#95)
+            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#96)
+            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#97)
+            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#98)
+          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#99)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#100)
+      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#101)
+        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#102)
+          - [Section II : Sélection (art. R*40 à R*50-6)](#103)
+            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#104)
+            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#105)
+            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#106)
+            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#107)
+            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#108)
+            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#109)
+            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#110)
+            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#111)
+            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#112)
+        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#113)
+          - [Section I : Dispenses (art. R*55 à R77)](#114)
+            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#115)
+            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#116)
+            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#117)
+          - [Section III : Condamnés. (art. R*98 à R*100-1)](#118)
+        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#119)
+      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#120)
+        - [Chapitre Ier : Service militaire (art. R110 à R148)](#121)
+          - [Section I : Service militaire actif (art. R110 à R*132)](#122)
+            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#123)
+            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#124)
+          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#125)
+            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#126)
+            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#127)
+            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#128)
+        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#129)
+          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#130)
+          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#131)
+        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#132)
+          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#133)
+            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#134)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#135)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#136)
+            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#137)
+          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#138)
+            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#139)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#140)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#141)
+            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#142)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#143)
+          - [Section I : Dispositions communes (art. R202 à R223)](#144)
+            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#145)
+            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#146)
+            - [Paragraphe 3 : Discipline. (art. R210)](#147)
+            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#148)
+            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#149)
+            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#150)
+            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#151)
+          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#152)
+          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#153)
+        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#154)
+          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#155)
+          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#156)
+          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#157)
+          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#158)
+          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#159)
+          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#160)
+      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#161)
+      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#162)
+  - [Annexes (art. ANNEXE I à ANNEXE II)](#163)
+    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#164)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -159,42 +175,30 @@ Version Consolidée au 2010-05-14
 
 ###### Article L111-1
 
-Les citoyens concourent à la défense de la Nation. Ce devoir s'exerce notamment par l'accomplissement du service national
-universel.
+Les citoyens concourent à la défense et à la cohésion de la Nation. Ce devoir s'exerce notamment par l'accomplissement du
+service national universel.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2010-241 du 10 mars 2010 - art. 1
 
 
 ###### Article L111-2
 
-Le service national universel comprend des obligations : le recensement, l'appel de préparation à la défense et l'appel sous
-les drapeaux.
+Le service national universel comprend des obligations : le recensement,       la journée défense et citoyenneté et l'appel
+sous les drapeaux. 
 
-Il comporte aussi des volontariats.
+Il comporte aussi un service civique et d'autres formes de volontariat.
 
-L'appel de préparation à la défense a pour objet de conforter l'esprit de défense et de concourir à l'affirmation du
-sentiment d'appartenance à la communauté nationale, ainsi qu'au maintien du lien entre l'armée et la jeunesse.
+La journée défense et citoyenneté a pour objet de conforter l'esprit de défense et de concourir à l'affirmation du sentiment
+d'appartenance à la communauté nationale, ainsi qu'au maintien du lien entre l'armée et la jeunesse.
 
 L'appel sous les drapeaux permet d'atteindre, avec les militaires professionnels, les volontaires et les réservistes, les
 effectifs déterminés par le législateur pour assurer la défense de la Nation.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
 
 _Cité par_:
 
@@ -208,42 +212,10 @@ _Cité par_:
   - Décret n°2019-797 du 26 juillet 2019 - art. 7 (V)
   - Code du service national - art. L122-1 (V)
 
+_Modifié par_:
 
-###### Article L111-3
-
-Le volontariat vise à apporter un concours personnel et temporaire à la communauté nationale dans le cadre d'une mission
-d'intérêt général et à développer la solidarité et le sentiment d'appartenance à la Nation.
-
-Les volontariats s'effectuent dans l'un des trois domaines suivants :
-
-- défense, sécurité et prévention ;
-
-- cohésion sociale et solidarité ;
-
-- coopération internationale et aide humanitaire.
-
-Dans les départements, territoires et collectivités territoriales d'outre-mer, le volontariat de l'aide technique constitue
-une forme particulière du volontariat de cohésion sociale et solidarité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
-
-_Cité par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 8 (V)
-  - Code du service national - art. L122-1 (V)
-  - Code du service national - art. L122-19 (V)
-
-_Abrogé par_:
-
-  - Loi n°2010-241 du 10 mars 2010 - art. 4
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
+  - Loi n°2010-241 du 10 mars 2010 - art. 3
 
 
 #### Chapitre II : Champ d'application.<a id=5></a>
@@ -254,15 +226,13 @@ Le livre Ier du code du service national s'applique aux jeunes hommes nés aprè
 rattachés aux mêmes années de recensement ainsi qu'aux jeunes femmes nées après le 31 décembre 1982 et à celles qui sont
 rattachées aux mêmes années de recensement. Les jeunes femmes sont recensées à partir du 1er janvier 1999.
 
+Le premier alinéa ne s'applique pas au service civique.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2010-241 du 10 mars 2010 - art. 5
 
 
 ###### Article L112-2
@@ -370,26 +340,19 @@ française en vertu des articles 18-1, 19-4, 21-8 et 22-3 du code civil et qui n
 l'expiration du délai ouvert pour exercer cette faculté.
 
 A l'issue de ce délai, celles qui n'ont pas exercé la faculté de répudier ou de décliner la nationalité française sont
-soumises, à compter de la date de leur recensement, à l'obligation de participer à l'appel de préparation à la défense. Elles
+soumises, à compter de la date de leur recensement, à l'obligation de participer à la journée défense et citoyenneté. Elles
 sont alors convoquées, dans les conditions fixées à l'article L. 114-4, par l'administration dans un délai de six mois.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
 _Modifié par_:
 
-  - Loi n°98-170 du 16 mars 1998 - art. 31 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 _Cite_:
 
-  - Code civil - art. 18-1 (V)
-  - Code civil - art. 19-4 (V)
-  - Code civil - art. 21-8 (M)
-  - Code civil - art. 22-3 (V)
-  - Code du service national - art. L114-4 (V)
+  - Code civil - art. 18-1
+  - Code du service national - art. L114-4 (VT)
 
 _Cité par_:
 
@@ -495,6 +458,8 @@ _Créé par_:
 
 #### Chapitre IV : L'enseignement de la défense et l'appel de préparation à la défense.<a id=7></a>
 
+#### Chapitre IV : L'enseignement de la défense et       la journée défense et citoyenneté.<a id=8></a>
+
 ###### Article L114-1
 
 L'enseignement de la défense est organisé dans les conditions fixées par l'article L. 312-12 du code de l'éducation ci-après
@@ -532,23 +497,15 @@ _Cité par_:
 
 ###### Article L114-2
 
-En complément de cet enseignement, est organisé pour tous les Français l'appel de préparation à la défense auquel ils sont
+En complément de cet enseignement, est organisé pour tous les Français la journée défense et citoyenneté à laquelle ils sont
 tenus de participer.
 
-L'appel de préparation à la défense a lieu entre la date du recensement des Français et leur dix-huitième anniversaire. Il
+La journée défense et citoyenneté a lieu entre la date du recensement des Français et leur dix-huitième anniversaire. Elle
 dure une journée.
 
-A l'issue de l'appel de préparation à la défense, il est délivré un certificat individuel de participation.
+A l'issue de la journée défense et citoyenneté, il est délivré un certificat individuel de participation.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
 
 _Cité par_:
 
@@ -559,35 +516,38 @@ _Cité par_:
   - Code du service national - art. R*112-16 (V)
   - Code du service national - art. R*112-9 (V)
 
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
+
 
 ###### Article L114-3
 
-Lors de l'appel de préparation à la défense, les Français reçoivent un enseignement adapté à leur niveau de formation et
+Lors de la journée défense et citoyenneté, les Français reçoivent un enseignement adapté à leur niveau de formation et
 respectueux de l'égalité entre les sexes, qui permet de présenter les enjeux et les objectifs généraux de la défense
-nationale, les moyens civils et militaires de la défense et leur organisation, les formes de volontariats ainsi que les
-périodes militaires d'initiation ou de perfectionnement à la défense nationale et les possibilités d'engagement dans les
-forces armées et les forces de réserve. Ils bénéficient également d'une sensibilisation à la prévention des risques et aux
-missions des services de secours ainsi que d'un apprentissage des gestes élémentaires de premier secours.
+nationale, les moyens civils et militaires de la défense et leur organisation,   le service civique et les autres formes de
+volontariat ainsi que les périodes militaires d'initiation ou de perfectionnement à la défense nationale et les possibilités
+d'engagement dans les forces armées et les forces de réserve. Ils sont sensibilisés aux droits et devoirs liés à la
+citoyenneté et aux enjeux du renforcement de la cohésion nationale et de la mixité sociale. Ils bénéficient également d'une
+sensibilisation à la prévention des risques et aux missions des services de secours ainsi que d'un apprentissage des gestes
+élémentaires de premier secours.
 
 A cette occasion sont organisés des tests d'évaluation des apprentissages fondamentaux de la langue française. Il est délivré
 une information sur les modalités de consentement au don d'organes à fins de greffe et sur la possibilité pour une personne
-d'inscrire son refus sur le registre national automatisé prévu à l'article L. 1232-1 du code de la santé publique.
+d'inscrire son refus sur le registre national automatisé prévu à l'article L. 1232-1 du code de la santé publique. 
 
-En outre, lors de l'appel de préparation à la défense, les Français doivent présenter un certificat délivré par un médecin
-attestant qu'ils ont subi une examen de santé dans les six mois précédents.
+En outre, lors de la journée défense et citoyenneté, les Français doivent présenter un certificat délivré par un médecin
+attestant qu'ils ont subi une examen de santé dans les six mois précédents. 
 
 Ceux qui n'ont pas présenté de certificat sont convoqués par la caisse primaire d'assurance maladie afin de bénéficier d'un
 examen de santé gratuit tel que prévu à l'article L. 321-3 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
 _Modifié par_:
 
-  - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
+  - Loi n°2010-241 du 10 mars 2010 - art. 6
 
 _Cité par_:
 
@@ -596,24 +556,20 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la santé publique - art. L1232-1 (M)
-  - Code de la sécurité sociale. - art. L321-3 (V)
+  - Code de la santé publique - art. L1232-1
+  - Code de la sécurité sociale. - art. L321-3
 
 
 ###### Article L114-4
 
 Les Français choisissent parmi trois dates au moins proposées par l'administration chargée du service national celle à
-laquelle ils participent à l'appel de préparation à la défense.
+laquelle ils participent à       la journée défense et citoyenneté.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 _Cité par_:
 
@@ -624,19 +580,15 @@ _Cité par_:
 
 ###### Article L114-5
 
-Les Français qui n'ont pas pu participer à l'appel de préparation à la défense avant la date de leur dix-huitième
+Les Français qui n'ont pas pu participer à       la journée défense et citoyenneté avant la date de leur dix-huitième
 anniversaire peuvent demander à régulariser leur situation jusqu'à l'âge de vingt-cinq ans. Ils sont alors convoqués par
 l'administration chargée du service national dans un délai de trois mois pour accomplir cette obligation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 _Cité par_:
 
@@ -647,14 +599,10 @@ _Cité par_:
 ###### Article L114-6
 
 Avant l'âge de vingt-cinq ans, pour être autorisée à s'inscrire aux examens et concours soumis au contrôle de l'autorité
-publique, la personne assujettie à l'obligation de participer à l'appel de préparation à la défense doit, sauf cas de force
-majeure, être en règle avec cette obligation.
+publique, la personne assujettie à l'obligation de participer à       la journée défense et citoyenneté doit, sauf cas de
+force majeure, être en règle avec cette obligation.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
 
 _Cité par_:
 
@@ -668,118 +616,94 @@ _Cité par_:
   - Arrêté du 21 décembre 2015 - art. 8 (VD)
   - Code du service national - art. R*111-6 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 
 ###### Article L114-7
 
-Ne sont pas soumises à l'obligation de participer à l'appel de préparation à la défense les personnes atteintes d'une maladie
-invalidante, d'une infirmité ou d'un handicap les rendant définitivement inaptes à y participer.
+Ne sont pas soumises à l'obligation de participer à       la journée défense et citoyenneté les personnes atteintes d'une
+maladie invalidante, d'une infirmité ou d'un handicap les rendant définitivement inaptes à y participer.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 
 ###### Article L114-8
 
 Les Français établis hors de France âgés de moins de vingt-cinq ans participent, sous la responsabilité du chef du poste
-diplomatique ou consulaire accrédité, à l'appel de préparation à la défense aménagé en fonction des contraintes de leur pays
-de résidence.
+diplomatique ou consulaire accrédité, à       la journée défense et citoyenneté aménagée en fonction des contraintes de leur
+pays de résidence.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
 _Modifié par_:
 
-  - Ordonnance n°2005-461 du 13 mai 2005 - art. 5 () JORF 14 mai 2005
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 
 ###### Article L114-9
 
 Les Français majeurs âgés de moins de vingt-cinq ans, non inscrits sur les listes de recensement sur lesquelles ils auraient
-dû figurer, sont convoqués à l'appel de préparation à la défense dans un délai de six mois suivant la découverte de
-l'omission et dans les conditions fixées à l'article L. 114-4.
+dû figurer, sont convoqués à la journée défense et citoyenneté dans un délai de six mois suivant la découverte de l'omission
+et dans les conditions fixées à l'article L. 114-4.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 _Cite_:
 
-  - Code du service national - art. L114-4 (V)
+  - Code du service national - art. L114-4 (VT)
 
 
 ###### Article L114-10
 
-Les Français répondant à l'appel de préparation à la défense ont la qualité d'appelés du service national.
+Les Français répondant à       la journée défense et citoyenneté ont la qualité d'appelés du service national. 
 
-Ils sont placés sous la responsabilité de l'Etat.
+Ils sont placés sous la responsabilité de l'Etat. 
 
-Les personnes victimes de dommages corporels subis à l'occasion de l'appel de préparation à la défense peuvent, ainsi que
+Les personnes victimes de dommages corporels subis à l'occasion de       la journée défense et citoyenneté peuvent, ainsi que
 leurs ayants droit, obtenir de l'Etat une réparation destinée à assurer l'indemnisation intégrale du préjudice subi, calculée
-suivant les règles de droit commun.
+suivant les règles de droit commun. 
 
 Aucune action récursoire ne peut être engagée contre les personnes morales propriétaires des locaux d'accueil.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 
 ###### Article L114-11
 
-Les responsables d'établissements d'accueil de l'appel de préparation à la défense passent, avec l'administration chargée du
-service national, des conventions fixant les modalités de mise à disposition de leurs locaux.
+Les responsables d'établissements d'accueil de       la journée défense et citoyenneté passent, avec l'administration chargée
+du service national, des conventions fixant les modalités de mise à disposition de leurs locaux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 
 ###### Article L114-12
 
-Les Français peuvent, sur leur demande, prolonger l'appel de préparation à la défense par une période militaire d'initiation
-ou de perfectionnement à la défense nationale.
+Les Français peuvent, sur leur demande, prolonger       la journée défense et citoyenneté par une période militaire
+d'initiation ou de perfectionnement à la défense nationale.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
 _Modifié par_:
 
-  - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 
 ###### Article L114-13
@@ -800,7 +724,7 @@ _Modifié par_:
   - Loi n°2004-805 du 9 août 2004 - art. 3 () JORF 11 août 2004
 
 
-#### Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale.<a id=8></a>
+#### Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale.<a id=9></a>
 
 ###### Article L115-1
 
@@ -844,9 +768,1028 @@ _Modifié par_:
   - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
 
 
-### TITRE II : Dispositions relatives aux volontariats<a id=9></a>
+### TITRE Ier bis : Dispositions relatives au service civique.<a id=10></a>
 
-#### Chapitre Ier : Le volontariat dans les armées.<a id=10></a>
+###### Article L120-1
+
+I. ― Le service civique a pour objet de renforcer la cohésion nationale et la mixité sociale et offre à toute personne
+volontaire l'opportunité de servir les valeurs de la République et de s'engager en faveur d'un projet collectif en effectuant
+une mission d'intérêt général auprès d'une personne morale agréée. 
+
+Les missions d'intérêt général susceptibles d'être accomplies dans le cadre d'un service civique revêtent un caractère
+philanthropique, éducatif, environnemental, scientifique, social, humanitaire, sportif, familial ou culturel, ou concourent à
+des missions de défense et de sécurité civile ou de prévention, de promotion de la francophonie et de la langue française ou
+à la prise de conscience de la citoyenneté française et européenne. 
+
+II. ― Le service civique est un engagement volontaire d'une durée continue de six à douze mois donnant lieu à une
+indemnisation prise en charge par l'Etat, ouvert aux personnes âgées de seize à vingt-cinq ans, en faveur de missions
+d'intérêt général reconnues prioritaires pour la Nation. Cet engagement est effectué auprès de personnes morales agréées dans
+les conditions prévues à la section 6 du chapitre II du présent titre. La personne morale agréée est un organisme sans but
+lucratif de droit français ou une personne morale de droit public. Une association cultuelle, politique, une congrégation,
+une fondation d'entreprise ou un comité d'entreprise ne peuvent recevoir d'agrément pour organiser le service civique. 
+
+Le service civique peut également prendre les formes suivantes : 
+
+1° Un volontariat de service civique, d'une durée de six à vingt-quatre mois ouvert aux personnes âgées de plus de vingt-cinq
+ans auprès de personnes morales agréées dans les conditions prévues à la section 6 du chapitre II du présent titre. La
+personne morale agréée est une association de droit français ou une fondation reconnue d'utilité publique ; 
+
+2° Le volontariat international en administration et le volontariat international en entreprise mentionnés au chapitre II du
+titre II du présent livre, le volontariat de solidarité internationale régi par la loi n° 2005-159 du 23 février 2005
+relative au contrat de volontariat de solidarité internationale ou le service volontaire européen défini par la décision n°
+1031 / 2000 / CE du Parlement européen et du Conseil, du 13 avril 2000, établissant le programme d'action communautaire "
+Jeunesse ” et par la décision n° 1719 / 2006 / CE du Parlement européen et du Conseil, du 15 novembre 2006, établissant le
+programme " Jeunesse en action ” pour la période 2007-2013. 
+
+III. ― L'Etat délivre à la personne volontaire, à l'issue de sa mission, une attestation de service civique et un document
+qui décrit les activités exercées et évalue les aptitudes, les connaissances et les compétences acquises pendant la durée du
+service civique. Cette évaluation se fait notamment au regard des modalités d'exécution du contrat de service civique prévues
+par l'article L. 120-12. Elle est réalisée conjointement avec le tuteur mentionné à l'article L. 120-14, la personne morale
+agréée et la personne volontaire. Si la personne volontaire le souhaite, ce document est intégré à son livret de compétences
+mentionné à l'article 11 de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation
+professionnelle tout au long de la vie et à son passeport orientation et formation mentionné à l'article L. 6315-2 du code du
+travail. 
+
+Le service civique est valorisé dans les cursus des établissements secondaires et des établissements dispensant des
+formations sanctionnées par un diplôme d'études supérieures selon des modalités fixées par décret.
+
+L'ensemble des compétences acquises dans l'exécution d'un service civique en rapport direct avec le contenu d'un diplôme,
+d'un titre à finalité professionnelle ou d'un certificat de qualification est pris en compte au titre de la validation des
+acquis de l'expérience dans les conditions prévues aux articles L. 335-5 et L. 613-3 du code de l'éducation et au livre IV de
+la sixième partie du code du travail.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 36 (V)
+  - Loi n°84-53 du 26 janvier 1984 - art. 45 (V)
+  - Loi n°86-33 du 9 janvier 1986 - art. 29 (V)
+  - Loi n°91-1389 du 31 décembre 1991 - art. 1 (V)
+  - Décret n°92-620 du 7 juillet 1992 - art. 18-1 (V)
+  - Décret n°92-621 du 7 juillet 1992 - art. 4 (V)
+  - Loi n°2003-721 du 1 août 2003 - art. 50 (V)
+  - Décret n°2011-1009 du 24 août 2011 (Ab)
+  - Décret n°2013-756 du 19 août 2013 - art. 4 (V)
+  - Loi n°2016-41 du 26 janvier 2016 - art. 9
+  - Décret n°2016-696 du 27 mai 2016 - art. 4
+  - Décret n°2016-1593 du 24 novembre 2016 - art. 1 (V)
+  - Décret n°2016-1909 du 28 décembre 2016 - art. 1
+  - Décret n°2017-1028 du 10 mai 2017 (V)
+  - Arrêté du 2 juillet 2018 - art. 3 (V)
+  - Décret n°2019-141 du 27 février 2019 - art. 11
+  - Décret n°2019-797 du 26 juillet 2019 - art. 2 (V)
+  - Code de l'action sociale et des familles - art. D312-159-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-3 (V)
+  - Code de l'éducation - art. L611-11 (V)
+  - Code de l'éducation - art. L611-9 (V)
+  - Code de l'éducation - art. R822-2 (V)
+  - Code de la sécurité sociale. - art. L321-3 (V)
+  - Code du service national - art. L120-16 (VD)
+  - Code du service national - art. L120-17 (V)
+  - Code du service national - art. L120-2 (V)
+  - Code du service national - art. L120-30 (V)
+  - Code du service national - art. L120-34 (V)
+  - Code du service national - art. L120-7 (VD)
+  - Code du service national - art. R121-33 (V)
+  - Code du service national - art. R121-34 (V)
+  - Code du service national - art. R121-49 (VD)
+  - Code du service national - art. R121-52 (V)
+  - Code du travail - art. D2254-14 (Ab)
+  - Code du travail - art. L1221-13 (V)
+  - Code du travail - art. L5151-9 (VD)
+  - Code du travail - art. L6222-7-1 (V)
+
+_Cite_:
+
+  - Loi n°2005-159 du 23 février 2005
+  - Loi n°2009-1437 du 24 novembre 2009 - art. 11
+  - Code de l'éducation - art. L335-5 (V)
+  - Code de l'éducation - art. L613-3 (V)
+  - Code du service national - art. L120-12 (VD)
+  - Code du service national - art. L120-14 (VD)
+  - Code du travail - art. L6315-2
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+#### Chapitre Ier : L'Agence du service civique.<a id=11></a>
+
+###### Article L120-2
+
+Il est créé une Agence du service civique qui a pour missions : 
+
+1° De définir les orientations stratégiques et les missions prioritaires du service civique mentionnées à l'article L.
+120-1 ; 
+
+2° D'assurer la gestion des agréments et du soutien financier apporté par l'Etat à l'accueil des personnes volontaires en
+service civique ; 
+
+3° De promouvoir et de valoriser le service civique auprès notamment des publics concernés, des organismes d'accueil et
+d'orientation des jeunes, des établissements d'enseignement et des branches professionnelles ; 
+
+4° De veiller à l'égal accès des citoyens au service civique ; 
+
+5° De favoriser la mise en relation des personnes intéressées par un service civique avec les personnes morales agréées
+proposant un contrat de service civique ; 
+
+6° De contrôler et d'évaluer la mise en œuvre du service civique ; 
+
+7° De mettre en place et de suivre les conditions permettant d'assurer la mixité sociale des bénéficiaires du service
+civique ; 
+
+8° D'animer le réseau des volontaires et anciens volontaires en service civique ; 
+
+9° De définir le contenu de la formation civique et citoyenne prévue à l'article L. 120-14. 
+
+Un décret précise les modalités d'information et de sensibilisation des jeunes pour assurer l'objectif de mixité sociale.
+
+L'agence est un groupement d'intérêt public constitué, sans capital, entre l'Etat, l'Agence nationale pour la cohésion
+sociale et l'égalité des chances, l'Institut national de la jeunesse et de l'éducation populaire et l'association France
+Volontaires.D'autres personnes morales peuvent, dans des conditions fixées par la convention constitutive, devenir membres
+constitutifs du groupement. 
+
+Elle est dotée de la personnalité morale et de l'autonomie financière. Elle ne donne lieu ni à la réalisation, ni au partage
+de bénéfices. Elle peut recruter, sur décision de son conseil d'administration, des agents contractuels de droit public.
+
+L'Agence du service civique est administrée par un conseil d'administration composé de représentants de ses membres
+constitutifs ainsi que de personnalités qualifiées. Le conseil d'administration est assisté d'un comité stratégique
+réunissant les partenaires du service civique et, en particulier, des représentants des structures d'accueil et des personnes
+volontaires. Ce comité stratégique est également composé de deux députés et de deux sénateurs, désignés par le président de
+leur assemblée respective. Le comité stratégique propose les orientations soumises au conseil d'administration et débat de
+toute question relative au développement du service civique. La composition et les missions du conseil d'administration et du
+comité stratégique sont précisées dans la convention constitutive. 
+
+Pour l'exercice de son activité, le groupement s'appuie sur les représentants de l'Etat dans la région et le département
+ainsi que sur le réseau de correspondants à l'étranger de l'association France Volontaires. 
+
+Un décret précise les modalités d'application du présent article, notamment la durée pour laquelle le groupement est
+constitué et les conditions dans lesquelles la délivrance des agréments et le soutien financier de l'Etat sont mis en œuvre
+pour le compte de l'agence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code du service national - art. L120-1 (VD)
+  - Code du service national - art. L120-14 (VD)
+
+_Cité par_:
+
+  - Code du service national - art. R120-11 (V)
+
+
+#### Chapitre II : L'engagement et le volontariat de service civique.<a id=12></a>
+
+##### Section 1 : Dispositions générales.<a id=13></a>
+
+###### Article L120-3
+
+Toute personne remplissant les conditions mentionnées à la section 2 du présent chapitre peut souscrire avec une personne
+morale agréée un contrat de service civique.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°57-245 du 24 février 1957 - art. 3 (V)
+  - Décret n°2010-1771 du 30 décembre 2010 - art. 4 (V)
+  - Code du service national - art. L120-2 (M)
+  - Code du service national - art. L120-28 (V)
+  - Code du service national - art. L120-32 (V)
+  - Code du service national - art. L120-36 (VD)
+  - Code du service national - art. L120-7 (V)
+  - Code du service national - art. R121-28 (V)
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+##### Section 2 : Les conditions relatives à la personne volontaire.<a id=14></a>
+
+###### Article L120-4
+
+La personne volontaire doit posséder la nationalité française, celle d'un Etat membre de l'Union européenne, celle d'un Etat
+partie à l'accord sur l'Espace économique européen ou justifier être en séjour régulier en France depuis plus d'un an sous
+couvert de l'un des titres de séjour prévus aux articles L. 313-8 et L. 313-9, aux 1°, 2° et 3° de l'article L. 313-10, aux
+1° à 10° de l'article L. 313-11, ainsi qu'aux articles L. 314-8, L. 314-9 et L. 314-11 du code de l'entrée et du séjour des
+étrangers et du droit d'asile. 
+
+La condition de durée de résidence ne s'applique pas aux personnes étrangères volontaires lorsque des volontaires français
+sont affectés dans les pays dont ces personnes sont ressortissantes, sous réserve des dispositions régissant l'entrée et le
+séjour des étrangers en France. 
+
+Une visite médicale préalable à la souscription du contrat est obligatoire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 3 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-8
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+
+
+###### Article L120-5
+
+La personne volontaire est âgée de plus de seize ans.
+
+Pour les personnes âgées de moins de dix-huit ans, une autorisation parentale est exigée.
+
+Les modalités particulières d'accueil du mineur, notamment la nature des missions qui lui sont confiées ainsi que les
+modalités de son accompagnement, sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+###### Article L120-6
+
+La personne volontaire ne peut réaliser son service civique auprès d'une personne morale agréée ou d'un organisme d'accueil
+dont elle est salariée ou agent public ou, s'agissant de l'engagement de service civique, au sein de laquelle elle détient un
+mandat de dirigeant bénévole.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Code du service national - art. R121-28 (M)
+
+
+##### Section 3 : Les relations entre la personne volontaire et la personne morale agréée.<a id=15></a>
+
+###### Article L120-7
+
+Le contrat de service civique, conclu par écrit, organise une collaboration exclusive de tout lien de subordination entre
+l'un des organismes ou l'une des personnes morales agréées mentionnées au II de l'article L. 120-1 et la personne
+volontaire. 
+
+Le contrat de service civique ne relève pas des dispositions du code du travail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code du service national - art. L120-1 (VD)
+
+
+###### Article L120-8
+
+Sauf dérogation accordée par l'Etat dans le cadre de la procédure d'agrément prévue à la section 6, l'accomplissement des
+missions afférentes au contrat de service civique représente, sur la durée du contrat, au moins vingt-quatre heures par
+semaine. 
+
+Sans préjudice des dispositions prévues à l'article L. 433-1 du code de l'action sociale et des familles, la durée
+hebdomadaire du contrat de service civique ne peut dépasser quarante-huit heures, réparties au maximum sur six jours. Pour
+les mineurs âgés de seize à dix-huit ans, la durée hebdomadaire du contrat de service civique ne peut dépasser trente-cinq
+heures, réparties au maximum sur cinq jours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Code du service national - art. R121-40 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L433-1
+
+
+###### Article L120-9
+
+Un contrat de service civique ne peut être souscrit auprès d'une personne morale agréée :
+
+1° Lorsque les missions confiées à la personne volontaire ont été exercées par un salarié de la personne morale agréée ou de
+l'organisme d'accueil dont le contrat de travail a été rompu moins d'un an avant la date de signature du contrat ;
+
+2° Lorsque les missions confiées à la personne volontaire ont été exercées par un agent public moins d'un an avant la date de
+signature du contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+###### Article L120-10
+
+La rupture de son contrat de travail, à l'initiative du salarié, aux fins de souscrire un contrat de service civique, ne peut
+avoir pour effet de le priver de ses droits à l'assurance chômage à l'issue de son service civique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Décret n°2019-797 du 26 juillet 2019 - art. (V)
+
+
+###### Article L120-11
+
+Le versement des allocations prévues au titre II du livre IV de la cinquième partie du code du travail est suspendu à compter
+de la date d'effet du contrat de service civique. Ni le montant, ni la durée des allocations ne sont remis en cause et le
+versement des allocations est repris au terme du contrat.
+
+Le versement du revenu de solidarité active est suspendu à compter de la date d'effet du contrat de service civique et repris
+au terme du contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Arrêté du 6 octobre 2011 - art. (V)
+  - Décret n°2019-797 du 26 juillet 2019 - art. 25 (V)
+
+
+###### Article L120-12
+
+Dans le cadre du projet d'intérêt général de l'organisme d'accueil, le contrat de service civique mentionne les modalités
+d'exécution de la collaboration entre la personne morale agréée et la personne volontaire, notamment le lieu et la durée de
+la mission effectuée par la personne volontaire ou leur mode de détermination, ainsi que la nature des tâches qu'elle
+accomplit.
+
+La mission de service civique peut être effectuée auprès d'une collectivité territoriale française dans le cadre d'un projet
+de coopération décentralisée qu'elle mène avec une collectivité d'un pays étranger.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Code du service national - art. L120-1 (V)
+
+
+###### Article L120-13
+
+Le régime des congés annuels est fixé par décret. Pendant la durée de ces congés, la personne volontaire perçoit la totalité
+des indemnités mentionnées à la section 4.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code du service national -  Section 4 : Indemnité. (VD)
+
+
+###### Article L120-14
+
+Dans des conditions prévues par décret, la personne morale agréée assure à la personne volontaire, notamment à travers la
+désignation d'un tuteur, une phase de préparation aux missions qui lui sont confiées, au cours de laquelle est précisé le
+caractère civique de celles-ci, ainsi qu'un accompagnement dans la réalisation de ses missions.
+
+La personne morale agréée assure en outre à la personne volontaire effectuant un engagement de service civique une formation
+civique et citoyenne et un accompagnement dans sa réflexion sur son projet d'avenir. Les personnes effectuant un engagement
+de volontariat international en administration ou en entreprise reçoivent cette formation. A leur retour sur le territoire
+national, elles participent à la formation et à l'accompagnement prévus au présent alinéa.
+
+Cette formation peut être mutualisée au niveau local.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Arrêté du 14 mai 2010 - art. 1 (Ab)
+  - Décret n°2017-689 du 28 avril 2017 (V)
+  - Arrêté du 2 juillet 2018 - art. 1 (V)
+  - Code du service national - art. L120-1 (V)
+  - Code du service national - art. L120-2 (V)
+  - Code du service national - art. R121-15 (V)
+  - Code du service national - art. R121-44 (V)
+  - Code du service national - art. R121-47-1 (V)
+
+
+###### Article L120-15
+
+La personne volontaire est soumise aux règles des services de la personne morale agréée auprès de laquelle elle accomplit son
+service civique. Elle est tenue à la discrétion pour les faits et informations dont elle a connaissance dans l'exercice de
+ses missions. Elle est tenue également aux obligations de convenance et de réserve inhérentes à ses fonctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+###### Article L120-16
+
+Il peut être mis fin de façon anticipée à un contrat de service civique sans délai en cas de force majeure ou de faute grave
+d'une des parties, et moyennant un préavis d'au moins un mois dans tous les autres cas. Le contrat peut également être rompu
+avant son terme, sans application du préavis d'un mois, si la rupture a pour objet de permettre à la personne volontaire
+d'être embauchée pour un contrat à durée déterminée d'au moins six mois ou pour un contrat à durée indéterminée. 
+
+En cas de rupture anticipée du fait de l'organisme ou de la personne morale agréée mentionnée au II de l'article L. 120-1,
+une lettre recommandée avec demande d'avis de réception ou remise en main propre contre décharge précise le ou les motifs de
+la rupture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code du service national - art. L120-1 (VD)
+
+
+###### Article L120-17
+
+L'attestation de service civique mentionnée à l'article L. 120-1 peut également être délivrée, dans des conditions prévues
+par décret, aux pompiers volontaires. 
+
+Une attestation de service civique senior peut être délivrée, dans des conditions définies par l'Agence du service civique, à
+la personne qui contribue à la formation civique et citoyenne ou au tutorat des personnes effectuant un engagement de service
+civique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code du service national - art. L120-1 (VD)
+
+_Cité par_:
+
+  - Code du service national - art. R121-49 (VD)
+
+
+##### Section 4 : Indemnité.<a id=16></a>
+
+###### Article L120-18
+
+Une indemnité est versée, selon une périodicité mensuelle, par la personne morale agréée à la personne effectuant un
+volontariat de service civique. Son montant et les conditions de son versement sont prévus par le contrat de service civique.
+
+Les montants maximaux et minimaux de cette indemnité sont fixés par décret.
+
+Dans le cadre d'un engagement de service civique, une indemnité est versée, selon une périodicité mensuelle, à la personne
+volontaire pour le compte de l'Agence du service civique visée au chapitre Ier du présent titre. Son montant, ainsi que ses
+conditions de modulation et de versement, sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 21 (V)
+
+
+###### Article L120-19
+
+Les personnes volontaires peuvent également percevoir les prestations nécessaires à leur subsistance, leur équipement, leur
+transport et leur logement.
+
+Ces prestations doivent rester proportionnées aux missions confiées aux volontaires.
+
+Des familles d'accueil volontaires peuvent recevoir des volontaires du service civique dans le cas de missions éloignées de
+leur domicile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Arrêté du 2 juillet 2018 - art. 1 (V)
+
+
+###### Article L120-20
+
+Lorsqu'elle est affectée hors du territoire métropolitain, la personne volontaire ayant souscrit un contrat de service
+civique peut percevoir des prestations servies notamment sous forme d'une indemnité supplémentaire, dont le montant est fixé
+à un taux uniforme, pour chacun des pays ou régions de ces pays ou zones géographiques.
+
+Celle résidant dans un département d'outre-mer ou une collectivité d'outre-mer et affectée sur le territoire métropolitain
+peut recevoir des prestations servies notamment sous forme d'une indemnité supplémentaire dont le montant est fixé à un taux
+uniforme.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Arrêté du 25 janvier 2011 - art. 1 (V)
+  - Arrêté du 26 septembre 2011 - art. 2 (V)
+  - Arrêté du 2 juillet 2018 - art. 1 (V)
+  - Code du service national - art. R121-52 (V)
+
+
+###### Article L120-21
+
+Les indemnités et les prestations mentionnées à la présente section ne sont pas soumises à l'impôt sur le revenu.
+
+Elles ne sont pas prises en compte pour la détermination des droits de l'aide à l'enfance, de l'aide à la famille, de
+l'allocation personnalisée d'autonomie, de l'aide à domicile et au placement, du revenu de solidarité active, de l'allocation
+de logement familiale ou sociale, de l'aide personnalisée au logement, de la protection complémentaire en matière de santé
+mentionnée à l'article L. 861-1 du code de la sécurité sociale, de l'allocation aux adultes handicapés et de l'allocation
+d'éducation de l'enfant handicapé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. R861-10 (VD)
+  - Code général des impôts, CGI. - art. 81 (M)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L861-1
+
+
+###### Article L120-22
+
+La personne volontaire accomplissant un contrat de service civique en France peut bénéficier de titres-repas pour lui
+permettre d'acquitter en tout ou partie le prix de repas consommés au restaurant ou préparés par un restaurateur. 
+
+La personne morale agréée en vertu de l'article L. 120-30 autre que l'Etat contribue à l'acquisition des titres-repas du
+volontaire à concurrence de leur valeur libératoire, dont le montant correspond à la limite fixée par le 19° de l'article 81
+du code général des impôts. 
+
+La contribution de la personne morale agréée au financement des titres-repas de la personne volontaire est exonérée de toutes
+charges fiscales, cotisations et contributions sociales. L'avantage qui résulte de cette contribution, pour la personne
+volontaire, n'est pas assujetti à l'impôt sur le revenu.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Arrêté du 2 juillet 2018 - art. 1 (V)
+  - Code du service national - art. R121-27 (V)
+  - Code général des impôts, CGI. - art. 81 (M)
+
+_Cite_:
+
+  - Code du service national - art. L120-30 (VD)
+
+
+###### Article L120-23
+
+Le bénéfice des dispositions de la présente section est maintenu durant la période d'accomplissement du contrat de service
+civique au profit de la personne volontaire en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité
+temporaire liée à un accident imputable au service ou à une maladie professionnelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+###### Article L120-24
+
+Les conditions d'application de la présente section sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+##### Section 5 : Protection sociale.<a id=17></a>
+
+###### Article L120-25
+
+Lorsque le service civique est effectué en métropole ou dans un département d'outre-mer, la personne volontaire est affiliée
+obligatoirement aux assurances sociales du régime général en application du 28° de l'article L. 311-3 du code de la sécurité
+sociale et bénéficie des dispositions du livre IV du même code en application du 13° de l'article L. 412-8 dudit code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L311-3
+  - Code de la sécurité sociale. - art. L412-8 (V)
+
+
+###### Article L120-26
+
+Lorsque le service est accompli en France, la couverture des risques maladie, maternité, invalidité, décès et accidents du
+travail et maladies professionnelles est assurée par le versement, par la personne morale agréée ou l'organisme versant
+l'indemnité pour le compte de l'Agence du service civique, de cotisations forfaitaires dont les modalités sont fixées par
+décret. 
+
+Les autres cotisations et contributions d'origine légale ou conventionnelle rendues obligatoires par la loi, à l'exception
+des contributions définies aux articles L. 136-2 du code de la sécurité sociale et 14 de l'ordonnance n° 96-50 du 24 janvier
+1996 relative au remboursement de la dette sociale, ne sont pas dues au titre des indemnités et prestations prévues à la
+section 4 du présent chapitre. 
+
+La personne morale agréée en vertu de l'article L. 120-30 du présent code assure à la personne volontaire affectée dans un
+département d'outre-mer le bénéfice d'une couverture complémentaire pour les risques mentionnés au premier alinéa du présent
+article, notamment en cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et
+de rapatriement de corps. Le ministre chargé de l'outre-mer fixe par arrêté les modalités de cette couverture.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°96-50 du 24 janvier 1996
+  - Code du service national - art. L120-30 (VD)
+  - Code de la sécurité sociale. - art. L136-2
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Arrêté du 25 janvier 2011 - art. 2 (V)
+  - Arrêté du 28 avril 2011 - art. 1 (V)
+  - Code du service national - art. L120-27 (VD)
+
+
+###### Article L120-27
+
+La personne morale agréée en vertu de l'article L. 120-30 assure à la personne volontaire affectée à l'étranger, pour elle-
+même et ses ayants droit et sous réserve des engagements européens et internationaux de la France, le bénéfice des
+prestations en nature de l'assurance maladie, maternité, invalidité et des prestations accidents du travail et maladies
+professionnelles, d'un niveau au moins égal à celles mentionnées à l'article L. 120-26. 
+
+La personne morale agréée en vertu de l'article L. 120-30 assure à la personne volontaire affectée à l'étranger, pour elle-
+même et ses ayants droit et sous réserve des engagements européens et internationaux de la France, le bénéfice d'une
+couverture complémentaire pour les risques mentionnés au premier alinéa du présent article, notamment en cas
+d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de corps.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Arrêté du 26 septembre 2011 - art. 4 (V)
+  - Code du service national - art. L120-34 (V)
+
+_Cite_:
+
+  - Code du service national - art. L120-26 (VD)
+  - Code du service national - art. L120-30 (VD)
+
+
+###### Article L120-28
+
+La couverture du risque vieillesse est assurée dans les conditions prévues à l'article L. 241-3 du code de la sécurité
+sociale. Les personnes volontaires ne sont pas soumises, au titre de leur contrat de service civique, à l'obligation
+d'affiliation mentionnée à l'article L. 921-1 du même code. 
+
+Les cotisations à la charge de la personne morale agréée et de la personne volontaire sont dues par la personne morale agréée
+en vertu de l'article L. 120-30 du présent code ou par l'organisme versant l'indemnité pour le compte de l'Agence du service
+civique. Ce versement ne peut être inférieur à un montant fixé par décret.
+
+L'Etat prend à sa charge, dans des conditions fixées par décret, le versement des cotisations complémentaires nécessaires
+pour valider auprès du régime général un nombre de trimestres correspondant à la durée du service civique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code du service national - art. L120-30 (VD)
+  - Code de la sécurité sociale. - art. L241-3
+  - Code de la sécurité sociale. - art. L921-1 (V)
+
+
+###### Article L120-29
+
+La personne morale agréée en vertu de l'article L. 120-30 ou l'Agence du service civique assume, à l'égard de la personne
+volontaire, les obligations de l'employeur en matière d'affiliation, de paiement et de déclaration des cotisations et
+contributions de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code du service national - art. L120-30 (VD)
+
+
+##### Section 6 : Agrément.<a id=18></a>
+
+###### Article L120-30
+
+L'agrément prévu par le présent titre ne peut être délivré qu'à des organismes sans but lucratif de droit français ou des
+personnes morales de droit public. 
+
+Ces personnes morales sont agréées par l'Agence du service civique, pour une durée déterminée, au vu notamment de la nature
+des missions confiées aux personnes volontaires, de l'âge des personnes volontaires et de leur capacité à assurer
+l'accompagnement et la prise en charge des personnes volontaires.
+
+L'Agence du service civique octroie également, dans le cadre d'une procédure d'agrément, les éventuelles dérogations qui
+peuvent être demandées par les personnes morales visées au 1° du II de l'article L. 120-1 pour accueillir des personnes
+volontaires âgées de plus de dix-huit ans et de moins de vingt-cinq ans. Un décret fixe la liste des missions qui peuvent
+faire l'objet de telles dérogations. 
+
+Un décret fixe les conditions de délivrance et de retrait de l'agrément.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 21 (V)
+  - Arrêté du 26 septembre 2011 - art. 2 (V)
+  - Arrêté du 26 septembre 2011 - art. 4 (V)
+  - Code de la sécurité sociale. - art. R372-4 (VD)
+  - Code du service national - art. L120-22 (V)
+  - Code du service national - art. L120-26 (V)
+  - Code du service national - art. L120-27 (VD)
+  - Code du service national - art. L120-28 (V)
+  - Code du service national - art. L120-29 (VD)
+  - Code du service national - art. L120-32 (M)
+  - Code du service national - art. R121-47-1 (V)
+  - Code du service national - art. R121-52 (V)
+
+_Cite_:
+
+  - Code du service national - art. L120-1 (VD)
+
+
+##### Section 7 : Dispositions diverses.<a id=19></a>
+
+###### Article L120-31
+
+Les organismes sans but lucratif de droit français agréés auprès desquels des personnes volontaires ont souscrit un
+engagement de service civique peuvent percevoir une aide, à la charge de l'Etat, aux fins de couvrir une partie des coûts
+relatifs à l'accueil et à l'accompagnement du volontaire accomplissant son service.
+
+Le montant et les modalités de versement de l'aide de l'Etat, dont le niveau peut varier en fonction des conditions d'accueil
+de la personne volontaire et selon que l'engagement de service civique est effectué en France métropolitaine, dans un
+département d'outre-mer, une collectivité d'outre-mer, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et
+Futuna et les Terres australes et antarctiques françaises ou à l'étranger, sont définis par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cité par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 21 (V)
+  - Code du service national - art. R121-27 (V)
+
+
+###### Article L120-32
+
+Le contrat de service civique souscrit auprès d'un organisme sans but lucratif de droit français agréé peut prévoir la mise à
+disposition de la personne volontaire, aux fins d'accomplissement de son service, auprès d'une ou, de manière successive, de
+plusieurs personnes morales tierces non agréées, mais qui remplissent les conditions d'agrément prévues au deuxième alinéa de
+l'article L. 120-30. 
+
+Dans ce cas, le contrat de service civique mentionne les modalités d'exécution de la collaboration entre l'organisme sans but
+lucratif agréé en vertu de l'article L. 120-30, la personne volontaire et les personnes morales au sein desquelles est
+effectué le service civique, notamment le lieu et la durée de chaque mission effectuée par la personne volontaire ou leur
+mode de détermination ainsi que la nature ou le mode de détermination des tâches qu'elle accomplit. 
+
+Une convention est conclue entre la personne volontaire, l'organisme sans but lucratif agréé en vertu de l'article L. 120-30
+auprès duquel est souscrit le contrat de service civique et les personnes morales accueillant la personne volontaire.
+
+L'ensemble des dispositions du présent titre est applicable au service civique accompli dans ces conditions. 
+
+Cette mise à disposition est effectuée sans but lucratif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code du service national - art. L120-30 (VD)
+
+_Cité par_:
+
+  - Code du service national - art. R121-38 (V)
+
+
+###### Article L120-33
+
+Pour l'accès à un emploi de l'Etat, des collectivités territoriales, des établissements publics et des entreprises publiques
+dont le personnel est soumis à un statut défini par la loi ou le règlement, la limite d'âge est reculée d'un temps égal au
+temps effectif du service civique accompli par la personne souhaitant accéder à cet emploi.
+
+Ce temps effectif est également pris en compte dans le calcul de l'ancienneté dans les fonctions publiques de l'Etat,
+territoriale et hospitalière et de la durée d'expérience professionnelle requise pour le bénéfice de la validation des acquis
+de l'expérience en vue de la délivrance d'un diplôme de l'enseignement supérieur ou technologique ou d'un titre
+professionnel.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°88-547 du 6 mai 1988 - art. 9-6 (VD)
+  - Décret n°92-851 du 28 août 1992 - art. 10-1 (VD)
+  - Décret n°93-622 du 27 mars 1993 - art. 9-4 (V)
+  - Décret n°2006-1827 du 23 décembre 2006 - art. 11 (V)
+  - Décret n°2007-767 du 9 mai 2007 - art. 20 (VD)
+  - Décret n°2009-1388 du 11 novembre 2009 - art. 20 (V)
+  - Décret n°2009-1388 du 11 novembre 2009 - art. 22 (V)
+  - Décret n°2011-661 du 14 juin 2011 - art. 22 (V)
+  - Décret n°2012-521 du 20 avril 2012 - art. 10-4 (V)
+  - Décret n°2012-1420 du 18 décembre 2012 - art. 12 (VD)
+  - Décret n°2012-1466 du 26 décembre 2012 - art. 15 (V)
+  - Décret n°2014-100 du 4 février 2014 - art. 7 (VT)
+  - Décret n°2014-101 du 4 février 2014 - art. 7 (VT)
+  - Décret n°2014-923 du 18 août 2014 - art. 12 (VD)
+  - Décret n°2014-1585 du 23 décembre 2014 - art. 18 (V)
+  - Décret n°2015-802 du 1er juillet 2015 - art. 12 (VT)
+  - Décret n°2015-1048 du 21 août 2015 - art. 8 (V)
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+###### Article L120-34
+
+Le présent titre est applicable sur l'ensemble du territoire de la République, sous réserve, pour les collectivités d'outre-
+mer régies par l'article 74 de la Constitution, la Nouvelle-Calédonie et les Terres australes et antarctiques françaises, des
+dispositions suivantes : 
+
+1° Par exception à l'article L. 120-1, le volontariat de service civique peut être effectué dans les départements et
+collectivités d'outre-mer auprès de personnes morales de droit public ; 
+
+2° Une convention entre l'Etat, d'une part, et la Nouvelle-Calédonie et la Polynésie française, d'autre part, fixe les
+conditions d'application du présent titre dans ces deux collectivités. Elle précise : 
+
+a) Les conditions d'exonération d'imposition et de versement des taxes fiscales et sociales attachées à la perception de
+l'indemnité mensuelle et de l'indemnité supplémentaire ; 
+
+b) Les conditions dans lesquelles les personnes volontaires affectées en Nouvelle-Calédonie ou en Polynésie française et
+leurs ayants droit bénéficient des prestations du régime local de sécurité sociale et de couverture complémentaire, notamment
+en cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de
+corps lorsque le contrat de service civique est accompli auprès d'un service de l'Etat ou d'un organisme d'accueil public ou
+privé, y compris lorsqu'il s'agit d'une association ; 
+
+c) La prise en compte de la durée du service accompli au titre du service civique par le régime de retraite de base ou
+spécial de la Nouvelle-Calédonie ou de la Polynésie française auquel la personne volontaire est affiliée à titre obligatoire
+ou volontaire postérieurement à son service civique ; 
+
+d) Les modalités d'adaptation de l'article L. 120-27 au regard des b et c lorsqu'une personne volontaire engagée en Nouvelle-
+Calédonie ou en Polynésie française est affectée à l'étranger ; 
+
+e) Les conditions d'ancienneté et d'accès à un emploi relevant de la compétence de la Polynésie française, de la Nouvelle-
+Calédonie ou de ses provinces ainsi que de leurs établissements publics dont le personnel est soumis au statut
+réglementaire ; 
+
+f) La prise en compte de l'expérience professionnelle acquise lors du service civique pour la délivrance d'un diplôme ou d'un
+titre professionnel par la Nouvelle-Calédonie ou la Polynésie française ; 
+
+g) Le cas échéant, les modalités de coordination lorsqu'une personne volontaire est affectée successivement en Nouvelle-
+Calédonie ou en Polynésie française et dans une autre collectivité territoriale de la République ; 
+
+3° Une convention entre l'Etat, d'une part, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon et les îles
+Wallis et Futuna, d'autre part, fixe les conditions dans lesquelles l'ensemble des indemnités et prestations prévues à la
+section 4 du présent chapitre sont exonérées d'imposition et de versement de taxes fiscales, parafiscales et sociales
+applicables localement ; 
+
+4° Dans les Terres australes et antarctiques françaises, l'indemnité mensuelle et l'indemnité supplémentaire prévues à la
+section 4 du présent chapitre sont exonérées d'imposition et de versement de taxes fiscales, parafiscales et sociales
+applicables localement ; 
+
+5° A Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna et les Terres
+australes et antarctiques françaises, la protection sociale prévue au présent titre est assurée dans les conditions prévues
+par la réglementation applicable localement lorsque le contrat de service civique est accompli auprès d'un service de l'Etat
+ou d'un organisme d'accueil public ou privé, y compris lorsqu'il s'agit d'une association. Lorsque l'organisme d'accueil
+assure à la personne volontaire une couverture complémentaire, notamment en cas d'hospitalisation ainsi que pour les risques
+d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de corps, le ministre chargé de l'outre-mer fixe par
+arrêté les modalités de cette couverture ainsi que les règles particulières lorsque la personne volontaire est affectée à
+l'étranger. La législation sur les accidents du travail est celle applicable localement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 74 (V)
+  - Code du service national - art. L120-1 (VD)
+  - Code du service national - art. L120-27 (VD)
+
+_Cité par_:
+
+  - Ordonnance n°2002-411 du 27 mars 2002 - art. 8 (VD)
+  - Arrêté du 28 avril 2011 - art. 1 (V)
+  - Arrêté du 28 avril 2011 - art. 4 (V)
+  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+  - Code du service national - art. R121-52 (V)
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+###### Article L120-35
+
+Les litiges relatifs à un contrat de service civique relèvent de la compétence de la juridiction judiciaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+
+###### Article L120-36
+
+Toute personne française âgée de seize à dix-huit ans ayant conclu le contrat de service civique mentionné à l'article L.
+120-3 est réputée être inscrite dans un parcours lui permettant de préparer son entrée dans la vie active.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 8
+
+_Cite_:
+
+  - Code du service national - art. L120-3 (VD)
+
+
+### TITRE II : Dispositions relatives aux volontariats<a id=20></a>
+
+#### Chapitre Ier : Le volontariat dans les armées.<a id=21></a>
 
 ###### Article L121-1
 
@@ -923,641 +1866,31 @@ _Créé par_:
   - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
 
 
-#### Chapitre II : Les volontariats civils<a id=11></a>
+#### Chapitre II : Les volontariats civils<a id=22></a>
 
-##### Section I : Principes de volontariats civils.<a id=12></a>
+##### Section II : Droits et obligations du volontaire civil.<a id=23></a>
 
-###### Article L122-1
-
-Dans les conditions prévues par le présent chapitre, les Français et les Françaises âgés de plus de dix-huit ans et de moins
-de vingt-huit ans à la date du dépôt de leur candidature peuvent demander à accomplir comme volontaires le service civil
-prévu aux articles L. 111-2 et L. 111-3 du présent code.
-
-Sous réserve de respecter ces dispositions, les Français nés avant le 1er janvier 1979 et les Françaises nées avant le 1er
-janvier 1983 peuvent également se porter candidats à un volontariat civil.
-
-Ce service volontaire est également ouvert dans les mêmes conditions d'âge aux ressortissantes et ressortissants des Etats
-membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen. Ces candidats doivent se
-trouver en position régulière au regard des obligations de service national de l'Etat dont ils sont ressortissants. Ils
-peuvent être écartés des fonctions qui soit sont inséparables de l'exercice de la souveraineté, soit comportent une
-participation directe ou indirecte à l'exercice de prérogatives de puissance publique de l'Etat ou des autres collectivités
-publiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Cité par_:
-
-  - Décret n°99-1039 du 10 décembre 1999 - art. 63 (Ab)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 6 (V)
-  - Arrêté du 11 janvier 2001 - art. 3 (V)
-  - Décret n°2007-262 du 27 février 2007 - art. ANNEXE (V)
-  - Arrêté du 23 novembre 2009 - art. 2 (V)
-  - Arrêté du 15 mars 2012 - art. Annexe II (VD)
-  - Décret n°2019-749 du 19 juillet 2019 (V)
-  - Arrêté du 22 juillet 2019 - art.
-  - Code du service national - art. L122-20 (VD)
-  - Code du service national - art. L122-21 (VT)
-  - Code général des impôts, CGI. - art. 230 H (V)
-  - Code général des impôts, CGI. - art. 244 quater H (Ab)
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 1 () JORF 15 mars 2000
-
-_Cite_:
-
-  - Code du service national - art. L111-2 (V)
-  - Code du service national - art. L111-3 (V)
-
-
-###### Article L122-2
-
-Les candidats à un volontariat civil doivent satisfaire à des critères d'aptitude et à des conditions qui, définis pour
-chaque forme de volontariat par décret en Conseil d'Etat, doivent permettre un égal accès des femmes et des hommes.
-
-Ils doivent en outre, sauf cas de force majeure, être en règle avec les obligations résultant du présent code.
-
-Enfin, l'accomplissement du volontariat civil est subordonné à l'acceptation de la candidature par l'autorité administrative
-compétente qui statue dans la limite des crédits budgétaires prévus à cet effet, en respectant, chaque fois que cela est
-possible, le principe de la parité entre les femmes et les hommes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Décret n°2002-1527 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002
-
-
-###### Article L122-3
-
-L'engagement de volontariat civil est conclu pour une durée de six à vingt-quatre mois et doit être accompli auprès d'un seul
-organisme ou collectivité, sous réserve des dispositions de l'article L. 122-8. Il peut être prorogé une fois sans que sa
-durée totale excède vingt-quatre mois. Son accomplissement ne peut être fractionné.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 3 () JORF 15 mars 2000
-
-_Cité par_:
-
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 6 (V)
-  - Arrêté du 24 mars 2004 - art. 7 (V)
-  - Arrêté du 24 mars 2004 - art. 8 (V)
-  - Code du service national - art. L122-3-1 (VT)
-  - Code du service national - art. L122-8 (VD)
-
-
-###### Article L122-3-1
-
-Par dérogation à l'article L. 122-3, l'engagement de volontariat international en entreprise peut être accompli de manière
-fractionnée et auprès d'organismes et collectivités différents.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2008-776 du 4 août 2008 - art. 28
-
-_Abrogé par_:
-
-  - Loi n°2010-241 du 10 mars 2010 - art. 15
-
-_Cite_:
-
-  - Code du service national - art. L122-3
-
-
-###### Article L122-4
-
-Les volontaires civils participent dans le domaine de la prévention, de la sécurité et de la défense civiles aux missions de
-protection des personnes, des biens et de l'environnement. Dans le domaine de la cohésion sociale et de la solidarité, ils
-participent à des missions d'intérêt général.
-
-Dans les départements, territoires et collectivités d'outre-mer et en Nouvelle-Calédonie, le volontariat de l'aide technique
-contribue également au développement scientifique, économique, administratif, sanitaire et social, éducatif et culturel.
-
-Au titre de la coopération internationale, les volontaires civils participent à l'action de la France dans le monde en
-matière d'action culturelle et d'environnement, de développement technique, scientifique et économique et d'action
-humanitaire. Ils contribuent également à l'action de la France en faveur du développement de la démocratie et des droits de
-l'homme, éléments indissociables d'une politique de paix, et au bon fonctionnement des institutions démocratiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 4 () JORF 15 mars 2000
-
-
-###### Article L122-5
-
-Le volontariat civil est accompli auprès d'une personne morale autre que l'Etat pour des activités agréées par l'autorité
-administrative compétente. Sur le territoire national, le volontariat civil ne peut être effectué qu'auprès d'une personne
-morale à but non lucratif ; à l'étranger, il peut être effectué auprès de toute personne morale. Toutefois, à l'étranger ou
-dans les départements, territoires et collectivités d'outre-mer et en Nouvelle-Calédonie, le volontariat civil peut également
-être accompli dans un service de l'Etat. S'agissant des volontaires internationaux en entreprise, est considéré comme
-volontaire à l'étranger le volontaire qui effectue des séjours d'au moins deux cents jours à l'étranger au cours d'une année.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Cité par_:
-
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 3 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (M)
-  - Arrêté du 24 mars 2004 - art. 1 (V)
-  - Code du service national - art. L122-18 (V)
-
-_Modifié par_:
-
-  - Loi n°2003-721 du 1 août 2003 - art. 51 () JORF 5 août 2003
-
-
-###### Article L122-6
-
-Les volontaires civils sont placés sous l'autorité d'un ministre. Ils relèvent à cet égard des règles de droit public
-résultant du présent chapitre, des textes réglementaires et des décisions pris pour son application.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 6 () JORF 15 mars 2000
-
-_Cité par_:
-
-  - Code du service national - art. L122-11 (VD)
-
-
-###### Article L122-7
-
-Lorsque le volontariat civil est accompli auprès d'une personne morale autre que l'Etat, l'autorité administrative compétente
-ou un organisme gestionnaire qu'elle désigne conclut une convention avec la personne morale concernée. Lorsque le volontariat
-civil est accompli en partenariat avec le service volontaire européen pour les jeunes mis en place par la Commission
-européenne, la convention est en outre signée par cette dernière. Cette convention détermine les conditions d'accomplissement
-du volontariat. Elle prévoit notamment :
-
-- la nature des activités confiées au volontaire civil ;
-
-- les conditions de prise en charge des dépenses liées à l'accomplissement du volontariat, notamment les indemnités
-mensuelles et les prestations éventuelles prévues à l'article L. 122-12, ainsi que le régime de protection sociale mentionné
-à l'article L. 122-14 ;
-
-- la formation du volontaire et les règles d'encadrement ;
-
-- les modalités d'affectation et celles relatives au contrôle des conditions de vie et de travail du volontaire.
-
-Sous réserve des dispositions de l'article L. 122-18, les conventions conclues avec les personnes privées prévoient
-l'obligation pour cette personne de souscrire une assurance au titre de la responsabilité civile du volontaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Cité par_:
-
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 28 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 5 (V)
-  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 52 (V)
-  - Code du service national - art. L122-12 (VD)
-  - Code du service national - art. L122-14 (VD)
-  - Code du service national - art. L122-8 (VD)
-  - Code général des impôts, CGI. - art. 244 quater H (Ab)
-
-_Modifié par_:
-
-  - Décret n°2002-1527 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002
-
-_Cite_:
-
-  - Code du service national - art. L122-18 (V)
-
-
-###### Article L122-8
-
-L'autorité administrative compétente peut mettre fin au volontariat civil en cours d'accomplissement :
-
-- en cas de force majeure ;
-
-- en cas de faute grave ;
-
-- dans l'intérêt du service ou de l'activité agréée ;
-
-- en cas de violation par la personne morale des clauses de la convention prévue à l'article L. 122-7 ;
-
-- à la demande conjointe du volontaire civil et de la personne morale.
-
-Enfin, sur demande du volontaire et avec un préavis d'au moins un mois, l'autorité administrative compétente peut mettre fin
-au volontariat pour permettre au demandeur d'occuper une activité professionnelle.
-
-Par dérogation aux dispositions de l'article L. 122-3, lorsqu'il a été mis fin au volontariat civil en cas de force majeure
-ou en cas de violation par la personne morale des clauses de la convention prévue à l'article L. 122-7, l'intéressé peut
-demander à conclure un nouvel engagement de volontariat sans que la durée totale des périodes de volontariat civil n'excède
-vingt-quatre mois.
-
-Le volontaire civil dont la mission est suspendue pour cause de maladie, de maternité, d'adoption ou d'incapacité temporaire
-liée à un accident imputable au service peut demander une prolongation de son volontariat d'une durée égale à celle de son
-indisponibilité, sans que la durée totale de son engagement ne puisse excéder vingt-quatre mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Cité par_:
-
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 29 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 30 (V)
-  - Arrêté du 24 mars 2004 - art. 4 (V)
-  - Code du service national - art. L122-3 (V)
-
-_Modifié par_:
-
-  - Décret n°2002-1527 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002
-
-_Cite_:
-
-  - Code du service national - art. L122-7 (M)
-
-
-###### Article L122-9
-
-Un certificat d'accomplissement du volontariat civil est délivré au volontaire par l'autorité administrative compétente à
-l'issue de sa période de volontariat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Décret n°2002-1527 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002
-
-
-##### Section II : Droits et obligations du volontaire civil.<a id=13></a>
-
-###### Article L122-10
-
-Le volontariat civil est une activité à temps plein. Le volontaire consacre l'intégralité de son activité aux tâches qui lui
-sont confiées.
-
-Le volontariat civil est incompatible avec une activité rémunérée publique ou privée. Seules sont autorisées les productions
-d'oeuvres scientifiques, littéraires ou artistiques ainsi que, sous réserve de l'accord de l'organisme auprès duquel est
-accompli le volontariat civil, les activités d'enseignement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 10 () JORF 15 mars 2000
-
-
-###### Article L122-11
-
-Outre les obligations résultant de l'article L. 122-6, le volontaire civil est soumis aux règles des services de la
-collectivité ou de l'organisme auprès duquel il accomplit son volontariat. Il est tenu à la discrétion pour les faits et
-informations dont il a connaissance dans l'exercice et à l'occasion de l'exercice de ses activités.
-
-Il est tenu également aux obligations de convenance et de réserve inhérentes à ses occupations, notamment, lorsqu'il est
-affecté à l'étranger, à l'égard de l'Etat de séjour. Il est tenu aux obligations professionnelles imposées aux Français
-exerçant une activité de même nature dans l'Etat de séjour.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 11 () JORF 15 mars 2000
-
-_Cite_:
-
-  - Code du service national - art. L122-6 (V)
-
-
-###### Article L122-12
-
-L'accomplissement du volontariat civil ouvre droit, à l'exclusion de toute rémunération, à une indemnité mensuelle, exonérée
-de l'impôt sur le revenu et exclue de l'assiette de la contribution sociale généralisée et de la contribution au
-remboursement de la dette sociale, prise en charge, selon le cas, par l'Etat, l'organisme gestionnaire ou la personne morale
-mentionnée à l'article L. 122-7. Le montant de cette indemnité mensuelle, identique pour toutes les formes de volontariat
-civil, est fixé par décret. Il ne peut être supérieur à 50 % de la rémunération afférente à l'indice brut 244.
-
-Le volontaire civil peut également recevoir les prestations nécessaires à sa subsistance, à son équipement et à son logement.
-Lorsqu'il est affecté hors du territoire métropolitain, le volontaire reçoit ces prestations qui peuvent être servies sous
-forme d'une indemnité supplémentaire, exonérée de l'impôt sur le revenu et exclue de l'assiette de la contribution sociale
-généralisée et de la contribution au remboursement de la dette sociale. Le montant de cette indemnité supplémentaire est fixé
-à un taux uniforme, quelles que soient les activités exercées, pour chacune des collectivités et chacun des pays ou régions
-de ces pays ou zones géographiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Cité par_:
-
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 18 (VD)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 19 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 20 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 39 (Ab)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 44 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 47 (V)
-  - Décret n°2002-183 du 13 février 2002 - art. 1 (V)
-  - Arrêté du 16 février 2008 (V)
-  - Arrêté du 24 février 2009 (V)
-  - Arrêté du 17 septembre 2009 (V)
-  - Décret n°2019-749 du 19 juillet 2019 (V)
-  - Décret n°2019-749 du 19 juillet 2019 - art. 1
-  - Code de la sécurité sociale. - art. L136-1-1 (V)
-  - Code du service national - art. L122-12-1 (VT)
-  - Code du service national - art. L122-14 (VD)
-  - Code du service national - art. L122-21 (VT)
-  - Code du service national - art. L122-7 (VD)
-  - Code général des impôts, CGI. - art. 244 quater H (Ab)
-  - Code général des impôts, CGI. - art. 81 (M)
-
-_Modifié par_:
-
-  - Loi n°2003-721 du 1 août 2003 - art. 51 () JORF 5 août 2003
-
-
-###### Article L122-12-1
-
-Par dérogation au second alinéa de l'article L. 122-12, l'indemnité supplémentaire pour les volontaires internationaux en
-entreprise peut varier selon la nature des activités exercées.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2008-776 du 4 août 2008 - art. 29
-
-_Cité par_:
-
-  - Décret n°2009-1012 du 25 août 2009 - art. 2
-  - Arrêté du 17 septembre 2009 (V)
-  - Arrêté du 17 septembre 2009 - art. 1 (V)
-  - Arrêté du 16 décembre 2009 - art. 1 (V)
-  - Arrêté du 21 décembre 2010 - art. 1 (V)
-  - Arrêté du 8 février 2012 - art. 1 (V)
-  - Arrêté du 21 décembre 2012 - art. 1 (P)
-  - Arrêté du 10 décembre 2013 - art. 2 (Ab)
-  - Arrêté du 24 décembre 2013 - art. 1 (V)
-  - Arrêté du 8 janvier 2015 - art. 1 (V)
-  - Décret n°2019-749 du 19 juillet 2019 (V)
-
-_Abrogé par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 14 (V)
-
-_Cite_:
-
-  - Code du service national - art. L122-12
-
-
-###### Article L122-13
-
-Le régime des congés annuels est fixé par décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 13 () JORF 15 mars 2000
-
-
-###### Article L122-14
-
-I. - Le volontaire civil affecté en métropole ou dans un département d'outre-mer bénéficie en cette qualité, pour lui-même et
-ses ayants droit, des prestations en nature de l'assurance maladie, maternité et invalidité du régime général. Il relève, en
-cas de maladie ou d'accident survenu par le fait ou à l'occasion du volontariat civil, des dispositions du livre IV du code
-de la sécurité sociale. La couverture de ces risques est assurée moyennant le versement de cotisations forfaitaires à la
-charge de l'organisme d'accueil et dont le montant est fixé par décret.
-
-L'organisme d'accueil assure au volontaire affecté dans un département d'outre-mer une couverture complémentaire, notamment
-en cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de
-corps. Le ministre chargé de l'outre-mer fixe par arrêté les modalités de cette couverture.
-
-II. - L'organisme d'accueil assure au volontaire civil affecté à l'étranger, pour lui-même et ses ayants droit et sous
-réserve des engagements européens et internationaux de la France et des dispositions de l'article L. 122-7, le bénéfice des
-prestations en nature de l'assurance maladie, maternité, invalidité et des prestations accidents du travail et maladies
-professionnelles, d'un niveau au moins égal à celui prévu au I.
-
-Il assure, en outre, le bénéfice d'une couverture complémentaire pour les risques précités, notamment en cas
-d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de corps.
-Le ministre compétent arrête les conditions dans lesquelles cette couverture complémentaire est mise en place.
-
-En cas de maladie, d'accident, y compris de trajet, ou de décès survenant par le fait ou à l'occasion du volontariat,
-l'organisme d'accueil assure également des conditions d'indemnisation au moins équivalentes à celles prévues par la
-législation française sur les accidents du travail.
-
-III. - L'Etat assure lui-même la couverture des risques mentionnés au présent article pour les volontaires civils affectés
-dans ses services et pour leurs ayants droit.
-
-IV. - Le bénéfice des dispositions de l'article L. 122-12 est maintenu durant la période de volontariat au profit du
-volontaire en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire liée à un accident imputable au
-service.
-
-V. - Un décret fixe les conditions et les domaines dans lesquels l'Etat contribue, dans le cadre de conventions établies avec
-les associations, à la protection sociale des volontaires lorsque le volontariat civil est accompli auprès d'associations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 14 () JORF 15 mars 2000
-
-_Cité par_:
-
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 3 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
-  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
-  - Arrêté du 24 mars 2004 - art. 10 (V)
-  - Arrêté du 24 mars 2004 - art. 7 (V)
-  - Arrêté du 24 mars 2004 - art. 8 (V)
-  - Arrêté du 24 mars 2004 - art. 9 (V)
-  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
-  - Code de la sécurité sociale. - art. D372-1 (Ab)
-  - Code de la sécurité sociale. - art. L412-8 (VT)
-  - Code de la sécurité sociale. - art. R372-2 (Ab)
-  - Code du service national - art. L122-21 (VT)
-  - Code du service national - art. L122-7 (VD)
-
-_Cite_:
-
-  - Code du service national - art. L122-12 (M)
-
-
-###### Article L122-15
-
-Le temps du service accompli au titre du volontariat civil, d'une durée au moins égale à six mois, est assimilé à une période
-d'assurance pour l'ouverture et le calcul des droits à retraite dans le premier régime d'assurance vieillesse de base auquel
-le volontaire est affilié à titre obligatoire postérieurement à son volontariat.
-
-Par dérogation aux dispositions de l'alinéa ci-dessus, le temps du service, d'une durée au moins égale à six mois, accompli
-au titre du volontariat est pris en compte par le régime spécial de retraite auquel l'assuré est ultérieurement affilié.
-
-Les sommes représentatives de la prise en compte par les régimes d'assurance vieillesse de base obligatoires sont prises en
-charge par le fonds de solidarité vieillesse mentionné à l'article L. 135-1 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 15 () JORF 15 mars 2000
-
-_Cité par_:
-
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 33 (V)
-  - Décret n°2000-1159 du 30 novembre 2000 - art. 36 (V)
-  - Code de la sécurité sociale. - art. R161-10-2 (T)
-  - Code de la sécurité sociale. - art. R161-17 (V)
-  - Code du service national - art. L122-21 (VT)
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L135-1 (M)
-
-
-###### Article L122-16
-
-Pour l'accès à un emploi de l'Etat, des collectivités territoriales, des établissements publics et des entreprises publiques
-dont le personnel est soumis à un statut réglementaire, la limite d'âge est reculée d'un temps égal au temps effectif du
-volontariat civil.
-
-Ce temps effectif de volontariat est compté dans le calcul de l'ancienneté de service exigée dans les fonctions publiques de
-l'Etat, des collectivités territoriales et des établissements publics hospitaliers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Cité par_:
-
-  - Décret n°92-851 du 28 août 1992 - art. 10-1 (VD)
-  - Décret n°93-622 du 27 mars 1993 - art. 9-4 (V)
-  - Décret n°2002-261 du 22 février 2002 - art. 7 (VT)
-  - Décret n°2002-262 du 22 février 2002 - art. 10 (Ab)
-  - Décret n°2002-523 du 16 avril 2002 - art. 12 (VT)
-  - Décret n°2007-767 du 9 mai 2007 - art. 20 (VD)
-  - Décret n°2009-1106 du 10 septembre 2009 - art. 13 (VD)
-  - Décret n°2012-521 du 20 avril 2012 - art. 10-4 (V)
-  - Décret n°2012-1420 du 18 décembre 2012 - art. 12 (VD)
-  - Décret n°2012-1466 du 26 décembre 2012 - art. 15 (V)
-  - Décret n°2014-100 du 4 février 2014 - art. 7 (VT)
-  - Décret n°2014-101 du 4 février 2014 - art. 7 (VT)
-  - Décret n°2014-923 du 18 août 2014 - art. 12 (VD)
-  - Décret n°2014-1585 du 23 décembre 2014 - art. 18 (V)
-  - Décret n°2015-802 du 1er juillet 2015 - art. 12 (VT)
-  - Décret n°2015-1048 du 21 août 2015 - art. 8 (V)
-  - Code du service national - art. L122-21 (VT)
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 16 () JORF 15 mars 2000
-
-
-###### Article L122-17
-
-Le temps effectif de volontariat civil est compté dans la durée d'expérience professionnelle requise pour le bénéfice de la
-validation des acquis professionnels en vue de la délivrance d'un diplôme de l'enseignement supérieur ou technologique ou
-d'un titre professionnel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 17 () JORF 15 mars 2000
-
-_Cité par_:
-
-  - Code du service national - art. L122-21 (VT)
-
-
-##### Section III : Dispositions diverses.<a id=14></a>
+##### Section III : Dispositions diverses.<a id=24></a>
 
 ###### Article L122-18
 
 En cas de faute exclusive de toute faute personnelle, la responsabilité pécuniaire de l'Etat, sans préjudice d'une action
-récursoire à l'encontre de la personne morale mentionnée à l'article L. 122-5, est substituée à celle du volontaire civil
-affecté à l'étranger.
+récursoire à l'encontre de la personne morale auprès de laquelle le volontariat est effectué, est substituée à celle du
+volontaire international affecté à l'étranger. 
 
-Le volontaire civil affecté à l'étranger bénéficie, dans l'exercice ou à l'occasion de l'exercice de son volontariat, d'une
-protection de l'Etat dans les conditions prévues à l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et
-obligations des fonctionnaires.
+Le volontaire international affecté à l'étranger bénéficie, dans l'exercice ou à l'occasion de l'exercice de son volontariat,
+d'une protection de l'Etat dans les conditions prévues à l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits
+et obligations des fonctionnaires.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
 _Cite_:
 
-  - Loi n°83-634 1983-07-13 art. 11
-  - Code du service national - art. L122-5 (M)
+  - Loi n°83-634 du 13 juillet 1983 - art. 11
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-242 du 14 mars 2000 - art. 18 () JORF 15 mars 2000
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
 
 _Cité par_:
 
@@ -1589,106 +1922,25 @@ _Cite_:
 ###### Article L122-20
 
 Les modalités d'application des articles L. 122-1 à L. 122-19 sont fixées par décret en Conseil d'Etat. Les dispositions
-réglementaires relatives à l'accomplissement du volontariat civil à l'étranger sont prises après consultation de l'Assemblée
-des Français de l'étranger.
+réglementaires relatives à l'accomplissement du volontariat international à l'étranger sont prises après consultation de
+l'Assemblée des Français de l'étranger.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
 _Modifié par_:
-
-  - Loi n°2004-805 du 9 août 2004 - art. 1 (V) JORF 11 août 2004
-
-_Cité par_:
-
-  - Code du service national - art. L122-21 (VT)
-
-_Cite_:
-
-  - Code du service national L122-1 à L122-19
-
-
-##### Section IV : Dispositions relatives à l'outre-mer.<a id=15></a>
-
-###### Article L122-21
-
-Sous réserve des adaptations prévues ci-après, le présent chapitre, à l'exception du dernier alinéa de l'article L. 122-1, du
-III de l'article L. 122-14 et du dernier alinéa de l'article L. 122-15, est applicable dans les territoires d'outre-mer, en
-Nouvelle-Calédonie et à Mayotte.
-
-1° Par dérogation aux dispositions des articles L. 122-12, L. 122-14, L. 122-15, L. 122-16, L. 122-17 et L. 122-20 du présent
-chapitre, une convention entre l'Etat, d'une part, la Nouvelle-Calédonie et la Polynésie française, d'autre part, fixe les
-conditions d'application du présent chapitre dans ces deux collectivités. Elle précise obligatoirement :
-
-a) Les conditions d'exonération d'imposition et de versement des taxes fiscales et sociales attachées à la perception de
-l'indemnité mensuelle et de l'indemnité supplémentaire prévues à l'article L. 122-12 ;
-
-b) Les conditions dans lesquelles les volontaires civils affectés en Nouvelle-Calédonie ou en Polynésie française et leurs
-ayants droit bénéficient des prestations du régime local de sécurité sociale et de couverture complémentaire, notamment en
-cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire et de rapatriement de corps lorsque le volontariat
-civil est accompli auprès d'un service de l'Etat ou d'un organisme d'accueil public ou privé, y compris lorsqu'il s'agit
-d'une association ;
-
-c) La prise en compte du temps du service accompli au titre du volontariat civil par le régime de retraite de base ou spécial
-de la Nouvelle-Calédonie ou de la Polynésie française auquel le volontaire civil est affilié à titre obligatoire ou
-volontaire postérieurement à son volontariat ;
-
-d) Les modalités d'adaptation du II de l'article L. 122-14 au regard des dispositions prévues par les b et c ci-dessus
-lorsqu'un volontaire civil engagé en Nouvelle-Calédonie ou en Polynésie française est affecté à l'étranger ;
-
-e) Les conditions d'ancienneté et d'accès à un emploi relevant de la compétence de la Polynésie française, de la Nouvelle-
-Calédonie ou de ses provinces ainsi que de leurs établissements publics dont le personnel est soumis au statut
-réglementaire ;
-
-f) La prise en compte de l'expérience professionnelle acquise lors du volontariat civil pour la délivrance d'un diplôme ou
-d'un titre professionnel par la Nouvelle-Calédonie ou la Polynésie française ;
-
-g) Le cas échéant, les modalités de coordination lorsqu'un volontaire civil est affecté successivement en Nouvelle-Calédonie
-ou en Polynésie française et dans une autre collectivité territoriale de la République.
-
-2° Dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon ainsi que dans les territoires d'outre-mer
-des îles Wallis-et-Futuna et des Terres australes et antarctiques françaises :
-
-a) L'indemnité mensuelle et l'indemnité supplémentaire prévues à l'article L. 122-12 sont exonérées de toute imposition et
-taxes fiscales, parafiscales et sociales applicables localement ;
-
-b) La protection sociale prévue par l'article L. 122-14 est assurée dans les conditions prévues par la réglementation
-applicable localement lorsque le volontariat civil est accompli auprès d'un service de l'Etat ou d'un organisme d'accueil
-public ou privé, y compris lorsqu'il s'agit d'une association. Lorsque l'organisme d'accueil assure au volontaire une
-couverture complémentaire, notamment en cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de
-rapatriement sanitaire et de rapatriement de corps, le ministre chargé de l'outre-mer fixe par arrêté les modalités de cette
-couverture ainsi que les règles particulières lorsque le volontaire civil est affecté à l'étranger. La législation sur les
-accidents du travail est celle applicable localement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
 
   - Loi n°2010-241 du 10 mars 2010 - art. 15
 
 _Cite_:
 
   - Code du service national - art. L122-1
-  - Code du service national - art. L122-12
-  - Code du service national - art. L122-14
-  - Code du service national - art. L122-15
-  - Code du service national - art. L122-16
-  - Code du service national - art. L122-17
-  - Code du service national - art. L122-20
+
+_Cité par_:
+
+  - Code du service national - art. L122-21 (VT)
 
 
-#### Chapitre III : Le volontariat pour l'insertion<a id=16></a>
+#### Chapitre III : Le volontariat pour l'insertion<a id=25></a>
 
 ###### Article L130-1
 
@@ -1697,8 +1949,8 @@ formation générale et professionnelle dispensée par l'établissement public d
 
 Peut faire acte de candidature, en vue de souscrire ce contrat avec l'établissement public d'insertion de la défense, toute
 personne de seize ans à vingt-cinq ans révolus, ayant sa résidence habituelle en métropole, dont il apparaît, notamment à
-l'issue de la journée d'appel de préparation à la défense, qu'elle rencontre des difficultés particulières d'insertion
-sociale et professionnelle.
+l'issue de la journée défense et citoyenneté, qu'elle rencontre des difficultés particulières d'insertion sociale et
+professionnelle.
 
 Cette formation est délivrée dans les centres de formation gérés et administrés par l'établissement public d'insertion de la
 défense, dont le régime est l'internat.
@@ -1719,7 +1971,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1437 du 24 novembre 2009 - art. 15
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
 
 
 ###### Article L130-2
@@ -1838,11 +2090,549 @@ _Cite_:
   - Code du travail - art. L351-3
 
 
-## LIVRE II<a id=17></a>
+### TITRE II : Dispositions relatives aux autres formes de volontariat.<a id=26></a>
 
-### TITRE Ier : Définition et principes du service national<a id=18></a>
+###### Article L120-37
 
-#### Chapitre Ier : Dispositions générales.<a id=19></a>
+Le volontariat vise à apporter un concours personnel et temporaire à la communauté nationale dans le cadre d'une mission
+d'intérêt général et à développer la solidarité et le sentiment d'appartenance à la Nation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 12
+
+
+#### Chapitre Ier : Le volontariat dans les armées.<a id=27></a>
+
+#### Chapitre II : Dispositions relatives aux volontariats internationaux<a id=28></a>
+
+##### Section I : Principes du volontariat international.<a id=29></a>
+
+###### Article L122-1
+
+Dans les conditions prévues par le présent chapitre, les Français et les Françaises âgés de plus de dix-huit ans et de moins
+de vingt-huit ans à la date du dépôt de leur candidature peuvent demander à accomplir un volontariat international.
+
+Le volontariat international est également ouvert dans les mêmes conditions d'âge aux ressortissantes et ressortissants des
+Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen. Ces candidats
+doivent se trouver en position régulière au regard des obligations de service national de l'Etat dont ils sont
+ressortissants. Ils peuvent être écartés des fonctions qui soit sont inséparables de l'exercice de la souveraineté, soit
+comportent une participation directe ou indirecte à l'exercice de prérogatives de puissance publique de l'Etat ou des autres
+collectivités publiques.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°99-1039 du 10 décembre 1999 - art. 63 (Ab)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 6 (V)
+  - Arrêté du 11 janvier 2001 - art. 3 (V)
+  - Décret n°2007-262 du 27 février 2007 - art. ANNEXE (V)
+  - Arrêté du 23 novembre 2009 - art. 2 (V)
+  - Arrêté du 15 mars 2012 - art. Annexe II (VD)
+  - Décret n°2019-749 du 19 juillet 2019 (V)
+  - Arrêté du 22 juillet 2019 - art.
+  - Code du service national - art. L122-20 (VD)
+  - Code du service national - art. L122-21 (VT)
+  - Code général des impôts, CGI. - art. 230 H (V)
+  - Code général des impôts, CGI. - art. 244 quater H (Ab)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+
+###### Article L122-2
+
+Les candidats à un volontariat international doivent satisfaire à des critères d'aptitude et à des conditions qui, définis
+pour chaque forme de volontariat par décret en Conseil d'Etat, doivent permettre un égal accès des femmes et des hommes. 
+
+Ils doivent en outre, sauf cas de force majeure, être en règle avec les obligations résultant du présent code. 
+
+Enfin, l'accomplissement du volontariat international est subordonné à l'acceptation de la candidature par l'autorité
+administrative compétente qui statue dans la limite des crédits budgétaires prévus à cet effet, en respectant, chaque fois
+que cela est possible, le principe de la parité entre les femmes et les hommes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+
+###### Article L122-3
+
+L'engagement de volontariat international en administration est conclu pour une durée de six à vingt-quatre mois et doit être
+accompli auprès d'un service de l'Etat à l'étranger ou d'une personne morale, sous réserve des dispositions de l'article L.
+122-8. Il peut être prorogé une fois sans que sa durée totale excède vingt-quatre mois. Son accomplissement ne peut être
+fractionné.
+
+L'engagement de volontariat international en entreprise est conclu pour une durée de six à vingt-quatre mois et doit être
+accompli auprès d'établissements et de représentations à l'étranger d'entreprises françaises ou d'entreprises liées à ces
+dernières par un accord de partenariat ou auprès de collectivités territoriales ou d'organismes étrangers engagés dans une
+coopération avec la France ou une collectivité territoriale française. Le volontaire doit passer au minimum deux cents jours
+par an à l'étranger pendant la durée de son engagement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 6 (V)
+  - Arrêté du 24 mars 2004 - art. 7 (V)
+  - Arrêté du 24 mars 2004 - art. 8 (V)
+  - Code du service national - art. L122-3-1 (VT)
+  - Code du service national - art. L122-8 (VD)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+
+###### Article L122-4
+
+Au titre de la coopération internationale, les volontaires internationaux participent à l'action de la France dans le monde
+en matière d'action culturelle et d'environnement, de développement technique, scientifique et économique et d'action
+humanitaire. Ils contribuent également à l'action de la France en faveur du développement de la démocratie et des droits de
+l'homme, éléments indissociables d'une politique de paix, et au bon fonctionnement des institutions démocratiques.
+
+Lorsqu'il est effectué auprès de collectivités territoriales ou d'organismes étrangers engagés dans une coopération avec la
+France ou une collectivité territoriale française, le volontariat international en entreprise doit être accompli sous la
+forme de missions de coopération économique. 
+
+Le volontariat international en administration et le volontariat international en entreprise constituent chacun un service
+civique effectué à l'étranger qui obéit aux règles spécifiques définies au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+
+###### Article L122-5
+
+Le volontariat international est accompli pour des activités agréées par l'autorité administrative compétente.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 3 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (M)
+  - Arrêté du 24 mars 2004 - art. 1 (V)
+  - Code du service national - art. L122-18 (V)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+
+###### Article L122-6
+
+Les volontaires internationaux sont placés sous l'autorité d'un ministre. Ils relèvent à cet égard des règles de droit public
+résultant du présent chapitre, des textes réglementaires et des décisions pris pour son application.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+_Cité par_:
+
+  - Code du service national - art. L122-11 (VD)
+
+
+###### Article L122-7
+
+Lorsque le volontariat international est accompli auprès d'une personne morale autre que l'Etat, l'autorité administrative
+compétente ou un organisme gestionnaire qu'elle désigne conclut une convention avec la personne morale concernée. Lorsque le
+volontariat international est accompli en partenariat avec le service volontaire européen pour les jeunes mis en place par la
+Commission européenne, la convention est en outre signée par cette dernière. Cette convention détermine les conditions
+d'accomplissement du volontariat. Elle prévoit notamment :
+
+- la nature des activités confiées au volontaire international ;
+
+- les conditions de prise en charge des dépenses liées à l'accomplissement du volontariat, notamment les indemnités
+mensuelles et les prestations éventuelles prévues à l'article L. 122-12, ainsi que le régime de protection sociale mentionné
+à l'article L. 122-14 ;
+
+- la formation du volontaire et les règles d'encadrement ;
+
+- les modalités d'affectation et celles relatives au contrôle des conditions de vie et de travail du volontaire. 
+
+Sous réserve des dispositions de l'article L. 122-18, les conventions conclues avec les personnes privées prévoient
+l'obligation pour cette personne de souscrire une assurance au titre de la responsabilité civile du volontaire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 28 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 5 (V)
+  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 52 (V)
+  - Code du service national - art. L122-12 (VD)
+  - Code du service national - art. L122-14 (VD)
+  - Code du service national - art. L122-8 (VD)
+  - Code général des impôts, CGI. - art. 244 quater H (Ab)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+_Cite_:
+
+  - Code du service national - art. L122-18
+
+
+###### Article L122-8
+
+L'autorité administrative compétente peut mettre fin au volontariat international en cours d'accomplissement :
+
+- en cas de force majeure ;
+
+- en cas de faute grave ;
+
+- dans l'intérêt du service ou de l'activité agréée ;
+
+- en cas de violation par la personne morale des clauses de la convention prévue à l'article L. 122-7 ;
+
+- à la demande conjointe du volontaire international et de la personne morale. 
+
+Enfin, sur demande du volontaire et avec un préavis d'au moins un mois, l'autorité administrative compétente peut mettre fin
+au volontariat pour permettre au demandeur d'occuper une activité professionnelle. 
+
+Par dérogation aux dispositions de l'article L. 122-3, lorsqu'il a été mis fin au volontariat international en cas de force
+majeure ou en cas de violation par la personne morale des clauses de la convention prévue à l'article L. 122-7, l'intéressé
+peut demander à conclure un nouvel engagement de volontariat sans que la durée totale des périodes de volontariat
+international n'excède vingt-quatre mois. 
+
+Le volontaire international dont la mission est suspendue pour cause de maladie, de maternité, d'adoption ou d'incapacité
+temporaire liée à un accident imputable au service peut demander une prolongation de son volontariat d'une durée égale à
+celle de son indisponibilité, sans que la durée totale de son engagement ne puisse excéder vingt-quatre mois.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 29 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 30 (V)
+  - Arrêté du 24 mars 2004 - art. 4 (V)
+  - Code du service national - art. L122-3 (V)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+_Cite_:
+
+  - Code du service national - art. L122-7
+
+
+###### Article L122-9
+
+Un certificat d'accomplissement du volontariat international est délivré au volontaire par l'autorité administrative
+compétente à l'issue de sa période de volontariat.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+
+##### Section II : Droits et obligations du volontaire international.<a id=30></a>
+
+###### Article L122-10
+
+Le volontariat international est une activité à temps plein. Le volontaire consacre l'intégralité de son activité aux tâches
+qui lui sont confiées. 
+
+Le volontariat international est incompatible avec une activité rémunérée publique ou privée. Seules sont autorisées les
+productions d'oeuvres scientifiques, littéraires ou artistiques ainsi que, sous réserve de l'accord de l'organisme auprès
+duquel est accompli le volontariat international, les activités d'enseignement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+
+###### Article L122-11
+
+Outre les obligations résultant de l'article L. 122-6, le volontaire international est soumis aux règles des services de la
+collectivité ou de l'organisme auprès duquel il accomplit son volontariat. Il est tenu à la discrétion pour les faits et
+informations dont il a connaissance dans l'exercice et à l'occasion de l'exercice de ses activités. 
+
+Il est tenu également aux obligations de convenance et de réserve inhérentes à ses occupations, notamment, à l'égard de
+l'Etat de séjour. Il est tenu aux obligations professionnelles imposées aux Français exerçant une activité de même nature
+dans l'Etat de séjour.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+_Cite_:
+
+  - Code du service national - art. L122-6
+
+
+###### Article L122-12
+
+L'accomplissement du volontariat international ouvre droit, à l'exclusion de toute rémunération, à une indemnité mensuelle,
+exonérée de l'impôt sur le revenu et exclue de l'assiette de la contribution sociale généralisée et de la contribution au
+remboursement de la dette sociale, prise en charge, selon le cas, par l'Etat, l'organisme gestionnaire ou la personne morale
+mentionnée à l'article L. 122-7. Le montant de cette indemnité mensuelle, identique pour toutes les formes de volontariat
+international, est fixé par décret. Il ne peut être supérieur à 50 % de la rémunération afférente à l'indice brut 244. 
+
+Le volontaire international peut également recevoir les prestations nécessaires à sa subsistance, à son équipement et à son
+logement. Lorsqu'il est affecté hors du territoire métropolitain, le volontaire reçoit ces prestations qui peuvent être
+servies sous forme d'une indemnité supplémentaire, exonérée de l'impôt sur le revenu et exclue de l'assiette de la
+contribution sociale généralisée et de la contribution au remboursement de la dette sociale. Le montant de cette indemnité
+supplémentaire est fixé à un taux uniforme, quelles que soient les activités exercées, pour chacune des collectivités et
+chacun des pays ou régions de ces pays ou zones géographiques.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 18 (VD)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 19 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 20 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 39 (Ab)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 44 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 47 (V)
+  - Décret n°2002-183 du 13 février 2002 - art. 1 (V)
+  - Arrêté du 16 février 2008 (V)
+  - Arrêté du 24 février 2009 (V)
+  - Arrêté du 17 septembre 2009 (V)
+  - Décret n°2019-749 du 19 juillet 2019 (V)
+  - Décret n°2019-749 du 19 juillet 2019 - art. 1
+  - Code de la sécurité sociale. - art. L136-1-1 (V)
+  - Code du service national - art. L122-12-1 (VT)
+  - Code du service national - art. L122-14 (VD)
+  - Code du service national - art. L122-21 (VT)
+  - Code du service national - art. L122-7 (VD)
+  - Code général des impôts, CGI. - art. 244 quater H (Ab)
+  - Code général des impôts, CGI. - art. 81 (M)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+
+###### Article L122-12-1
+
+Par dérogation au second alinéa de l'article L. 122-12, l'indemnité supplémentaire pour les volontaires internationaux en
+entreprise peut varier selon la nature des activités exercées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 29
+
+_Cité par_:
+
+  - Décret n°2009-1012 du 25 août 2009 - art. 2
+  - Arrêté du 17 septembre 2009 (V)
+  - Arrêté du 17 septembre 2009 - art. 1 (V)
+  - Arrêté du 16 décembre 2009 - art. 1 (V)
+  - Arrêté du 21 décembre 2010 - art. 1 (V)
+  - Arrêté du 8 février 2012 - art. 1 (V)
+  - Arrêté du 21 décembre 2012 - art. 1 (P)
+  - Arrêté du 10 décembre 2013 - art. 2 (Ab)
+  - Arrêté du 24 décembre 2013 - art. 1 (V)
+  - Arrêté du 8 janvier 2015 - art. 1 (V)
+  - Décret n°2019-749 du 19 juillet 2019 (V)
+
+_Abrogé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 14 (V)
+
+_Cite_:
+
+  - Code du service national - art. L122-12
+
+
+###### Article L122-13
+
+Le régime des congés annuels est fixé par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°2000-242 du 14 mars 2000 - art. 13 () JORF 15 mars 2000
+
+
+###### Article L122-14
+
+I.-Le volontaire international affecté en métropole ou dans un département d'outre-mer bénéficie en cette qualité, pour lui-
+même et ses ayants droit, des prestations en nature de l'assurance maladie, maternité et invalidité du régime général. Il
+relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du volontariat international, des dispositions du
+livre IV du code de la sécurité sociale. La couverture de ces risques est assurée moyennant le versement de cotisations
+forfaitaires à la charge de l'organisme d'accueil et dont le montant est fixé par décret.
+
+L'organisme d'accueil assure au volontaire affecté dans un département d'outre-mer une couverture complémentaire, notamment
+en cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de
+corps. Le ministre chargé de l'outre-mer fixe par arrêté les modalités de cette couverture. 
+
+II.-L'organisme d'accueil assure au volontaire international affecté à l'étranger, pour lui-même et ses ayants droit et sous
+réserve des engagements européens et internationaux de la France et des dispositions de l'article L. 122-7, le bénéfice des
+prestations en nature de l'assurance maladie, maternité, invalidité et des prestations accidents du travail et maladies
+professionnelles, d'un niveau au moins égal à celui prévu au I. 
+
+Il assure, en outre, le bénéfice d'une couverture complémentaire pour les risques précités, notamment en cas
+d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de corps.
+Le ministre compétent arrête les conditions dans lesquelles cette couverture complémentaire est mise en place. 
+
+En cas de maladie, d'accident, y compris de trajet, ou de décès survenant par le fait ou à l'occasion du volontariat,
+l'organisme d'accueil assure également des conditions d'indemnisation au moins équivalentes à celles prévues par la
+législation française sur les accidents du travail. 
+
+III.-L'Etat assure lui-même la couverture des risques mentionnés au présent article pour les volontaires internationaux
+affectés dans ses services et pour leurs ayants droit. 
+
+IV.-Le bénéfice des dispositions de l'article L. 122-12 est maintenu durant la période de volontariat au profit du volontaire
+en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire liée à un accident imputable au service.
+
+V.-Un décret fixe les conditions et les domaines dans lesquels l'Etat contribue, dans le cadre de conventions établies avec
+les associations, à la protection sociale des volontaires lorsque le volontariat international est accompli auprès
+d'associations.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 3 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 41 (V)
+  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
+  - Arrêté du 24 mars 2004 - art. 10 (V)
+  - Arrêté du 24 mars 2004 - art. 7 (V)
+  - Arrêté du 24 mars 2004 - art. 8 (V)
+  - Arrêté du 24 mars 2004 - art. 9 (V)
+  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
+  - Code de la sécurité sociale. - art. D372-1 (Ab)
+  - Code de la sécurité sociale. - art. L412-8 (VT)
+  - Code de la sécurité sociale. - art. R372-2 (Ab)
+  - Code du service national - art. L122-21 (VT)
+  - Code du service national - art. L122-7 (VD)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+_Cite_:
+
+  - Code du service national - art. L122-12
+
+
+###### Article L122-15
+
+Le temps du service accompli au titre du volontariat international, d'une durée au moins égale à six mois, est assimilé à une
+période d'assurance pour l'ouverture et le calcul des droits à retraite dans le premier régime d'assurance vieillesse de base
+auquel le volontaire est affilié à titre obligatoire postérieurement à son volontariat. 
+
+Par dérogation aux dispositions de l'alinéa ci-dessus, le temps du service, d'une durée au moins égale à six mois, accompli
+au titre du volontariat est pris en compte par le régime spécial de retraite auquel l'assuré est ultérieurement affilié. 
+
+Les sommes représentatives de la prise en compte par les régimes d'assurance vieillesse de base obligatoires sont prises en
+charge par le fonds de solidarité vieillesse mentionné à l'article L. 135-1 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 33 (V)
+  - Décret n°2000-1159 du 30 novembre 2000 - art. 36 (V)
+  - Code de la sécurité sociale. - art. R161-10-2 (T)
+  - Code de la sécurité sociale. - art. R161-17 (V)
+  - Code du service national - art. L122-21 (VT)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L135-1
+
+
+###### Article L122-16
+
+Pour l'accès à un emploi de l'Etat, des collectivités territoriales, des établissements publics et des entreprises publiques
+dont le personnel est soumis à un statut réglementaire, la limite d'âge est reculée d'un temps égal au temps effectif du
+volontariat international. 
+
+Ce temps effectif de volontariat est compté dans le calcul de l'ancienneté de service exigée dans les fonctions publiques de
+l'Etat, des collectivités territoriales et des établissements publics hospitaliers.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°92-851 du 28 août 1992 - art. 10-1 (VD)
+  - Décret n°93-622 du 27 mars 1993 - art. 9-4 (V)
+  - Décret n°2002-261 du 22 février 2002 - art. 7 (VT)
+  - Décret n°2002-262 du 22 février 2002 - art. 10 (Ab)
+  - Décret n°2002-523 du 16 avril 2002 - art. 12 (VT)
+  - Décret n°2007-767 du 9 mai 2007 - art. 20 (VD)
+  - Décret n°2009-1106 du 10 septembre 2009 - art. 13 (VD)
+  - Décret n°2012-521 du 20 avril 2012 - art. 10-4 (V)
+  - Décret n°2012-1420 du 18 décembre 2012 - art. 12 (VD)
+  - Décret n°2012-1466 du 26 décembre 2012 - art. 15 (V)
+  - Décret n°2014-100 du 4 février 2014 - art. 7 (VT)
+  - Décret n°2014-101 du 4 février 2014 - art. 7 (VT)
+  - Décret n°2014-923 du 18 août 2014 - art. 12 (VD)
+  - Décret n°2014-1585 du 23 décembre 2014 - art. 18 (V)
+  - Décret n°2015-802 du 1er juillet 2015 - art. 12 (VT)
+  - Décret n°2015-1048 du 21 août 2015 - art. 8 (V)
+  - Code du service national - art. L122-21 (VT)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+
+###### Article L122-17
+
+Le temps effectif de volontariat international est compté dans la durée d'expérience professionnelle requise pour le bénéfice
+de la validation des acquis professionnels en vue de la délivrance d'un diplôme de l'enseignement supérieur ou technologique
+ou d'un titre professionnel.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+_Cité par_:
+
+  - Code du service national - art. L122-21 (VT)
+
+
+##### Section III : Dispositions diverses.<a id=31></a>
+
+#### Chapitre III : Le volontariat pour l'insertion<a id=32></a>
+
+## LIVRE II<a id=33></a>
+
+### TITRE Ier : Définition et principes du service national<a id=34></a>
+
+#### Chapitre Ier : Dispositions générales.<a id=35></a>
 
 ###### Article L1
 
@@ -2544,7 +3334,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=20></a>
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=36></a>
 
 ###### Article L9
 
@@ -2776,11 +3566,11 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-### TITRE II : Dispositions communes aux différentes formes de service national<a id=21></a>
+### TITRE II : Dispositions communes aux différentes formes de service national<a id=37></a>
 
-#### Chapitre Ier : Recensement, sélection<a id=22></a>
+#### Chapitre Ier : Recensement, sélection<a id=38></a>
 
-##### Section I : Recensement.<a id=23></a>
+##### Section I : Recensement.<a id=39></a>
 
 ###### Article L15
 
@@ -3160,7 +3950,7 @@ _Cite_:
   - Code du service national - art. L94 (M)
 
 
-##### Section II : Sélection.<a id=24></a>
+##### Section II : Sélection.<a id=40></a>
 
 ###### Article L23
 
@@ -3442,9 +4232,9 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-#### Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=25></a>
+#### Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=41></a>
 
-##### Section I : Exemptions.<a id=26></a>
+##### Section I : Exemptions.<a id=42></a>
 
 ###### Article L29
 
@@ -3492,7 +4282,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section II : Dispenses.<a id=27></a>
+##### Section II : Dispenses.<a id=43></a>
 
 ###### Article L31
 
@@ -4116,7 +4906,7 @@ _Cite_:
   - Code du service national - art. L17 (M)
 
 
-##### Section IV : Condamnés.<a id=28></a>
+##### Section IV : Condamnés.<a id=44></a>
 
 ###### Article L51
 
@@ -4586,7 +5376,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-#### Chapitre III : Réforme pour inaptitude physique.<a id=29></a>
+#### Chapitre III : Réforme pour inaptitude physique.<a id=45></a>
 
 ###### Article L61
 
@@ -4652,7 +5442,7 @@ _Anciens textes_:
   - Loi n°1932-12-13 art. 58
 
 
-#### Chapitre IV : Droits résultant de l'accomplissement du service national actif.<a id=30></a>
+#### Chapitre IV : Droits résultant de l'accomplissement du service national actif.<a id=46></a>
 
 ###### Article L62
 
@@ -4967,11 +5757,11 @@ _Cité par_:
   - Code du service national - art. L94-9 (V)
 
 
-### TITRE III : Dispositions particulières aux différentes formes du service national<a id=31></a>
+### TITRE III : Dispositions particulières aux différentes formes du service national<a id=47></a>
 
-#### Chapitre Ier : Service militaire<a id=32></a>
+#### Chapitre Ier : Service militaire<a id=48></a>
 
-##### Section I : Définition.<a id=33></a>
+##### Section I : Définition.<a id=49></a>
 
 ###### Article L67
 
@@ -5140,7 +5930,7 @@ _Cite_:
   - Code du service national - art. L67 (M)
 
 
-##### Section II : Service militaire actif.<a id=34></a>
+##### Section II : Service militaire actif.<a id=50></a>
 
 ###### Article L70
 
@@ -5555,7 +6345,7 @@ _Cité par_:
   - Code du service national - art. L94-10 (V)
 
 
-##### Section III : Recrutement des cadres de réserve du service militaire.<a id=35></a>
+##### Section III : Recrutement des cadres de réserve du service militaire.<a id=51></a>
 
 ###### Article L78
 
@@ -5641,7 +6431,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section IV : Disponibilité et réserve du service militaire.<a id=36></a>
+##### Section IV : Disponibilité et réserve du service militaire.<a id=52></a>
 
 ###### Article L80
 
@@ -5983,9 +6773,9 @@ _Anciens textes_:
   - Loi n°1932-12-13 art. 78 al. 1
 
 
-#### Chapitre II bis : Service dans la police nationale<a id=37></a>
+#### Chapitre II bis : Service dans la police nationale<a id=53></a>
 
-##### Section I : Dispositions générales.<a id=38></a>
+##### Section I : Dispositions générales.<a id=54></a>
 
 ###### Article L94-1
 
@@ -6055,7 +6845,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section II : Droits et obligations.<a id=39></a>
+##### Section II : Droits et obligations.<a id=55></a>
 
 ###### Article L94-3
 
@@ -6381,7 +7171,7 @@ _Cite_:
   - Code du service national - art. L77 (M)
 
 
-##### Section III : Disponibilité et réserve dans la police nationale.<a id=40></a>
+##### Section III : Disponibilité et réserve dans la police nationale.<a id=56></a>
 
 ###### Article L94-11
 
@@ -6600,7 +7390,7 @@ _Cite_:
   - Code du service national - art. L94-14 (M)
 
 
-#### Chapitre II ter : Service de sécurité civile.<a id=41></a>
+#### Chapitre II ter : Service de sécurité civile.<a id=57></a>
 
 ###### Article L94-16
 
@@ -6800,9 +7590,9 @@ _Cite_:
   - Code du service national - art. L94-16 (M)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=42></a>
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=58></a>
 
-##### Section I : Définitions.<a id=43></a>
+##### Section I : Définitions.<a id=59></a>
 
 ###### Article L95
 
@@ -6880,9 +7670,9 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section II : Dispositions communes<a id=44></a>
+##### Section II : Dispositions communes<a id=60></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=45></a>
+##### Paragraphe 1er : Dispositions générales.<a id=61></a>
 
 ###### Article L97
 
@@ -7140,7 +7930,7 @@ _Cite_:
   - Code du service national - art. L76 (M)
 
 
-##### Paragraphe 2 : Droits et obligations.<a id=46></a>
+##### Paragraphe 2 : Droits et obligations.<a id=62></a>
 
 ###### Article L102
 
@@ -7437,7 +8227,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Paragraphe 3 : Dispositions diverses.<a id=47></a>
+##### Paragraphe 3 : Dispositions diverses.<a id=63></a>
 
 ###### Article L109
 
@@ -7588,7 +8378,7 @@ _Cité par_:
   - Code du service national - art. R*232 (V)
 
 
-##### Section III : Dispositions particulières au service de l'aide technique.<a id=48></a>
+##### Section III : Dispositions particulières au service de l'aide technique.<a id=64></a>
 
 ###### Article L112
 
@@ -7632,7 +8422,7 @@ _Cité par_:
   - Décret n°98-180 du 17 mars 1998 - art. 4 (V)
 
 
-##### Section IV : Dispositions particulières au service de la coopération.<a id=49></a>
+##### Section IV : Dispositions particulières au service de la coopération.<a id=65></a>
 
 ###### Article L113
 
@@ -7749,7 +8539,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-#### Chapitre IV : Service des objecteurs de conscience.<a id=50></a>
+#### Chapitre IV : Service des objecteurs de conscience.<a id=66></a>
 
 ###### Article L116-1
 
@@ -8081,13 +8871,13 @@ _Cite_:
   - Code du service national - art. L76 (M)
 
 
-### TITRE IV : Dispositions pénales et disciplinaires<a id=51></a>
+### TITRE IV : Dispositions pénales et disciplinaires<a id=67></a>
 
-#### Chapitre Ier : Dispositions générales<a id=52></a>
+#### Chapitre Ier : Dispositions générales<a id=68></a>
 
-##### Section I : Dispositions pénales<a id=53></a>
+##### Section I : Dispositions pénales<a id=69></a>
 
-##### Paragraphe 1er : Fraudes.<a id=54></a>
+##### Paragraphe 1er : Fraudes.<a id=70></a>
 
 ###### Article L117
 
@@ -8342,7 +9132,7 @@ _Anciens textes_:
   - Loi n°1928-03-31 art. 95
 
 
-##### Paragraphe 2 : Insoumission.<a id=55></a>
+##### Paragraphe 2 : Insoumission.<a id=71></a>
 
 ###### Article L122
 
@@ -8844,7 +9634,7 @@ _Anciens textes_:
   - Loi n°1932-12-13 art. 107
 
 
-##### Paragraphe 4 : Infractions aux obligations dans la réserve.<a id=56></a>
+##### Paragraphe 4 : Infractions aux obligations dans la réserve.<a id=72></a>
 
 ###### Article L133
 
@@ -8921,7 +9711,7 @@ _Cite_:
   - Code du service national - art. L133 (M)
 
 
-##### Section II : Dispositions disciplinaires et administratives.<a id=57></a>
+##### Section II : Dispositions disciplinaires et administratives.<a id=73></a>
 
 ###### Article L135
 
@@ -9037,7 +9827,7 @@ _Cite_:
   - Code du service national - art. L126 (M)
 
 
-#### Chapitre II : Dispositions particulières au service militaire.<a id=58></a>
+#### Chapitre II : Dispositions particulières au service militaire.<a id=74></a>
 
 ###### Article L137
 
@@ -9098,7 +9888,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-#### Chapitre III bis : Dispositions particulières au service dans la police nationale.<a id=59></a>
+#### Chapitre III bis : Dispositions particulières au service dans la police nationale.<a id=75></a>
 
 ###### Article L149-1
 
@@ -9559,7 +10349,7 @@ _Cite_:
   - Code de justice militaire - art. 94 (Ab)
 
 
-#### Chapitre III ter : Dispositions particulières au service de sécurité civile.<a id=60></a>
+#### Chapitre III ter : Dispositions particulières au service de sécurité civile.<a id=76></a>
 
 ###### Article L149-11
 
@@ -9598,7 +10388,7 @@ _Cite_:
   - Code du service national L149-1 à L149-10
 
 
-#### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.<a id=61></a>
+#### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.<a id=77></a>
 
 ###### Article L150
 
@@ -10075,11 +10865,11 @@ _Cite_:
   - Code de justice militaire - art. 465 (M)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=62></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=78></a>
 
-## LIVRE Ier : Obligations du service national.<a id=63></a>
+## LIVRE Ier : Obligations du service national.<a id=79></a>
 
-### Chapitre Ier : Le recensement.<a id=64></a>
+### Chapitre Ier : Le recensement.<a id=80></a>
 
 ###### Article R*111-1
 
@@ -10685,9 +11475,9 @@ _Créé par_:
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-### Chapitre Ier bis : Dispositions relatives au service civique<a id=65></a>
+### Chapitre Ier bis : Dispositions relatives au service civique<a id=81></a>
 
-#### Section I : L'Agence du service civique<a id=66></a>
+#### Section I : L'Agence du service civique<a id=82></a>
 
 ###### Article R120-1
 
@@ -10905,7 +11695,7 @@ _Créé par_:
   - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 
-#### Section II : Les relations entre la personne volontaire et la personne morale agréée<a id=67></a>
+#### Section II : Les relations entre la personne volontaire et la personne morale agréée<a id=83></a>
 
 ###### Article D121-21
 
@@ -11087,7 +11877,7 @@ _Créé par_:
   - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 
-#### Section III : Indemnité<a id=68></a>
+#### Section III : Indemnité<a id=84></a>
 
 ###### Article R121-22
 
@@ -11408,7 +12198,7 @@ _Cite_:
   - articles R. 3262-13 à R. 3262-25, R. 3262-13 à R. 3262-15, et R. 3262-33 à R. 3262-46 du code du travail
 
 
-#### Section IV : Agrément<a id=69></a>
+#### Section IV : Agrément<a id=85></a>
 
 ###### Article R121-33
 
@@ -11723,7 +12513,7 @@ _Créé par_:
   - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 
-#### Section V : Dispositions diverses<a id=70></a>
+#### Section V : Dispositions diverses<a id=86></a>
 
 ###### Article R121-47
 
@@ -11791,9 +12581,9 @@ _Cité par_:
   - Décret n°2019-341 du 19 avril 2019 - art. 2 (V)
 
 
-### Chapitre II : L'appel de préparation à la défense<a id=71></a>
+### Chapitre II : L'appel de préparation à la défense<a id=87></a>
 
-#### Section 1 : Dispositions générales.<a id=72></a>
+#### Section 1 : Dispositions générales.<a id=88></a>
 
 ###### Article R*112-1
 
@@ -12107,7 +12897,7 @@ _Cite_:
   - Code du service national - art. L114-5 (V)
 
 
-#### Section 2 : Règles applicables aux appelés du service national.<a id=73></a>
+#### Section 2 : Règles applicables aux appelés du service national.<a id=89></a>
 
 ###### Article R*112-12
 
@@ -12209,7 +12999,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-#### Section 3 : Dispositions particulières applicables aux Français de l'étranger.<a id=74></a>
+#### Section 3 : Dispositions particulières applicables aux Français de l'étranger.<a id=90></a>
 
 ###### Article R*112-16
 
@@ -12279,7 +13069,7 @@ _Cité par_:
   - Arrêté du 11 janvier 2016 - art. 7 (V)
 
 
-#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=75></a>
+#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=91></a>
 
 ###### Article R*112-18
 
@@ -12340,15 +13130,15 @@ _Modifié par_:
   - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
-## LIVRE II<a id=76></a>
+## LIVRE II<a id=92></a>
 
-### Titre Ier : Définition et principes du service national<a id=77></a>
+### Titre Ier : Définition et principes du service national<a id=93></a>
 
-#### Chapitre Ier : Dispositions générales<a id=78></a>
+#### Chapitre Ier : Dispositions générales<a id=94></a>
 
-##### Section I : Appel avancé et report d'incorporation<a id=79></a>
+##### Section I : Appel avancé et report d'incorporation<a id=95></a>
 
-##### Paragraphe 1er : Appel avancé.<a id=80></a>
+##### Paragraphe 1er : Appel avancé.<a id=96></a>
 
 ###### Article R*1
 
@@ -12508,7 +13298,7 @@ _Cite_:
   - Code du service national - art. R2 (M)
 
 
-##### Paragraphe 2 : Report d'incorporation.<a id=81></a>
+##### Paragraphe 2 : Report d'incorporation.<a id=97></a>
 
 ###### Article R*5
 
@@ -12987,7 +13777,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=82></a>
+##### Paragraphe 3 : Dispositions communes.<a id=98></a>
 
 ###### Article R*11
 
@@ -13073,7 +13863,7 @@ _Cite_:
   - Code du service national R1, R7, R10
 
 
-##### Section II : Composition et appel du contingent.<a id=83></a>
+##### Section II : Composition et appel du contingent.<a id=99></a>
 
 ###### Article R*15
 
@@ -13667,7 +14457,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=84></a>
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=100></a>
 
 ###### Article R*23
 
@@ -13907,13 +14697,13 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### Titre II : Dispositions communes aux différentes formes du service national<a id=85></a>
+### Titre II : Dispositions communes aux différentes formes du service national<a id=101></a>
 
-#### Chapitre Ier : Recensement  - Sélection<a id=86></a>
+#### Chapitre Ier : Recensement  - Sélection<a id=102></a>
 
-##### Section II : Sélection<a id=87></a>
+##### Section II : Sélection<a id=103></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=88></a>
+##### Paragraphe 1er : Dispositions générales.<a id=104></a>
 
 ###### Article R*40
 
@@ -14065,7 +14855,7 @@ _Cite_:
   - Code du service national - art. L5 (M)
 
 
-##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=89></a>
+##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=105></a>
 
 ###### Article R*43
 
@@ -14204,7 +14994,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L321-1 (M)
 
 
-##### Paragraphe 3 : Sélection.<a id=90></a>
+##### Paragraphe 3 : Sélection.<a id=106></a>
 
 ###### Article R*44
 
@@ -14289,7 +15079,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Règles de discipline.<a id=91></a>
+##### Paragraphe 4 : Règles de discipline.<a id=107></a>
 
 ###### Article R*45
 
@@ -14455,7 +15245,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Responsabilité de l'Etat.<a id=92></a>
+##### Paragraphe 5 : Responsabilité de l'Etat.<a id=108></a>
 
 ###### Article R*46
 
@@ -14506,7 +15296,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=93></a>
+##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=109></a>
 
 ###### Article R*47
 
@@ -14614,7 +15404,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 7 : Marins de la marine marchande.<a id=94></a>
+##### Paragraphe 7 : Marins de la marine marchande.<a id=110></a>
 
 ###### Article R*48
 
@@ -14651,7 +15441,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=95></a>
+##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=111></a>
 
 ###### Article R*49
 
@@ -14729,7 +15519,7 @@ _Cite_:
   - Code du service national - art. L23 (M)
 
 
-##### Paragraphe 9 : Commission locale d'aptitude.<a id=96></a>
+##### Paragraphe 9 : Commission locale d'aptitude.<a id=112></a>
 
 ###### Article R*50
 
@@ -15014,11 +15804,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=97></a>
+#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=113></a>
 
-##### Section I : Dispenses<a id=98></a>
+##### Section I : Dispenses<a id=114></a>
 
-##### Paragraphe 1er : Dispenses à caractère social<a id=99></a>
+##### Paragraphe 1er : Dispenses à caractère social<a id=115></a>
 
 ###### Article R*55
 
@@ -15797,7 +16587,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=100></a>
+##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=116></a>
 
 ###### Article R*68-1
 
@@ -16019,7 +16809,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 3 : Résidence à l'étranger.<a id=101></a>
+##### Paragraphe 3 : Résidence à l'étranger.<a id=117></a>
 
 ###### Article R*69
 
@@ -16400,7 +17190,7 @@ _Cite_:
   - Code du service national R69 à R76
 
 
-##### Section III : Condamnés.<a id=102></a>
+##### Section III : Condamnés.<a id=118></a>
 
 ###### Article R*98
 
@@ -16552,7 +17342,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-#### Chapitre III : Réforme pour inaptitude physique.<a id=103></a>
+#### Chapitre III : Réforme pour inaptitude physique.<a id=119></a>
 
 ###### Article R101
 
@@ -16749,13 +17539,13 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
-### Titre III : Dispositions particulières aux différentes formes du service national<a id=104></a>
+### Titre III : Dispositions particulières aux différentes formes du service national<a id=120></a>
 
-#### Chapitre Ier : Service militaire<a id=105></a>
+#### Chapitre Ier : Service militaire<a id=121></a>
 
-##### Section I : Service militaire actif<a id=106></a>
+##### Section I : Service militaire actif<a id=122></a>
 
-##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=107></a>
+##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=123></a>
 
 ###### Article R110
 
@@ -17217,7 +18007,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Gendarmes auxiliaires.<a id=108></a>
+##### Paragraphe 3 : Gendarmes auxiliaires.<a id=124></a>
 
 ###### Article R*127
 
@@ -17450,9 +18240,9 @@ _Cite_:
   - Code du service national - art. L72 (M)
 
 
-##### Section II : Recrutement des cadres de réserve du service militaire<a id=109></a>
+##### Section II : Recrutement des cadres de réserve du service militaire<a id=125></a>
 
-##### Paragraphe 1er : Préparation au service militaire.<a id=110></a>
+##### Paragraphe 1er : Préparation au service militaire.<a id=126></a>
 
 ###### Article R133
 
@@ -17715,7 +18505,7 @@ _Cite_:
   - Code du service national R133 à R138
 
 
-##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=111></a>
+##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=127></a>
 
 ###### Article R140
 
@@ -17921,7 +18711,7 @@ _Cite_:
   - Code du service national R140 à R143
 
 
-##### Paragraphe 3 : Nomination dans les cadres.<a id=112></a>
+##### Paragraphe 3 : Nomination dans les cadres.<a id=128></a>
 
 ###### Article R145
 
@@ -18080,9 +18870,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II bis : Service dans la police nationale<a id=113></a>
+#### Chapitre II bis : Service dans la police nationale<a id=129></a>
 
-##### Section I : Service actif dans la police nationale.<a id=114></a>
+##### Section I : Service actif dans la police nationale.<a id=130></a>
 
 ###### Article R*201-1
 
@@ -18741,7 +19531,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Section II : Disponibilité et réserve dans la police nationale.<a id=115></a>
+##### Section II : Disponibilité et réserve dans la police nationale.<a id=131></a>
 
 ###### Article R*201-20-1
 
@@ -18965,11 +19755,11 @@ _Cite_:
   - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
 
 
-#### Chapitre II ter : Service de sécurité civile<a id=116></a>
+#### Chapitre II ter : Service de sécurité civile<a id=132></a>
 
-##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=117></a>
+##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=133></a>
 
-##### Paragraphe 1er : Affectation.<a id=118></a>
+##### Paragraphe 1er : Affectation.<a id=134></a>
 
 ###### Article R*201-21
 
@@ -19133,7 +19923,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=119></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=135></a>
 
 ###### Article R*201-26
 
@@ -19197,7 +19987,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=120></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=136></a>
 
 ###### Article R*201-28
 
@@ -19368,7 +20158,7 @@ _Cite_:
   - Code du service national R201-29 à R201-31
 
 
-##### Paragraphe 4.<a id=121></a>
+##### Paragraphe 4.<a id=137></a>
 
 ###### Article R*201-34
 
@@ -19435,9 +20225,9 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=122></a>
+##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=138></a>
 
-##### Paragraphe 1er : Affectation.<a id=123></a>
+##### Paragraphe 1er : Affectation.<a id=139></a>
 
 ###### Article R*201-36
 
@@ -19594,7 +20384,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=124></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=140></a>
 
 ###### Article R*201-41
 
@@ -19660,7 +20450,7 @@ _Cite_:
   - Code du service national R201-37
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=125></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=141></a>
 
 ###### Article R*201-43
 
@@ -19817,7 +20607,7 @@ _Cite_:
   - Code du service national R201-44 à R201-46
 
 
-##### Paragraphe 4.<a id=126></a>
+##### Paragraphe 4.<a id=142></a>
 
 ###### Article R*201-48
 
@@ -19884,11 +20674,11 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=127></a>
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=143></a>
 
-##### Section I : Dispositions communes<a id=128></a>
+##### Section I : Dispositions communes<a id=144></a>
 
-##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=129></a>
+##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=145></a>
 
 ###### Article R202
 
@@ -20056,7 +20846,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 2 : Indemnités.<a id=130></a>
+##### Paragraphe 2 : Indemnités.<a id=146></a>
 
 ###### Article R206
 
@@ -20260,7 +21050,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Discipline.<a id=131></a>
+##### Paragraphe 3 : Discipline.<a id=147></a>
 
 ###### Article R210
 
@@ -20309,7 +21099,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Permissions.<a id=132></a>
+##### Paragraphe 4 : Permissions.<a id=148></a>
 
 ###### Article R211
 
@@ -20586,7 +21376,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Soins médicaux.<a id=133></a>
+##### Paragraphe 5 : Soins médicaux.<a id=149></a>
 
 ###### Article R218
 
@@ -20713,7 +21503,7 @@ _Cité par_:
   - Code du service national - art. R227 (V)
 
 
-##### Paragraphe 6 : Inaptitude physique.<a id=134></a>
+##### Paragraphe 6 : Inaptitude physique.<a id=150></a>
 
 ###### Article R221
 
@@ -20755,7 +21545,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### Paragraphe 7 : Libération du service actif.<a id=135></a>
+##### Paragraphe 7 : Libération du service actif.<a id=151></a>
 
 ###### Article R222
 
@@ -20838,7 +21628,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section II : Dispositions particulières au service de l'aide technique.<a id=136></a>
+##### Section II : Dispositions particulières au service de l'aide technique.<a id=152></a>
 
 ###### Article R224
 
@@ -20916,7 +21706,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section III : Dispositions particulières au service de la coopération.<a id=137></a>
+##### Section III : Dispositions particulières au service de la coopération.<a id=153></a>
 
 ###### Article R226
 
@@ -21012,7 +21802,7 @@ _Cite_:
   - Code du service national - art. R220 (M)
 
 
-#### Chapitre IV : Service des objecteurs de conscience.<a id=138></a>
+#### Chapitre IV : Service des objecteurs de conscience.<a id=154></a>
 
 ###### Article R227-1
 
@@ -21052,7 +21842,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-##### Paragraphe 1er : Rattachement et affectation.<a id=139></a>
+##### Paragraphe 1er : Rattachement et affectation.<a id=155></a>
 
 ###### Article R227-2
 
@@ -21099,7 +21889,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-##### Paragraphe 2 : Devoirs et obligations.<a id=140></a>
+##### Paragraphe 2 : Devoirs et obligations.<a id=156></a>
 
 ###### Article R227-3
 
@@ -21141,7 +21931,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 3 : Discipline.<a id=141></a>
+##### Paragraphe 3 : Discipline.<a id=157></a>
 
 ###### Article R227-4
 
@@ -21331,7 +22121,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 4 : Permissions.<a id=142></a>
+##### Paragraphe 4 : Permissions.<a id=158></a>
 
 ###### Article R227-10
 
@@ -21490,7 +22280,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 5 : Habilitation des organismes.<a id=143></a>
+##### Paragraphe 5 : Habilitation des organismes.<a id=159></a>
 
 ###### Article R227-15
 
@@ -21636,7 +22426,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 6 : Missions en temps de guerre.<a id=144></a>
+##### Paragraphe 6 : Missions en temps de guerre.<a id=160></a>
 
 ###### Article R227-19
 
@@ -21706,7 +22496,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-### Titre IV : Service féminin.<a id=145></a>
+### Titre IV : Service féminin.<a id=161></a>
 
 ###### Article R*228
 
@@ -22022,7 +22812,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R531-1 (M)
 
 
-### Titre V : Dispositions communes aux formes civiles du service national<a id=146></a>
+### Titre V : Dispositions communes aux formes civiles du service national<a id=162></a>
 
 ###### Article R*234
 
@@ -22065,7 +22855,7 @@ _Cite_:
   - Code du service national R110 à R114, R116 à R118, R120
 
 
-# Annexes<a id=147></a>
+# Annexes<a id=163></a>
 
 ###### Article ANNEXE I
 
@@ -22357,7 +23147,7 @@ _Cite_:
   - Code du service national - art. R97
 
 
-## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=148></a>
+## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=164></a>
 
 ###### Article ANNEXE II
 
