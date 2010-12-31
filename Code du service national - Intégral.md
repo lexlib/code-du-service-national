@@ -1,170 +1,164 @@
 # Code du service national  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2011-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
-    - [LIVRE Ier (art. L111-1 à L122-17)](#2)
+    - [LIVRE Ier (art. L111-1 à L130-4)](#2)
       - [TITRE Ier : Dispositions générales relatives au service national (art. L111-1 à L115-2)](#3)
         - [Chapitre Ier : Principes. (art. L111-1 à L111-2)](#4)
         - [Chapitre II : Champ d'application. (art. L112-1 à L112-6)](#5)
         - [Chapitre III : Le recensement. (art. L113-1 à L113-8)](#6)
-        - [Chapitre IV : L'enseignement de la défense et l'appel de préparation à la défense. (art.  à L113-8)](#7)
-        - [Chapitre IV : L'enseignement de la défense et       la journée défense et citoyenneté. (art. L114-1 à L114-13)](#8)
-        - [Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale. (art. L115-1 à L115-2)](#9)
-      - [TITRE Ier bis : Dispositions relatives au service civique. (art. L120-1 à L120-36)](#10)
-        - [Chapitre Ier : L'Agence du service civique. (art. L120-2)](#11)
-        - [Chapitre II : L'engagement et le volontariat de service civique. (art. L120-3 à L120-36)](#12)
-          - [Section 1 : Dispositions générales. (art. L120-3)](#13)
-          - [Section 2 : Les conditions relatives à la personne volontaire. (art. L120-4 à L120-6)](#14)
-          - [Section 3 : Les relations entre la personne volontaire et la personne morale agréée. (art. L120-7 à L120-17)](#15)
-          - [Section 4 : Indemnité. (art. L120-18 à L120-24)](#16)
-          - [Section 5 : Protection sociale. (art. L120-25 à L120-29)](#17)
-          - [Section 6 : Agrément. (art. L120-30)](#18)
-          - [Section 7 : Dispositions diverses. (art. L120-31 à L120-36)](#19)
-      - [TITRE II : Dispositions relatives aux volontariats (art. L121-1 à L130-4)](#20)
-        - [Chapitre Ier : Le volontariat dans les armées. (art. L121-1 à L121-3)](#21)
-        - [Chapitre II : Les volontariats civils (art.  à L122-20)](#22)
-          - [Section II : Droits et obligations du volontaire civil. (art.  à L121-3)](#23)
+        - [Chapitre IV : L'enseignement de la défense et       la journée défense et citoyenneté. (art. L114-1 à L114-13)](#7)
+        - [Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale. (art. L115-1 à L115-2)](#8)
+      - [TITRE Ier bis : Dispositions relatives au service civique. (art. L120-1 à L120-36)](#9)
+        - [Chapitre Ier : L'Agence du service civique. (art. L120-2)](#10)
+        - [Chapitre II : L'engagement et le volontariat de service civique. (art. L120-3 à L120-36)](#11)
+          - [Section 1 : Dispositions générales. (art. L120-3)](#12)
+          - [Section 2 : Les conditions relatives à la personne volontaire. (art. L120-4 à L120-6)](#13)
+          - [Section 3 : Les relations entre la personne volontaire et la personne morale agréée. (art. L120-7 à L120-17)](#14)
+          - [Section 4 : Indemnité. (art. L120-18 à L120-24)](#15)
+          - [Section 5 : Protection sociale. (art. L120-25 à L120-29)](#16)
+          - [Section 6 : Agrément. (art. L120-30)](#17)
+          - [Section 7 : Dispositions diverses. (art. L120-31 à L120-36)](#18)
+      - [TITRE II : Dispositions relatives aux autres formes de volontariat. (art. L120-37 à L130-4)](#19)
+        - [Chapitre Ier : Le volontariat dans les armées. (art. L121-1 à L121-3)](#20)
+        - [Chapitre II : Dispositions relatives aux volontariats internationaux (art. L122-1 à L122-20)](#21)
+          - [Section I : Principes du volontariat international. (art. L122-1 à L122-9)](#22)
+          - [Section II : Droits et obligations du volontaire international. (art. L122-10 à L122-17)](#23)
           - [Section III : Dispositions diverses. (art. L122-18 à L122-20)](#24)
         - [Chapitre III : Le volontariat pour l'insertion (art. L130-1 à L130-4)](#25)
-      - [TITRE II : Dispositions relatives aux autres formes de volontariat. (art. L120-37 à L122-17)](#26)
-        - [Chapitre Ier : Le volontariat dans les armées. (art.  à L120-37)](#27)
-        - [Chapitre II : Dispositions relatives aux volontariats internationaux (art. L122-1 à L122-17)](#28)
-          - [Section I : Principes du volontariat international. (art. L122-1 à L122-9)](#29)
-          - [Section II : Droits et obligations du volontaire international. (art. L122-10 à L122-17)](#30)
-          - [Section III : Dispositions diverses. (art.  à L122-17)](#31)
-        - [Chapitre III : Le volontariat pour l'insertion (art.  à L122-17)](#32)
-    - [LIVRE II (art. L1 à L159)](#33)
-      - [TITRE Ier : Définition et principes du service national (art. L1 à L14)](#34)
-        - [Chapitre Ier : Dispositions générales. (art. L1 à L8)](#35)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L9 à L14)](#36)
-      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L15 à L65)](#37)
-        - [Chapitre Ier : Recensement, sélection (art. L15 à L28)](#38)
-          - [Section I : Recensement. (art. L15 à L22)](#39)
-          - [Section II : Sélection. (art. L23 à L28)](#40)
-        - [Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. L29 à L60)](#41)
-          - [Section I : Exemptions. (art. L29)](#42)
-          - [Section II : Dispenses. (art. L31 à L40-1)](#43)
-          - [Section IV : Condamnés. (art. L51 à L60)](#44)
-        - [Chapitre III : Réforme pour inaptitude physique. (art. L61)](#45)
-        - [Chapitre IV : Droits résultant de l'accomplissement du service national actif. (art. L62 à L65)](#46)
-      - [TITRE III : Dispositions particulières aux différentes formes du service national (art. L67 à L116-9)](#47)
-        - [Chapitre Ier : Service militaire (art. L67 à L85)](#48)
-          - [Section I : Définition. (art. L67 à L69)](#49)
-          - [Section II : Service militaire actif. (art. L70 à L77)](#50)
-          - [Section III : Recrutement des cadres de réserve du service militaire. (art. L78 à L79)](#51)
-          - [Section IV : Disponibilité et réserve du service militaire. (art. L80 à L85)](#52)
-        - [Chapitre II bis : Service dans la police nationale (art. L94-1 à L94-15)](#53)
-          - [Section I : Dispositions générales. (art. L94-1 à L94-2)](#54)
-          - [Section II : Droits et obligations. (art. L94-3 à L94-10)](#55)
-          - [Section III : Disponibilité et réserve dans la police nationale. (art. L94-11 à L94-15)](#56)
-        - [Chapitre II ter : Service de sécurité civile. (art. L94-16 à L94-20)](#57)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. L95 à L115)](#58)
-          - [Section I : Définitions. (art. L95 à L96)](#59)
-          - [Section II : Dispositions communes (art. L97 à L111)](#60)
-            - [Paragraphe 1er : Dispositions générales. (art. L97 à L101-1)](#61)
-            - [Paragraphe 2 : Droits et obligations. (art. L102 à L108)](#62)
-            - [Paragraphe 3 : Dispositions diverses. (art. L109 à L111)](#63)
-          - [Section III : Dispositions particulières au service de l'aide technique. (art. L112)](#64)
-          - [Section IV : Dispositions particulières au service de la coopération. (art. L113 à L115)](#65)
-        - [Chapitre IV : Service des objecteurs de conscience. (art. L116-1 à L116-9)](#66)
-      - [TITRE IV : Dispositions pénales et disciplinaires (art. L117 à L159)](#67)
-        - [Chapitre Ier : Dispositions générales (art. L117 à L136)](#68)
-          - [Section I : Dispositions pénales (art. L117 à L134)](#69)
-            - [Paragraphe 1er : Fraudes. (art. L117 à L121)](#70)
-            - [Paragraphe 2 : Insoumission. (art. L122 à L131)](#71)
-            - [Paragraphe 4 : Infractions aux obligations dans la réserve. (art. L133 à L134)](#72)
-          - [Section II : Dispositions disciplinaires et administratives. (art. L135 à L136)](#73)
-        - [Chapitre II : Dispositions particulières au service militaire. (art. L137)](#74)
-        - [Chapitre III bis : Dispositions particulières au service dans la police nationale. (art. L149-1 à L149-10)](#75)
-        - [Chapitre III ter : Dispositions particulières au service de sécurité civile. (art. L149-11)](#76)
-        - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L150 à L159)](#77)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*234)](#78)
-    - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-20)](#79)
-      - [Chapitre Ier : Le recensement. (art. R*111-1 à R*111-18)](#80)
-      - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-1 à R121-50)](#81)
-        - [Section I : L'Agence du service civique (art. R120-1 à R120-11)](#82)
-        - [Section II : Les relations entre la personne volontaire et la personne morale agréée (art. D121-21 à R121-20)](#83)
-        - [Section III : Indemnité (art. R121-22 à R121-32)](#84)
-        - [Section IV : Agrément (art. R121-33 à R121-46)](#85)
-        - [Section V : Dispositions diverses (art. R121-47 à R121-50)](#86)
-      - [Chapitre II : L'appel de préparation à la défense (art. R*112-1 à R*112-20)](#87)
-        - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#88)
-        - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#89)
-        - [Section 3 : Dispositions particulières applicables aux Français de l'étranger. (art. R*112-16 à R*112-17)](#90)
-        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#91)
-    - [LIVRE II (art. R*1 à R*234)](#92)
-      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#93)
-        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#94)
-          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#95)
-            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#96)
-            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#97)
-            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#98)
-          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#99)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#100)
-      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#101)
-        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#102)
-          - [Section II : Sélection (art. R*40 à R*50-6)](#103)
-            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#104)
-            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#105)
-            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#106)
-            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#107)
-            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#108)
-            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#109)
-            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#110)
-            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#111)
-            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#112)
-        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#113)
-          - [Section I : Dispenses (art. R*55 à R77)](#114)
-            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#115)
-            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#116)
-            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#117)
-          - [Section III : Condamnés. (art. R*98 à R*100-1)](#118)
-        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#119)
-      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#120)
-        - [Chapitre Ier : Service militaire (art. R110 à R148)](#121)
-          - [Section I : Service militaire actif (art. R110 à R*132)](#122)
-            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#123)
-            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#124)
-          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#125)
-            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#126)
-            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#127)
-            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#128)
-        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#129)
-          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#130)
-          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#131)
-        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#132)
-          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#133)
-            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#134)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#135)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#136)
-            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#137)
-          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#138)
-            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#139)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#140)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#141)
-            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#142)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#143)
-          - [Section I : Dispositions communes (art. R202 à R223)](#144)
-            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#145)
-            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#146)
-            - [Paragraphe 3 : Discipline. (art. R210)](#147)
-            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#148)
-            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#149)
-            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#150)
-            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#151)
-          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#152)
-          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#153)
-        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#154)
-          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#155)
-          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#156)
-          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#157)
-          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#158)
-          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#159)
-          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#160)
-      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#161)
-      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#162)
-  - [Annexes (art. ANNEXE I à ANNEXE II)](#163)
-    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#164)
+    - [LIVRE II (art. L1 à L159)](#26)
+      - [TITRE Ier : Définition et principes du service national (art. L1 à L14)](#27)
+        - [Chapitre Ier : Dispositions générales. (art. L1 à L8)](#28)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. L9 à L14)](#29)
+      - [TITRE II : Dispositions communes aux différentes formes de service national (art. L15 à L65)](#30)
+        - [Chapitre Ier : Recensement, sélection (art. L15 à L28)](#31)
+          - [Section I : Recensement. (art. L15 à L22)](#32)
+          - [Section II : Sélection. (art. L23 à L28)](#33)
+        - [Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national (art. L29 à L60)](#34)
+          - [Section I : Exemptions. (art. L29)](#35)
+          - [Section II : Dispenses. (art. L31 à L40-1)](#36)
+          - [Section IV : Condamnés. (art. L51 à L60)](#37)
+        - [Chapitre III : Réforme pour inaptitude physique. (art. L61)](#38)
+        - [Chapitre IV : Droits résultant de l'accomplissement du service national actif. (art. L62 à L65)](#39)
+      - [TITRE III : Dispositions particulières aux différentes formes du service national (art. L67 à L116-9)](#40)
+        - [Chapitre Ier : Service militaire (art. L67 à L85)](#41)
+          - [Section I : Définition. (art. L67 à L69)](#42)
+          - [Section II : Service militaire actif. (art. L70 à L77)](#43)
+          - [Section III : Recrutement des cadres de réserve du service militaire. (art. L78 à L79)](#44)
+          - [Section IV : Disponibilité et réserve du service militaire. (art. L80 à L85)](#45)
+        - [Chapitre II bis : Service dans la police nationale (art. L94-1 à L94-15)](#46)
+          - [Section I : Dispositions générales. (art. L94-1 à L94-2)](#47)
+          - [Section II : Droits et obligations. (art. L94-3 à L94-10)](#48)
+          - [Section III : Disponibilité et réserve dans la police nationale. (art. L94-11 à L94-15)](#49)
+        - [Chapitre II ter : Service de sécurité civile. (art. L94-16 à L94-20)](#50)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. L95 à L115)](#51)
+          - [Section I : Définitions. (art. L95 à L96)](#52)
+          - [Section II : Dispositions communes (art. L97 à L111)](#53)
+            - [Paragraphe 1er : Dispositions générales. (art. L97 à L101-1)](#54)
+            - [Paragraphe 2 : Droits et obligations. (art. L102 à L108)](#55)
+            - [Paragraphe 3 : Dispositions diverses. (art. L109 à L111)](#56)
+          - [Section III : Dispositions particulières au service de l'aide technique. (art. L112)](#57)
+          - [Section IV : Dispositions particulières au service de la coopération. (art. L113 à L115)](#58)
+        - [Chapitre IV : Service des objecteurs de conscience. (art. L116-1 à L116-9)](#59)
+      - [TITRE IV : Dispositions pénales et disciplinaires (art. L117 à L159)](#60)
+        - [Chapitre Ier : Dispositions générales (art. L117 à L136)](#61)
+          - [Section I : Dispositions pénales (art. L117 à L134)](#62)
+            - [Paragraphe 1er : Fraudes. (art. L117 à L121)](#63)
+            - [Paragraphe 2 : Insoumission. (art. L122 à L131)](#64)
+            - [Paragraphe 4 : Infractions aux obligations dans la réserve. (art. L133 à L134)](#65)
+          - [Section II : Dispositions disciplinaires et administratives. (art. L135 à L136)](#66)
+        - [Chapitre II : Dispositions particulières au service militaire. (art. L137)](#67)
+        - [Chapitre III bis : Dispositions particulières au service dans la police nationale. (art. L149-1 à L149-10)](#68)
+        - [Chapitre III ter : Dispositions particulières au service de sécurité civile. (art. L149-11)](#69)
+        - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L150 à L159)](#70)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*234)](#71)
+    - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-20)](#72)
+      - [Chapitre Ier : Le recensement. (art. R*111-1 à R*111-18)](#73)
+      - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-1 à R121-52)](#74)
+        - [Section I : L'Agence du service civique (art. R120-1 à R120-11)](#75)
+        - [Section II : Les relations entre la personne volontaire et la personne morale agréée (art. D121-21 à R121-20)](#76)
+        - [Section III : Indemnité (art. R121-22 à R121-32)](#77)
+        - [Section IV : Agrément (art. R121-33 à R121-46)](#78)
+        - [Section V : Dispositions diverses (art. R121-47 à R121-50)](#79)
+        - [Section VI : Dispositions relatives à l'outre-mer (art. R121-51 à R121-52)](#80)
+      - [Chapitre II : L'appel de préparation à la défense (art. R*112-1 à R*112-20)](#81)
+        - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#82)
+        - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#83)
+        - [Section 3 : Dispositions particulières applicables aux Français de l'étranger. (art. R*112-16 à R*112-17)](#84)
+        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#85)
+    - [LIVRE II (art. R*1 à R*234)](#86)
+      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#87)
+        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#88)
+          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#89)
+            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#90)
+            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#91)
+            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#92)
+          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#93)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#94)
+      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#95)
+        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#96)
+          - [Section II : Sélection (art. R*40 à R*50-6)](#97)
+            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#98)
+            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#99)
+            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#100)
+            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#101)
+            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#102)
+            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#103)
+            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#104)
+            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#105)
+            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#106)
+        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#107)
+          - [Section I : Dispenses (art. R*55 à R77)](#108)
+            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#109)
+            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#110)
+            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#111)
+          - [Section III : Condamnés. (art. R*98 à R*100-1)](#112)
+        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#113)
+      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#114)
+        - [Chapitre Ier : Service militaire (art. R110 à R148)](#115)
+          - [Section I : Service militaire actif (art. R110 à R*132)](#116)
+            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#117)
+            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#118)
+          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#119)
+            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#120)
+            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#121)
+            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#122)
+        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#123)
+          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#124)
+          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#125)
+        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#126)
+          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#127)
+            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#128)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#129)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#130)
+            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#131)
+          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#132)
+            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#133)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#134)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#135)
+            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#136)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#137)
+          - [Section I : Dispositions communes (art. R202 à R223)](#138)
+            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#139)
+            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#140)
+            - [Paragraphe 3 : Discipline. (art. R210)](#141)
+            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#142)
+            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#143)
+            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#144)
+            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#145)
+          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#146)
+          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#147)
+        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#148)
+          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#149)
+          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#150)
+          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#151)
+          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#152)
+          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#153)
+          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#154)
+      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#155)
+      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#156)
+  - [Annexes (art. ANNEXE I à ANNEXE II)](#157)
+    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#158)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -451,9 +445,7 @@ _Créé par_:
   - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
 
 
-#### Chapitre IV : L'enseignement de la défense et l'appel de préparation à la défense.<a id=7></a>
-
-#### Chapitre IV : L'enseignement de la défense et       la journée défense et citoyenneté.<a id=8></a>
+#### Chapitre IV : L'enseignement de la défense et       la journée défense et citoyenneté.<a id=7></a>
 
 ###### Article L114-1
 
@@ -719,7 +711,7 @@ _Modifié par_:
   - Loi n°2004-805 du 9 août 2004 - art. 3 () JORF 11 août 2004
 
 
-#### Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale.<a id=9></a>
+#### Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale.<a id=8></a>
 
 ###### Article L115-1
 
@@ -763,7 +755,7 @@ _Modifié par_:
   - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
 
 
-### TITRE Ier bis : Dispositions relatives au service civique.<a id=10></a>
+### TITRE Ier bis : Dispositions relatives au service civique.<a id=9></a>
 
 ###### Article L120-1
 
@@ -865,7 +857,7 @@ _Créé par_:
   - Loi n°2010-241 du 10 mars 2010 - art. 8
 
 
-#### Chapitre Ier : L'Agence du service civique.<a id=11></a>
+#### Chapitre Ier : L'Agence du service civique.<a id=10></a>
 
 ###### Article L120-2
 
@@ -935,9 +927,9 @@ _Cité par_:
   - Code du service national - art. R120-11 (V)
 
 
-#### Chapitre II : L'engagement et le volontariat de service civique.<a id=12></a>
+#### Chapitre II : L'engagement et le volontariat de service civique.<a id=11></a>
 
-##### Section 1 : Dispositions générales.<a id=13></a>
+##### Section 1 : Dispositions générales.<a id=12></a>
 
 ###### Article L120-3
 
@@ -962,7 +954,7 @@ _Créé par_:
   - Loi n°2010-241 du 10 mars 2010 - art. 8
 
 
-##### Section 2 : Les conditions relatives à la personne volontaire.<a id=14></a>
+##### Section 2 : Les conditions relatives à la personne volontaire.<a id=13></a>
 
 ###### Article L120-4
 
@@ -1027,7 +1019,7 @@ _Cité par_:
   - Code du service national - art. R121-28 (M)
 
 
-##### Section 3 : Les relations entre la personne volontaire et la personne morale agréée.<a id=15></a>
+##### Section 3 : Les relations entre la personne volontaire et la personne morale agréée.<a id=14></a>
 
 ###### Article L120-7
 
@@ -1249,7 +1241,7 @@ _Cité par_:
   - Code du service national - art. R121-49 (VD)
 
 
-##### Section 4 : Indemnité.<a id=16></a>
+##### Section 4 : Indemnité.<a id=15></a>
 
 ###### Article L120-18
 
@@ -1392,7 +1384,7 @@ _Créé par_:
   - Loi n°2010-241 du 10 mars 2010 - art. 8
 
 
-##### Section 5 : Protection sociale.<a id=17></a>
+##### Section 5 : Protection sociale.<a id=16></a>
 
 ###### Article L120-25
 
@@ -1520,7 +1512,7 @@ _Cite_:
   - Code du service national - art. L120-30 (VD)
 
 
-##### Section 6 : Agrément.<a id=18></a>
+##### Section 6 : Agrément.<a id=17></a>
 
 ###### Article L120-30
 
@@ -1564,7 +1556,7 @@ _Cite_:
   - Code du service national - art. L120-1 (VD)
 
 
-##### Section 7 : Dispositions diverses.<a id=19></a>
+##### Section 7 : Dispositions diverses.<a id=18></a>
 
 ###### Article L120-31
 
@@ -1765,9 +1757,21 @@ _Cite_:
   - Code du service national - art. L120-3 (VD)
 
 
-### TITRE II : Dispositions relatives aux volontariats<a id=20></a>
+### TITRE II : Dispositions relatives aux autres formes de volontariat.<a id=19></a>
 
-#### Chapitre Ier : Le volontariat dans les armées.<a id=21></a>
+###### Article L120-37
+
+Le volontariat vise à apporter un concours personnel et temporaire à la communauté nationale dans le cadre d'une mission
+d'intérêt général et à développer la solidarité et le sentiment d'appartenance à la Nation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 12
+
+
+#### Chapitre Ier : Le volontariat dans les armées.<a id=20></a>
 
 ###### Article L121-1
 
@@ -1843,248 +1847,9 @@ _Créé par_:
   - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
 
 
-#### Chapitre II : Les volontariats civils<a id=22></a>
+#### Chapitre II : Dispositions relatives aux volontariats internationaux<a id=21></a>
 
-##### Section II : Droits et obligations du volontaire civil.<a id=23></a>
-
-##### Section III : Dispositions diverses.<a id=24></a>
-
-###### Article L122-18
-
-En cas de faute exclusive de toute faute personnelle, la responsabilité pécuniaire de l'Etat, sans préjudice d'une action
-récursoire à l'encontre de la personne morale auprès de laquelle le volontariat est effectué, est substituée à celle du
-volontaire international affecté à l'étranger. 
-
-Le volontaire international affecté à l'étranger bénéficie, dans l'exercice ou à l'occasion de l'exercice de son volontariat,
-d'une protection de l'Etat dans les conditions prévues à l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits
-et obligations des fonctionnaires.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°83-634 du 13 juillet 1983 - art. 11
-
-_Modifié par_:
-
-  - Loi n°2010-241 du 10 mars 2010 - art. 15
-
-_Cité par_:
-
-  - Code du service national - art. L122-7 (VD)
-
-
-###### Article L122-19
-
-Les dispositions des articles L. 122-1 à L. 122-18 du présent code ne font pas obstacle à des dispositions spécifiques
-définies pour des volontaires non visés par l'article L. 111-3 dudit code. Ces dispositions spécifiques peuvent organiser des
-formes contractuelles d'engagement volontaire pour l'accomplissement de missions d'intérêt général.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Loi n°2000-242 du 14 mars 2000 - art. 20 () JORF 15 mars 2000
-
-_Cite_:
-
-  - Code du service national - art. L111-3 (V)
-  - Code du service national L122-1 à L122-18, L111-3
-
-
-###### Article L122-20
-
-Les modalités d'application des articles L. 122-1 à L. 122-19 sont fixées par décret en Conseil d'Etat. Les dispositions
-réglementaires relatives à l'accomplissement du volontariat international à l'étranger sont prises après consultation de
-l'Assemblée des Français de l'étranger.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2010-241 du 10 mars 2010 - art. 15
-
-_Cite_:
-
-  - Code du service national - art. L122-1
-
-_Cité par_:
-
-  - Code du service national - art. L122-21 (VT)
-
-
-#### Chapitre III : Le volontariat pour l'insertion<a id=25></a>
-
-###### Article L130-1
-
-Il est créé un contrat de droit public intitulé : "contrat de volontariat pour l'insertion", qui permet de recevoir une
-formation générale et professionnelle dispensée par l'établissement public d'insertion de la défense.
-
-Peut faire acte de candidature, en vue de souscrire ce contrat avec l'établissement public d'insertion de la défense, toute
-personne de seize ans à vingt-cinq ans révolus, ayant sa résidence habituelle en métropole, dont il apparaît, notamment à
-l'issue de la journée défense et citoyenneté, qu'elle rencontre des difficultés particulières d'insertion sociale et
-professionnelle.
-
-Cette formation est délivrée dans les centres de formation gérés et administrés par l'établissement public d'insertion de la
-défense, dont le régime est l'internat.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20-10 (V)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 7-2 (V)
-  - Décret n°2005-885 du 2 août 2005 - art. 1 (V)
-  - Code du travail - art. L6241-10 (V)
-  - Code général des impôts, CGI. - art. 244 quater G (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (V)
-
-_Modifié par_:
-
-  - Loi n°2010-241 du 10 mars 2010 - art. 2
-
-
-###### Article L130-2
-
-Le volontariat est souscrit initialement pour une durée de six mois à un an. Il peut être prolongé sans que la durée totale
-du volontariat puisse excéder vingt-quatre mois.
-
-Le contrat, qui comprend une période probatoire, peut notamment comporter une ou plusieurs périodes de stage en entreprise ou
-en administration. Il prend fin avant son terme à la date d'effet d'un contrat de travail souscrit par le volontaire.
-Toutefois, lorsque ce contrat est un contrat de travail mentionné à l'article L. 117-1, L. 124-2 ou L. 981-1 du code du
-travail, le volontaire peut bénéficier, pendant une période de trois mois au plus, des prestations auxquelles ouvre droit le
-statut de volontaire pour l'insertion, à l'exception de l'allocation mensuelle et de la prime respectivement mentionnées aux
-1° et 2° de l'article L. 130-3 et du régime de protection sociale prévu à l'article L. 130-4 du présent code.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article ainsi que les conditions de conclusion,
-d'exécution et de résiliation du contrat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Cité par_:
-
-  - Décret n°2005-885 du 2 août 2005 - art. 6 (V)
-  - Code du service national - art. L130-5 (V)
-
-_Modifié par_:
-
-  - Loi n°2006-396 du 31 mars 2006 - art. 15 () JORF 2 avril 2006
-
-_Cite_:
-
-  - Code du service national - art. L130-3 (V)
-  - Code du service national - art. L130-4 (V)
-  - Code du service national L130-4, L117-1, L130-3
-  - Code du travail - art. L117-1 (M)
-  - Code du travail - art. L124-2 (M)
-  - Code du travail - art. L981-1 (M)
-
-
-###### Article L130-3
-
-L'accomplissement du volontariat pour l'insertion ouvre droit :
-
-1° A une allocation mensuelle, à l'exclusion de toute rémunération ;
-
-2° A une prime calculée au prorata du nombre de mois de volontariat effectivement accomplis.
-
-Les conditions d'attribution et le montant de l'allocation mensuelle et de la prime sont fixés par décret.
-
-L'allocation et la prime sont exonérées de l'impôt sur le revenu et exclues de l'assiette de la contribution sociale
-généralisée et de la contribution au remboursement de la dette sociale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
-
-_Cité par_:
-
-  - Décret n°2005-888 du 2 août 2005 - art. 4 (V)
-  - Code de la sécurité sociale. - art. R372-3 (V)
-  - Code du service national - art. L130-2 (M)
-  - Code du service national - art. L130-4 (V)
-  - Code du service national - art. L130-5 (V)
-  - Code général des impôts, CGI. - art. 81 (V)
-
-
-###### Article L130-4
-
-I.-Le volontaire pour l'insertion bénéficie pour lui-même et ses ayants droit des prestations en nature de l'assurance
-maladie, maternité et invalidité du régime général de sécurité sociale. 
-
-La couverture de ces risques est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
-public d'insertion de la défense et dont le montant est fixé par décret. 
-
-II.-Il relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du service au titre du volontariat pour
-l'insertion, des dispositions du livre IV du code de la sécurité sociale. 
-
-La couverture de ce risque est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
-public d'insertion de la défense et dont le montant est fixé par décret. 
-
-III.-Le bénéfice des dispositions de l'article L. 130-3 est maintenu durant la période de volontariat au profit du volontaire
-en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire de travail liée à un accident ou une
-maladie survenu par le fait ou à l'occasion du service. 
-
-IV.-Les volontaires pour l'insertion ne relèvent pas de l'article L. 351-12 du code du travail et ne peuvent bénéficier de
-l'allocation mentionnée à l'article L. 351-3 du même code.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
-  - Code de la sécurité sociale. - art. D372-2 (Ab)
-  - Code de la sécurité sociale. - art. D412-98-1 (V)
-  - Code de la sécurité sociale. - art. L412-8 (VT)
-  - Code de la sécurité sociale. - art. R412-20 (V)
-  - Code du service national - art. L130-2 (V)
-
-_Modifié par_:
-
-  - Loi n°2008-493 du 26 mai 2008 - art. 9
-
-_Cite_:
-
-  - Code du service national - art. L130-3
-  - Code du travail - art. L351-12
-  - Code du travail - art. L351-3
-
-
-### TITRE II : Dispositions relatives aux autres formes de volontariat.<a id=26></a>
-
-###### Article L120-37
-
-Le volontariat vise à apporter un concours personnel et temporaire à la communauté nationale dans le cadre d'une mission
-d'intérêt général et à développer la solidarité et le sentiment d'appartenance à la Nation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2010-241 du 10 mars 2010 - art. 12
-
-
-#### Chapitre Ier : Le volontariat dans les armées.<a id=27></a>
-
-#### Chapitre II : Dispositions relatives aux volontariats internationaux<a id=28></a>
-
-##### Section I : Principes du volontariat international.<a id=29></a>
+##### Section I : Principes du volontariat international.<a id=22></a>
 
 ###### Article L122-1
 
@@ -2318,7 +2083,7 @@ _Modifié par_:
   - Loi n°2010-241 du 10 mars 2010 - art. 15
 
 
-##### Section II : Droits et obligations du volontaire international.<a id=30></a>
+##### Section II : Droits et obligations du volontaire international.<a id=23></a>
 
 ###### Article L122-10
 
@@ -2588,15 +2353,230 @@ _Cité par_:
   - Code du service national - art. L122-21 (VT)
 
 
-##### Section III : Dispositions diverses.<a id=31></a>
+##### Section III : Dispositions diverses.<a id=24></a>
 
-#### Chapitre III : Le volontariat pour l'insertion<a id=32></a>
+###### Article L122-18
 
-## LIVRE II<a id=33></a>
+En cas de faute exclusive de toute faute personnelle, la responsabilité pécuniaire de l'Etat, sans préjudice d'une action
+récursoire à l'encontre de la personne morale auprès de laquelle le volontariat est effectué, est substituée à celle du
+volontaire international affecté à l'étranger. 
 
-### TITRE Ier : Définition et principes du service national<a id=34></a>
+Le volontaire international affecté à l'étranger bénéficie, dans l'exercice ou à l'occasion de l'exercice de son volontariat,
+d'une protection de l'Etat dans les conditions prévues à l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits
+et obligations des fonctionnaires.
 
-#### Chapitre Ier : Dispositions générales.<a id=35></a>
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°83-634 du 13 juillet 1983 - art. 11
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+_Cité par_:
+
+  - Code du service national - art. L122-7 (VD)
+
+
+###### Article L122-19
+
+Les dispositions des articles L. 122-1 à L. 122-18 du présent code ne font pas obstacle à des dispositions spécifiques
+définies pour des volontaires non visés par l'article L. 111-3 dudit code. Ces dispositions spécifiques peuvent organiser des
+formes contractuelles d'engagement volontaire pour l'accomplissement de missions d'intérêt général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Loi n°2000-242 du 14 mars 2000 - art. 20 () JORF 15 mars 2000
+
+_Cite_:
+
+  - Code du service national - art. L111-3 (V)
+  - Code du service national L122-1 à L122-18, L111-3
+
+
+###### Article L122-20
+
+Les modalités d'application des articles L. 122-1 à L. 122-19 sont fixées par décret en Conseil d'Etat. Les dispositions
+réglementaires relatives à l'accomplissement du volontariat international à l'étranger sont prises après consultation de
+l'Assemblée des Français de l'étranger.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 15
+
+_Cite_:
+
+  - Code du service national - art. L122-1
+
+_Cité par_:
+
+  - Code du service national - art. L122-21 (VT)
+
+
+#### Chapitre III : Le volontariat pour l'insertion<a id=25></a>
+
+###### Article L130-1
+
+Il est créé un contrat de droit public intitulé : "contrat de volontariat pour l'insertion", qui permet de recevoir une
+formation générale et professionnelle dispensée par l'établissement public d'insertion de la défense.
+
+Peut faire acte de candidature, en vue de souscrire ce contrat avec l'établissement public d'insertion de la défense, toute
+personne de seize ans à vingt-cinq ans révolus, ayant sa résidence habituelle en métropole, dont il apparaît, notamment à
+l'issue de la journée défense et citoyenneté, qu'elle rencontre des difficultés particulières d'insertion sociale et
+professionnelle.
+
+Cette formation est délivrée dans les centres de formation gérés et administrés par l'établissement public d'insertion de la
+défense, dont le régime est l'internat.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-10 (V)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 7-2 (V)
+  - Décret n°2005-885 du 2 août 2005 - art. 1 (V)
+  - Code du travail - art. L6241-10 (V)
+  - Code général des impôts, CGI. - art. 244 quater G (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (V)
+
+_Modifié par_:
+
+  - Loi n°2010-241 du 10 mars 2010 - art. 2
+
+
+###### Article L130-2
+
+Le volontariat est souscrit initialement pour une durée de six mois à un an. Il peut être prolongé sans que la durée totale
+du volontariat puisse excéder vingt-quatre mois.
+
+Le contrat, qui comprend une période probatoire, peut notamment comporter une ou plusieurs périodes de stage en entreprise ou
+en administration. Il prend fin avant son terme à la date d'effet d'un contrat de travail souscrit par le volontaire.
+Toutefois, lorsque ce contrat est un contrat de travail mentionné à l'article L. 117-1, L. 124-2 ou L. 981-1 du code du
+travail, le volontaire peut bénéficier, pendant une période de trois mois au plus, des prestations auxquelles ouvre droit le
+statut de volontaire pour l'insertion, à l'exception de l'allocation mensuelle et de la prime respectivement mentionnées aux
+1° et 2° de l'article L. 130-3 et du régime de protection sociale prévu à l'article L. 130-4 du présent code.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article ainsi que les conditions de conclusion,
+d'exécution et de résiliation du contrat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Cité par_:
+
+  - Décret n°2005-885 du 2 août 2005 - art. 6 (V)
+  - Code du service national - art. L130-5 (V)
+
+_Modifié par_:
+
+  - Loi n°2006-396 du 31 mars 2006 - art. 15 () JORF 2 avril 2006
+
+_Cite_:
+
+  - Code du service national - art. L130-3 (V)
+  - Code du service national - art. L130-4 (V)
+  - Code du service national L130-4, L117-1, L130-3
+  - Code du travail - art. L117-1 (M)
+  - Code du travail - art. L124-2 (M)
+  - Code du travail - art. L981-1 (M)
+
+
+###### Article L130-3
+
+L'accomplissement du volontariat pour l'insertion ouvre droit :
+
+1° A une allocation mensuelle, à l'exclusion de toute rémunération ;
+
+2° A une prime calculée au prorata du nombre de mois de volontariat effectivement accomplis.
+
+Les conditions d'attribution et le montant de l'allocation mensuelle et de la prime sont fixés par décret.
+
+L'allocation et la prime sont exonérées de l'impôt sur le revenu et exclues de l'assiette de la contribution sociale
+généralisée et de la contribution au remboursement de la dette sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Créé par_:
+
+  - Ordonnance n°2005-883 du 2 août 2005 - art. 2 () JORF 3 août 2005
+
+_Cité par_:
+
+  - Décret n°2005-888 du 2 août 2005 - art. 4 (V)
+  - Code de la sécurité sociale. - art. R372-3 (V)
+  - Code du service national - art. L130-2 (M)
+  - Code du service national - art. L130-4 (V)
+  - Code du service national - art. L130-5 (V)
+  - Code général des impôts, CGI. - art. 81 (V)
+
+
+###### Article L130-4
+
+I.-Le volontaire pour l'insertion bénéficie pour lui-même et ses ayants droit des prestations en nature de l'assurance
+maladie, maternité et invalidité du régime général de sécurité sociale. 
+
+La couverture de ces risques est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
+public d'insertion de la défense et dont le montant est fixé par décret. 
+
+II.-Il relève, en cas de maladie ou d'accident survenu par le fait ou à l'occasion du service au titre du volontariat pour
+l'insertion, des dispositions du livre IV du code de la sécurité sociale. 
+
+La couverture de ce risque est assurée moyennant le versement de cotisations forfaitaires à la charge de l'établissement
+public d'insertion de la défense et dont le montant est fixé par décret. 
+
+III.-Le bénéfice des dispositions de l'article L. 130-3 est maintenu durant la période de volontariat au profit du volontaire
+en cas de congé de maladie, de maternité ou d'adoption, ou d'incapacité temporaire de travail liée à un accident ou une
+maladie survenu par le fait ou à l'occasion du service. 
+
+IV.-Les volontaires pour l'insertion ne relèvent pas de l'article L. 351-12 du code du travail et ne peuvent bénéficier de
+l'allocation mentionnée à l'article L. 351-3 du même code.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
+  - Code de la sécurité sociale. - art. D372-2 (Ab)
+  - Code de la sécurité sociale. - art. D412-98-1 (V)
+  - Code de la sécurité sociale. - art. L412-8 (VT)
+  - Code de la sécurité sociale. - art. R412-20 (V)
+  - Code du service national - art. L130-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2008-493 du 26 mai 2008 - art. 9
+
+_Cite_:
+
+  - Code du service national - art. L130-3
+  - Code du travail - art. L351-12
+  - Code du travail - art. L351-3
+
+
+## LIVRE II<a id=26></a>
+
+### TITRE Ier : Définition et principes du service national<a id=27></a>
+
+#### Chapitre Ier : Dispositions générales.<a id=28></a>
 
 ###### Article L1
 
@@ -3298,7 +3278,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=36></a>
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=29></a>
 
 ###### Article L9
 
@@ -3530,11 +3510,11 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-### TITRE II : Dispositions communes aux différentes formes de service national<a id=37></a>
+### TITRE II : Dispositions communes aux différentes formes de service national<a id=30></a>
 
-#### Chapitre Ier : Recensement, sélection<a id=38></a>
+#### Chapitre Ier : Recensement, sélection<a id=31></a>
 
-##### Section I : Recensement.<a id=39></a>
+##### Section I : Recensement.<a id=32></a>
 
 ###### Article L15
 
@@ -3914,7 +3894,7 @@ _Cite_:
   - Code du service national - art. L94 (M)
 
 
-##### Section II : Sélection.<a id=40></a>
+##### Section II : Sélection.<a id=33></a>
 
 ###### Article L23
 
@@ -4196,9 +4176,9 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-#### Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=41></a>
+#### Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national<a id=34></a>
 
-##### Section I : Exemptions.<a id=42></a>
+##### Section I : Exemptions.<a id=35></a>
 
 ###### Article L29
 
@@ -4246,7 +4226,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section II : Dispenses.<a id=43></a>
+##### Section II : Dispenses.<a id=36></a>
 
 ###### Article L31
 
@@ -4870,7 +4850,7 @@ _Cite_:
   - Code du service national - art. L17 (M)
 
 
-##### Section IV : Condamnés.<a id=44></a>
+##### Section IV : Condamnés.<a id=37></a>
 
 ###### Article L51
 
@@ -5340,7 +5320,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-#### Chapitre III : Réforme pour inaptitude physique.<a id=45></a>
+#### Chapitre III : Réforme pour inaptitude physique.<a id=38></a>
 
 ###### Article L61
 
@@ -5406,7 +5386,7 @@ _Anciens textes_:
   - Loi n°1932-12-13 art. 58
 
 
-#### Chapitre IV : Droits résultant de l'accomplissement du service national actif.<a id=46></a>
+#### Chapitre IV : Droits résultant de l'accomplissement du service national actif.<a id=39></a>
 
 ###### Article L62
 
@@ -5721,11 +5701,11 @@ _Cité par_:
   - Code du service national - art. L94-9 (V)
 
 
-### TITRE III : Dispositions particulières aux différentes formes du service national<a id=47></a>
+### TITRE III : Dispositions particulières aux différentes formes du service national<a id=40></a>
 
-#### Chapitre Ier : Service militaire<a id=48></a>
+#### Chapitre Ier : Service militaire<a id=41></a>
 
-##### Section I : Définition.<a id=49></a>
+##### Section I : Définition.<a id=42></a>
 
 ###### Article L67
 
@@ -5894,7 +5874,7 @@ _Cite_:
   - Code du service national - art. L67 (M)
 
 
-##### Section II : Service militaire actif.<a id=50></a>
+##### Section II : Service militaire actif.<a id=43></a>
 
 ###### Article L70
 
@@ -6308,7 +6288,7 @@ _Cité par_:
   - Code du service national - art. L94-10 (V)
 
 
-##### Section III : Recrutement des cadres de réserve du service militaire.<a id=51></a>
+##### Section III : Recrutement des cadres de réserve du service militaire.<a id=44></a>
 
 ###### Article L78
 
@@ -6394,7 +6374,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section IV : Disponibilité et réserve du service militaire.<a id=52></a>
+##### Section IV : Disponibilité et réserve du service militaire.<a id=45></a>
 
 ###### Article L80
 
@@ -6736,9 +6716,9 @@ _Anciens textes_:
   - Loi n°1932-12-13 art. 78 al. 1
 
 
-#### Chapitre II bis : Service dans la police nationale<a id=53></a>
+#### Chapitre II bis : Service dans la police nationale<a id=46></a>
 
-##### Section I : Dispositions générales.<a id=54></a>
+##### Section I : Dispositions générales.<a id=47></a>
 
 ###### Article L94-1
 
@@ -6808,7 +6788,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section II : Droits et obligations.<a id=55></a>
+##### Section II : Droits et obligations.<a id=48></a>
 
 ###### Article L94-3
 
@@ -7134,7 +7114,7 @@ _Cite_:
   - Code du service national - art. L77 (M)
 
 
-##### Section III : Disponibilité et réserve dans la police nationale.<a id=56></a>
+##### Section III : Disponibilité et réserve dans la police nationale.<a id=49></a>
 
 ###### Article L94-11
 
@@ -7353,7 +7333,7 @@ _Cite_:
   - Code du service national - art. L94-14 (M)
 
 
-#### Chapitre II ter : Service de sécurité civile.<a id=57></a>
+#### Chapitre II ter : Service de sécurité civile.<a id=50></a>
 
 ###### Article L94-16
 
@@ -7553,9 +7533,9 @@ _Cite_:
   - Code du service national - art. L94-16 (M)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=58></a>
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=51></a>
 
-##### Section I : Définitions.<a id=59></a>
+##### Section I : Définitions.<a id=52></a>
 
 ###### Article L95
 
@@ -7633,9 +7613,9 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Section II : Dispositions communes<a id=60></a>
+##### Section II : Dispositions communes<a id=53></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=61></a>
+##### Paragraphe 1er : Dispositions générales.<a id=54></a>
 
 ###### Article L97
 
@@ -7893,7 +7873,7 @@ _Cite_:
   - Code du service national - art. L76 (M)
 
 
-##### Paragraphe 2 : Droits et obligations.<a id=62></a>
+##### Paragraphe 2 : Droits et obligations.<a id=55></a>
 
 ###### Article L102
 
@@ -8190,7 +8170,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-##### Paragraphe 3 : Dispositions diverses.<a id=63></a>
+##### Paragraphe 3 : Dispositions diverses.<a id=56></a>
 
 ###### Article L109
 
@@ -8341,7 +8321,7 @@ _Cité par_:
   - Code du service national - art. R*232 (V)
 
 
-##### Section III : Dispositions particulières au service de l'aide technique.<a id=64></a>
+##### Section III : Dispositions particulières au service de l'aide technique.<a id=57></a>
 
 ###### Article L112
 
@@ -8385,7 +8365,7 @@ _Cité par_:
   - Décret n°98-180 du 17 mars 1998 - art. 4 (V)
 
 
-##### Section IV : Dispositions particulières au service de la coopération.<a id=65></a>
+##### Section IV : Dispositions particulières au service de la coopération.<a id=58></a>
 
 ###### Article L113
 
@@ -8502,7 +8482,7 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°97-1019 du 28 octobre 1997 - art. 2 (M)
 
 
-#### Chapitre IV : Service des objecteurs de conscience.<a id=66></a>
+#### Chapitre IV : Service des objecteurs de conscience.<a id=59></a>
 
 ###### Article L116-1
 
@@ -8834,13 +8814,13 @@ _Cite_:
   - Code du service national - art. L76 (M)
 
 
-### TITRE IV : Dispositions pénales et disciplinaires<a id=67></a>
+### TITRE IV : Dispositions pénales et disciplinaires<a id=60></a>
 
-#### Chapitre Ier : Dispositions générales<a id=68></a>
+#### Chapitre Ier : Dispositions générales<a id=61></a>
 
-##### Section I : Dispositions pénales<a id=69></a>
+##### Section I : Dispositions pénales<a id=62></a>
 
-##### Paragraphe 1er : Fraudes.<a id=70></a>
+##### Paragraphe 1er : Fraudes.<a id=63></a>
 
 ###### Article L117
 
@@ -9095,7 +9075,7 @@ _Anciens textes_:
   - Loi n°1928-03-31 art. 95
 
 
-##### Paragraphe 2 : Insoumission.<a id=71></a>
+##### Paragraphe 2 : Insoumission.<a id=64></a>
 
 ###### Article L122
 
@@ -9597,7 +9577,7 @@ _Anciens textes_:
   - Loi n°1932-12-13 art. 107
 
 
-##### Paragraphe 4 : Infractions aux obligations dans la réserve.<a id=72></a>
+##### Paragraphe 4 : Infractions aux obligations dans la réserve.<a id=65></a>
 
 ###### Article L133
 
@@ -9674,7 +9654,7 @@ _Cite_:
   - Code du service national - art. L133 (M)
 
 
-##### Section II : Dispositions disciplinaires et administratives.<a id=73></a>
+##### Section II : Dispositions disciplinaires et administratives.<a id=66></a>
 
 ###### Article L135
 
@@ -9790,7 +9770,7 @@ _Cite_:
   - Code du service national - art. L126 (M)
 
 
-#### Chapitre II : Dispositions particulières au service militaire.<a id=74></a>
+#### Chapitre II : Dispositions particulières au service militaire.<a id=67></a>
 
 ###### Article L137
 
@@ -9851,7 +9831,7 @@ _Anciens textes_:
   - Loi n°1932-12-13 art. 55 al. 1 et al. 2
 
 
-#### Chapitre III bis : Dispositions particulières au service dans la police nationale.<a id=75></a>
+#### Chapitre III bis : Dispositions particulières au service dans la police nationale.<a id=68></a>
 
 ###### Article L149-1
 
@@ -10312,7 +10292,7 @@ _Cite_:
   - Code de justice militaire - art. 94 (Ab)
 
 
-#### Chapitre III ter : Dispositions particulières au service de sécurité civile.<a id=76></a>
+#### Chapitre III ter : Dispositions particulières au service de sécurité civile.<a id=69></a>
 
 ###### Article L149-11
 
@@ -10351,7 +10331,7 @@ _Cite_:
   - Code du service national L149-1 à L149-10
 
 
-#### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.<a id=77></a>
+#### Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.<a id=70></a>
 
 ###### Article L150
 
@@ -10828,11 +10808,11 @@ _Cite_:
   - Code de justice militaire - art. 465 (M)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=78></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=71></a>
 
-## LIVRE Ier : Obligations du service national.<a id=79></a>
+## LIVRE Ier : Obligations du service national.<a id=72></a>
 
-### Chapitre Ier : Le recensement.<a id=80></a>
+### Chapitre Ier : Le recensement.<a id=73></a>
 
 ###### Article R*111-1
 
@@ -11438,9 +11418,9 @@ _Créé par_:
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-### Chapitre Ier bis : Dispositions relatives au service civique<a id=81></a>
+### Chapitre Ier bis : Dispositions relatives au service civique<a id=74></a>
 
-#### Section I : L'Agence du service civique<a id=82></a>
+#### Section I : L'Agence du service civique<a id=75></a>
 
 ###### Article R120-1
 
@@ -11658,7 +11638,7 @@ _Créé par_:
   - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 
-#### Section II : Les relations entre la personne volontaire et la personne morale agréée<a id=83></a>
+#### Section II : Les relations entre la personne volontaire et la personne morale agréée<a id=76></a>
 
 ###### Article D121-21
 
@@ -11840,7 +11820,7 @@ _Créé par_:
   - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 
-#### Section III : Indemnité<a id=84></a>
+#### Section III : Indemnité<a id=77></a>
 
 ###### Article R121-22
 
@@ -12161,7 +12141,7 @@ _Cite_:
   - articles R. 3262-13 à R. 3262-25, R. 3262-13 à R. 3262-15, et R. 3262-33 à R. 3262-46 du code du travail
 
 
-#### Section IV : Agrément<a id=85></a>
+#### Section IV : Agrément<a id=78></a>
 
 ###### Article R121-33
 
@@ -12205,13 +12185,13 @@ _Cité par_:
 L'agrément de volontariat de service civique prévu au troisième alinéa du II de l'article L. 120-1 est accordé pour une durée
 maximale de cinq ans renouvelable à l'association de droit français, à la fondation reconnue d'utilité publique, à l'union
 d'associations ou à la fédération d'associations constituée sous la forme d'association qui répond aux conditions visées aux
-1°, 5° et 6° de l'article R. 121-33 et :
+1°,5° et 6° de l'article R. 121-33 et : 
 
 1° Assure une mission ou un programme de missions d'intérêt général et justifie de sa capacité à les exercer dans de bonnes
-conditions ;
+conditions ; 
 
 2° Dispose d'une organisation compatible avec l'accueil du nombre de volontaires qu'elle envisage d'accueillir ou de mettre à
-disposition ;
+disposition ; 
 
 2° Dispose de ressources d'origine privée supérieures à 15 % de son budget annuel au cours du dernier exercice clos.
 
@@ -12220,15 +12200,16 @@ alinéa exerçant des missions reconnues prioritaires pour la nation pour accuei
 dix-huit ans et de moins de vingt-cinq ans. Dans ce cas, l'agrément délivré par l'Agence du service civique précise les
 missions destinées à ces volontaires en sus des missions mentionnées au 1°.
 
-L'agrément de volontariat de service civique prévu au troisième alinéa du II de l'article L. 120-1 et à l'article L. 120-34
-est accordé pour une durée maximale de cinq ans renouvelable à la personne morale de droit public dont le siège se situe dans
-les départements et territoires d'outre-mer qui répond aux conditions prévues à l'article R. 121-33.
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-485 du 12 mai 2010 - art. 1
+  - Décret n°2010-1771 du 30 décembre 2010 - art. 1
+
+_Cite_:
+
+  - Code du service national - art. L120-1
+  - Code du service national - art. R121-33
 
 _Cité par_:
 
@@ -12474,7 +12455,7 @@ _Créé par_:
   - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 
-#### Section V : Dispositions diverses<a id=86></a>
+#### Section V : Dispositions diverses<a id=79></a>
 
 ###### Article R121-47
 
@@ -12541,9 +12522,110 @@ _Cité par_:
   - Arrêté du 26 septembre 2011 - art. 4 (V)
 
 
-### Chapitre II : L'appel de préparation à la défense<a id=87></a>
+#### Section VI : Dispositions relatives à l'outre-mer<a id=80></a>
 
-#### Section 1 : Dispositions générales.<a id=88></a>
+###### Article R121-51
+
+Les dispositions des sections I à V du présent chapitre sont applicables sur l'ensemble du territoire de la République, à
+l'exception des articles R. 121-27 à R. 121-32, qui ne sont pas applicables à Mayotte, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1771 du 30 décembre 2010 - art. 1
+
+_Cité par_:
+
+  - Code du service national - art. R121-52 (V)
+
+
+###### Article R121-52
+
+Pour leur application dans les départements et collectivités d'outre-mer, en Nouvelle-Calédonie et dans les Terres australes
+et antarctiques françaises, les dispositions mentionnées à l'article R. 121-51 font l'objet des adaptations suivantes : 
+
+1° L'article R. 120-9 est ainsi rédigé : 
+
+" Art.R. 120-9. ― Dans les départements et collectivités d'outre-mer, en Nouvelle-Calédonie et dans les Terres australes et
+antarctiques françaises, le représentant de l'Etat est le délégué territorial de l'agence. Il assure la coordination des
+politiques de promotion, d'évaluation et de contrôle du service civique avec l'appui des services placés sous son autorité et
+du délégué territorial adjoint qu'il désigne. 
+
+Dans les départements d'outre-mer et à Mayotte, il désigne un délégué territorial adjoint parmi les chefs de services
+déconcentrés chargés de la jeunesse et de la cohésion sociale ou les membres du corps préfectoral, placés sous son autorité. 
+
+Dans les autres collectivités, il désigne un délégué territorial adjoint parmi les chefs de services ou les membres du corps
+préfectoral placés sous son autorité. ” ; 
+
+2° Pour l'application de l'article R. 121-26, le montant de l'indemnité supplémentaire mentionnée à l'article L. 120-20 est
+fixé par arrêté conjoint du ministre chargé de la jeunesse, du ministre chargé du budget et du ministre chargé de l'outre-
+mer. 
+
+Lorsque le logement est fourni en nature, l'indemnité supplémentaire subit un abattement dont le taux spécifique à chaque
+collectivité d'affectation est fixé par l'arrêté mentionné à l'alinéa précédent ; 
+
+3° La personne volontaire a droit à la prise en charge par l'organisme d'accueil du voyage aller et retour et du transport
+des bagages à concurrence de 50 kg (0,3 m ³) d'effets personnels par voie aérienne ou 130 kg (1 m ³) par voie maritime entre
+son domicile et son lieu d'affectation, par la voie la plus directe et la plus économique. 
+
+La personne volontaire, qui à la fin de son contrat de service civique, souhaite prolonger à titre personnel son séjour dans
+son lieu d'affectation conserve le droit à la gratuité du voyage retour, avec bagages, vers son lieu de résidence habituelle
+pendant un délai de trois mois ; 
+
+4° La personne volontaire doit, avant sa prise de fonctions, être à jour des vaccinations nécessaires à l'accomplissement de
+son contrat de service civique ; 
+
+5° Pour l'application de l'article R. 121-34, l'agrément de volontariat de service civique prévu au troisième alinéa du II de
+l'article L. 120-1 et à l'article L. 120-34 peut être accordé pour une durée maximale de cinq ans renouvelable à la personne
+morale de droit public qui répond aux conditions prévues à l'article R. 121-33 et dont le siège se situe dans un département
+ou une collectivité d'outre-mer, en Nouvelle-Calédonie, à Mayotte, dans les îles Wallis et Futuna, en Polynésie française ou
+dans les Terres australes et antarctiques françaises. 
+
+Dans les mêmes conditions et à titre dérogatoire, l'agrément de volontariat de service civique peut être accordé,
+conformément aux dispositions de l'article L. 120-30, en vue d'accueillir des personnes volontaires âgées de plus de dix-huit
+ans et de moins de vingt-cinq ans pour exercer des missions dans les domaines suivants : 
+
+a) enseignement ; 
+
+b) médecine ; 
+
+c) sanitaire et social ; 
+
+d) environnement ; 
+
+e) sciences et techniques ; 
+
+f) vétérinaire ; 
+
+g) information et communication ; 
+
+h) administration, économie ou gestion ; 
+
+i) culturel et artistique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1771 du 30 décembre 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 25 janvier 2011 - art. 4 (V)
+
+_Cite_:
+
+  - Code du service national - art. L120-1
+  - Code du service national - art. R120-9
+  - Code du service national - art. R121-26
+  - Code du service national - art. R121-51
+
+
+### Chapitre II : L'appel de préparation à la défense<a id=81></a>
+
+#### Section 1 : Dispositions générales.<a id=82></a>
 
 ###### Article R*112-1
 
@@ -12857,7 +12939,7 @@ _Cite_:
   - Code du service national - art. L114-5 (V)
 
 
-#### Section 2 : Règles applicables aux appelés du service national.<a id=89></a>
+#### Section 2 : Règles applicables aux appelés du service national.<a id=83></a>
 
 ###### Article R*112-12
 
@@ -12959,7 +13041,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-#### Section 3 : Dispositions particulières applicables aux Français de l'étranger.<a id=90></a>
+#### Section 3 : Dispositions particulières applicables aux Français de l'étranger.<a id=84></a>
 
 ###### Article R*112-16
 
@@ -13029,7 +13111,7 @@ _Cité par_:
   - Arrêté du 11 janvier 2016 - art. 7 (V)
 
 
-#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=91></a>
+#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=85></a>
 
 ###### Article R*112-18
 
@@ -13090,15 +13172,15 @@ _Modifié par_:
   - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
-## LIVRE II<a id=92></a>
+## LIVRE II<a id=86></a>
 
-### Titre Ier : Définition et principes du service national<a id=93></a>
+### Titre Ier : Définition et principes du service national<a id=87></a>
 
-#### Chapitre Ier : Dispositions générales<a id=94></a>
+#### Chapitre Ier : Dispositions générales<a id=88></a>
 
-##### Section I : Appel avancé et report d'incorporation<a id=95></a>
+##### Section I : Appel avancé et report d'incorporation<a id=89></a>
 
-##### Paragraphe 1er : Appel avancé.<a id=96></a>
+##### Paragraphe 1er : Appel avancé.<a id=90></a>
 
 ###### Article R*1
 
@@ -13258,7 +13340,7 @@ _Cite_:
   - Code du service national - art. R2 (M)
 
 
-##### Paragraphe 2 : Report d'incorporation.<a id=97></a>
+##### Paragraphe 2 : Report d'incorporation.<a id=91></a>
 
 ###### Article R*5
 
@@ -13737,7 +13819,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=98></a>
+##### Paragraphe 3 : Dispositions communes.<a id=92></a>
 
 ###### Article R*11
 
@@ -13823,7 +13905,7 @@ _Cite_:
   - Code du service national R1, R7, R10
 
 
-##### Section II : Composition et appel du contingent.<a id=99></a>
+##### Section II : Composition et appel du contingent.<a id=93></a>
 
 ###### Article R*15
 
@@ -14417,7 +14499,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=100></a>
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=94></a>
 
 ###### Article R*23
 
@@ -14657,13 +14739,13 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### Titre II : Dispositions communes aux différentes formes du service national<a id=101></a>
+### Titre II : Dispositions communes aux différentes formes du service national<a id=95></a>
 
-#### Chapitre Ier : Recensement  - Sélection<a id=102></a>
+#### Chapitre Ier : Recensement  - Sélection<a id=96></a>
 
-##### Section II : Sélection<a id=103></a>
+##### Section II : Sélection<a id=97></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=104></a>
+##### Paragraphe 1er : Dispositions générales.<a id=98></a>
 
 ###### Article R*40
 
@@ -14815,7 +14897,7 @@ _Cite_:
   - Code du service national - art. L5 (M)
 
 
-##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=105></a>
+##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=99></a>
 
 ###### Article R*43
 
@@ -14954,7 +15036,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L321-1 (M)
 
 
-##### Paragraphe 3 : Sélection.<a id=106></a>
+##### Paragraphe 3 : Sélection.<a id=100></a>
 
 ###### Article R*44
 
@@ -15039,7 +15121,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Règles de discipline.<a id=107></a>
+##### Paragraphe 4 : Règles de discipline.<a id=101></a>
 
 ###### Article R*45
 
@@ -15205,7 +15287,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Responsabilité de l'Etat.<a id=108></a>
+##### Paragraphe 5 : Responsabilité de l'Etat.<a id=102></a>
 
 ###### Article R*46
 
@@ -15256,7 +15338,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=109></a>
+##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=103></a>
 
 ###### Article R*47
 
@@ -15364,7 +15446,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 7 : Marins de la marine marchande.<a id=110></a>
+##### Paragraphe 7 : Marins de la marine marchande.<a id=104></a>
 
 ###### Article R*48
 
@@ -15401,7 +15483,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=111></a>
+##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=105></a>
 
 ###### Article R*49
 
@@ -15479,7 +15561,7 @@ _Cite_:
   - Code du service national - art. L23 (M)
 
 
-##### Paragraphe 9 : Commission locale d'aptitude.<a id=112></a>
+##### Paragraphe 9 : Commission locale d'aptitude.<a id=106></a>
 
 ###### Article R*50
 
@@ -15764,11 +15846,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=113></a>
+#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=107></a>
 
-##### Section I : Dispenses<a id=114></a>
+##### Section I : Dispenses<a id=108></a>
 
-##### Paragraphe 1er : Dispenses à caractère social<a id=115></a>
+##### Paragraphe 1er : Dispenses à caractère social<a id=109></a>
 
 ###### Article R*55
 
@@ -16547,7 +16629,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=116></a>
+##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=110></a>
 
 ###### Article R*68-1
 
@@ -16769,7 +16851,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 3 : Résidence à l'étranger.<a id=117></a>
+##### Paragraphe 3 : Résidence à l'étranger.<a id=111></a>
 
 ###### Article R*69
 
@@ -17150,7 +17232,7 @@ _Cite_:
   - Code du service national R69 à R76
 
 
-##### Section III : Condamnés.<a id=118></a>
+##### Section III : Condamnés.<a id=112></a>
 
 ###### Article R*98
 
@@ -17302,7 +17384,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-#### Chapitre III : Réforme pour inaptitude physique.<a id=119></a>
+#### Chapitre III : Réforme pour inaptitude physique.<a id=113></a>
 
 ###### Article R101
 
@@ -17499,13 +17581,13 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
-### Titre III : Dispositions particulières aux différentes formes du service national<a id=120></a>
+### Titre III : Dispositions particulières aux différentes formes du service national<a id=114></a>
 
-#### Chapitre Ier : Service militaire<a id=121></a>
+#### Chapitre Ier : Service militaire<a id=115></a>
 
-##### Section I : Service militaire actif<a id=122></a>
+##### Section I : Service militaire actif<a id=116></a>
 
-##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=123></a>
+##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=117></a>
 
 ###### Article R110
 
@@ -17967,7 +18049,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Gendarmes auxiliaires.<a id=124></a>
+##### Paragraphe 3 : Gendarmes auxiliaires.<a id=118></a>
 
 ###### Article R*127
 
@@ -18200,9 +18282,9 @@ _Cite_:
   - Code du service national - art. L72 (M)
 
 
-##### Section II : Recrutement des cadres de réserve du service militaire<a id=125></a>
+##### Section II : Recrutement des cadres de réserve du service militaire<a id=119></a>
 
-##### Paragraphe 1er : Préparation au service militaire.<a id=126></a>
+##### Paragraphe 1er : Préparation au service militaire.<a id=120></a>
 
 ###### Article R133
 
@@ -18465,7 +18547,7 @@ _Cite_:
   - Code du service national R133 à R138
 
 
-##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=127></a>
+##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=121></a>
 
 ###### Article R140
 
@@ -18671,7 +18753,7 @@ _Cite_:
   - Code du service national R140 à R143
 
 
-##### Paragraphe 3 : Nomination dans les cadres.<a id=128></a>
+##### Paragraphe 3 : Nomination dans les cadres.<a id=122></a>
 
 ###### Article R145
 
@@ -18830,9 +18912,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II bis : Service dans la police nationale<a id=129></a>
+#### Chapitre II bis : Service dans la police nationale<a id=123></a>
 
-##### Section I : Service actif dans la police nationale.<a id=130></a>
+##### Section I : Service actif dans la police nationale.<a id=124></a>
 
 ###### Article R*201-1
 
@@ -19491,7 +19573,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Section II : Disponibilité et réserve dans la police nationale.<a id=131></a>
+##### Section II : Disponibilité et réserve dans la police nationale.<a id=125></a>
 
 ###### Article R*201-20-1
 
@@ -19715,11 +19797,11 @@ _Cite_:
   - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
 
 
-#### Chapitre II ter : Service de sécurité civile<a id=132></a>
+#### Chapitre II ter : Service de sécurité civile<a id=126></a>
 
-##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=133></a>
+##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=127></a>
 
-##### Paragraphe 1er : Affectation.<a id=134></a>
+##### Paragraphe 1er : Affectation.<a id=128></a>
 
 ###### Article R*201-21
 
@@ -19883,7 +19965,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=135></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=129></a>
 
 ###### Article R*201-26
 
@@ -19947,7 +20029,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=136></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=130></a>
 
 ###### Article R*201-28
 
@@ -20118,7 +20200,7 @@ _Cite_:
   - Code du service national R201-29 à R201-31
 
 
-##### Paragraphe 4.<a id=137></a>
+##### Paragraphe 4.<a id=131></a>
 
 ###### Article R*201-34
 
@@ -20185,9 +20267,9 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=138></a>
+##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=132></a>
 
-##### Paragraphe 1er : Affectation.<a id=139></a>
+##### Paragraphe 1er : Affectation.<a id=133></a>
 
 ###### Article R*201-36
 
@@ -20344,7 +20426,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=140></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=134></a>
 
 ###### Article R*201-41
 
@@ -20410,7 +20492,7 @@ _Cite_:
   - Code du service national R201-37
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=141></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=135></a>
 
 ###### Article R*201-43
 
@@ -20567,7 +20649,7 @@ _Cite_:
   - Code du service national R201-44 à R201-46
 
 
-##### Paragraphe 4.<a id=142></a>
+##### Paragraphe 4.<a id=136></a>
 
 ###### Article R*201-48
 
@@ -20634,11 +20716,11 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=143></a>
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=137></a>
 
-##### Section I : Dispositions communes<a id=144></a>
+##### Section I : Dispositions communes<a id=138></a>
 
-##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=145></a>
+##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=139></a>
 
 ###### Article R202
 
@@ -20806,7 +20888,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 2 : Indemnités.<a id=146></a>
+##### Paragraphe 2 : Indemnités.<a id=140></a>
 
 ###### Article R206
 
@@ -21010,7 +21092,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Discipline.<a id=147></a>
+##### Paragraphe 3 : Discipline.<a id=141></a>
 
 ###### Article R210
 
@@ -21059,7 +21141,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Permissions.<a id=148></a>
+##### Paragraphe 4 : Permissions.<a id=142></a>
 
 ###### Article R211
 
@@ -21336,7 +21418,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Soins médicaux.<a id=149></a>
+##### Paragraphe 5 : Soins médicaux.<a id=143></a>
 
 ###### Article R218
 
@@ -21463,7 +21545,7 @@ _Cité par_:
   - Code du service national - art. R227 (V)
 
 
-##### Paragraphe 6 : Inaptitude physique.<a id=150></a>
+##### Paragraphe 6 : Inaptitude physique.<a id=144></a>
 
 ###### Article R221
 
@@ -21505,7 +21587,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### Paragraphe 7 : Libération du service actif.<a id=151></a>
+##### Paragraphe 7 : Libération du service actif.<a id=145></a>
 
 ###### Article R222
 
@@ -21588,7 +21670,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section II : Dispositions particulières au service de l'aide technique.<a id=152></a>
+##### Section II : Dispositions particulières au service de l'aide technique.<a id=146></a>
 
 ###### Article R224
 
@@ -21666,7 +21748,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section III : Dispositions particulières au service de la coopération.<a id=153></a>
+##### Section III : Dispositions particulières au service de la coopération.<a id=147></a>
 
 ###### Article R226
 
@@ -21762,7 +21844,7 @@ _Cite_:
   - Code du service national - art. R220 (M)
 
 
-#### Chapitre IV : Service des objecteurs de conscience.<a id=154></a>
+#### Chapitre IV : Service des objecteurs de conscience.<a id=148></a>
 
 ###### Article R227-1
 
@@ -21802,7 +21884,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-##### Paragraphe 1er : Rattachement et affectation.<a id=155></a>
+##### Paragraphe 1er : Rattachement et affectation.<a id=149></a>
 
 ###### Article R227-2
 
@@ -21849,7 +21931,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-##### Paragraphe 2 : Devoirs et obligations.<a id=156></a>
+##### Paragraphe 2 : Devoirs et obligations.<a id=150></a>
 
 ###### Article R227-3
 
@@ -21891,7 +21973,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 3 : Discipline.<a id=157></a>
+##### Paragraphe 3 : Discipline.<a id=151></a>
 
 ###### Article R227-4
 
@@ -22081,7 +22163,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 4 : Permissions.<a id=158></a>
+##### Paragraphe 4 : Permissions.<a id=152></a>
 
 ###### Article R227-10
 
@@ -22240,7 +22322,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 5 : Habilitation des organismes.<a id=159></a>
+##### Paragraphe 5 : Habilitation des organismes.<a id=153></a>
 
 ###### Article R227-15
 
@@ -22386,7 +22468,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 6 : Missions en temps de guerre.<a id=160></a>
+##### Paragraphe 6 : Missions en temps de guerre.<a id=154></a>
 
 ###### Article R227-19
 
@@ -22456,7 +22538,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-### Titre IV : Service féminin.<a id=161></a>
+### Titre IV : Service féminin.<a id=155></a>
 
 ###### Article R*228
 
@@ -22772,7 +22854,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R531-1 (M)
 
 
-### Titre V : Dispositions communes aux formes civiles du service national<a id=162></a>
+### Titre V : Dispositions communes aux formes civiles du service national<a id=156></a>
 
 ###### Article R*234
 
@@ -22815,7 +22897,7 @@ _Cite_:
   - Code du service national R110 à R114, R116 à R118, R120
 
 
-# Annexes<a id=163></a>
+# Annexes<a id=157></a>
 
 ###### Article ANNEXE I
 
@@ -23107,7 +23189,7 @@ _Cite_:
   - Code du service national - art. R97
 
 
-## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=164></a>
+## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=158></a>
 
 ###### Article ANNEXE II
 
