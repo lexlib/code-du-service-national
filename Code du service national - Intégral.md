@@ -1,10 +1,10 @@
 # Code du service national  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-05-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-4)](#2)
       - [TITRE Ier : Dispositions générales relatives au service national (art. L111-1 à L115-2)](#3)
-        - [Chapitre Ier : Principes. (art. L111-1 à L111-2)](#4)
+        - [Chapitre Ier : Principes. (art. L111-1 à L111-3)](#4)
         - [Chapitre II : Champ d'application. (art. L112-1 à L112-6)](#5)
         - [Chapitre III : Le recensement. (art. L113-1 à L113-8)](#6)
         - [Chapitre IV : L'enseignement de la défense et       la journée défense et citoyenneté. (art. L114-1 à L114-13)](#7)
@@ -210,6 +210,28 @@ _Modifié par_:
 
   - Loi n°2010-241 du 10 mars 2010 - art. 2
   - Loi n°2010-241 du 10 mars 2010 - art. 3
+
+
+###### Article L111-3
+
+Nul ne peut être investi de fonctions publiques s'il ne justifie avoir satisfait aux obligations imposées par le présent
+code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 du 10 juin 1971
+
+_Cité par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 8 (V)
+  - Code du service national - art. L122-1 (V)
+  - Code du service national - art. L122-19 (V)
+
+_Modifié par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 181
 
 
 #### Chapitre II : Champ d'application.<a id=5></a>
