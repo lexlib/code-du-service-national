@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2011-07-09
+Version Consolidée au 2011-08-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-4)](#2)
@@ -72,7 +72,7 @@ Version Consolidée au 2011-07-09
         - [Chapitre III ter : Dispositions particulières au service de sécurité civile. (art. L149-11)](#69)
         - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L150 à L159)](#70)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*234)](#71)
-    - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-20)](#72)
+    - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-17)](#72)
       - [Chapitre Ier : Le recensement. (art. R*111-1 à R*111-18)](#73)
       - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-1 à R121-52)](#74)
         - [Section I : L'Agence du service civique (art. R120-1 à R120-11)](#75)
@@ -84,81 +84,85 @@ Version Consolidée au 2011-07-09
       - [Chapitre II : L'appel de préparation à la défense (art. R*112-1 à R*112-20)](#81)
         - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#82)
         - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#83)
-        - [Section 3 : Dispositions particulières applicables aux Français de l'étranger. (art. R*112-16 à R*112-17)](#84)
-        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#85)
-    - [LIVRE II (art. R*1 à R*234)](#86)
-      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#87)
-        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#88)
-          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#89)
-            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#90)
-            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#91)
-            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#92)
-          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#93)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#94)
-      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#95)
-        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#96)
-          - [Section II : Sélection (art. R*40 à R*50-6)](#97)
-            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#98)
-            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#99)
-            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#100)
-            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#101)
-            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#102)
-            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#103)
-            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#104)
-            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#105)
-            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#106)
-        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#107)
-          - [Section I : Dispenses (art. R*55 à R77)](#108)
-            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#109)
-            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#110)
-            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#111)
-          - [Section III : Condamnés. (art. R*98 à R*100-1)](#112)
-        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#113)
-      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#114)
-        - [Chapitre Ier : Service militaire (art. R110 à R148)](#115)
-          - [Section I : Service militaire actif (art. R110 à R*132)](#116)
-            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#117)
-            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#118)
-          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#119)
-            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#120)
-            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#121)
-            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#122)
-        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#123)
-          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#124)
-          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#125)
-        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#126)
-          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#127)
-            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#128)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#129)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#130)
-            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#131)
-          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#132)
-            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#133)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#134)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#135)
-            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#136)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#137)
-          - [Section I : Dispositions communes (art. R202 à R223)](#138)
-            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#139)
-            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#140)
-            - [Paragraphe 3 : Discipline. (art. R210)](#141)
-            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#142)
-            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#143)
-            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#144)
-            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#145)
-          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#146)
-          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#147)
-        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#148)
-          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#149)
-          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#150)
-          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#151)
-          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#152)
-          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#153)
-          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#154)
-      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#155)
-      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#156)
-  - [Annexes (art. ANNEXE I à ANNEXE II)](#157)
-    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#158)
+        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#84)
+      - [Chapitre II : La journée défense et citoyenneté (art.  à R*112-17)](#85)
+        - [Section 1 : Dispositions générales. (art.  à R*112-20)](#86)
+        - [Section 2 : Règles applicables aux appelés du service national. (art.  à R*112-20)](#87)
+        - [Section 3 : Dispositions particulières applicables aux Français établis hors de France. (art. R*112-16 à R*112-17)](#88)
+        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art.  à R*112-17)](#89)
+    - [LIVRE II (art. R*1 à R*234)](#90)
+      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#91)
+        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#92)
+          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#93)
+            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#94)
+            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#95)
+            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#96)
+          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#97)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#98)
+      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#99)
+        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#100)
+          - [Section II : Sélection (art. R*40 à R*50-6)](#101)
+            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#102)
+            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#103)
+            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#104)
+            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#105)
+            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#106)
+            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#107)
+            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#108)
+            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#109)
+            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#110)
+        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#111)
+          - [Section I : Dispenses (art. R*55 à R77)](#112)
+            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#113)
+            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#114)
+            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#115)
+          - [Section III : Condamnés. (art. R*98 à R*100-1)](#116)
+        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#117)
+      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#118)
+        - [Chapitre Ier : Service militaire (art. R110 à R148)](#119)
+          - [Section I : Service militaire actif (art. R110 à R*132)](#120)
+            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#121)
+            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#122)
+          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#123)
+            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#124)
+            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#125)
+            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#126)
+        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#127)
+          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#128)
+          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#129)
+        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#130)
+          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#131)
+            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#132)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#133)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#134)
+            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#135)
+          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#136)
+            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#137)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#138)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#139)
+            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#140)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#141)
+          - [Section I : Dispositions communes (art. R202 à R223)](#142)
+            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#143)
+            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#144)
+            - [Paragraphe 3 : Discipline. (art. R210)](#145)
+            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#146)
+            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#147)
+            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#148)
+            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#149)
+          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#150)
+          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#151)
+        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#152)
+          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#153)
+          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#154)
+          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#155)
+          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#156)
+          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#157)
+          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#158)
+      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#159)
+      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#160)
+  - [Annexes (art. ANNEXE I à ANNEXE II)](#161)
+    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#162)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -10860,24 +10864,19 @@ _Cite_:
 
 Tous les Français sont tenus, entre la date à laquelle ils atteignent l'âge de seize ans et la fin du troisième mois suivant,
 de souscrire à la mairie de leur domicile une déclaration mentionnant leur état civil, leurs domicile et résidence, leur
-situation familiale, scolaire, universitaire ou professionnelle, notamment en vue de leur participation à l'appel de
-préparation à la défense et, le cas échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer personnellement
+situation familiale, scolaire, universitaire ou professionnelle, notamment en vue de leur participation à       la journée
+défense et citoyenneté et, le cas échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer personnellement
 cette démarche, elle peut l'être par leur représentant légal.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Loi n°71-424 du 10 juin 1971
 
 _Modifié par_:
 
-  - Décret n°2002-446 du 29 mars 2002 - art. 1 () JORF 3 avril 2002
+  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 _Cité par_:
 
@@ -10936,33 +10935,32 @@ _Modifié par_:
 
 ###### Article R*111-4
 
-Les Français titulaires de l'un des titres de circulation visés aux articles 2, 4 et 5 de la loi n° 69-3 du 3 janvier 1969
+Les Français titulaires de l'un des titres de circulation visés aux articles 2,4 et 5 de la loi n° 69-3 du 3 janvier 1969
 relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni
-résidence fixes sont tenus d'effectuer à la mairie de leur commune de rattachement la déclaration prévue à l'article R.*
-111-1 et de faire connaître tout changement de situation personnelle à cette commune de rattachement ou au bureau du service
-national dont ils relèvent, jusqu'à l'âge de vingt-cinq ans.
+résidence fixes sont tenus d'effectuer à la mairie de leur commune de rattachement la déclaration prévue à l'article R. *
+111-1 et de faire connaître tout changement de situation personnelle à cette commune de rattachement ou    à l'organisme
+chargé du service national  dont ils relèvent, jusqu'à l'âge de vingt-cinq ans.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°69-3 du 3 janvier 1969 - art. 2 (M)
-  - Loi n°69-3 du 3 janvier 1969 - art. 4 (V)
-  - Loi n°69-3 du 3 janvier 1969 - art. 5 (V)
-  - Code du service national R111-1
+  - Loi n°69-3 du 3 janvier 1969 - art. 2
+  - Loi n°69-3 du 3 janvier 1969 - art. 4
+  - Loi n°69-3 du 3 janvier 1969 - art. 5
+  - Code du service national
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
+  - Décret n°2011-929 du 1er août 2011 - art. 2
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 1
 
 
 ###### Article R*111-5
@@ -10997,33 +10995,30 @@ _Cite_:
 
 ###### Article R*111-6
 
-A l'occasion de la réception de la déclaration prévue à l'article R.[* 111-1, le maire appelle l'attention des recensés sur
-l'obligation qu'ils ont, jusqu'à l'âge de vingt-cinq ans, de faire connaître au bureau du service national dont ils relèvent,
-tout changement de domicile ou de résidence d'une durée supérieure à quatre mois d'une part, et de situation familiale et
-professionnelle d'autre part.
+A l'occasion de la réception de la déclaration prévue à l'article R. *111-1, le maire appelle l'attention des recensés sur
+l'obligation qu'ils ont, jusqu'à l'âge de vingt-cinq ans, de faire connaître à l'organisme chargé du service national dont
+ils relèvent, tout changement de domicile ou de résidence d'une durée supérieure à quatre mois d'une part, et de situation
+familiale et professionnelle d'autre part. 
 
-En outre, le maire leur rappelle qu'ils devront répondre dans les délais mentionnés à l'article R.*] 112-2 au préavis
-d'appel, se présenter à l'appel de préparation à la défense après réception de leur convocation. Il les informe des
-conséquences d'une absence ou d'un retard à cet appel.
+En outre, le maire leur rappelle qu'ils devront se présenter à la journée défense et citoyenneté après réception de leur
+convocation. Il les informe des conséquences d'une absence ou d'un retard à cette journée résultant des dispositions de
+l'article L. 114-6.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 2
+  - Décret n°2011-929 du 1er août 2011 - art. 4
 
 _Cite_:
 
-  - Code du service national R112-2
+  - Code du service national - art. L114-6
+  - Code du service national - art. R*111-1
 
 
 ###### Article R*111-7
@@ -11039,25 +11034,20 @@ modèle fixé par l'administration chargée du service national et comporte les 
 
 - commune ou consulat de recensement ;
 
-- date d'établissement de l'attestation.
+- date d'établissement de l'attestation. 
 
-Ce document précise en outre que le recensé a été informé des conditions de participation à l'appel de préparation à la
-défense.
+Ce document précise en outre que le recensé a été informé des conditions de participation à       la journée défense et
+citoyenneté.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 _Cité par_:
 
@@ -11140,14 +11130,14 @@ _Modifié par_:
 
 ###### Article R*111-12
 
-A l'âge de seize ans, les Français établis à l'étranger ou leur représentant légal sont tenus de souscrire auprès des
+A l'âge de seize ans, les Français établis hors de France ou leur représentant légal sont tenus de souscrire auprès des
 autorités consulaires françaises la déclaration prévue à l'article R. 111-1. A cette occasion, ils sont informés des
-conditions dans lesquelles ils auront à accomplir l'appel de préparation à la défense. Il leur est délivré l'attestation de
-recensement prévue à l'article R. 111-7.
+conditions dans lesquelles ils auront à accomplir la journée défense et citoyenneté. Il leur est délivré l'attestation de
+recensement prévue à l'article R. 111-7. 
 
 Les autorités consulaires dressent à des dates définies par arrêté conjoint du ministre des affaires étrangères et du
 ministre de la défense, et au moins une fois par an, la liste de recensement et la liste des non-recensés. La liste de
-recensement comprend les personnes ayant souscrit la déclaration prévue par l'article R. 111-1.
+recensement comprend les personnes ayant souscrit la déclaration prévue par l'article R. 111-1. 
 
 Elles adressent la liste et les notices individuelles correspondantes à l'organisme chargé du service national à Perpignan.
 
@@ -11155,16 +11145,12 @@ Elles adressent la liste et les notices individuelles correspondantes à l'organ
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Loi n°71-424 du 10 juin 1971
 
 _Modifié par_:
 
-  - Décret n°2002-446 du 29 mars 2002 - art. 5 () JORF 3 avril 2002
+  - Décret n°2011-929 du 1er août 2011 - art. 1
+  - Décret n°2011-929 du 1er août 2011 - art. 3
 
 _Cité par_:
 
@@ -11172,7 +11158,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du service national R111-7, R111-1
+  - Code du service national
 
 
 ###### Article R*111-13
@@ -11198,8 +11184,8 @@ _Modifié par_:
 
 ###### Article R*111-14
 
-Le bureau du service national territorialement compétent diligente les recherches pour déterminer l'adresse des Français
-figurant sur la liste des non-recensés.
+L'organisme chargé du service national territorialement compétent diligente les recherches pour déterminer l'adresse des
+Français figurant sur la liste des non-recensés.
 
 Dès qu'il a connaissance de cette adresse, il enjoint aux intéressés de régulariser leur situation à la mairie de leur
 domicile dans les trente jours.
@@ -11208,16 +11194,11 @@ domicile dans les trente jours.
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Loi n°71-424 du 10 juin 1971
 
 _Modifié par_:
 
-  - Décret n°2002-446 du 29 mars 2002 - art. 7 () JORF 3 avril 2002
+  - Décret n°2011-929 du 1er août 2011 - art. 2
 
 
 ###### Article R*111-15
@@ -11251,23 +11232,18 @@ _Cite_:
 
 ###### Article R*111-16
 
-Les officiers de l'état civil adressent au bureau du service national territorialement compétent copie de l'acte de décès de
-toute personne dont l'âge est compris entre seize et vingt-cinq ans.
+Les officiers de l'état civil adressent    à l'organisme chargé du service national  territorialement compétent copie de
+l'acte de décès de toute personne dont l'âge est compris entre seize et vingt-cinq ans.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 2
 
 
 ###### Article R*111-16-1
@@ -12674,72 +12650,58 @@ _Cite_:
 
 ###### Article R*112-1
 
-L'appel de préparation à la défense défini aux articles L. 114-2 et L. 114-3 s'effectue au cours de sessions dont la date et
+La journée défense et citoyenneté définie aux articles L. 114-2 et L. 114-3 s'effectue au cours de sessions dont la date et
 le lieu sont précisés sur les convocations individuelles envoyées par le ministre de la défense aux Français recensés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Loi n°71-424 du 10 juin 1971
 
 _Cité par_:
 
   - Arrêté du 29 juillet 2009 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2011-929 du 1er août 2011 - art. 1
+
 _Cite_:
 
-  - Code du service national - art. L114-2 (V)
-  - Code du service national - art. L114-3 (M)
+  - Code du service national - art. L114-2
+  - Code du service national - art. L114-3
 
 
 ###### Article R*112-2
 
-Un préavis d'appel proposant au moins trois dates possibles de participation à l'appel de préparation à la défense avant leur
-dix-huitième anniversaire, est adressé aux personnes recensées.
-
-Les intéressés sont tenus de répondre dans les trente jours qui suivent la date de l'envoi du préavis d'appel, en indiquant
-parmi les dates proposées celle qu'ils ont choisie.
-
-A défaut de réponse au préavis d'appel, l'administration peut fixer la date de convocation, dans un délai de deux à six mois
-à compter de la date d'expiration du délai de réponse mentionné à l'alinéa ci-dessus.
-
 Les personnes qui, en vertu des lois sur la nationalité, n'ont pas exercé leur droit de décliner ou de répudier la
-nationalité française reçoivent leur préavis d'appel dans les conditions fixées par l'article L. 114-4, pour participer à
-l'appel de préparation à la défense avant leur vingtième anniversaire.
+nationalité française reçoivent leur convocation dans les conditions fixées par l'article L. 114-4, pour participer à la
+journée défense et citoyenneté avant leur vingtième anniversaire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Loi n°71-424 du 10 juin 1971
 
 _Modifié par_:
 
-  - Décret n°98-1066 du 26 novembre 1998 - art. 1 () JORF 27 novembre 1998
+  - Décret n°2011-929 du 1er août 2011 - art. 5
 
 _Cite_:
 
-  - Code du service national - art. L114-4 (V)
+  - Code du service national - art. L114-4
 
 
 ###### Article R*112-3
 
-Une convocation écrite pour la session choisie est adressée aux intéressés dix jours au moins avant la date de celle-ci.
+Une convocation proposant une première date de participation à la journée défense et citoyenneté avant leur dix-huitième
+anniversaire est adressée aux personnes recensées, quarante-cinq jours au moins avant la première date proposée.
+
+Dans le cas où cette date ne leur conviendrait pas, les intéressés sont tenus de répondre à l'administration chargée du
+service national dans les quinze jours qui suivent la date de l'envoi de la convocation, afin que leur soient proposées au
+moins deux autres dates.
 
 En cas de force majeure, interdisant aux intéressés de participer à cette session, ils doivent sans délai en informer
 l'administration chargée du service national et formuler une demande motivée de report.
@@ -12750,129 +12712,100 @@ Après examen de la demande, l'administration fixe la date de la session à laqu
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 6
 
 
 ###### Article R*112-4
 
-Les appelés du service national justifient de leur identité en se présentant à l'appel de préparation à la défense.
+Les appelés du service national justifient de leur identité en se présentant à       la journée défense et citoyenneté.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 
 ###### Article R*112-5
 
-Au cours de l'appel de préparation à la défense, lorsqu'un médecin constate, à l'initiative du responsable de la session, que
+Au cours de la journée défense et citoyenneté, lorsqu'un médecin constate, à l'initiative du responsable de la session, que
 l'état de santé d'un appelé du service national est incompatible avec sa participation à la session, l'intéressé est invité à
-regagner son domicile ou, le cas échéant, hospitalisé.
+regagner son domicile ou, le cas échéant, hospitalisé. 
 
-Dans ce cas l'administration procède comme indiqué au troisième alinéa de l'article R.* 112-3.
+Dans ce cas l'administration procède comme indiqué au quatrième alinéa de l'article R.* 112-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Cite_:
-
-  - Code du service national R112-3
+  - Décret n°2011-929 du 1er août 2011 - art. 1
+  - Décret n°2011-929 du 1er août 2011 - art. 7
 
 
 ###### Article R*112-6
 
-Sur leur demande, ou celle de leur représentant légal, les grands infirmes au sens de l'article 169 du code de la famille et
-de l'aide sociale ne sont pas soumis à l'obligation de l'appel de préparation à la défense. Ils présentent à cet effet la
-carte d'invalidité prévue à l'article 173 du même code au moment du recensement. Si cette qualité leur est reconnue après le
-recensement, ils présentent ce document au bureau du service national dont ils dépendent.
+Les personnes handicapées titulaires d'une carte d'invalidité délivrée en application de l'article L. 241-3 du code de
+l'action sociale et des familles ne sont pas soumises à l'obligation de la journée défense et citoyenneté. Elles-mêmes ou
+leur représentant légal présentent à cet effet leur carte d'invalidité au moment du recensement. Si cette qualité leur est
+reconnue après le recensement, elles présentent ce document à l'organisme chargé du service national dont elles relèvent. 
 
-Sont également exemptés de l'obligation de l'appel de préparation à la défense les Français qui présentent à leur bureau du
-service national un certificat médical délivré par un médecin agréé auprès du ministre de la défense, indiquant qu'ils sont
-atteints d'une maladie invalidante ou d'un handicap les rendant définitivement inaptes à participer à cette obligation.
+Sont également exemptés de l'obligation de la journée défense et citoyenneté les Français qui présentent à l'organisme chargé
+du service national dont ils relèvent un certificat médical délivré par un médecin agréé auprès du ministre de la défense
+indiquant qu'ils sont atteints d'un handicap les rendant définitivement inaptes à participer à cette obligation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 8
 
 _Cite_:
 
-  - Code de la famille et de l'aide sociale. - art. 169 (M)
-  - Code de la famille et de l'aide sociale. - art. 173 (M)
+  - Code de l'action sociale et des familles - art. L241-3
 
 
 ###### Article R*112-7
 
-L'administration chargée du service national fait parvenir aux Français mentionnés à l'article R.* 112-6 l'information
-correspondant à l'appel de préparation à la défense sous forme d'un dossier individuel et l'attestation leur signifiant
+L'administration chargée du service national fait parvenir aux Français mentionnés à l'article R. * 112-6 l'information
+correspondant à       la journée défense et citoyenneté sous forme d'un dossier individuel et l'attestation leur signifiant
 qu'ils sont en règle au regard des obligations du code du service national.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 _Cite_:
 
-  - Code du service national R112-6
+  - Code du service national
 
 
 ###### Article R*112-8
 
-Les Français qui, pour un motif reconnu valable, ne peuvent pas accomplir l'appel de préparation à la défense avant leur dix-
-huitième anniversaire et dont la convocation interviendra à une date ultérieure, reçoivent une attestation précisant qu'ils
-sont en règle et en instance de convocation.
+Les Français qui, pour un motif reconnu valable, ne peuvent pas accomplir       la journée défense et citoyenneté avant leur
+dix-huitième anniversaire et dont la convocation interviendra à une date ultérieure, reçoivent une attestation précisant
+qu'ils sont en règle et en instance de convocation. 
 
 Cette attestation mentionne sa durée de validité.
 
@@ -12880,16 +12813,11 @@ Cette attestation mentionne sa durée de validité.
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 _Cité par_:
 
@@ -12900,9 +12828,9 @@ _Cité par_:
 
 ###### Article R*112-9
 
-Le certificat individuel de participation à l'appel de préparation à la défense défini par l'article L. 114-2 est remis à
+Le certificat individuel de participation à       la journée défense et citoyenneté défini par l'article L. 114-2 est remis à
 chaque appelé, au moment de la clôture officielle de la session après constatation de la participation de l'intéressé à
-l'ensemble des activités de la session.
+l'ensemble des activités de la session. 
 
 Le ministre de la défense arrête le modèle de ce certificat.
 
@@ -12910,27 +12838,22 @@ Le ministre de la défense arrête le modèle de ce certificat.
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 _Cite_:
 
-  - Code du service national - art. L114-2 (V)
+  - Code du service national - art. L114-2
 
 
 ###### Article R*112-10
 
-Tout appelé qui, ayant répondu à la convocation prévue par l'article R.* 112-3, refuse de participer à une partie des
+Tout appelé qui, ayant répondu à la convocation prévue par l'article R. * 112-3, refuse de participer à une partie des
 activités de la session, ou qui adopte une attitude de nature à perturber son bon déroulement, est immédiatement invité à
-regagner son domicile. Il ne lui est pas délivré de certificat de participation à l'appel de préparation à la défense.
+regagner son domicile. Il ne lui est pas délivré de certificat de participation à       la journée défense et citoyenneté. 
 
 Sur sa demande, il est convoqué dans les conditions fixées par l'article L. 114-5.
 
@@ -12938,28 +12861,23 @@ Sur sa demande, il est convoqué dans les conditions fixées par l'article L. 11
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 _Cite_:
 
-  - Code du service national - art. L114-5 (V)
-  - Code du service national R112-3, L114-5
+  - Code du service national
+  - Code du service national - art. L114-5
 
 
 ###### Article R*112-11
 
 Tout Français qui, dans les conditions prévues à l'article L. 114-5 du présent code, entend régulariser sa situation au
-regard de l'appel de préparation à la défense adresse au bureau du service national dont il relève une demande écrite de
-participation.
+regard de la journée défense et citoyenneté adresse    à l'organisme chargé du service national  dont il relève une demande
+écrite de participation. 
 
 L'administration convoque l'intéressé à la date qu'elle fixe dans les trois mois à compter du jour de réception de la
 demande.
@@ -12968,48 +12886,39 @@ demande.
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 1
+  - Décret n°2011-929 du 1er août 2011 - art. 2
 
 _Cite_:
 
-  - Code du service national - art. L114-5 (V)
+  - Code du service national - art. L114-5
 
 
 #### Section 2 : Règles applicables aux appelés du service national.<a id=83></a>
 
 ###### Article R*112-12
 
-La convocation pour l'appel de préparation à la défense ouvre droit à un bon de transport ou à une indemnité de déplacement
-fixée par arrêté du ministre de la défense.
+La convocation pour       la journée défense et citoyenneté ouvre droit à un bon de transport ou à une indemnité de
+déplacement fixée par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
 _Cité par_:
 
   - Arrêté du 31 décembre 1993 - art. 6 (Ab)
   - Arrêté du 20 avril 2012 - art. 6 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 
 ###### Article R*112-13
@@ -13034,24 +12943,19 @@ _Créé par_:
 
 ###### Article R*112-14
 
-L'appel de préparation à la défense ne compte ni pour la constitution du droit à pension de retraite, ni pour la
-détermination du montant des pensions allouées au titre de l'ancienneté des services éventuels. Il ne vient pas en déduction
-de la durée des services effectués dans les fonctions publiques.
+La journée défense et citoyenneté ne compte ni pour la constitution du droit à pension de retraite, ni pour la détermination
+du montant des pensions allouées au titre de l'ancienneté des services éventuels. Il ne vient pas en déduction de la durée
+des services effectués dans les fonctions publiques.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2011-929 du 1er août 2011 - art. 1
 
 
 ###### Article R*112-15
@@ -13086,98 +12990,24 @@ _Créé par_:
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-#### Section 3 : Dispositions particulières applicables aux Français de l'étranger.<a id=84></a>
-
-###### Article R*112-16
-
-L'appel de préparation à la défense des Français qui résident en permanence à l'étranger entre seize et vingt-cinq ans est
-accompli, selon les contraintes de l'Etat ou du pays de résidence, soit sous forme de sessions soit par envoi d'un dossier
-individuel d'information. En cas d'impossibilité, les Français de l'étranger sont provisoirement dispensés de l'appel de
-préparation à la défense. Selon les cas il leur est délivré le certificat prévu à l'article L. 114-2 du présent code, ou une
-attestation établie dans les conditions prévues à l'article R.* 112-8.
-
-Un arrêté conjoint du ministre des affaires étrangères et du ministre de la défense précise les conditions d'application du
-présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Cité par_:
-
-  - Arrêté du 11 janvier 2016 (V)
-
-_Cite_:
-
-  - Code du service national - art. L114-2 (V)
-  - Code du service national L114-2, R112-8
-
-
-###### Article R*112-17
-
-Les Français de l'étranger qui, compte tenu de leur résidence à l'étranger, n'ont pu participer à une session de l'appel de
-préparation à la défense, sont tenus, dès lors qu'ils viennent résider habituellement sur le territoire national avant l'âge
-de vingt-cinq ans, de participer à une session de l'appel de préparation à la défense.
-
-Ceux qui ont participé à une session adaptée en raison des contraintes du pays de résidence peuvent demander, à l'occasion
-d'un séjour sur le territoire national, à participer à une session de l'appel de préparation à la défense.
-
-La date de participation à cette session est fixée par accord avec le bureau du service national dont ils relèvent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Créé par_:
-
-  - Décret n°98-180 du 17 mars 1998 - art. 1 () JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Cité par_:
-
-  - Arrêté du 11 janvier 2016 - art. 13 (V)
-  - Arrêté du 11 janvier 2016 - art. 7 (V)
-
-
-#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=85></a>
+#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=84></a>
 
 ###### Article R*112-18
 
 Les Français désireux d'accomplir une période militaire d'initiation ou de perfectionnement à la défense nationale en font la
-demande par écrit auprès du bureau du service national dont ils relèvent en précisant la force armée ou le service commun
-qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des intéressés.
+demande par écrit auprès  l'organisme chargé du service national dont ils relèvent en précisant la force armée ou le service
+commun qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des
+intéressés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Loi n°71-424 du 10 juin 1971
 
 _Modifié par_:
 
-  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
+  - Décret n°2011-929 du 1er août 2011 - art. 2
 
 
 ###### Article R*112-19
@@ -13217,15 +13047,81 @@ _Modifié par_:
   - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
 
 
-## LIVRE II<a id=86></a>
+### Chapitre II : La journée défense et citoyenneté<a id=85></a>
 
-### Titre Ier : Définition et principes du service national<a id=87></a>
+#### Section 1 : Dispositions générales.<a id=86></a>
 
-#### Chapitre Ier : Dispositions générales<a id=88></a>
+#### Section 2 : Règles applicables aux appelés du service national.<a id=87></a>
 
-##### Section I : Appel avancé et report d'incorporation<a id=89></a>
+#### Section 3 : Dispositions particulières applicables aux Français établis hors de France.<a id=88></a>
 
-##### Paragraphe 1er : Appel avancé.<a id=90></a>
+###### Article R*112-16
+
+La journée défense et citoyenneté des Français qui résident en permanence à l'étranger entre seize et vingt-cinq ans est
+accompli, selon les contraintes de l'Etat ou du pays de résidence, soit sous forme de sessions soit par envoi d'un dossier
+individuel d'information. En cas d'impossibilité, les Français établis hors de France sont provisoirement dispensés de la
+journée défense et citoyenneté. Selon les cas il leur est délivré le certificat prévu à l'article L. 114-2 du présent code,
+ou une attestation établie dans les conditions prévues à l'article R. * 112-8. 
+
+Un arrêté conjoint du ministre des affaires étrangères et du ministre de la défense précise les conditions d'application du
+présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 du 10 juin 1971
+
+_Modifié par_:
+
+  - Décret n°2011-929 du 1er août 2011 - art. 1
+  - Décret n°2011-929 du 1er août 2011 - art. 3
+
+_Cité par_:
+
+  - Arrêté du 11 janvier 2016 (V)
+
+
+###### Article R*112-17
+
+les Français établis hors de France qui, compte tenu de leur résidence à l'étranger, n'ont pu participer à une session de la
+journée défense et citoyenneté, sont tenus, dès lors qu'ils viennent résider habituellement sur le territoire national avant
+l'âge de vingt-cinq ans, de participer à une session de la journée défense et citoyenneté. 
+
+Ceux qui ont participé à une session adaptée en raison des contraintes du pays de résidence peuvent demander, à l'occasion
+d'un séjour sur le territoire national, à participer à une session de la journée défense et citoyenneté. 
+
+La date de participation à cette session est fixée par accord avec l'organisme chargé du service national dont ils relèvent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 du 10 juin 1971
+
+_Modifié par_:
+
+  - Décret n°2011-929 du 1er août 2011 - art. 1
+  - Décret n°2011-929 du 1er août 2011 - art. 2
+  - Décret n°2011-929 du 1er août 2011 - art. 3
+
+_Cité par_:
+
+  - Arrêté du 11 janvier 2016 - art. 13 (V)
+  - Arrêté du 11 janvier 2016 - art. 7 (V)
+
+
+#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=89></a>
+
+## LIVRE II<a id=90></a>
+
+### Titre Ier : Définition et principes du service national<a id=91></a>
+
+#### Chapitre Ier : Dispositions générales<a id=92></a>
+
+##### Section I : Appel avancé et report d'incorporation<a id=93></a>
+
+##### Paragraphe 1er : Appel avancé.<a id=94></a>
 
 ###### Article R*1
 
@@ -13385,7 +13281,7 @@ _Cite_:
   - Code du service national - art. R2 (M)
 
 
-##### Paragraphe 2 : Report d'incorporation.<a id=91></a>
+##### Paragraphe 2 : Report d'incorporation.<a id=95></a>
 
 ###### Article R*5
 
@@ -13864,7 +13760,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=92></a>
+##### Paragraphe 3 : Dispositions communes.<a id=96></a>
 
 ###### Article R*11
 
@@ -13950,7 +13846,7 @@ _Cite_:
   - Code du service national R1, R7, R10
 
 
-##### Section II : Composition et appel du contingent.<a id=93></a>
+##### Section II : Composition et appel du contingent.<a id=97></a>
 
 ###### Article R*15
 
@@ -14544,7 +14440,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=94></a>
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=98></a>
 
 ###### Article R*23
 
@@ -14784,13 +14680,13 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### Titre II : Dispositions communes aux différentes formes du service national<a id=95></a>
+### Titre II : Dispositions communes aux différentes formes du service national<a id=99></a>
 
-#### Chapitre Ier : Recensement  - Sélection<a id=96></a>
+#### Chapitre Ier : Recensement  - Sélection<a id=100></a>
 
-##### Section II : Sélection<a id=97></a>
+##### Section II : Sélection<a id=101></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=98></a>
+##### Paragraphe 1er : Dispositions générales.<a id=102></a>
 
 ###### Article R*40
 
@@ -14942,7 +14838,7 @@ _Cite_:
   - Code du service national - art. L5 (M)
 
 
-##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=99></a>
+##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=103></a>
 
 ###### Article R*43
 
@@ -15081,7 +14977,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L321-1 (M)
 
 
-##### Paragraphe 3 : Sélection.<a id=100></a>
+##### Paragraphe 3 : Sélection.<a id=104></a>
 
 ###### Article R*44
 
@@ -15166,7 +15062,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Règles de discipline.<a id=101></a>
+##### Paragraphe 4 : Règles de discipline.<a id=105></a>
 
 ###### Article R*45
 
@@ -15332,7 +15228,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Responsabilité de l'Etat.<a id=102></a>
+##### Paragraphe 5 : Responsabilité de l'Etat.<a id=106></a>
 
 ###### Article R*46
 
@@ -15383,7 +15279,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=103></a>
+##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=107></a>
 
 ###### Article R*47
 
@@ -15491,7 +15387,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 7 : Marins de la marine marchande.<a id=104></a>
+##### Paragraphe 7 : Marins de la marine marchande.<a id=108></a>
 
 ###### Article R*48
 
@@ -15528,7 +15424,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=105></a>
+##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=109></a>
 
 ###### Article R*49
 
@@ -15606,7 +15502,7 @@ _Cite_:
   - Code du service national - art. L23 (M)
 
 
-##### Paragraphe 9 : Commission locale d'aptitude.<a id=106></a>
+##### Paragraphe 9 : Commission locale d'aptitude.<a id=110></a>
 
 ###### Article R*50
 
@@ -15891,11 +15787,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=107></a>
+#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=111></a>
 
-##### Section I : Dispenses<a id=108></a>
+##### Section I : Dispenses<a id=112></a>
 
-##### Paragraphe 1er : Dispenses à caractère social<a id=109></a>
+##### Paragraphe 1er : Dispenses à caractère social<a id=113></a>
 
 ###### Article R*55
 
@@ -16674,7 +16570,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=110></a>
+##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=114></a>
 
 ###### Article R*68-1
 
@@ -16896,7 +16792,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 3 : Résidence à l'étranger.<a id=111></a>
+##### Paragraphe 3 : Résidence à l'étranger.<a id=115></a>
 
 ###### Article R*69
 
@@ -17277,7 +17173,7 @@ _Cite_:
   - Code du service national R69 à R76
 
 
-##### Section III : Condamnés.<a id=112></a>
+##### Section III : Condamnés.<a id=116></a>
 
 ###### Article R*98
 
@@ -17429,7 +17325,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-#### Chapitre III : Réforme pour inaptitude physique.<a id=113></a>
+#### Chapitre III : Réforme pour inaptitude physique.<a id=117></a>
 
 ###### Article R101
 
@@ -17626,13 +17522,13 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
-### Titre III : Dispositions particulières aux différentes formes du service national<a id=114></a>
+### Titre III : Dispositions particulières aux différentes formes du service national<a id=118></a>
 
-#### Chapitre Ier : Service militaire<a id=115></a>
+#### Chapitre Ier : Service militaire<a id=119></a>
 
-##### Section I : Service militaire actif<a id=116></a>
+##### Section I : Service militaire actif<a id=120></a>
 
-##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=117></a>
+##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=121></a>
 
 ###### Article R110
 
@@ -18094,7 +17990,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Gendarmes auxiliaires.<a id=118></a>
+##### Paragraphe 3 : Gendarmes auxiliaires.<a id=122></a>
 
 ###### Article R*127
 
@@ -18327,9 +18223,9 @@ _Cite_:
   - Code du service national - art. L72 (M)
 
 
-##### Section II : Recrutement des cadres de réserve du service militaire<a id=119></a>
+##### Section II : Recrutement des cadres de réserve du service militaire<a id=123></a>
 
-##### Paragraphe 1er : Préparation au service militaire.<a id=120></a>
+##### Paragraphe 1er : Préparation au service militaire.<a id=124></a>
 
 ###### Article R133
 
@@ -18592,7 +18488,7 @@ _Cite_:
   - Code du service national R133 à R138
 
 
-##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=121></a>
+##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=125></a>
 
 ###### Article R140
 
@@ -18798,7 +18694,7 @@ _Cite_:
   - Code du service national R140 à R143
 
 
-##### Paragraphe 3 : Nomination dans les cadres.<a id=122></a>
+##### Paragraphe 3 : Nomination dans les cadres.<a id=126></a>
 
 ###### Article R145
 
@@ -18957,9 +18853,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II bis : Service dans la police nationale<a id=123></a>
+#### Chapitre II bis : Service dans la police nationale<a id=127></a>
 
-##### Section I : Service actif dans la police nationale.<a id=124></a>
+##### Section I : Service actif dans la police nationale.<a id=128></a>
 
 ###### Article R*201-1
 
@@ -19618,7 +19514,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Section II : Disponibilité et réserve dans la police nationale.<a id=125></a>
+##### Section II : Disponibilité et réserve dans la police nationale.<a id=129></a>
 
 ###### Article R*201-20-1
 
@@ -19842,11 +19738,11 @@ _Cite_:
   - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
 
 
-#### Chapitre II ter : Service de sécurité civile<a id=126></a>
+#### Chapitre II ter : Service de sécurité civile<a id=130></a>
 
-##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=127></a>
+##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=131></a>
 
-##### Paragraphe 1er : Affectation.<a id=128></a>
+##### Paragraphe 1er : Affectation.<a id=132></a>
 
 ###### Article R*201-21
 
@@ -20010,7 +19906,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=129></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=133></a>
 
 ###### Article R*201-26
 
@@ -20074,7 +19970,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=130></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=134></a>
 
 ###### Article R*201-28
 
@@ -20245,7 +20141,7 @@ _Cite_:
   - Code du service national R201-29 à R201-31
 
 
-##### Paragraphe 4.<a id=131></a>
+##### Paragraphe 4.<a id=135></a>
 
 ###### Article R*201-34
 
@@ -20312,9 +20208,9 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=132></a>
+##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=136></a>
 
-##### Paragraphe 1er : Affectation.<a id=133></a>
+##### Paragraphe 1er : Affectation.<a id=137></a>
 
 ###### Article R*201-36
 
@@ -20471,7 +20367,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=134></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=138></a>
 
 ###### Article R*201-41
 
@@ -20537,7 +20433,7 @@ _Cite_:
   - Code du service national R201-37
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=135></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=139></a>
 
 ###### Article R*201-43
 
@@ -20694,7 +20590,7 @@ _Cite_:
   - Code du service national R201-44 à R201-46
 
 
-##### Paragraphe 4.<a id=136></a>
+##### Paragraphe 4.<a id=140></a>
 
 ###### Article R*201-48
 
@@ -20761,11 +20657,11 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=137></a>
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=141></a>
 
-##### Section I : Dispositions communes<a id=138></a>
+##### Section I : Dispositions communes<a id=142></a>
 
-##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=139></a>
+##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=143></a>
 
 ###### Article R202
 
@@ -20933,7 +20829,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 2 : Indemnités.<a id=140></a>
+##### Paragraphe 2 : Indemnités.<a id=144></a>
 
 ###### Article R206
 
@@ -21137,7 +21033,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Discipline.<a id=141></a>
+##### Paragraphe 3 : Discipline.<a id=145></a>
 
 ###### Article R210
 
@@ -21186,7 +21082,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Permissions.<a id=142></a>
+##### Paragraphe 4 : Permissions.<a id=146></a>
 
 ###### Article R211
 
@@ -21463,7 +21359,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Soins médicaux.<a id=143></a>
+##### Paragraphe 5 : Soins médicaux.<a id=147></a>
 
 ###### Article R218
 
@@ -21590,7 +21486,7 @@ _Cité par_:
   - Code du service national - art. R227 (V)
 
 
-##### Paragraphe 6 : Inaptitude physique.<a id=144></a>
+##### Paragraphe 6 : Inaptitude physique.<a id=148></a>
 
 ###### Article R221
 
@@ -21632,7 +21528,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### Paragraphe 7 : Libération du service actif.<a id=145></a>
+##### Paragraphe 7 : Libération du service actif.<a id=149></a>
 
 ###### Article R222
 
@@ -21715,7 +21611,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section II : Dispositions particulières au service de l'aide technique.<a id=146></a>
+##### Section II : Dispositions particulières au service de l'aide technique.<a id=150></a>
 
 ###### Article R224
 
@@ -21793,7 +21689,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section III : Dispositions particulières au service de la coopération.<a id=147></a>
+##### Section III : Dispositions particulières au service de la coopération.<a id=151></a>
 
 ###### Article R226
 
@@ -21889,7 +21785,7 @@ _Cite_:
   - Code du service national - art. R220 (M)
 
 
-#### Chapitre IV : Service des objecteurs de conscience.<a id=148></a>
+#### Chapitre IV : Service des objecteurs de conscience.<a id=152></a>
 
 ###### Article R227-1
 
@@ -21929,7 +21825,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-##### Paragraphe 1er : Rattachement et affectation.<a id=149></a>
+##### Paragraphe 1er : Rattachement et affectation.<a id=153></a>
 
 ###### Article R227-2
 
@@ -21976,7 +21872,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-##### Paragraphe 2 : Devoirs et obligations.<a id=150></a>
+##### Paragraphe 2 : Devoirs et obligations.<a id=154></a>
 
 ###### Article R227-3
 
@@ -22018,7 +21914,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 3 : Discipline.<a id=151></a>
+##### Paragraphe 3 : Discipline.<a id=155></a>
 
 ###### Article R227-4
 
@@ -22208,7 +22104,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 4 : Permissions.<a id=152></a>
+##### Paragraphe 4 : Permissions.<a id=156></a>
 
 ###### Article R227-10
 
@@ -22367,7 +22263,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 5 : Habilitation des organismes.<a id=153></a>
+##### Paragraphe 5 : Habilitation des organismes.<a id=157></a>
 
 ###### Article R227-15
 
@@ -22513,7 +22409,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 6 : Missions en temps de guerre.<a id=154></a>
+##### Paragraphe 6 : Missions en temps de guerre.<a id=158></a>
 
 ###### Article R227-19
 
@@ -22583,7 +22479,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-### Titre IV : Service féminin.<a id=155></a>
+### Titre IV : Service féminin.<a id=159></a>
 
 ###### Article R*228
 
@@ -22899,7 +22795,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R531-1 (M)
 
 
-### Titre V : Dispositions communes aux formes civiles du service national<a id=156></a>
+### Titre V : Dispositions communes aux formes civiles du service national<a id=160></a>
 
 ###### Article R*234
 
@@ -22942,7 +22838,7 @@ _Cite_:
   - Code du service national R110 à R114, R116 à R118, R120
 
 
-# Annexes<a id=157></a>
+# Annexes<a id=161></a>
 
 ###### Article ANNEXE I
 
@@ -23234,7 +23130,7 @@ _Cite_:
   - Code du service national - art. R97
 
 
-## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=158></a>
+## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=162></a>
 
 ###### Article ANNEXE II
 
