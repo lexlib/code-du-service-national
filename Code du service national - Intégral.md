@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2011-08-05
+Version Consolidée au 2011-08-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-4)](#2)
@@ -72,7 +72,7 @@ Version Consolidée au 2011-08-05
         - [Chapitre III ter : Dispositions particulières au service de sécurité civile. (art. L149-11)](#69)
         - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération. (art. L150 à L159)](#70)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*234)](#71)
-    - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-17)](#72)
+    - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-20)](#72)
       - [Chapitre Ier : Le recensement. (art. R*111-1 à R*111-18)](#73)
       - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-1 à R121-52)](#74)
         - [Section I : L'Agence du service civique (art. R120-1 à R120-11)](#75)
@@ -81,88 +81,84 @@ Version Consolidée au 2011-08-05
         - [Section IV : Agrément (art. R121-33 à R121-46)](#78)
         - [Section V : Dispositions diverses (art. R121-47 à R121-50)](#79)
         - [Section VI : Dispositions relatives à l'outre-mer (art. R121-51 à R121-52)](#80)
-      - [Chapitre II : L'appel de préparation à la défense (art. R*112-1 à R*112-20)](#81)
+      - [Chapitre II : La journée défense et citoyenneté (art. R*112-1 à R*112-20)](#81)
         - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#82)
         - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#83)
-        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#84)
-      - [Chapitre II : La journée défense et citoyenneté (art.  à R*112-17)](#85)
-        - [Section 1 : Dispositions générales. (art.  à R*112-20)](#86)
-        - [Section 2 : Règles applicables aux appelés du service national. (art.  à R*112-20)](#87)
-        - [Section 3 : Dispositions particulières applicables aux Français établis hors de France. (art. R*112-16 à R*112-17)](#88)
-        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art.  à R*112-17)](#89)
-    - [LIVRE II (art. R*1 à R*234)](#90)
-      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#91)
-        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#92)
-          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#93)
-            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#94)
-            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#95)
-            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#96)
-          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#97)
-        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#98)
-      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#99)
-        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#100)
-          - [Section II : Sélection (art. R*40 à R*50-6)](#101)
-            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#102)
-            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#103)
-            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#104)
-            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#105)
-            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#106)
-            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#107)
-            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#108)
-            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#109)
-            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#110)
-        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#111)
-          - [Section I : Dispenses (art. R*55 à R77)](#112)
-            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#113)
-            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#114)
-            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#115)
-          - [Section III : Condamnés. (art. R*98 à R*100-1)](#116)
-        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#117)
-      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#118)
-        - [Chapitre Ier : Service militaire (art. R110 à R148)](#119)
-          - [Section I : Service militaire actif (art. R110 à R*132)](#120)
-            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#121)
-            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#122)
-          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#123)
-            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#124)
-            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#125)
-            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#126)
-        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#127)
-          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#128)
-          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#129)
-        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#130)
-          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#131)
-            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#132)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#133)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#134)
-            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#135)
-          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#136)
-            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#137)
-            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#138)
-            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#139)
-            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#140)
-        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#141)
-          - [Section I : Dispositions communes (art. R202 à R223)](#142)
-            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#143)
-            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#144)
-            - [Paragraphe 3 : Discipline. (art. R210)](#145)
-            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#146)
-            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#147)
-            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#148)
-            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#149)
-          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#150)
-          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#151)
-        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#152)
-          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#153)
-          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#154)
-          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#155)
-          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#156)
-          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#157)
-          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#158)
-      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#159)
-      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#160)
-  - [Annexes (art. ANNEXE I à ANNEXE II)](#161)
-    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#162)
+        - [Section 3 : Dispositions particulières applicables aux Français établis hors de France. (art. R*112-16 à R*112-17)](#84)
+        - [Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale (art. R*112-18 à R*112-20)](#85)
+    - [LIVRE II (art. R*1 à R*234)](#86)
+      - [Titre Ier : Définition et principes du service national (art. R*1 à R*27)](#87)
+        - [Chapitre Ier : Dispositions générales (art. R*1 à R22)](#88)
+          - [Section I : Appel avancé et report d'incorporation (art. R*1 à R*12)](#89)
+            - [Paragraphe 1er : Appel avancé. (art. R*1 à R4)](#90)
+            - [Paragraphe 2 : Report d'incorporation. (art. R*5 à R*10)](#91)
+            - [Paragraphe 3 : Dispositions communes. (art. R*11 à R*12)](#92)
+          - [Section II : Composition et appel du contingent. (art. R*15 à R22)](#93)
+        - [Chapitre II : Dispositions particulières à certains emplois du service national. (art. R*23 à R*27)](#94)
+      - [Titre II : Dispositions communes aux différentes formes du service national (art. R*40 à R104)](#95)
+        - [Chapitre Ier : Recensement  - Sélection (art. R*40 à R*50-6)](#96)
+          - [Section II : Sélection (art. R*40 à R*50-6)](#97)
+            - [Paragraphe 1er : Dispositions générales. (art. R*40 à R*42)](#98)
+            - [Paragraphe 2 : Droits résultant des opérations de sélection. (art. R*43 à R*43-3)](#99)
+            - [Paragraphe 3 : Sélection. (art. R*44 à R*44-1)](#100)
+            - [Paragraphe 4 : Règles de discipline. (art. R*45 à R*45-2)](#101)
+            - [Paragraphe 5 : Responsabilité de l'Etat. (art. R*46)](#102)
+            - [Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger. (art. R*47 à R*47-2)](#103)
+            - [Paragraphe 7 : Marins de la marine marchande. (art. R*48)](#104)
+            - [Paragraphe 8 : Jeunes gens handicapés ou détenus. (art. R*49 à R*49-1)](#105)
+            - [Paragraphe 9 : Commission locale d'aptitude. (art. R*50 à R*50-6)](#106)
+        - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national (art. R*55 à R*100-1)](#107)
+          - [Section I : Dispenses (art. R*55 à R77)](#108)
+            - [Paragraphe 1er : Dispenses à caractère social (art. R*55 à R*68)](#109)
+            - [Paragraphe 2 : Exploitations familiales et chefs d'entreprise. (art. R*68-1 à R*68-6)](#110)
+            - [Paragraphe 3 : Résidence à l'étranger. (art. R*69 à R77)](#111)
+          - [Section III : Condamnés. (art. R*98 à R*100-1)](#112)
+        - [Chapitre III : Réforme pour inaptitude physique. (art. R101 à R104)](#113)
+      - [Titre III : Dispositions particulières aux différentes formes du service national (art. R110 à R227-20)](#114)
+        - [Chapitre Ier : Service militaire (art. R110 à R148)](#115)
+          - [Section I : Service militaire actif (art. R110 à R*132)](#116)
+            - [Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille. (art. R110 à R122)](#117)
+            - [Paragraphe 3 : Gendarmes auxiliaires. (art. R*127 à R*132)](#118)
+          - [Section II : Recrutement des cadres de réserve du service militaire (art. R133 à R148)](#119)
+            - [Paragraphe 1er : Préparation au service militaire. (art. R133 à R139)](#120)
+            - [Paragraphe 2 : Recrutement et formation des cadres de réserve. (art. R140 à R144)](#121)
+            - [Paragraphe 3 : Nomination dans les cadres. (art. R145 à R148)](#122)
+        - [Chapitre II bis : Service dans la police nationale (art. R*201-1 à R*201-20-7)](#123)
+          - [Section I : Service actif dans la police nationale. (art. R*201-1 à R*201-20)](#124)
+          - [Section II : Disponibilité et réserve dans la police nationale. (art. R*201-20-1 à R*201-20-7)](#125)
+        - [Chapitre II ter : Service de sécurité civile (art. R*201-21 à R*201-49)](#126)
+          - [Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire (art. R*201-21 à R*201-35)](#127)
+            - [Paragraphe 1er : Affectation. (art. R*201-21 à R*201-25)](#128)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-26 à R*201-27)](#129)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-28 à R*201-32)](#130)
+            - [Paragraphe 4. (art. R*201-34 à R*201-35)](#131)
+          - [Section II : Service de sécurité civile en qualité de forestier auxiliaire (art. R*201-36 à R*201-49)](#132)
+            - [Paragraphe 1er : Affectation. (art. R*201-36 à R*201-40)](#133)
+            - [Paragraphe 2 : Missions - Obligations. (art. R*201-41 à R*201-42)](#134)
+            - [Paragraphe 3 : Hiérarchie - Avancement. (art. R*201-43 à R*201-47)](#135)
+            - [Paragraphe 4. (art. R*201-48 à R*201-49)](#136)
+        - [Chapitre III : Service de l'aide technique et service de la coopération (art. R202 à R227)](#137)
+          - [Section I : Dispositions communes (art. R202 à R223)](#138)
+            - [Paragraphe 1er : Opérations préliminaires et appel au service. (art. R202 à R205)](#139)
+            - [Paragraphe 2 : Indemnités. (art. R206 à R209)](#140)
+            - [Paragraphe 3 : Discipline. (art. R210)](#141)
+            - [Paragraphe 4 : Permissions. (art. R211 à R217)](#142)
+            - [Paragraphe 5 : Soins médicaux. (art. R218 à R220)](#143)
+            - [Paragraphe 6 : Inaptitude physique. (art. R221)](#144)
+            - [Paragraphe 7 : Libération du service actif. (art. R222 à R223)](#145)
+          - [Section II : Dispositions particulières au service de l'aide technique. (art. R224 à R225)](#146)
+          - [Section III : Dispositions particulières au service de la coopération. (art. R226 à R227)](#147)
+        - [Chapitre IV : Service des objecteurs de conscience. (art. R227-1 à R227-20)](#148)
+          - [Paragraphe 1er : Rattachement et affectation. (art. R227-2)](#149)
+          - [Paragraphe 2 : Devoirs et obligations. (art. R227-3)](#150)
+          - [Paragraphe 3 : Discipline. (art. R227-4 à R227-9)](#151)
+          - [Paragraphe 4 : Permissions. (art. R227-10 à R227-14)](#152)
+          - [Paragraphe 5 : Habilitation des organismes. (art. R227-15 à R227-18)](#153)
+          - [Paragraphe 6 : Missions en temps de guerre. (art. R227-19 à R227-20)](#154)
+      - [Titre IV : Service féminin. (art. R*228 à R*233-1)](#155)
+      - [Titre V : Dispositions communes aux formes civiles du service national (art. R*234)](#156)
+  - [Annexes (art. ANNEXE I à ANNEXE II)](#157)
+    - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE (art. ANNEXE II)](#158)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier<a id=2></a>
@@ -11709,26 +11705,52 @@ _Créé par_:
   - Décret n°2010-485 du 12 mai 2010 - art. 1
 
 
-###### Article R121-12
+###### Article R121-11
 
 Lorsque la personne volontaire est un mineur de plus de seize ans, le contrat de service civique indique également l'identité
 et l'adresse du domicile de la personne ou des personnes titulaires de l'autorité parentale.
 
-Il expose les conditions et les modalités particulières d'accueil et d'accompagnement de la personne volontaire.
+Il expose les conditions et les modalités particulières d'accueil et d'accompagnement de la personne volontaire et notamment
+du totorat renforcé que l'organisme d'accueil réserve à la personne mineure.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2011-1004 du 24 août 2011 - art. 1
+
 _Créé par_:
 
-  - Décret n°2010-485 du 12 mai 2010 - art. 1
+  - Décret n°2011-1004 du 24 août 2011 - art. 1
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2011-1004 du 24 août 2011 - art. 1
+  - Code du service national - art. R121-12 (T)
 
-_Nouveaux textes_:
 
-  - Code du service national - art. R121-11 (M)
+###### Article R121-12
+
+La nature ou l'exercice des missions ne peuvent exposer les personnes mineures aux risques et activités mentionnés aux
+articles D. 4153-15 à D. 4153-40 du code du travail. 
+
+Les missions effectuées entre 22 heures et 6 heures sont interdites aux mineurs. 
+
+La durée quotidienne de la mission confiée à un mineur est égale à sept heures au maximum et une pause de trente minutes doit
+être appliquée pour toute période de mission ininterrompue atteignant quatre heures et demie. 
+
+Le repos hebdomadaire des personnes volontaires mineures est fixé à deux jours consécutifs. 
+
+Le repos des jours fériés est obligatoire pour les personnes mineures.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2011-1004 du 24 août 2011 - art. 2
+
+_Cite_:
+
+  - Code du travail - art. D4153-15 (V)
 
 
 ###### Article R121-13
@@ -12644,7 +12666,7 @@ _Cite_:
   - Code du service national - art. R121-51
 
 
-### Chapitre II : L'appel de préparation à la défense<a id=81></a>
+### Chapitre II : La journée défense et citoyenneté<a id=81></a>
 
 #### Section 1 : Dispositions générales.<a id=82></a>
 
@@ -12990,70 +13012,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
 
 
-#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=84></a>
-
-###### Article R*112-18
-
-Les Français désireux d'accomplir une période militaire d'initiation ou de perfectionnement à la défense nationale en font la
-demande par écrit auprès  l'organisme chargé du service national dont ils relèvent en précisant la force armée ou le service
-commun qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des
-intéressés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 du 10 juin 1971
-
-_Modifié par_:
-
-  - Décret n°2011-929 du 1er août 2011 - art. 2
-
-
-###### Article R*112-19
-
-Les cycles de formation de la période militaire d'initiation ou de perfectionnement à la défense nationale sont organisés
-dans chaque armée, dans la gendarmerie nationale et dans les services communs, sous forme d'une ou plusieurs périodes
-d'instruction, selon les modalités fixées par arrêté du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
-
-_Modifié par_:
-
-  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
-
-
-###### Article R*112-20
-
-Pendant la période d'instruction, les intéressés sont bénéficiaires obligés du service de santé des armées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°71-424 1971-06-10
-
-_Modifié par_:
-
-  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
-
-
-### Chapitre II : La journée défense et citoyenneté<a id=85></a>
-
-#### Section 1 : Dispositions générales.<a id=86></a>
-
-#### Section 2 : Règles applicables aux appelés du service national.<a id=87></a>
-
-#### Section 3 : Dispositions particulières applicables aux Français établis hors de France.<a id=88></a>
+#### Section 3 : Dispositions particulières applicables aux Français établis hors de France.<a id=84></a>
 
 ###### Article R*112-16
 
@@ -13111,17 +13070,72 @@ _Cité par_:
   - Arrêté du 11 janvier 2016 - art. 7 (V)
 
 
-#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=89></a>
+#### Section 4 : Dispositions particulières à la période militaire d'initiation ou de perfectionnement à la défense nationale<a id=85></a>
 
-## LIVRE II<a id=90></a>
+###### Article R*112-18
 
-### Titre Ier : Définition et principes du service national<a id=91></a>
+Les Français désireux d'accomplir une période militaire d'initiation ou de perfectionnement à la défense nationale en font la
+demande par écrit auprès  l'organisme chargé du service national dont ils relèvent en précisant la force armée ou le service
+commun qu'ils choisissent. Leur admission est prononcée par l'autorité militaire après reconnaissance de l'aptitude des
+intéressés.
 
-#### Chapitre Ier : Dispositions générales<a id=92></a>
+**Liens relatifs à cet article**
 
-##### Section I : Appel avancé et report d'incorporation<a id=93></a>
+_Codifié par_:
 
-##### Paragraphe 1er : Appel avancé.<a id=94></a>
+  - Loi n°71-424 du 10 juin 1971
+
+_Modifié par_:
+
+  - Décret n°2011-929 du 1er août 2011 - art. 2
+
+
+###### Article R*112-19
+
+Les cycles de formation de la période militaire d'initiation ou de perfectionnement à la défense nationale sont organisés
+dans chaque armée, dans la gendarmerie nationale et dans les services communs, sous forme d'une ou plusieurs périodes
+d'instruction, selon les modalités fixées par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
+  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+
+_Modifié par_:
+
+  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
+
+
+###### Article R*112-20
+
+Pendant la période d'instruction, les intéressés sont bénéficiaires obligés du service de santé des armées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°71-424 1971-06-10
+
+_Modifié par_:
+
+  - Décret n°2007-677 du 4 mai 2007 - art. 1 () JORF 5 mai 2007
+
+
+## LIVRE II<a id=86></a>
+
+### Titre Ier : Définition et principes du service national<a id=87></a>
+
+#### Chapitre Ier : Dispositions générales<a id=88></a>
+
+##### Section I : Appel avancé et report d'incorporation<a id=89></a>
+
+##### Paragraphe 1er : Appel avancé.<a id=90></a>
 
 ###### Article R*1
 
@@ -13281,7 +13295,7 @@ _Cite_:
   - Code du service national - art. R2 (M)
 
 
-##### Paragraphe 2 : Report d'incorporation.<a id=95></a>
+##### Paragraphe 2 : Report d'incorporation.<a id=91></a>
 
 ###### Article R*5
 
@@ -13760,7 +13774,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=96></a>
+##### Paragraphe 3 : Dispositions communes.<a id=92></a>
 
 ###### Article R*11
 
@@ -13846,7 +13860,7 @@ _Cite_:
   - Code du service national R1, R7, R10
 
 
-##### Section II : Composition et appel du contingent.<a id=97></a>
+##### Section II : Composition et appel du contingent.<a id=93></a>
 
 ###### Article R*15
 
@@ -14440,7 +14454,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=98></a>
+#### Chapitre II : Dispositions particulières à certains emplois du service national.<a id=94></a>
 
 ###### Article R*23
 
@@ -14680,13 +14694,13 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-### Titre II : Dispositions communes aux différentes formes du service national<a id=99></a>
+### Titre II : Dispositions communes aux différentes formes du service national<a id=95></a>
 
-#### Chapitre Ier : Recensement  - Sélection<a id=100></a>
+#### Chapitre Ier : Recensement  - Sélection<a id=96></a>
 
-##### Section II : Sélection<a id=101></a>
+##### Section II : Sélection<a id=97></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=102></a>
+##### Paragraphe 1er : Dispositions générales.<a id=98></a>
 
 ###### Article R*40
 
@@ -14838,7 +14852,7 @@ _Cite_:
   - Code du service national - art. L5 (M)
 
 
-##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=103></a>
+##### Paragraphe 2 : Droits résultant des opérations de sélection.<a id=99></a>
 
 ###### Article R*43
 
@@ -14977,7 +14991,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L321-1 (M)
 
 
-##### Paragraphe 3 : Sélection.<a id=104></a>
+##### Paragraphe 3 : Sélection.<a id=100></a>
 
 ###### Article R*44
 
@@ -15062,7 +15076,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Règles de discipline.<a id=105></a>
+##### Paragraphe 4 : Règles de discipline.<a id=101></a>
 
 ###### Article R*45
 
@@ -15228,7 +15242,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Responsabilité de l'Etat.<a id=106></a>
+##### Paragraphe 5 : Responsabilité de l'Etat.<a id=102></a>
 
 ###### Article R*46
 
@@ -15279,7 +15293,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=107></a>
+##### Paragraphe 6 : Dispositions particulières applicables à la sélection des résidents à l'étranger.<a id=103></a>
 
 ###### Article R*47
 
@@ -15387,7 +15401,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 7 : Marins de la marine marchande.<a id=108></a>
+##### Paragraphe 7 : Marins de la marine marchande.<a id=104></a>
 
 ###### Article R*48
 
@@ -15424,7 +15438,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=109></a>
+##### Paragraphe 8 : Jeunes gens handicapés ou détenus.<a id=105></a>
 
 ###### Article R*49
 
@@ -15502,7 +15516,7 @@ _Cite_:
   - Code du service national - art. L23 (M)
 
 
-##### Paragraphe 9 : Commission locale d'aptitude.<a id=110></a>
+##### Paragraphe 9 : Commission locale d'aptitude.<a id=106></a>
 
 ###### Article R*50
 
@@ -15787,11 +15801,11 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=111></a>
+#### Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national<a id=107></a>
 
-##### Section I : Dispenses<a id=112></a>
+##### Section I : Dispenses<a id=108></a>
 
-##### Paragraphe 1er : Dispenses à caractère social<a id=113></a>
+##### Paragraphe 1er : Dispenses à caractère social<a id=109></a>
 
 ###### Article R*55
 
@@ -16570,7 +16584,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=114></a>
+##### Paragraphe 2 : Exploitations familiales et chefs d'entreprise.<a id=110></a>
 
 ###### Article R*68-1
 
@@ -16792,7 +16806,7 @@ _Cite_:
   - Code du service national - art. L32 (M)
 
 
-##### Paragraphe 3 : Résidence à l'étranger.<a id=115></a>
+##### Paragraphe 3 : Résidence à l'étranger.<a id=111></a>
 
 ###### Article R*69
 
@@ -17173,7 +17187,7 @@ _Cite_:
   - Code du service national R69 à R76
 
 
-##### Section III : Condamnés.<a id=116></a>
+##### Section III : Condamnés.<a id=112></a>
 
 ###### Article R*98
 
@@ -17325,7 +17339,7 @@ _Cite_:
   - Code du service national - art. L55 (M)
 
 
-#### Chapitre III : Réforme pour inaptitude physique.<a id=117></a>
+#### Chapitre III : Réforme pour inaptitude physique.<a id=113></a>
 
 ###### Article R101
 
@@ -17522,13 +17536,13 @@ _Cite_:
   - Code du service national - art. L85 (M)
 
 
-### Titre III : Dispositions particulières aux différentes formes du service national<a id=118></a>
+### Titre III : Dispositions particulières aux différentes formes du service national<a id=114></a>
 
-#### Chapitre Ier : Service militaire<a id=119></a>
+#### Chapitre Ier : Service militaire<a id=115></a>
 
-##### Section I : Service militaire actif<a id=120></a>
+##### Section I : Service militaire actif<a id=116></a>
 
-##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=121></a>
+##### Paragraphe 1er : Allocations aux militaires ne bénéficiant d'aucune protection sociale et à leur famille.<a id=117></a>
 
 ###### Article R110
 
@@ -17990,7 +18004,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Gendarmes auxiliaires.<a id=122></a>
+##### Paragraphe 3 : Gendarmes auxiliaires.<a id=118></a>
 
 ###### Article R*127
 
@@ -18223,9 +18237,9 @@ _Cite_:
   - Code du service national - art. L72 (M)
 
 
-##### Section II : Recrutement des cadres de réserve du service militaire<a id=123></a>
+##### Section II : Recrutement des cadres de réserve du service militaire<a id=119></a>
 
-##### Paragraphe 1er : Préparation au service militaire.<a id=124></a>
+##### Paragraphe 1er : Préparation au service militaire.<a id=120></a>
 
 ###### Article R133
 
@@ -18488,7 +18502,7 @@ _Cite_:
   - Code du service national R133 à R138
 
 
-##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=125></a>
+##### Paragraphe 2 : Recrutement et formation des cadres de réserve.<a id=121></a>
 
 ###### Article R140
 
@@ -18694,7 +18708,7 @@ _Cite_:
   - Code du service national R140 à R143
 
 
-##### Paragraphe 3 : Nomination dans les cadres.<a id=126></a>
+##### Paragraphe 3 : Nomination dans les cadres.<a id=122></a>
 
 ###### Article R145
 
@@ -18853,9 +18867,9 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-#### Chapitre II bis : Service dans la police nationale<a id=127></a>
+#### Chapitre II bis : Service dans la police nationale<a id=123></a>
 
-##### Section I : Service actif dans la police nationale.<a id=128></a>
+##### Section I : Service actif dans la police nationale.<a id=124></a>
 
 ###### Article R*201-1
 
@@ -19514,7 +19528,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Section II : Disponibilité et réserve dans la police nationale.<a id=129></a>
+##### Section II : Disponibilité et réserve dans la police nationale.<a id=125></a>
 
 ###### Article R*201-20-1
 
@@ -19738,11 +19752,11 @@ _Cite_:
   - Code du service national R201-9, R201-12, R201-15, R201-19, R201-20, R201-5, R201-11, R201-14, R201-17
 
 
-#### Chapitre II ter : Service de sécurité civile<a id=130></a>
+#### Chapitre II ter : Service de sécurité civile<a id=126></a>
 
-##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=131></a>
+##### Section I : Service de sécurité civile en qualité de sapeur-pompier auxiliaire<a id=127></a>
 
-##### Paragraphe 1er : Affectation.<a id=132></a>
+##### Paragraphe 1er : Affectation.<a id=128></a>
 
 ###### Article R*201-21
 
@@ -19906,7 +19920,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=133></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=129></a>
 
 ###### Article R*201-26
 
@@ -19970,7 +19984,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=134></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=130></a>
 
 ###### Article R*201-28
 
@@ -20141,7 +20155,7 @@ _Cite_:
   - Code du service national R201-29 à R201-31
 
 
-##### Paragraphe 4.<a id=135></a>
+##### Paragraphe 4.<a id=131></a>
 
 ###### Article R*201-34
 
@@ -20208,9 +20222,9 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=136></a>
+##### Section II : Service de sécurité civile en qualité de forestier auxiliaire<a id=132></a>
 
-##### Paragraphe 1er : Affectation.<a id=137></a>
+##### Paragraphe 1er : Affectation.<a id=133></a>
 
 ###### Article R*201-36
 
@@ -20367,7 +20381,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 2 : Missions - Obligations.<a id=138></a>
+##### Paragraphe 2 : Missions - Obligations.<a id=134></a>
 
 ###### Article R*201-41
 
@@ -20433,7 +20447,7 @@ _Cite_:
   - Code du service national R201-37
 
 
-##### Paragraphe 3 : Hiérarchie - Avancement.<a id=139></a>
+##### Paragraphe 3 : Hiérarchie - Avancement.<a id=135></a>
 
 ###### Article R*201-43
 
@@ -20590,7 +20604,7 @@ _Cite_:
   - Code du service national R201-44 à R201-46
 
 
-##### Paragraphe 4.<a id=140></a>
+##### Paragraphe 4.<a id=136></a>
 
 ###### Article R*201-48
 
@@ -20657,11 +20671,11 @@ _Cite_:
   - Code du service national - art. L149-1 (M)
 
 
-#### Chapitre III : Service de l'aide technique et service de la coopération<a id=141></a>
+#### Chapitre III : Service de l'aide technique et service de la coopération<a id=137></a>
 
-##### Section I : Dispositions communes<a id=142></a>
+##### Section I : Dispositions communes<a id=138></a>
 
-##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=143></a>
+##### Paragraphe 1er : Opérations préliminaires et appel au service.<a id=139></a>
 
 ###### Article R202
 
@@ -20829,7 +20843,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 2 : Indemnités.<a id=144></a>
+##### Paragraphe 2 : Indemnités.<a id=140></a>
 
 ###### Article R206
 
@@ -21033,7 +21047,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 3 : Discipline.<a id=145></a>
+##### Paragraphe 3 : Discipline.<a id=141></a>
 
 ###### Article R210
 
@@ -21082,7 +21096,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 4 : Permissions.<a id=146></a>
+##### Paragraphe 4 : Permissions.<a id=142></a>
 
 ###### Article R211
 
@@ -21359,7 +21373,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Paragraphe 5 : Soins médicaux.<a id=147></a>
+##### Paragraphe 5 : Soins médicaux.<a id=143></a>
 
 ###### Article R218
 
@@ -21486,7 +21500,7 @@ _Cité par_:
   - Code du service national - art. R227 (V)
 
 
-##### Paragraphe 6 : Inaptitude physique.<a id=148></a>
+##### Paragraphe 6 : Inaptitude physique.<a id=144></a>
 
 ###### Article R221
 
@@ -21528,7 +21542,7 @@ _Cite_:
   - Code du service national - art. L110 (M)
 
 
-##### Paragraphe 7 : Libération du service actif.<a id=149></a>
+##### Paragraphe 7 : Libération du service actif.<a id=145></a>
 
 ###### Article R222
 
@@ -21611,7 +21625,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section II : Dispositions particulières au service de l'aide technique.<a id=150></a>
+##### Section II : Dispositions particulières au service de l'aide technique.<a id=146></a>
 
 ###### Article R224
 
@@ -21689,7 +21703,7 @@ _Cité par_:
   - Code du service national - art. ANNEXE I (V)
 
 
-##### Section III : Dispositions particulières au service de la coopération.<a id=151></a>
+##### Section III : Dispositions particulières au service de la coopération.<a id=147></a>
 
 ###### Article R226
 
@@ -21785,7 +21799,7 @@ _Cite_:
   - Code du service national - art. R220 (M)
 
 
-#### Chapitre IV : Service des objecteurs de conscience.<a id=152></a>
+#### Chapitre IV : Service des objecteurs de conscience.<a id=148></a>
 
 ###### Article R227-1
 
@@ -21825,7 +21839,7 @@ _Cité par_:
   - Code du service national - art. R227-9 (V)
 
 
-##### Paragraphe 1er : Rattachement et affectation.<a id=153></a>
+##### Paragraphe 1er : Rattachement et affectation.<a id=149></a>
 
 ###### Article R227-2
 
@@ -21872,7 +21886,7 @@ _Cité par_:
   - Code du service national - art. R227-4 (V)
 
 
-##### Paragraphe 2 : Devoirs et obligations.<a id=154></a>
+##### Paragraphe 2 : Devoirs et obligations.<a id=150></a>
 
 ###### Article R227-3
 
@@ -21914,7 +21928,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 3 : Discipline.<a id=155></a>
+##### Paragraphe 3 : Discipline.<a id=151></a>
 
 ###### Article R227-4
 
@@ -22104,7 +22118,7 @@ _Cite_:
   - Code du service national - art. R227-1 (M)
 
 
-##### Paragraphe 4 : Permissions.<a id=156></a>
+##### Paragraphe 4 : Permissions.<a id=152></a>
 
 ###### Article R227-10
 
@@ -22263,7 +22277,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 5 : Habilitation des organismes.<a id=157></a>
+##### Paragraphe 5 : Habilitation des organismes.<a id=153></a>
 
 ###### Article R227-15
 
@@ -22409,7 +22423,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-##### Paragraphe 6 : Missions en temps de guerre.<a id=158></a>
+##### Paragraphe 6 : Missions en temps de guerre.<a id=154></a>
 
 ###### Article R227-19
 
@@ -22479,7 +22493,7 @@ _Codifié par_:
   - Décret n°72-806 1972-08-31
 
 
-### Titre IV : Service féminin.<a id=159></a>
+### Titre IV : Service féminin.<a id=155></a>
 
 ###### Article R*228
 
@@ -22795,7 +22809,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R531-1 (M)
 
 
-### Titre V : Dispositions communes aux formes civiles du service national<a id=160></a>
+### Titre V : Dispositions communes aux formes civiles du service national<a id=156></a>
 
 ###### Article R*234
 
@@ -22838,7 +22852,7 @@ _Cite_:
   - Code du service national R110 à R114, R116 à R118, R120
 
 
-# Annexes<a id=161></a>
+# Annexes<a id=157></a>
 
 ###### Article ANNEXE I
 
@@ -23130,7 +23144,7 @@ _Cite_:
   - Code du service national - art. R97
 
 
-## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=162></a>
+## CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE<a id=158></a>
 
 ###### Article ANNEXE II
 
