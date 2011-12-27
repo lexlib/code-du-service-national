@@ -1,8 +1,8 @@
 # Code du service national  
-Version Consolidée au 2011-10-15
+Version Consolidée au 2011-12-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
-    - [LIVRE Ier (art. L111-1 à L130-4)](#2)
+    - [LIVRE Ier (art. L111-1 à L130-5)](#2)
       - [TITRE Ier : Dispositions générales relatives au service national (art. L111-1 à L115-2)](#3)
         - [Chapitre Ier : Principes. (art. L111-1 à L111-3)](#4)
         - [Chapitre II : Champ d'application. (art. L112-1 à L112-6)](#5)
@@ -19,13 +19,13 @@ Version Consolidée au 2011-10-15
           - [Section 5 : Protection sociale. (art. L120-25 à L120-29)](#16)
           - [Section 6 : Agrément. (art. L120-30)](#17)
           - [Section 7 : Dispositions diverses. (art. L120-31 à L120-36)](#18)
-      - [TITRE II : Dispositions relatives aux autres formes de volontariat. (art. L120-37 à L130-4)](#19)
+      - [TITRE II : Dispositions relatives aux autres formes de volontariat. (art. L120-37 à L130-5)](#19)
         - [Chapitre Ier : Le volontariat dans les armées. (art. L121-1 à L121-3)](#20)
         - [Chapitre II : Dispositions relatives aux volontariats internationaux (art. L122-1 à L122-20)](#21)
           - [Section I : Principes du volontariat international. (art. L122-1 à L122-9)](#22)
           - [Section II : Droits et obligations du volontaire international. (art. L122-10 à L122-17)](#23)
           - [Section III : Dispositions diverses. (art. L122-18 à L122-20)](#24)
-        - [Chapitre III : Le volontariat pour l'insertion (art. L130-1 à L130-4)](#25)
+        - [Chapitre III : Le volontariat pour l'insertion (art. L130-1 à L130-5)](#25)
     - [LIVRE II (art. L1 à L159)](#26)
       - [TITRE Ier : Définition et principes du service national (art. L1 à L14)](#27)
         - [Chapitre Ier : Dispositions générales. (art. L1 à L8)](#28)
@@ -2606,6 +2606,43 @@ _Cite_:
   - Code du service national - art. L130-3
   - Code du travail - art. L351-12
   - Code du travail - art. L351-3
+
+
+###### Article L130-5
+
+I.-Lorsqu'il est accompli dans les conditions mentionnées aux articles 7-2, 20-10 ou 24-6 de l'ordonnance n° 45-174 du 2
+février 1945 relative à l'enfance délinquante, le contrat de volontariat pour l'insertion est dénommé contrat de service en
+établissement public d'insertion de la défense. 
+
+Le magistrat ou la juridiction qui prescrit l'accomplissement d'un contrat de service en établissement public d'insertion de
+la défense en fixe la durée, qui ne peut être inférieure à six mois ni supérieure à douze mois. 
+
+Toutefois, le mineur peut, à sa demande et sur avis favorable de l'établissement d'accueil, prolonger la durée de son contrat
+dans les conditions mentionnées à l'article L. 130-2 du présent code. 
+
+II.-L'accord du mineur et des titulaires de l'exercice de l'autorité parentale est recueilli en présence d'un avocat choisi
+ou désigné en application du second alinéa de l'article 4-1 de l'ordonnance n° 45-174 du 2 février 1945 précitée. Le
+magistrat ou la juridiction qui prescrit l'accomplissement d'un contrat de service en établissement public d'insertion de la
+défense valide le contenu du projet, sur proposition de la protection judiciaire de la jeunesse, au regard de son caractère
+formateur. 
+
+III.-Le contrat de service en établissement public d'insertion de la défense ouvre droit à la seule prime visée au 2° de
+l'article L. 130-3, dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20-10
+  - Ordonnance n°45-174 du 2 février 1945 - art. 24-6
+  - Ordonnance n°45-174 du 2 février 1945 - art. 4-1
+  - Ordonnance n°45-174 du 2 février 1945 - art. 7-2
+  - Code du service national - art. L130-2
+  - Code du service national - art. L130-3
+
+_Créé par_:
+
+  - Loi n°2011-1940 du 26 décembre 2011 - art. 4
 
 
 ## LIVRE II<a id=26></a>
