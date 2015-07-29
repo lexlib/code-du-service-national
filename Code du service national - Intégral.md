@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2015-05-30
+Version Consolidée au 2015-07-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -377,16 +377,14 @@ _Cité par_:
 
 ###### Article L113-4
 
-Avant l'âge de vingt-cinq ans, pour être autorisée à s'inscrire aux examens et concours soumis au contrôle de l'autorité
-publique, la personne assujettie à l'obligation de recensement doit être en règle avec cette obligation.
-
-Elle peut procéder à la régularisation de sa situation en se faisant recenser.
+La personne assujettie à l'obligation de recensement peut procéder à la régularisation de sa situation en se faisant recenser
+avant l'âge de vingt-cinq ans.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
 _Cité par_:
 
@@ -405,9 +403,9 @@ _Cité par_:
   - Arrêté du 21 décembre 2015 - art. 6 (VD)
   - Arrêté du 21 décembre 2015 - art. 8 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°97-1019 du 28 octobre 1997 - art. 1 () JORF 8 novembre 1997
+  - Loi n°2015-917 du 28 juillet 2015 - art. 24
 
 
 ###### Article L113-5
@@ -511,7 +509,7 @@ _Cité par_:
 
 ###### Article L114-2
 
-En complément de cet enseignement, est organisé pour tous les Français la journée défense et citoyenneté à laquelle ils sont
+En complément de cet enseignement, est organisée pour tous les Français la journée défense et citoyenneté à laquelle ils sont
 tenus de participer.
 
 La journée défense et citoyenneté a lieu entre la date du recensement des Français et leur dix-huitième anniversaire. Elle
@@ -532,7 +530,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-241 du 10 mars 2010 - art. 2
+  - Loi n°2015-917 du 28 juillet 2015 - art. 24
 
 
 ###### Article L114-3
@@ -544,37 +542,29 @@ volontariat ainsi que les périodes militaires d'initiation ou de perfectionneme
 d'engagement dans les forces armées et les forces de réserve. Ils sont sensibilisés aux droits et devoirs liés à la
 citoyenneté et aux enjeux du renforcement de la cohésion nationale et de la mixité sociale. La charte des droits et devoirs
 du citoyen français mentionnée à l'article 21-24 du code civil leur est remise à cette occasion. Ils bénéficient également
-d'une sensibilisation à la prévention des risques et aux missions des services de secours ainsi que d'un apprentissage des
-gestes élémentaires de premier secours. 
+d'une sensibilisation à la sécurité routière. 
 
 A cette occasion sont organisés des tests d'évaluation des apprentissages fondamentaux de la langue française. Il est délivré
 une information générale sur le don de sang, de plaquettes, de moelle osseuse, de gamètes et sur le don d'organes à fins de
 greffe. S'agissant du don d'organes, une information spécifique est dispensée sur la législation en vigueur, sur le
 consentement présumé et sur la possibilité pour une personne d'inscrire son refus sur le registre national automatisé prévu à
-l'article L. 1232-1 du code de la santé publique. 
-
-En outre, lors de la journée défense et citoyenneté, les Français doivent présenter un certificat délivré par un médecin
-attestant qu'ils ont subi une examen de santé dans les six mois précédents. 
-
-Ceux qui n'ont pas présenté de certificat sont convoqués par la caisse primaire d'assurance maladie afin de bénéficier d'un
-examen de santé gratuit tel que prévu à l'article L. 321-3 du code de la sécurité sociale.
+l'article L. 1232-1 du code de la santé publique.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2011-814 du 7 juillet 2011 - art. 14
 
 _Cité par_:
 
   - Décret n°2012-127 du 30 janvier 2012 (V)
   - Code du service national - art. R*112-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2015-917 du 28 juillet 2015 - art. 24
+
 _Cite_:
 
   - Code civil - art. 21-24
   - Code de la santé publique - art. L1232-1
-  - Code de la sécurité sociale. - art. L321-3
 
 
 ###### Article L114-4
@@ -640,14 +630,14 @@ _Modifié par_:
 
 ###### Article L114-7
 
-Ne sont pas soumises à l'obligation de participer à       la journée défense et citoyenneté les personnes atteintes d'une
-maladie invalidante, d'une infirmité ou d'un handicap les rendant définitivement inaptes à y participer.
+Ne sont pas soumises à l'obligation de participer à       la journée défense et citoyenneté les personnes atteintes d'un
+handicap les rendant définitivement inaptes à y participer.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-241 du 10 mars 2010 - art. 2
+  - Loi n°2015-917 du 28 juillet 2015 - art. 24
 
 
 ###### Article L114-8
@@ -682,7 +672,7 @@ _Cite_:
 
 ###### Article L114-10
 
-Les Français répondant à       la journée défense et citoyenneté ont la qualité d'appelés du service national. 
+Les Français participant  à       la journée défense et citoyenneté ont la qualité d'appelés du service national. 
 
 Ils sont placés sous la responsabilité de l'Etat. 
 
@@ -696,7 +686,7 @@ Aucune action récursoire ne peut être engagée contre les personnes morales pr
 
 _Modifié par_:
 
-  - Loi n°2010-241 du 10 mars 2010 - art. 2
+  - Loi n°2015-917 du 28 juillet 2015 - art. 24
 
 
 ###### Article L114-11
@@ -799,11 +789,12 @@ des missions de défense et de sécurité civile ou de prévention, de promotion
 à la prise de conscience de la citoyenneté française et européenne. 
 
 II. - Le service civique est un engagement volontaire d'une durée continue de six à douze mois donnant lieu à une
-indemnisation prise en charge par l'Etat, ouvert aux personnes âgées de seize à vingt-cinq ans, en faveur de missions
-d'intérêt général reconnues prioritaires pour la Nation. Cet engagement est effectué auprès de personnes morales agréées dans
-les conditions prévues à la section 6 du chapitre II du présent titre. La personne morale agréée est un organisme sans but
-lucratif de droit français ou une personne morale de droit public. Une association cultuelle, politique, une congrégation,
-une fondation d'entreprise ou un comité d'entreprise ne peuvent recevoir d'agrément pour organiser le service civique. 
+indemnisation prise en charge par l'Agence du service civique, ouvert aux personnes âgées de seize à vingt-cinq ans, en
+faveur de missions d'intérêt général reconnues prioritaires pour la Nation. Cet engagement est effectué auprès de personnes
+morales agréées dans les conditions prévues à la section 6 du chapitre II du présent titre. La personne morale agréée est un
+organisme sans but lucratif de droit français ou une personne morale de droit public. Une association cultuelle, politique,
+une congrégation, une fondation d'entreprise ou un comité d'entreprise ne peuvent recevoir d'agrément pour organiser le
+service civique. 
 
 Le service civique peut également prendre les formes suivantes : 
 
@@ -818,14 +809,14 @@ relative au contrat de volontariat de solidarité internationale ou le service v
 Jeunesse ” et par la décision n° 1719/2006/CE du Parlement européen et du Conseil, du 15 novembre 2006, établissant le
 programme "Jeunesse en action" pour la période 2007-2013. 
 
-III. - L'Etat délivre à la personne volontaire, à l'issue de sa mission, une attestation de service civique et un document
-qui décrit les activités exercées et évalue les aptitudes, les connaissances et les compétences acquises pendant la durée du
-service civique. Cette évaluation se fait notamment au regard des modalités d'exécution du contrat prévues par l'article L.
-120-12. Elle est réalisée conjointement avec le tuteur mentionné à l'article L. 120-14, la personne morale agréée et la
-personne volontaire. Si la personne volontaire le souhaite, ce document est intégré à son livret de compétences mentionné à
-l'article 11 de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation professionnelle tout au
-long de la vie et à son passeport d'orientation, de formation et de compétences mentionné au II de l'article L. 6323-8 du
-code du travail. 
+III. - L'Agence du service civique délivre à la personne volontaire, à l'issue de sa mission, une attestation de service
+civique et un document qui décrit les activités exercées et évalue les aptitudes, les connaissances et les compétences
+acquises pendant la durée du service civique. Cette évaluation se fait notamment au regard des modalités d'exécution du
+contrat prévues par l'article L. 120-12. Elle est réalisée conjointement avec le tuteur mentionné à l'article L. 120-14, la
+personne morale agréée et la personne volontaire. Si la personne volontaire le souhaite, ce document est intégré à son livret
+de compétences mentionné à l'article 11 de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation
+professionnelle tout au long de la vie et à son passeport d'orientation, de formation et de compétences mentionné au II de
+l'article L. 6323-8 du code du travail. 
 
 Le service civique est valorisé dans les cursus des établissements secondaires et des établissements dispensant des
 formations sanctionnées par un diplôme d'études supérieures selon des modalités fixées par décret. 
@@ -867,7 +858,7 @@ _Cité par_:
   - Code du service national - art. L120-2 (V)
   - Code du service national - art. L120-30 (V)
   - Code du service national - art. L120-34 (V)
-  - Code du service national - art. L120-7 (V)
+  - Code du service national - art. L120-7 (VD)
   - Code du service national - art. R121-33 (V)
   - Code du service national - art. R121-34 (V)
   - Code du service national - art. R121-49 (VD)
@@ -881,15 +872,15 @@ _Cite_:
 
   - Loi n°2005-159 du 23 février 2005
   - Loi n°2009-1437 du 24 novembre 2009 - art. 11
-  - Code de l'éducation - art. L335-5 (VT)
-  - Code de l'éducation - art. L613-3 (M)
+  - Code de l'éducation - art. L335-5
+  - Code de l'éducation - art. L613-3
   - Code du service national - art. L120-12
   - Code du service national - art. L120-14
   - Code du travail - art. L6323-8
 
 _Modifié par_:
 
-  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+  - Loi n°2015-917 du 28 juillet 2015 - art. 25 (V)
 
 
 #### Chapitre Ier : L'Agence du service civique.<a id=10></a>
@@ -901,8 +892,8 @@ Il est créé une Agence du service civique qui a pour missions :
 1° De définir les orientations stratégiques et les missions prioritaires du service civique mentionnées à l'article L.
 120-1 ; 
 
-2° D'assurer la gestion des agréments et du soutien financier apporté par l'Etat à l'accueil des personnes volontaires en
-service civique ; 
+2° D'assurer la gestion des agréments et du soutien financier apporté à l'accueil des personnes volontaires en service
+civique ; 
 
 3° De promouvoir et de valoriser le service civique auprès notamment des publics concernés, des organismes d'accueil et
 d'orientation des jeunes, des établissements d'enseignement et des branches professionnelles ; 
@@ -947,15 +938,10 @@ agréments et le soutien financier de l'Etat sont mis en œuvre pour le compte d
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2014-856 du 31 juillet 2014 - art. 64
-
 _Cite_:
 
   - Code du service national - art. L120-1
   - Code du service national - art. L120-14
-  - Code du service national - art. L120-3 (V)
 
 _Cité par_:
 
@@ -1078,8 +1064,9 @@ _Cite_:
 
 ###### Article L120-8
 
-Sauf dérogation accordée par l'Etat dans le cadre de la procédure d'agrément prévue à la section 6, l'accomplissement des
-missions afférentes au contrat représente, sur la durée du contrat, au moins vingt-quatre heures par semaine. 
+Sauf dérogation accordée par l'Agence du service civique  dans le cadre de la procédure d'agrément prévue à la section 6,
+l'accomplissement des missions afférentes au contrat représente, sur la durée du contrat, au moins vingt-quatre heures par
+semaine. 
 
 Sans préjudice des dispositions prévues à l'article L. 433-1 du code de l'action sociale et des familles, la durée
 hebdomadaire du contrat ne peut dépasser quarante-huit heures, réparties au maximum sur six jours. Pour les mineurs âgés de
@@ -1090,7 +1077,7 @@ jours.
 
 _Modifié par_:
 
-  - Loi n°2014-856 du 31 juillet 2014 - art. 64
+  - Loi n°2015-917 du 28 juillet 2015 - art. 25 (V)
 
 _Cité par_:
 
@@ -1607,24 +1594,24 @@ _Cite_:
 ###### Article L120-31
 
 Les organismes sans but lucratif de droit français agréés auprès desquels des personnes volontaires ont souscrit un
-engagement de service civique peuvent percevoir une aide, à la charge de l'Etat, aux fins de couvrir une partie des coûts
-relatifs à l'accueil et à l'accompagnement du volontaire accomplissant son service.
+engagement de service civique peuvent percevoir une aide, à la charge de l'Agence du service civique, aux fins de couvrir une
+partie des coûts relatifs à l'accueil et à l'accompagnement du volontaire accomplissant son service.
 
-Le montant et les modalités de versement de l'aide de l'Etat, dont le niveau peut varier en fonction des conditions d'accueil
-de la personne volontaire et selon que l'engagement de service civique est effectué en France métropolitaine, dans un
-département d'outre-mer, une collectivité d'outre-mer, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et
-Futuna et les Terres australes et antarctiques françaises ou à l'étranger, sont définis par décret.
+Le montant et les modalités de versement de l'aide de l'Agence du service civique, dont le niveau peut varier en fonction des
+conditions d'accueil de la personne volontaire et selon que l'engagement de service civique est effectué en France
+métropolitaine, dans un département d'outre-mer, une collectivité d'outre-mer, en Nouvelle-Calédonie, en Polynésie française,
+dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises ou à l'étranger, sont définis par décret.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2010-241 du 10 mars 2010 - art. 8
 
 _Cité par_:
 
   - Loi n°2010-241 du 10 mars 2010 - art. 21 (V)
   - Code du service national - art. R121-27 (V)
+
+_Modifié par_:
+
+  - Loi n°2015-917 du 28 juillet 2015 - art. 25 (V)
 
 
 ###### Article L120-32
