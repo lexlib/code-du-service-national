@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2016-02-12
+Version Consolidée au 2016-12-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -74,13 +74,13 @@ Version Consolidée au 2016-02-12
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*234)](#71)
     - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-20)](#72)
       - [Chapitre Ier : Le recensement. (art. R*111-1 à R*111-18)](#73)
-      - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-2 à R121-52)](#74)
+      - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-2 à R121-53)](#74)
         - [Section I : L'Agence du service civique (art. R120-2 à R120-11)](#75)
         - [Section II : Les relations entre la personne volontaire et la personne morale agréée (art. D121-21 à R121-20)](#76)
         - [Section III : Indemnité (art. R121-22 à R121-32)](#77)
         - [Section IV : Agrément (art. R121-33 à R121-46)](#78)
         - [Section V : Dispositions diverses (art. R121-47 à R121-50)](#79)
-        - [Section VI : Dispositions relatives à l'outre-mer (art. R121-51 à R121-52)](#80)
+        - [Section VI : Dispositions relatives à l'outre-mer (art. R121-51 à R121-53)](#80)
       - [Chapitre II : La journée défense et citoyenneté (art. R*112-1 à R*112-20)](#81)
         - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#82)
         - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#83)
@@ -12640,14 +12640,19 @@ _Modifié par_:
 ###### Article R121-51
 
 Les dispositions des sections I à V du présent chapitre sont applicables sur l'ensemble du territoire de la République, à
-l'exception des articles R. 121-27 à R. 121-32, qui ne sont pas applicables à Mayotte, dans les îles Wallis et Futuna, en
-Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+l'exception des articles R. 121-27 à R. 121-32, qui ne sont pas applicables dans les îles Wallis et Futuna, en Polynésie
+française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1771 du 30 décembre 2010 - art. 1
+  - Décret n°2016-1623 du 29 novembre 2016 - art. 2 (V)
+
+_Cite_:
+
+  - Code du service national - art. R121-27 (V)
+  - Code du service national - art. R121-32 (V)
 
 _Cité par_:
 
@@ -12738,6 +12743,41 @@ _Cite_:
   - Code du service national - art. R121-33
   - Code du service national - art. R121-34 (M)
   - Code du service national - art. R121-51
+
+
+###### Article R121-53
+
+Les articles R. 121-27 à R. 121-32 du présent code sont applicables à Mayotte sous réserve des adaptations suivantes : 
+
+1° Au 2e alinéa de l'article R. 121-27 les mots : “ L. 3262-1 du code du travail ” sont remplacés par les mots : “ L. 147-1
+du code du travail applicable à Mayotte ” ; 
+
+2° A l'avant-dernier alinéa de l'article R. 121-28 les mots : “ R. 3262-4 du code du travail ” sont remplacés par les mots :
+“ R. 147-4 du code du travail applicable à Mayotte ” ; 
+
+3° Au dernier alinéa de l'article R. 121-29 les mots : “ R. 3262-13 du code du travail ” sont remplacés par les mots : “ R.
+147-13 du code du travail applicable à Mayotte ” ; 
+
+4° Au deuxième alinéa de l'article R. 121-32 les mots : “ R. 3262-26 du code du travail ” sont remplacés par les mots : “ R.
+147-26 du code du travail applicable à Mayotte ” ; 
+
+5° Au dernier alinéa de l'article R. 121-32 les mots : “ R. 3262-27 du code du travail ” sont remplacés par les mots : “ R.
+147-27 du code du travail applicable à Mayotte ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1623 du 29 novembre 2016 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 24
+
+_Cite_:
+
+  - Code du service national - art. R121-27
+  - Code du service national - art. R121-32
 
 
 ### Chapitre II : La journée défense et citoyenneté<a id=81></a>
