@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2016-12-01
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -12869,10 +12869,12 @@ _Modifié par_:
 
 ###### Article R*112-6
 
-Les personnes handicapées titulaires d'une carte d'invalidité délivrée en application de l'article L. 241-3 du code de
-l'action sociale et des familles ne sont pas soumises à l'obligation de la journée défense et citoyenneté. Elles-mêmes ou
-leur représentant légal présentent à cet effet leur carte d'invalidité au moment du recensement. Si cette qualité leur est
-reconnue après le recensement, elles présentent ce document à l'organisme chargé du service national dont elles relèvent. 
+Les personnes handicapées titulaires d'une carte mobilité inclusion comportant la mention “ invalidité ” délivrée en
+application de l'article L. 241-3 du code de l'action sociale et des familles ou d'une carte d'invalidité délivrée en
+application de l'article L. 241-3 du même code dans sa rédaction antérieure au 1er janvier 2017 ne sont pas soumises à
+l'obligation de la journée défense et citoyenneté. Elles-mêmes ou leur représentant légal présentent à cet effet ladite carte
+au moment du recensement. Si cette qualité leur est reconnue après le recensement, elles présentent ce document à l'organisme
+chargé du service national dont elles relèvent. 
 
 Sont également exemptés de l'obligation de la journée défense et citoyenneté les Français qui présentent à l'organisme chargé
 du service national dont ils relèvent un certificat médical délivré par un médecin agréé auprès du ministre de la défense
@@ -12886,7 +12888,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-929 du 1er août 2011 - art. 8
+  - Décret n°2016-1849 du 23 décembre 2016 - art. 6
 
 _Cite_:
 
