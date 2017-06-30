@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2017-06-01
+Version Consolidée au 2017-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -12725,6 +12725,38 @@ _Cite_:
   - Code du service national - art. L120-14
   - Code du service national - art. L120-30
   - Code du service national - art. R121-15
+
+
+###### Article R121-47-2
+
+L'Agence du service civique adresse, par voie postale, à la personne qui réalise un engagement de service civique ou un
+service volontaire européen en France une carte du volontaire valable pendant toute la durée de sa mission.
+
+La carte du volontaire comporte obligatoirement les mentions suivantes :
+
+- la période de validité correspondant à la durée prévue de l'engagement ;
+
+- le nom et les prénoms de son titulaire ;
+
+- le logo de l'Agence du service civique ;
+
+- la mention : “ Cette carte est strictement personnelle et non cessible ” ;
+
+- elle comporte également la signature de son titulaire ;
+
+- en cas de rupture de l'engament de service civique ou de service volontaire européen, la carte est remise à l'organisme
+auprès duquel son titulaire effectue sa mission, qui en assure la destruction.
+
+**Nota:**
+
+Conformément à l'article 7 du décret n° 2017-689 du 28 avril 2017, ces dispositions s'appliquent aux contrats conclus à
+compter le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-689 du 28 avril 2017 - art. 1
 
 
 ###### Article R121-48
