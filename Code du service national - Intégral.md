@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-11-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -11063,8 +11063,11 @@ _Cite_:
 ###### Article R*111-1
 
 Tous les Français sont tenus, entre la date à laquelle ils atteignent l'âge de seize ans et la fin du troisième mois suivant,
-de souscrire à la mairie de leur domicile une déclaration mentionnant leur état civil, leurs domicile et résidence, leur
-situation familiale, scolaire, universitaire ou professionnelle, notamment en vue de leur participation à       la journée
+de souscrire à la mairie de leur domicile ou de la commune où est situé l'organisme auprès duquel ils ont fait élection de
+domicile dans les conditions prévues à l'
+article L. 264-1 du code de l'action sociale et des familles
+, une déclaration mentionnant leur état civil, leurs domicile et résidence ou le lieu où ils ont fait élection de domicile,
+leur situation familiale, scolaire, universitaire ou professionnelle, notamment en vue de leur participation à la journée
 défense et citoyenneté et, le cas échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer personnellement
 cette démarche, elle peut l'être par leur représentant légal.
 
@@ -11076,11 +11079,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-929 du 1er août 2011 - art. 1
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 1
 
 _Cité par_:
 
+  - Code du service national - art. R*111-15 (V)
   - Code du service national - art. R*111-6 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L264-1 (M)
 
 
 ###### Article R*111-2
@@ -11131,36 +11139,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°98-1066 du 26 novembre 1998 - art. 1 () JORF 27 novembre 1998
-
-
-###### Article R*111-4
-
-Les Français titulaires de l'un des titres de circulation visés aux articles 2,4 et 5 de la loi n° 69-3 du 3 janvier 1969
-relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni
-résidence fixes sont tenus d'effectuer à la mairie de leur commune de rattachement la déclaration prévue à l'article R. *
-111-1 et de faire connaître tout changement de situation personnelle à cette commune de rattachement ou    à l'organisme
-chargé du service national  dont ils relèvent, jusqu'à l'âge de vingt-cinq ans.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°69-3 du 3 janvier 1969 - art. 2
-  - Loi n°69-3 du 3 janvier 1969 - art. 4
-  - Loi n°69-3 du 3 janvier 1969 - art. 5
-  - Code du service national
-
-_Codifié par_:
-
-  - Loi n°71-424 du 10 juin 1971
-
-_Modifié par_:
-
-  - Décret n°2011-929 du 1er août 2011 - art. 2
-
-_Abrogé par_:
-
-  - Décret n°2017-1522 du 2 novembre 2017 - art. 1
 
 
 ###### Article R*111-5
@@ -11405,8 +11383,9 @@ _Modifié par_:
 
 Jusqu'à l'âge de vingt-cinq ans, les Français qui n'ont pas souscrit la déclaration de recensement dans les conditions fixées
 par les articles R. 111-1 à R. 111-4 peuvent régulariser leur situation, en effectuant la démarche auprès de la mairie de
-leur domicile ou de la commune de rattachement, ou de l'autorité consulaire territorialement compétente. Ils sont
-immédiatement inscrits sur les listes de recensement de la commune ou du consulat.
+leur domicile ou de la commune où est situé l'organisme auprès duquel ils ont fait élection de domicile dans les conditions
+prévues à l'article L. 264-1 du code de l'action sociale et des familles, ou de l'autorité consulaire territorialement
+compétente. Ils sont immédiatement inscrits sur les listes de recensement de la commune ou du consulat. 
 
 L'attestation de recensement définie à l'article R. 111-7 leur est alors remise.
 
@@ -11414,20 +11393,17 @@ L'attestation de recensement définie à l'article R. 111-7 leur est alors remis
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Loi n°71-424 du 10 juin 1971
 
 _Modifié par_:
 
-  - Décret n°2002-446 du 29 mars 2002 - art. 8 () JORF 3 avril 2002
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 1
 
 _Cite_:
 
-  - Code du service national R111-1 à R111-4, R111-7
+  - Code du service national - art. R*111-1 (V)
+  - Code du service national - art. R*111-7
+  - Code de l'action sociale et des familles - art. L264-1
 
 
 ###### Article R*111-16
@@ -11477,27 +11453,23 @@ _Cite_:
 
 ###### Article R*111-17
 
-Les dispositions du présent chapitre sont applicables en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et
-Futuna et à Mayotte sous réserve des dérogations figurant aux articles R. 111-17-2 à R. 111-17-5.
+Les dispositions du présent chapitre sont applicables en Nouvelle-Calédonie, en Polynésie française, et à Wallis-et-Futuna,
+dans leur rédaction issue du décret n° 2017-1522 du 2 novembre 2017, et sous réserve des dérogations figurant aux articles R.
+111-17-2 à R. 111-17-5.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 4 (V)
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Loi n°71-424 du 10 juin 1971
 
 _Modifié par_:
 
-  - Décret n°2002-446 du 29 mars 2002 - art. 10 () JORF 3 avril 2002
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 17
 
 _Cite_:
 
-  - Code du service national R111-17-2 à R111-17-5
+  - Code du service national - art. R*111-17-2 (V)
 
 
 ###### Article R*111-17-1
@@ -16780,43 +16752,28 @@ _Cite_:
 ###### Article R*60
 
 Les demandes de dispense au titre des premier, deuxième et troisième alinéas de l'article L. 32 doivent être déposées au plus
-tard trente jours après la déclaration de recensement à la mairie du domicile des intéressés ou à leur commune de
-rattachement.
+tard trente jours après la déclaration de recensement à la mairie du domicile des intéressés ou de la commune où est situé
+l'organisme auprès duquel ils ont fait élection de domicile dans les conditions prévues à l'article L. 264-1 du code de
+l'action sociale et des familles. 
 
 En cas de fait nouveau survenu après ce délai, elles doivent être présentées au bureau du service national dont relèvent les
-demandeurs.
+demandeurs. 
 
 Ces derniers sont placés en appel différé jusqu'à la prise d'une décision, s'ils sont susceptibles d'être appelés au service
-national actif dans un délai de six mois après la date de dépôt de leur demande.
+national actif dans un délai de six mois après la date de dépôt de leur demande. 
 
 Les demandes présentées par les jeunes gens résidant à l'étranger doivent être adressées, dans les conditions et délais fixés
 ci-dessus, par l'intermédiaire des autorités consulaires françaises, qui les transmettent avec leur avis motivé.
 
-**Nota:**
-
-Décret n° 98-180 du 17 mars 1998 art. 5 : 
-
-Jusqu'au 31 décembre 2002, les dispositions de la partie réglementaire du livre II du code du service national s'appliquent
-aux Français, aux étrangers sans nationalité et à ceux qui bénéficient du droit d'asile, nés avant le 1er janvier 1979.
-
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°72-237 1972-03-29 art. 6
 
 _Modifié par_:
 
-  - Décret n°98-180 du 17 mars 1998 - art. 2 (V) JORF 18 mars 1998
-  - Décret n°98-180 du 17 mars 1998 - art. 3 (V) JORF 18 mars 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-180 du 17 mars 1998 - art. 5 (V)
+  - Décret n°2017-1522 du 2 novembre 2017 - art. 1
 
 _Codifié par_:
 
-  - Décret n°72-806 1972-08-31
+  - Décret n°72-806 du 31 août 1972
 
 _Cité par_:
 
@@ -16824,7 +16781,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du service national - art. L32 (M)
+  - Code du service national - art. L32
+  - Code de l'action sociale et des familles - art. L264-1
 
 
 ###### Article R*61
