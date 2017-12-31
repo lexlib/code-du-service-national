@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2017-11-05
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -12018,7 +12018,7 @@ _Créé par_:
 ###### Article R121-22
 
 Dans le cadre d'un volontariat associatif, l'indemnité brute versée chaque mois, en espèce ou en nature, par la personne
-morale agréée à la personne volontaire est comprise entre 8,07 % et 54,04 % de la rémunération mensuelle afférente à l'indice
+morale agréée à la personne volontaire est comprise entre 8,22 % et 55,04 % de la rémunération mensuelle afférente à l'indice
 brut 244 de la fonction publique prévu par le décret n° 82-1105 du 23 décembre 1982 relatif aux indices de la fonction
 publique. Le montant servi en nature ne peut excéder 50 % du montant total de l'indemnité. Le montant de l'indemnité
 mensuelle versée tient compte du temps de service effectif de la personne volontaire.
@@ -12031,13 +12031,13 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2015-581 du 27 mai 2015 - art. 1
+  - Décret n°2017-1821 du 28 décembre 2017 - art. 1
 
 
 ###### Article R121-23
 
 Dans le cadre de l'engagement de service civique, l'indemnité versée chaque mois pour le compte de l'Agence du service
-civique est égale à 35,45 % de la rémunération mensuelle afférente à l'indice brut 244 de la fonction publique prévu par le
+civique est égale à 36,11 % de la rémunération mensuelle afférente à l'indice brut 244 de la fonction publique prévu par le
 décret du 23 décembre 1982 précité. Les conditions de versement de cette indemnité pour des missions d'engagement de service
 civique effectuées à l'étranger sont fixées par arrêté du ministre chargé de la jeunesse et de la vie associative et du
 ministre chargé du budget.
@@ -12048,14 +12048,14 @@ _Cite_:
 
   - Décret n°82-1105 du 23 décembre 1982
 
-_Créé par_:
-
-  - Décret n°2010-485 du 12 mai 2010 - art. 1
-
 _Cité par_:
 
   - Arrêté du 26 septembre 2011 - art. 1 (V)
   - Arrêté du 26 septembre 2011 - art. 4 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1821 du 28 décembre 2017 - art. 1
 
 
 ###### Article R121-24
@@ -12064,7 +12064,7 @@ L'indemnité mentionnée à l'article R. 121-23 peut être majorée lorsque les 
 rencontrées par la personne volontaire le justifient. Un arrêté des ministres chargés du budget et de la jeunesse fixe les
 critères de versement de cette majoration.
 
-Le montant mensuel de cette majoration est fixé à 8,07 % de la rémunération mensuelle afférente à l'indice brut 244 de la
+Le montant mensuel de cette majoration est fixé à 8,22 % de la rémunération mensuelle afférente à l'indice brut 244 de la
 fonction publique prévu par le décret du 23 décembre 1982 précité.
 
 La majoration est versée mensuellement.
@@ -12075,13 +12075,13 @@ _Cite_:
 
   - Décret n°82-1105 du 23 décembre 1982
 
-_Créé par_:
-
-  - Décret n°2010-485 du 12 mai 2010 - art. 1
-
 _Cité par_:
 
   - Arrêté du 13 septembre 2010 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1821 du 28 décembre 2017 - art. 1
 
 
 ###### Article R121-25
@@ -12971,15 +12971,27 @@ Résultant du  décret n° 2010-485 du 12 mai 2010 </td>
 R. 121-22</td>
       <td align="justify">
 
-Résultant du  décret n° 2015-581 du 27 mai 2015 </td>
+Résultant du décret n° 2017-1821 du 28 décembre 2017</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 121-23 à R. 121-26</td>
+R. 121-23 et R. 121-24</td>
       <td align="justify">
 
-Résultant du  décret n° 2010-485 du 12 mai 2010 </td>
+Résultant du décret n° 2017-1821 du 28 décembre 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 121-25 et R. 121-26
+
+</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-485 du 12 mai 2010
+
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -13043,7 +13055,7 @@ Résultant du  décret n° 2015-581 du 27 mai 2015 </td>
 R. 121-43</td>
       <td align="justify">
 
-Résultant du  décret n° 2010-485 du 12 mai 2010 </td>
+Résultant du décret n° 2010-485 du 12 mai 2010 </td>
     </tr>
     <tr>
       <td align="left">
@@ -13109,7 +13121,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1028 du 10 mai 2017 - art. 1
+  - Décret n°2017-1821 du 28 décembre 2017 - art. 1
 
 _Cité par_:
 
