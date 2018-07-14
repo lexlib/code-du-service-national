@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-07-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -640,14 +640,17 @@ _Modifié par_:
 ###### Article L114-8
 
 Les Français établis hors de France âgés de moins de vingt-cinq ans participent, sous la responsabilité du chef du poste
-diplomatique ou consulaire accrédité, à       la journée défense et citoyenneté aménagée en fonction des contraintes de leur
-pays de résidence.
+diplomatique ou consulaire accrédité, à la journée défense et citoyenneté aménagée en fonction des contraintes de leur pays
+de résidence.
+
+La liste des journées défense et citoyenneté organisées par les postes diplomatiques et consulaires à l'étranger est
+communiquée chaque année aux élus des Français établis hors de France.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-241 du 10 mars 2010 - art. 2
+  - Loi n°2018-607 du 13 juillet 2018 - art. 18
 
 
 ###### Article L114-9
@@ -733,21 +736,24 @@ _Modifié par_:
 ###### Article L115-1
 
 Une période militaire d'initiation ou de perfectionnement à la défense nationale est organisée sur l'initiative du ministre
-chargé de la défense nationale qui en définit les modalités.
+chargé de la défense nationale et, pour la gendarmerie nationale, du ministre de l'intérieur.
 
-La période militaire d'initiation ou de perfectionnement à la défense nationale est accessible aux Français âgés de plus de
-seize ans et de moins de trente ans et ayant l'aptitude reconnue par le service de santé des armées pour suivre le cycle de
-formation correspondant.
+La période militaire d'initiation ou de perfectionnement à la défense nationale est accessible aux Français ayant l'aptitude
+reconnue par le service de santé des armées pour suivre le cycle de formation correspondant.
+
+Un arrêté conjoint du ministre de la défense et du ministre de l'intérieur définit les modalités de la période militaire
+d'initiation ou de perfectionnement prévue au présent article et, notamment, les limites d'âge qui peuvent être imposées aux
+candidats.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°71-424 1971-06-10
+  - Loi n°71-424 du 10 juin 1971
 
 _Modifié par_:
 
-  - Loi n°2006-449 du 18 avril 2006 - art. 25 () JORF 19 avril 2006
+  - Loi n°2018-607 du 13 juillet 2018 - art. 20
 
 _Cité par_:
 
