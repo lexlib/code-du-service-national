@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2018-07-15
+Version Consolidée au 2018-09-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -17939,16 +17939,17 @@ _Cite_:
 
 ###### Article R102
 
-La composition des commissions de réforme du service national est fixée comme suit : 
+La composition des commissions de réforme du service national est fixée comme suit :
 
-Un médecin chef des services ou un médecin en chef, président désigné par le ministre de la défense ; 
+Un médecin chef des services ou un médecin en chef, président désigné par le ministre de la défense ;
 
-Un médecin principal ou un médecin désigné par le directeur régional du service de santé des armées ; 
+Un médecin principal ou un médecin désigné par l'autorité du service de santé des armées responsable de la médecine des
+forces ;
 
-Un représentant de la   direction du service national et de la jeunesse. 
+Un représentant de la direction du service national et de la jeunesse.
 
 Toutefois, s'il s'agit d'une commission instituée auprès de troupes en opérations ou stationnées en dehors de la métropole ou
-des départements et territoires d'outre-mer, le représentant de la   direction du service national et de la jeunesse est
+des départements et territoires d'outre-mer, le représentant de la direction du service national et de la jeunesse est
 remplacé par un officier des corps de troupe désigné par le commandant des troupes.
 
 **Liens relatifs à cet article**
@@ -17959,7 +17960,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2017-818 du 5 mai 2017 - art. 9 (V)
+  - Décret n°2018-568 du 2 juillet 2018 - art. 2
 
 _Codifié par_:
 
