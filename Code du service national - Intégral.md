@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2018-09-03
+Version Consolidée au 2018-11-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -75,13 +75,13 @@ Version Consolidée au 2018-09-03
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*234)](#72)
     - [LIVRE Ier : Obligations du service national. (art. R*111-1 à R*112-20)](#73)
       - [Chapitre Ier : Le recensement. (art. R*111-1 à R*111-18)](#74)
-      - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-2 à R121-53)](#75)
+      - [Chapitre Ier bis : Dispositions relatives au service civique (art. R120-2 à R121-52)](#75)
         - [Section I : L'Agence du service civique (art. R120-2 à R120-11)](#76)
         - [Section II : Les relations entre la personne volontaire et la personne morale agréée (art. D121-21 à R121-20)](#77)
         - [Section III : Indemnité (art. R121-22 à R121-32)](#78)
         - [Section IV : Agrément (art. R121-33 à R121-46)](#79)
         - [Section V : Dispositions diverses (art. R121-47 à R121-50)](#80)
-        - [Section VI : Dispositions relatives à l'outre-mer (art. R121-51 à R121-53)](#81)
+        - [Section VI : Dispositions relatives à l'outre-mer (art. R121-51 à R121-52)](#81)
       - [Chapitre II : La journée défense et citoyenneté (art. R*112-1 à R*112-20)](#82)
         - [Section 1 : Dispositions générales. (art. R*112-1 à R*112-11)](#83)
         - [Section 2 : Règles applicables aux appelés du service national. (art. R*112-12 à R*112-15)](#84)
@@ -12814,7 +12814,7 @@ _Modifié par_:
 ###### Article R121-51
 
 Sont applicables en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et
-antarctiques françaises, sous réserve des adaptations prévues aux articles R. 121-52 et R. 121-53, les dispositions du
+antarctiques françaises, sous réserve des adaptations prévues aux articles R. 121-51-1 à R. 121-52, les dispositions du
 présent chapitre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
 droite du même tableau :
 
@@ -12951,14 +12951,10 @@ Résultant du décret n° 2017-1821 du 28 décembre 2017 </td>
     <tr>
       <td align="left">
 
-R. 121-25 et R. 121-26
-
-</td>
+R. 121-25 et R. 121-26</td>
       <td align="justify">
 
-Résultant du décret n° 2010-485 du 12 mai 2010
-
-</td>
+Résultant du décret n° 2010-485 du 12 mai 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -13088,7 +13084,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1821 du 28 décembre 2017 - art. 1
+  - Décret n°2018-953 du 31 octobre 2018 - art. 24
 
 _Cité par_:
 
@@ -13217,41 +13213,6 @@ _Cite_:
   - Code du service national - art. R121-33
   - Code du service national - art. R121-34 (M)
   - Code du service national - art. R121-51
-
-
-###### Article R121-53
-
-Les articles R. 121-27 à R. 121-32 du présent code sont applicables à Mayotte sous réserve des adaptations suivantes : 
-
-1° Au 2e alinéa de l'article R. 121-27 les mots : “ L. 3262-1 du code du travail ” sont remplacés par les mots : “ L. 147-1
-du code du travail applicable à Mayotte ” ; 
-
-2° A l'avant-dernier alinéa de l'article R. 121-28 les mots : “ R. 3262-4 du code du travail ” sont remplacés par les mots :
-“ R. 147-4 du code du travail applicable à Mayotte ” ; 
-
-3° Au dernier alinéa de l'article R. 121-29 les mots : “ R. 3262-13 du code du travail ” sont remplacés par les mots : “ R.
-147-13 du code du travail applicable à Mayotte ” ; 
-
-4° Au deuxième alinéa de l'article R. 121-32 les mots : “ R. 3262-26 du code du travail ” sont remplacés par les mots : “ R.
-147-26 du code du travail applicable à Mayotte ” ; 
-
-5° Au dernier alinéa de l'article R. 121-32 les mots : “ R. 3262-27 du code du travail ” sont remplacés par les mots : “ R.
-147-27 du code du travail applicable à Mayotte ”.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-1623 du 29 novembre 2016 - art. 2 (V)
-
-_Abrogé par_:
-
-  - Décret n°2018-953 du 31 octobre 2018 - art. 24
-
-_Cite_:
-
-  - Code du service national - art. R121-27
-  - Code du service national - art. R121-32
 
 
 ### Chapitre II : La journée défense et citoyenneté<a id=82></a>
