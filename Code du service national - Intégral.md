@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2018-11-07
+Version Consolidée au 2019-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -1093,43 +1093,48 @@ _Modifié par_:
 ###### Article L120-4
 
 La personne volontaire doit posséder la nationalité française, celle d'un Etat membre de l'Union européenne ou celle d'un
-Etat partie à l'accord sur l'Espace économique européen. 
+Etat partie à l'accord sur l'Espace économique européen.
 
-Peut également souscrire l'un des contrats mentionnés à l'article L. 120-3 : 
+Peut également souscrire l'un des contrats mentionnés à l'article L. 120-3 :
 
 1° L'étranger auquel un titre de séjour a été délivré dans les conditions prévues à l'article L. 311-3 du code de l'entrée et
-du séjour des étrangers et du droit d'asile et qui séjourne en France depuis plus d'un an ; 
+du séjour des étrangers et du droit d'asile et qui séjourne en France depuis plus d'un an ;
 
 2° L'étranger âgé de seize ans révolus qui séjourne en France depuis plus d'un an sous couvert de l'un des titres de séjour
-prévus à l'article L. 313-10, aux 1° à 10° de l'article L. 313-11, aux articles L. 313-20, L. 313-21, L. 314-8 ou L. 314-9
-ainsi qu'aux 2° à 7°, 9° ou 10° de l'article L. 314-11 du même code ; 
+prévus à l'article L. 313-10, aux 1° à 9° de l'article L. 313-11, aux articles L. 313-20, L. 313-21, L. 313-26, L. 314-8 ou
+L. 314-9 ainsi qu'aux 2° à 7°, 9° ou 10° de l'article L. 314-11 du même code ;
 
-3° L'étranger âgé de seize ans révolus détenteur de l'un des titres de séjour prévus aux articles L. 313-7, L. 313-13 et L.
-313-17 ou au 8° de l'article L. 314-11 dudit code. 
+3° L'étranger âgé de seize ans révolus détenteur de l'un des titres de séjour prévus aux articles L. 313-7, L. 313-17 et L.
+313-25 ou aux 8° et 12° de l'article L. 314-11 dudit code.
 
 La souscription d'un des contrats mentionnés à l'article L. 120-3 du présent code par un ressortissant étranger ne peut avoir
-pour effet de prolonger la durée de validité de son titre de séjour. 
+pour effet de prolonger la durée de validité de son titre de séjour.
 
 La condition de durée de résidence mentionnée aux 1° et 2° du présent article ne s'applique pas aux personnes étrangères
 volontaires lorsque des volontaires français sont affectés dans les pays dont ces personnes sont ressortissantes, sous
-réserve des dispositions régissant l'entrée et le séjour des étrangers en France. 
+réserve des dispositions régissant l'entrée et le séjour des étrangers en France.
 
 Une visite médicale préalable à la souscription du contrat est obligatoire.
 
+**Nota:**
+
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er mars 2019.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2017-86 du 27 janvier 2017 - art. 19
 
 _Cité par_:
 
   - Loi n°2017-86 du 27 janvier 2017 - art. 3 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 67
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L311-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
 
 
 ###### Article L120-5
