@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2019-03-01
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -2105,13 +2105,13 @@ _Modifié par_:
 L'engagement de volontariat international en administration est conclu pour une durée de six à vingt-quatre mois et doit être
 accompli auprès d'un service de l'Etat à l'étranger ou d'une personne morale, sous réserve des dispositions de l'article L.
 122-8. Il peut être prorogé une fois sans que sa durée totale excède vingt-quatre mois. Son accomplissement ne peut être
-fractionné.
+fractionné. 
 
 L'engagement de volontariat international en entreprise est conclu pour une durée de six à vingt-quatre mois et doit être
 accompli auprès d'établissements et de représentations à l'étranger d'entreprises françaises ou d'entreprises liées à ces
 dernières par un accord de partenariat ou auprès de collectivités territoriales ou d'organismes étrangers engagés dans une
-coopération avec la France ou une collectivité territoriale française. Le volontaire doit passer au minimum deux cents jours
-par an à l'étranger pendant la durée de son engagement.
+coopération avec la France ou une collectivité territoriale française. Le volontaire doit passer au minimum cent quatre-
+vingt-trois jours par an à l'étranger pendant la durée de son engagement.
 
 **Liens relatifs à cet article**
 
@@ -2130,7 +2130,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-241 du 10 mars 2010 - art. 15
+  - Loi n°2019-486 du 22 mai 2019 - art. 14 (V)
 
 
 ###### Article L122-4
