@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2020-05-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -2324,7 +2324,10 @@ logement. Lorsqu'il est affecté hors du territoire métropolitain, le volontair
 servies sous forme d'une indemnité supplémentaire, exonérée de l'impôt sur le revenu et exclue de l'assiette de la
 contribution sociale généralisée et de la contribution au remboursement de la dette sociale. Le montant de cette indemnité
 supplémentaire est fixé à un taux uniforme, quelles que soient les activités exercées, pour chacune des collectivités et
-chacun des pays ou régions de ces pays ou zones géographiques.
+chacun des pays ou régions de ces pays ou zones géographiques. 
+
+Il est dérogé au taux uniforme mentionné au deuxième alinéa lorsque le statut ou les conditions d'entrée et de séjour du
+volontaire international en entreprise dans l'Etat de séjour l'imposent. Un décret fixe les conditions de cette dérogation.
 
 **Liens relatifs à cet article**
 
@@ -2352,41 +2355,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-241 du 10 mars 2010 - art. 15
-
-
-###### Article L122-12-1
-
-Par dérogation au second alinéa de l'article L. 122-12, l'indemnité supplémentaire pour les volontaires internationaux en
-entreprise peut varier selon la nature des activités exercées.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2008-776 du 4 août 2008 - art. 29
-
-_Cité par_:
-
-  - Décret n°2009-1012 du 25 août 2009 - art. 2
-  - Arrêté du 17 septembre 2009 (V)
-  - Arrêté du 17 septembre 2009 - art. 1 (V)
-  - Arrêté du 16 décembre 2009 - art. 1 (V)
-  - Arrêté du 21 décembre 2010 - art. 1 (V)
-  - Arrêté du 8 février 2012 - art. 1 (V)
-  - Arrêté du 21 décembre 2012 - art. 1 (P)
-  - Arrêté du 10 décembre 2013 - art. 2 (Ab)
-  - Arrêté du 24 décembre 2013 - art. 1 (V)
-  - Arrêté du 8 janvier 2015 - art. 1 (V)
-  - Décret n°2019-749 du 19 juillet 2019 (V)
-
-_Abrogé par_:
-
   - Loi n°2019-486 du 22 mai 2019 - art. 14 (V)
-
-_Cite_:
-
-  - Code du service national - art. L122-12
 
 
 ###### Article L122-13
