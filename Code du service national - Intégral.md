@@ -1,5 +1,5 @@
 # Code du service national  
-Version Consolidée au 2019-12-30
+Version Consolidée au 2020-06-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L159)](#1)
     - [LIVRE Ier (art. L111-1 à L130-5)](#2)
@@ -2138,14 +2138,15 @@ _Modifié par_:
 
 ###### Article L122-4
 
-Au titre de la coopération internationale, les volontaires internationaux participent à l'action de la France dans le monde
-en matière d'action culturelle et d'environnement, de développement technique, scientifique et économique et d'action
-humanitaire. Ils contribuent également à l'action de la France en faveur du développement de la démocratie et des droits de
-l'homme, éléments indissociables d'une politique de paix, et au bon fonctionnement des institutions démocratiques.
+Au titre de la coopération internationale, les volontaires internationaux participent à l'action de la France dans le monde,
+notamment en matière d'aide publique au développement, d'environnement, de développement technique, scientifique et
+économique et d'action humanitaire. Ils contribuent également à l'action de la France en faveur du développement de la
+démocratie et des droits de l'homme, éléments indissociables d'une politique de paix et à la mise en œuvre de la politique de
+la France en matière d'asile. Ils concourent aux missions et au bon fonctionnement des services de l'Etat à l'étranger.
 
 Lorsqu'il est effectué auprès de collectivités territoriales ou d'organismes étrangers engagés dans une coopération avec la
 France ou une collectivité territoriale française, le volontariat international en entreprise doit être accompli sous la
-forme de missions de coopération économique. 
+forme de missions de coopération économique.
 
 Le volontariat international en administration et le volontariat international en entreprise constituent chacun un service
 civique effectué à l'étranger qui obéit aux règles spécifiques définies au présent chapitre.
@@ -2154,7 +2155,7 @@ civique effectué à l'étranger qui obéit aux règles spécifiques définies a
 
 _Modifié par_:
 
-  - Loi n°2010-241 du 10 mars 2010 - art. 15
+  - Loi n°2020-734 du 17 juin 2020 - art. 56
 
 
 ###### Article L122-5
